@@ -1,0 +1,175 @@
+14/11/2017 10:27:01 | SUCCESS | Plan active(planID:p399,Status:active) | By-Test_ott025 | 
+14/11/2017 10:27:01 | SUCCESS | Plan inactive(planID:p844,Status:inactive) | By-Test_ott025 | 
+14/11/2017 10:28:28 | SUCCESS | Add New HomeSettingTag(POP) | By-Test_ott025 | 
+14/11/2017 10:33:57 | SUCCESS | Plan active(planID:p602,Status:active) | By-Test_ott025 | 
+14/11/2017 10:34:10 | SUCCESS | update plan Detail(000000000000001) | By-Test_ott025 | 
+14/11/2017 10:34:23 | SUCCESS | update plan Detail(2022222) | By-Test_ott025 | 
+14/11/2017 10:35:18 | SUCCESS | update plan Detail(2022222) | By-Test_ott025 | 
+14/11/2017 10:37:58 | SUCCESS | update plan Detail(022725555555555) | By-Test_ott025 | 
+14/11/2017 10:45:55 | SUCCESS | update plan Detail(TESTING 1245677) | By-Test_ott025 | 
+14/11/2017 10:48:17 | SUCCESS | update plan Detail(n Amount #) | By-Test_ott025 | 
+14/11/2017 11:07:48 | SUCCESS | Add New Plan (N Amount) | By-Test_ott025 | 
+14/11/2017 11:09:07 | SUCCESS | Plan inactive(planID:p903,Status:inactive) | By-Test_ott025 | 
+14/11/2017 11:09:12 | SUCCESS | Delete Plan (p903) | By-Test_ott025 | delete from plandetail where planID='p903'
+14/11/2017 11:19:12 | SUCCESS | Plan active(planID:p844,Status:active) | By-Test_ott025 | 
+14/11/2017 11:43:35 | SUCCESS | Delete Plan (p366) | By-Test_ott025 | delete from plandetail where planID='p366'
+14/11/2017 12:15:41 | SUCCESS | Home Setting active(HomeID:11,Status:active) | By-Test_ott025 | 
+14/11/2017 12:15:47 | SUCCESS | Home Setting active(HomeID:6,Status:active) | By-Test_ott025 | 
+14/11/2017 12:15:54 | SUCCESS | Home Setting active(HomeID:12,Status:active) | By-Test_ott025 | 
+14/11/2017 12:30:40 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+14/11/2017 12:37:17 | SUCCESS | Home Setting inactive(HomeID:12,Status:inactive) | By-Test_ott025 | 
+14/11/2017 12:37:31 | SUCCESS | Home Setting inactive(HomeID:8,Status:inactive) | By-Test_ott025 | 
+14/11/2017 12:45:23 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+14/11/2017 12:46:31 | SUCCESS | update Slider Detail(,'fggg                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhjjjjjjjjjjjjjjjjjjjjjjjjj\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n@@@@@@@@@@@@@@@@@  ') | By-Test_ott025 | 
+14/11/2017 12:46:31 | SUCCESS | update Slider Detail(,'fggg                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhjjjjjjjjjjjjjjjjjjjjjjjjj\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n@@@@@@@@@@@@@@@@@  ') | By-Test_ott025 | 
+14/11/2017 12:46:31 | SUCCESS | update Slider Detail(,'fggg                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhjjjjjjjjjjjjjjjjjjjjjjjjj\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n@@@@@@@@@@@@@@@@@  ') | By-Test_ott025 | 
+14/11/2017 12:46:31 | SUCCESS | update Slider Detail(,'fggg                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhjjjjjjjjjjjjjjjjjjjjjjjjj\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n@@@@@@@@@@@@@@@@@  ') | By-Test_ott025 | 
+14/11/2017 12:49:17 | SUCCESS | update Slider Detail(0_jxr20m2r,'ggggggggg') | By-Test_ott025 | 
+14/11/2017 14:20:09 | SUCCESS | Home Setting active(HomeID:13,Status:active) | By-Test_ott025 | 
+14/11/2017 14:20:13 | SUCCESS | Delete HomeSettingTag (10) | By-Test_ott025 | delete from home_title_tag where tags_id='10'
+14/11/2017 14:20:38 | SUCCESS | Home Setting active(HomeID:8,Status:active) | By-Test_ott025 | 
+14/11/2017 14:20:59 | SUCCESS | Home Setting active(HomeID:15,Status:active) | By-Test_ott025 | 
+14/11/2017 14:20:59 | SUCCESS | Delete HomeSettingTag (15) | By-Test_ott025 | delete from home_title_tag where tags_id='15'
+14/11/2017 14:20:59 | SUCCESS | Home Setting active(HomeID:15,Status:active) | By-Test_ott025 | 
+14/11/2017 14:20:59 | SUCCESS | Delete HomeSettingTag (15) | By-Test_ott025 | delete from home_title_tag where tags_id='15'
+14/11/2017 14:21:09 | SUCCESS | Home Setting active(HomeID:16,Status:active) | By-Test_ott025 | 
+14/11/2017 14:21:14 | SUCCESS | Home Setting inactive(HomeID:16,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:21:23 | SUCCESS | Home Setting active(HomeID:16,Status:active) | By-Test_ott025 | 
+14/11/2017 14:25:10 | SUCCESS | Home Setting inactive(HomeID:7,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:25:47 | SUCCESS | update Slider Detail(0_z5z2bbzq,';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;') | By-Test_ott025 | 
+14/11/2017 14:26:07 | SUCCESS | update Slider Detail(0_z5z2bbzq,';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;') | By-Test_ott025 | 
+14/11/2017 14:39:07 | SUCCESS | update Slider Detail(,'44444444444444jjjjjjjjjjjjjjjjvvvvvvvvvvvvvvvvvvv') | By-Test_ott025 | 
+14/11/2017 14:39:31 | SUCCESS | update Slider Detail(,'454545445454454545454545454545454445454454545445454545454545454445454545454554') | By-Test_ott025 | 
+14/11/2017 14:41:58 | SUCCESS | Delete slider Image (176) | By-Test_ott025 | delete from slider_image_detail where img_id='176'
+14/11/2017 14:42:05 | SUCCESS | update Slider Detail(,'fggg                      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\njhhhhhhhhhhhhhh\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nhjjjjjjjjjjjjjjjjjjjjjjjjj\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n@@@@@@@@@@@@@@@@@  ') | By-Test_ott025 | 
+14/11/2017 14:42:15 | SUCCESS | update Slider Detail(,'v') | By-Test_ott025 | 
+14/11/2017 14:42:24 | SUCCESS | update Slider Detail(,'++++') | By-Test_ott025 | 
+14/11/2017 14:43:14 | SUCCESS | update Slider Detail(,'kkkkkkk') | By-Test_ott025 | 
+14/11/2017 14:44:31 | SUCCESS | update Slider Detail(0_z5z2bbzq,'rtr4555555555555555555555555555555555555555555555555555555555555566666666666666666666666666666666^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^******************************m                  EEEEEEEEEEEEEEEEEEE') | By-Test_ott025 | 
+14/11/2017 14:45:41 | SUCCESS | update Slider Detail(,'44444444444444jjjjjjjjjjjjjjjjvvvvvvvvvvvvvvvvvvv') | By-Test_ott025 | 
+14/11/2017 14:47:16 | SUCCESS | update Slider Detail(,'aa') | By-Test_ott025 | 
+14/11/2017 14:56:30 | SUCCESS | Slider image inactive(SliderID:168,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:56:34 | SUCCESS | Delete slider Image (168) | By-Test_ott025 | delete from slider_image_detail where img_id='168'
+14/11/2017 14:56:50 | SUCCESS | Slider image inactive(SliderID:164,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:56:53 | SUCCESS | Slider image inactive(SliderID:170,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:56:54 | SUCCESS | Home Setting inactive(HomeID:11,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:56:56 | SUCCESS | Slider image inactive(SliderID:174,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:56:59 | SUCCESS | Delete HomeSettingTag (11) | By-Test_ott025 | delete from home_title_tag where tags_id='11'
+14/11/2017 14:57:01 | SUCCESS | Slider image inactive(SliderID:167,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:57:06 | SUCCESS | Slider image inactive(SliderID:180,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:57:10 | SUCCESS | Delete slider Image (173) | By-Test_ott025 | delete from slider_image_detail where img_id='173'
+14/11/2017 14:57:42 | SUCCESS | update Slider Detail(,'Business requirement') | By-Test_ott025 | 
+14/11/2017 14:58:22 | SUCCESS | update Slider Detail(,'Flower of the day') | By-Test_ott025 | 
+14/11/2017 14:58:31 | SUCCESS | Slider image active(SliderID:164,Status:active) | By-Test_ott025 | 
+14/11/2017 14:58:34 | SUCCESS | Slider image inactive(SliderID:164,Status:inactive) | By-Test_ott025 | 
+14/11/2017 14:58:58 | SUCCESS | update Slider Detail(0_5jdlkth4,'Evening in fort                             ') | By-Test_ott025 | 
+14/11/2017 14:59:06 | SUCCESS | Delete slider Image (171) | By-Test_ott025 | delete from slider_image_detail where img_id='171'
+14/11/2017 14:59:52 | SUCCESS | update Slider Detail(,'Flower of the valley                          ') | By-Test_ott025 | 
+14/11/2017 15:00:13 | SUCCESS | Delete slider Image (174) | By-Test_ott025 | delete from slider_image_detail where img_id='174'
+14/11/2017 15:00:16 | SUCCESS | Delete slider Image (167) | By-Test_ott025 | delete from slider_image_detail where img_id='167'
+14/11/2017 15:00:20 | SUCCESS | Delete slider Image (169) | By-Test_ott025 | delete from slider_image_detail where img_id='169'
+14/11/2017 15:00:25 | SUCCESS | Delete slider Image (179) | By-Test_ott025 | delete from slider_image_detail where img_id='179'
+14/11/2017 15:00:29 | SUCCESS | Delete slider Image (177) | By-Test_ott025 | delete from slider_image_detail where img_id='177'
+14/11/2017 15:00:32 | SUCCESS | Delete slider Image (178) | By-Test_ott025 | delete from slider_image_detail where img_id='178'
+14/11/2017 15:01:40 | SUCCESS | Delete slider Image (166) | By-Test_ott025 | delete from slider_image_detail where img_id='166'
+14/11/2017 15:01:44 | SUCCESS | Delete slider Image (20001) | By-Test_ott025 | delete from slider_image_detail where img_id='20001'
+14/11/2017 15:02:09 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+14/11/2017 15:02:23 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+14/11/2017 15:12:37 | SUCCESS | update HomeSettingTag Detail(14444) | By-Test_ott025 | 
+14/11/2017 15:12:50 | SUCCESS | update HomeSettingTag Detail(14444) | By-Test_ott025 | 
+14/11/2017 16:28:50 | SUCCESS | Home Setting active(HomeID:12,Status:active) | By-Test_ott025 | 
+14/11/2017 16:48:56 | SUCCESS | Delete Video entry(0_jxr20m2r) | By-Test_ott025 | 
+14/11/2017 16:48:57 | SUCCESS | Delete Video entry(0_aw9eywz2) | By-Test_ott025 | 
+14/11/2017 16:48:57 | SUCCESS | Delete Video entry(0_d9aw4333) | By-Test_ott025 | 
+14/11/2017 16:48:58 | SUCCESS | Delete Video entry(0_xywf58rm) | By-Test_ott025 | 
+14/11/2017 16:48:58 | SUCCESS | Delete Video entry(0_m5e9ih90) | By-Test_ott025 | 
+14/11/2017 16:48:59 | SUCCESS | Delete Video entry(0_5jdlkth4) | By-Test_ott025 | 
+14/11/2017 16:49:00 | SUCCESS | Delete Video entry(0_c24k78z3) | By-Test_ott025 | 
+14/11/2017 16:49:00 | SUCCESS | Delete Video entry(0_7grqhr56) | By-Test_ott025 | 
+14/11/2017 16:49:00 | SUCCESS | Delete Video entry(0_y3jq0w5d) | By-Test_ott025 | 
+14/11/2017 16:49:00 | SUCCESS | Delete Video entry(0_z5z2bbzq) | By-Test_ott025 | 
+14/11/2017 16:49:01 | SUCCESS | Delete Video entry(0_eog3fxpf) | By-Test_ott025 | 
+14/11/2017 16:49:20 | SUCCESS | Plan inactive(planID:p988,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:22 | SUCCESS | Plan inactive(planID:p963,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:24 | SUCCESS | Plan inactive(planID:p844,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:26 | SUCCESS | Plan inactive(planID:p836,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:29 | SUCCESS | Plan inactive(planID:p602,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:31 | SUCCESS | Plan inactive(planID:p547,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:33 | SUCCESS | Plan inactive(planID:p441,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:35 | SUCCESS | Plan inactive(planID:p399,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:37 | SUCCESS | Plan inactive(planID:p349,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:49:39 | SUCCESS | Delete Plan (p349) | By-Test_ott025 | delete from plandetail where planID='p349'
+14/11/2017 16:49:41 | SUCCESS | Delete Plan (p399) | By-Test_ott025 | delete from plandetail where planID='p399'
+14/11/2017 16:49:43 | SUCCESS | Delete Plan (p441) | By-Test_ott025 | delete from plandetail where planID='p441'
+14/11/2017 16:49:45 | SUCCESS | Delete Plan (p528) | By-Test_ott025 | delete from plandetail where planID='p528'
+14/11/2017 16:49:46 | SUCCESS | Delete Plan (p547) | By-Test_ott025 | delete from plandetail where planID='p547'
+14/11/2017 16:49:48 | SUCCESS | Delete Plan (p602) | By-Test_ott025 | delete from plandetail where planID='p602'
+14/11/2017 16:49:51 | SUCCESS | Delete Plan (p836) | By-Test_ott025 | delete from plandetail where planID='p836'
+14/11/2017 16:49:53 | SUCCESS | Delete Plan (p844) | By-Test_ott025 | delete from plandetail where planID='p844'
+14/11/2017 16:49:56 | SUCCESS | Delete Plan (p963) | By-Test_ott025 | delete from plandetail where planID='p963'
+14/11/2017 16:49:58 | SUCCESS | Delete Plan (p988) | By-Test_ott025 | delete from plandetail where planID='p988'
+14/11/2017 16:50:08 | SUCCESS | Plan inactive(planID:p077,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:10 | SUCCESS | Plan inactive(planID:p131,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:15 | SUCCESS | Plan inactive(planID:p234,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:17 | SUCCESS | Plan inactive(planID:p256,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:19 | SUCCESS | Plan inactive(planID:p266,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:21 | SUCCESS | Plan inactive(planID:p280,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:23 | SUCCESS | Plan inactive(planID:p298,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:25 | SUCCESS | Plan inactive(planID:p332,Status:inactive) | By-Test_ott025 | 
+14/11/2017 16:50:27 | SUCCESS | Delete Plan (p332) | By-Test_ott025 | delete from plandetail where planID='p332'
+14/11/2017 16:50:29 | SUCCESS | Delete Plan (p298) | By-Test_ott025 | delete from plandetail where planID='p298'
+14/11/2017 16:50:31 | SUCCESS | Delete Plan (p280) | By-Test_ott025 | delete from plandetail where planID='p280'
+14/11/2017 16:50:33 | SUCCESS | Delete Plan (p266) | By-Test_ott025 | delete from plandetail where planID='p266'
+14/11/2017 16:50:35 | SUCCESS | Delete Plan (p256) | By-Test_ott025 | delete from plandetail where planID='p256'
+14/11/2017 16:50:37 | SUCCESS | Delete Plan (p234) | By-Test_ott025 | delete from plandetail where planID='p234'
+14/11/2017 16:50:39 | SUCCESS | Delete Plan (p131) | By-Test_ott025 | delete from plandetail where planID='p131'
+14/11/2017 16:50:42 | SUCCESS | Delete Plan (p077) | By-Test_ott025 | delete from plandetail where planID='p077'
+14/11/2017 16:53:39 | SUCCESS | Save New video(0_jj4fi9go) | By-Test_ott025 | 
+14/11/2017 16:54:39 | SUCCESS | Save New video(0_5tt5n1nx) | By-Test_ott025 | 
+14/11/2017 16:55:43 | SUCCESS | Save New video(0_t6iz4l0j) | By-Test_ott025 | 
+14/11/2017 16:57:19 | SUCCESS | Save New video(0_8mfjmmkv) | By-Test_ott025 | 
+14/11/2017 17:05:39 | SUCCESS | Save New video(0_k76ra66p) | By-Test_ott025 | 
+14/11/2017 17:07:44 | SUCCESS | Save New video(0_46jdssoq) | By-Test_ott025 | 
+14/11/2017 17:17:17 | SUCCESS | Add New Plan (free) | By-varun_ott025 | 
+14/11/2017 17:17:41 | SUCCESS | Add New Plan (silver) | By-varun_ott025 | 
+14/11/2017 17:21:56 | SUCCESS | Add New HomeSettingTag(movies) | By-varun_ott025 | 
+14/11/2017 17:37:28 | SUCCESS | Save New video(0_mobc8bmk) | By-Test_ott025 | 
+14/11/2017 17:40:33 | SUCCESS | Delete slider Image (180) | By-Test_ott025 | delete from slider_image_detail where img_id='180'
+14/11/2017 17:40:36 | SUCCESS | Delete slider Image (170) | By-Test_ott025 | delete from slider_image_detail where img_id='170'
+14/11/2017 17:40:37 | SUCCESS | Delete slider Image (164) | By-Test_ott025 | delete from slider_image_detail where img_id='164'
+14/11/2017 17:40:39 | SUCCESS | Delete slider Image (172) | By-Test_ott025 | delete from slider_image_detail where img_id='172'
+14/11/2017 17:41:09 | SUCCESS | Add New Slider Image(C:\fakepath\banner1.jpg) | By-Test_ott025 | 
+14/11/2017 17:41:32 | SUCCESS | Add New Slider Image(C:\fakepath\banner12.jpg) | By-Test_ott025 | 
+14/11/2017 17:41:59 | SUCCESS | Add New Slider Image(C:\fakepath\banner67.jpg) | By-Test_ott025 | 
+14/11/2017 17:42:25 | SUCCESS | Add New Slider Image(C:\fakepath\banner9.jpg) | By-Test_ott025 | 
+14/11/2017 17:42:28 | SUCCESS | Slider image active(SliderID:181,Status:active) | By-Test_ott025 | 
+14/11/2017 17:42:30 | SUCCESS | Slider image active(SliderID:182,Status:active) | By-Test_ott025 | 
+14/11/2017 17:42:32 | SUCCESS | Slider image active(SliderID:183,Status:active) | By-Test_ott025 | 
+14/11/2017 17:42:34 | SUCCESS | Slider image active(SliderID:184,Status:active) | By-Test_ott025 | 
+14/11/2017 17:42:39 | SUCCESS | Home Setting inactive(HomeID:12,Status:inactive) | By-Test_ott025 | 
+14/11/2017 17:42:41 | SUCCESS | Home Setting inactive(HomeID:6,Status:inactive) | By-Test_ott025 | 
+14/11/2017 17:42:43 | SUCCESS | Home Setting inactive(HomeID:8,Status:inactive) | By-Test_ott025 | 
+14/11/2017 17:42:45 | SUCCESS | Home Setting inactive(HomeID:9,Status:inactive) | By-Test_ott025 | 
+14/11/2017 17:42:47 | SUCCESS | Home Setting inactive(HomeID:13,Status:inactive) | By-Test_ott025 | 
+14/11/2017 17:42:49 | SUCCESS | Home Setting inactive(HomeID:16,Status:inactive) | By-Test_ott025 | 
+14/11/2017 17:42:52 | SUCCESS | Delete HomeSettingTag (12) | By-Test_ott025 | delete from home_title_tag where tags_id='12'
+14/11/2017 17:42:54 | SUCCESS | Delete HomeSettingTag (6) | By-Test_ott025 | delete from home_title_tag where tags_id='6'
+14/11/2017 17:42:56 | SUCCESS | Delete HomeSettingTag (8) | By-Test_ott025 | delete from home_title_tag where tags_id='8'
+14/11/2017 17:42:58 | SUCCESS | Delete HomeSettingTag (7) | By-Test_ott025 | delete from home_title_tag where tags_id='7'
+14/11/2017 17:43:00 | SUCCESS | Delete HomeSettingTag (9) | By-Test_ott025 | delete from home_title_tag where tags_id='9'
+14/11/2017 17:43:02 | SUCCESS | Delete HomeSettingTag (14) | By-Test_ott025 | delete from home_title_tag where tags_id='14'
+14/11/2017 17:43:04 | SUCCESS | Delete HomeSettingTag (13) | By-Test_ott025 | delete from home_title_tag where tags_id='13'
+14/11/2017 17:43:05 | SUCCESS | Delete HomeSettingTag (16) | By-Test_ott025 | delete from home_title_tag where tags_id='16'
+14/11/2017 17:43:08 | SUCCESS | Delete HomeSettingTag (17) | By-Test_ott025 | delete from home_title_tag where tags_id='17'
+14/11/2017 17:43:09 | SUCCESS | Delete HomeSettingTag (18) | By-Test_ott025 | delete from home_title_tag where tags_id='18'
+14/11/2017 17:43:26 | SUCCESS | Add New HomeSettingTag(RIDE IT) | By-Test_ott025 | 
+14/11/2017 17:43:28 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Test_ott025 | 
+14/11/2017 17:43:39 | SUCCESS | Add New HomeSettingTag(NATURE) | By-Test_ott025 | 
+14/11/2017 17:43:41 | SUCCESS | Home Setting active(HomeID:20,Status:active) | By-Test_ott025 | 
+14/11/2017 17:43:53 | SUCCESS | Add New HomeSettingTag(ANIMALS) | By-Test_ott025 | 
+14/11/2017 17:43:57 | SUCCESS | Home Setting active(HomeID:21,Status:active) | By-Test_ott025 | 
+14/11/2017 17:45:29 | SUCCESS | Delete Menu Header (5) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='5'
+14/11/2017 17:45:31 | SUCCESS | Delete Menu Header (12) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='12'
+14/11/2017 17:45:33 | SUCCESS | Delete Menu Header (11) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='11'
+14/11/2017 17:45:34 | SUCCESS | Delete Menu Header (10) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='10'
+14/11/2017 17:45:36 | SUCCESS | Delete Menu Header (9) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='9'

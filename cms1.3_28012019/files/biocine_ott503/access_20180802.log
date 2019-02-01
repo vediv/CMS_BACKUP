@@ -1,0 +1,52 @@
+02/08/2018 04:38:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/08/2018 04:38:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/08/2018 10:09:04 | SUCCESS | subscription code inactive(subscription ID:8,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:07 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='8'
+02/08/2018 10:09:10 | SUCCESS | subscription code inactive(subscription ID:11,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:13 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='11'
+02/08/2018 10:09:18 | SUCCESS | subscription code inactive(subscription ID:9,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:21 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='9'
+02/08/2018 10:09:30 | SUCCESS | subscription code inactive(subscription ID:5,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:33 | SUCCESS | subscription code inactive(subscription ID:4,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:36 | SUCCESS | subscription code inactive(subscription ID:12,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:38 | SUCCESS | subscription code inactive(subscription ID:13,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:40 | SUCCESS | subscription code inactive(subscription ID:6,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:42 | SUCCESS | subscription code inactive(subscription ID:7,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 10:09:45 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='5'
+02/08/2018 10:09:47 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='4'
+02/08/2018 10:09:49 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='12'
+02/08/2018 10:09:54 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='13'
+02/08/2018 10:09:56 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='6'
+02/08/2018 10:09:58 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='7'
+02/08/2018 10:10:08 | SUCCESS | subscription code active(subscription ID:10,Status:active) | By-Biocine_ott503 | 
+02/08/2018 04:40:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/08/2018 10:36:25 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+02/08/2018 10:36:40 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+02/08/2018 10:36:48 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+02/08/2018 10:36:58 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+02/08/2018 10:39:00 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+02/08/2018 10:43:37 | SUCCESS | Add New Subscription Code (N0STMW5NKO) | By-Biocine_ott503 | 
+02/08/2018 10:43:43 | SUCCESS | subscription code active(subscription ID:14,Status:active) | By-Biocine_ott503 | 
+02/08/2018 10:44:10 | SUCCESS | Add New Subscription Code (IB1PI0PHQH) | By-Biocine_ott503 | 
+02/08/2018 10:44:19 | SUCCESS | subscription code active(subscription ID:15,Status:active) | By-Biocine_ott503 | 
+02/08/2018 11:27:12 | SUCCESS | Add New Subscription Code (X87TGDT4T2) | By-Biocine_ott503 | 
+02/08/2018 07:27:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/08/2018 12:57:21 | SUCCESS | subscription code inactive(subscription ID:14,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 12:57:24 | SUCCESS | subscription code inactive(subscription ID:10,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 12:57:27 | SUCCESS | subscription code inactive(subscription ID:15,Status:inactive) | By-Biocine_ott503 | 
+02/08/2018 12:57:30 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='14'
+02/08/2018 12:57:32 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='10'
+02/08/2018 12:57:35 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='15'
+02/08/2018 12:57:38 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='16'
+02/08/2018 12:58:06 | ERROR-SQL | Add New Subscription Code (TEST123456) | By-Biocine_ott503 | insert into subscription_code(name,code,uses_customer,date_start,date_end,status,created_at,planid)
+     values('TEST','TEST123456','0','2018-08-02 12:57:40','2018-09-02 12:57:40','0',NOW(),'p607')
+02/08/2018 12:58:29 | ERROR-SQL | Add New Subscription Code (3LTDZ4ZWJB) | By-Biocine_ott503 | insert into subscription_code(name,code,uses_customer,date_start,date_end,status,created_at,planid)
+     values('TSET','3LTDZ4ZWJB','0','2018-08-02 12:58:19','2018-09-02 12:58:19','0',NOW(),'p939')
+02/08/2018 13:01:10 | SUCCESS | Add New Subscription Code (LDCV442AY6) | By-Biocine_ott503 | 
+02/08/2018 13:01:13 | SUCCESS | subscription code active(subscription ID:1,Status:active) | By-Biocine_ott503 | 
+02/08/2018 08:41:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/08/2018 15:05:12 | SUCCESS | Add New Subscription Code (6XJQE3D237) | By-Biocine_ott503 | 
+02/08/2018 15:05:14 | SUCCESS | subscription code active(subscription ID:2,Status:active) | By-Biocine_ott503 | 
+02/08/2018 15:40:43 | SUCCESS | Add New Subscription Code (507I0AGHIJ) | By-Biocine_ott503 | 
+02/08/2018 15:40:46 | SUCCESS | subscription code active(subscription ID:3,Status:active) | By-Biocine_ott503 | 
+02/08/2018 10:25:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

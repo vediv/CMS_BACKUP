@@ -1,0 +1,26 @@
+20/01/2018 17:52:37 | SUCCESS | Save New video(0_ibfxgim1) | By-Adosphere_ott488 | 
+20/01/2018 17:52:53 | SUCCESS | Create New Category(SHORT FILMS) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '186','184','1','108','SHORT FILMS','MOVIES>SHORT FILMS','184>186','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+20/01/2018 17:54:19 | SUCCESS | Create New Category(ANIMALS) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '187','183','1','108','ANIMALS','ON DEMAND>ANIMALS','183>187','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+20/01/2018 17:54:21 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+20/01/2018 17:54:58 | SUCCESS | Create New Category(ENGLISH) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '188','186','2','108','ENGLISH','MOVIES>SHORT FILMS>ENGLISH','184>186>188','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+20/01/2018 17:56:30 | SUCCESS | Save New video(0_roac2t71) | By-Adosphere_ott488 | 
+20/01/2018 17:56:53 | SUCCESS | Save Thumbnail(0_ibfxgim1) | By-Adosphere_ott488 | 
+20/01/2018 17:57:07 | SUCCESS | Updtate MetaData(0_ibfxgim1) | By-Adosphere_ott488 | update entry set name='Big Buck Bunny.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ibfxgim1/version/100012',longdescription='Watch Short Film Big Buck Bunny.',duration='596',type='1',tag='big, bunny, animation, short film',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_ibfxgim1'
+20/01/2018 17:57:47 | SUCCESS | Add New Slider Image(C:\fakepath\banner1.jpg) | By-Adosphere_ott488 | 
+20/01/2018 17:58:41 | SUCCESS | Create New Category(CUTE ANIMALS) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '189','187','2','108','CUTE ANIMALS','ON DEMAND>ANIMALS>CUTE ANIMALS','183>187>189','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+20/01/2018 17:58:54 | SUCCESS | Bulk Add Category(0_roac2t71,189) | By-Adosphere_ott488 | update entry set category='ON DEMAND>ANIMALS>CUTE ANIMALS', categoryid='189' where entryid='0_roac2t71' 
+20/01/2018 17:59:02 | SUCCESS | update Slider Detail(0_roac2t71,'') | By-Adosphere_ott488 | 
+20/01/2018 17:59:05 | SUCCESS | Slider image active(SliderID:83,Status:active) | By-Adosphere_ott488 | 
+20/01/2018 17:59:30 | SUCCESS | Updtate MetaData(0_ibfxgim1) | By-Adosphere_ott488 | update entry set name='Big Buck Bunny | Animation',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ibfxgim1/version/100012',longdescription='Watch Short Film Big Buck Bunny.',duration='596',type='1',tag='big, bunny, animation, short film',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_ibfxgim1'
+20/01/2018 17:59:48 | SUCCESS | Add New Header Content(ON DEMAND) | By-Adosphere_ott488 | 
+20/01/2018 17:59:52 | SUCCESS | Add New Header Content(MOVIES) | By-Adosphere_ott488 | 
+20/01/2018 17:59:55 | SUCCESS | Add New Header Content(LIVE) | By-Adosphere_ott488 | 
+20/01/2018 18:00:10 | SUCCESS | Add New Header Content(ABOUT US) | By-Adosphere_ott488 | 

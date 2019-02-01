@@ -1,0 +1,2 @@
+14/11/2017 10:55:43 | SUCCESS | Slider image inactive(SliderID:110,Status:inactive) | By-pitaara_ott955 | 
+14/11/2017 10:55:47 | SUCCESS | Delete slider Image (110) | By-pitaara_ott955 | delete from slider_image_detail where img_id='110'

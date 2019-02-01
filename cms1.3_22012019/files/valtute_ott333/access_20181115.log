@@ -1,0 +1,173 @@
+15/11/2018 04:43:12 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+15/11/2018 11:22:50 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+15/11/2018 16:57:41 | SUCCESS | Updtate MetaData(0_3gwoti7l) | By-jeeyaho_ott333 | update entry set name=' Ek Jaam Tohra Naam | Latest Bhojpuri Video Song 2018 (HD) ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_3gwoti7l/version/100032',longdescription='New HD Bhojpuri Song',
+        duration='319',type='1',tag='bhojpuri, love song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:02:42',shortdescription='Ek Jaam Tere Naam New Bhojpuri Song',
+        director='Manish Kumar',producer='smm music',cast='',crew='sm media ',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3gwoti7l'
+15/11/2018 17:00:05 | SUCCESS | Updtate MetaData(0_rlb2ibfx) | By-jeeyaho_ott333 | update entry set name='Uthi Na Murga Bolta | Latest Bhojpuri Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_rlb2ibfx/version/100022',longdescription='New HD Bhojpuri Song',
+        duration='240',type='1',tag='love song, music, movie, bhojpuri',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:05:06',shortdescription='Letest Bhojpuri Song',
+        director='Manish kumar',producer='smm music Pvt Ltd',cast='',crew='sm media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_rlb2ibfx'
+15/11/2018 17:06:20 | SUCCESS | Updtate MetaData(0_orwozy1j) | By-jeeyaho_ott333 | update entry set name='उमरिया बा काचे | UMARIYA BA KACHE | Latest Superhit Bhojpuri Hot Full Video HD 2018 | SMM MUSIC [Full HD 1080p].mp4',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_orwozy1j/version/100022',longdescription='New HD Bhojpuri Song',
+        duration='308',type='1',tag='love, music, movie, bhojpuri',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:11:21',shortdescription='New Bhojpuri Song',
+        director='',producer='Smm music Pvt Ltd',cast='',crew='Sm media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_orwozy1j'
+15/11/2018 17:07:25 | SUCCESS | Updtate MetaData(0_orwozy1j) | By-jeeyaho_ott333 | update entry set name='UMARIYA BA KACHE | Latest Superhit Bhojpuri Hot Full Video HD 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_orwozy1j/version/100022',longdescription='New Superhit Bhojpuri Song',
+        duration='308',type='1',tag='love, music, movie, bhojpuri',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:12:25',shortdescription='New Bhojpuri Song',
+        director='',producer='Smm music Pvt Ltd',cast='',crew='Sm media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_orwozy1j'
+15/11/2018 17:09:31 | SUCCESS | Updtate MetaData(0_lcf8o1s5) | By-jeeyaho_ott333 | update entry set name='Ganpati Bhajan | SMM MUSIC ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lcf8o1s5/version/100022',longdescription='New HD Ganesh Bhajan',
+        duration='316',type='1',tag='bhajan, ganesh ji, music',category='MUSIC>HINDI',categoryid='493',
+        updated_at='2018-11-15 17:14:32',shortdescription='Shri Ganesh Bhajan',
+        director='',producer='Smm music',cast='',crew='Smm Music',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_lcf8o1s5'
+15/11/2018 17:13:00 | SUCCESS | Save Thumbnail(0_3gwoti7l) | By-jeeyaho_ott333 | 
+15/11/2018 17:14:08 | SUCCESS | Save Thumbnail(0_rlb2ibfx) | By-jeeyaho_ott333 | 
+15/11/2018 17:15:02 | SUCCESS | Save Thumbnail(0_orwozy1j) | By-jeeyaho_ott333 | 
+15/11/2018 17:18:19 | SUCCESS | Updtate MetaData(0_t9dvt9u7) | By-jeeyaho_ott333 | update entry set name=' Ruhani In Ankhon Se | Superhit Hindi Love Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t9dvt9u7/version/100022',longdescription='New Hindi Song',
+        duration='288',type='1',tag='new hindi song, love song, music',category='MUSIC>HINDI',categoryid='493',
+        updated_at='2018-11-15 17:23:20',shortdescription='Hindi Love Song 2018',
+        director='',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_t9dvt9u7'
+15/11/2018 17:20:47 | SUCCESS | Updtate MetaData(0_4nca9f1j) | By-jeeyaho_ott333 | update entry set name='Sexy Shila | Latest Superhit Bhojpuri Hot Full Video HD 2018 | SMM MUSIC |',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4nca9f1j/version/100022',longdescription='New Bhojpuri HD Song',
+        duration='400',type='1',tag='music, movie, bhojpuri, love song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:25:48',shortdescription='New Bhojpuri Song',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4nca9f1j'
+15/11/2018 17:22:37 | SUCCESS | Save Thumbnail(0_4nca9f1j) | By-jeeyaho_ott333 | 
+15/11/2018 17:22:53 | SUCCESS | Updtate MetaData(0_4nca9f1j) | By-jeeyaho_ott333 | update entry set name='Sexy Shila | Latest Superhit Bhojpuri Hot Full Video HD 2018 | SMM MUSIC |',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4nca9f1j/version/100032',longdescription='New Bhojpuri HD Song',
+        duration='400',type='1',tag='music, movie, bhojpuri, love song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:27:54',shortdescription='New Bhojpuri Song',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4nca9f1j'
+15/11/2018 17:34:57 | SUCCESS | Updtate MetaData(0_83q0lzps) | By-jeeyaho_ott333 | update entry set name='Saiyaan Sipahi  | Best Video Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_83q0lzps/version/100022',longdescription='Bhojpuri New HD Song',
+        duration='312',type='1',tag='sad bhojpuri song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:39:58',shortdescription='new Bhojpuri Song',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_83q0lzps'
+15/11/2018 17:38:13 | SUCCESS | Updtate MetaData(0_y0cb9kzp) | By-jeeyaho_ott333 | update entry set name='Ruk Ja Tu Jaan  Superhit Bhojpuri Full Video Sad Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_y0cb9kzp/version/100022',longdescription='Bhojpuri New Song, Love Song',
+        duration='259',type='1',tag='bhojpuri new song, love song, bhojpuri, music, movie',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:43:13',shortdescription='Bhojpuri Superhit Sad Song',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_y0cb9kzp'
+15/11/2018 17:40:07 | SUCCESS | Updtate MetaData(0_ngjteik9) | By-jeeyaho_ott333 | update entry set name='Har Veer Ko Salaam | Gaurav Sriwastava || ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ngjteik9/version/100022',longdescription='Bhojpuri HD Song',
+        duration='333',type='1',tag='music, song, love, movie, sad',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 17:45:08',shortdescription='Superhit Bhojpuri Song',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ngjteik9'
+15/11/2018 17:42:29 | SUCCESS | Updtate MetaData(0_he5lcgov) | By-jeeyaho_ott333 | update entry set name='30 Days Ki Love Story | Short Film',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_he5lcgov/version/100022',longdescription='Hindi Short Film',
+        duration='723',type='1',tag='love story, romance, movie, short film, love',category='MOVIES>HINDI',categoryid='444',
+        updated_at='2018-11-15 17:47:30',shortdescription='30 Days KI Superhit Love Story',
+        director='',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_he5lcgov'
+15/11/2018 17:55:07 | SUCCESS | Save Thumbnail(0_w34jw3r4) | By-jeeyaho_ott333 | 
+15/11/2018 17:57:07 | SUCCESS | Updtate MetaData(0_w34jw3r4) | By-jeeyaho_ott333 | update entry set name='Garam Ka Ke Sholder | Superhit Bhojpuri  Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_w34jw3r4/version/100022',longdescription='Bhojpuri HD Song',
+        duration='328',type='1',tag='music, movie, song, bhojpuri, dj song, dj mix',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 18:02:08',shortdescription='Bhojpuri Superhit Song 2018',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_w34jw3r4'
+15/11/2018 17:59:14 | SUCCESS | Updtate MetaData(0_is06b8c3) | By-jeeyaho_ott333 | update entry set name='Bhojpuri Superhit Bhajan | Ankit ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_is06b8c3/version/100022',longdescription='Watch Superhit Bhojpuri bhajan of 2018 by Ankit Tiwari.',
+        duration='325',type='1',tag='bhojpuri, bhajan, 2018, devotional, ankit, tiwari, superhit, music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 18:04:15',shortdescription='New Bhajan 2018',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_is06b8c3'
+15/11/2018 18:00:44 | SUCCESS | Updtate MetaData(0_19nqyhwm) | By-jeeyaho_ott333 | update entry set name='Shri Krishna Bhajan 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_19nqyhwm/version/100022',longdescription='Watch Krishna Superhit Bhojpuri bhajan .',
+        duration='300',type='1',tag='krishna, krishan, gpoal, devotional, bhajan, bhojpuri, superhit',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 18:05:45',shortdescription='Letest Krishna Bhajan',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_19nqyhwm'
+15/11/2018 18:15:26 | SUCCESS | Updtate MetaData(0_52q5hs14) | By-jeeyaho_ott333 | update entry set name='Ganpati Bhajan 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_52q5hs14/version/100022',longdescription='Watch new Ganpati bhajan song video.',
+        duration='316',type='1',tag='ganpati, bhajan, devotional, arti, song, musical, music, peace, ganesh, maurya, bappa',category='MUSIC>HINDI',categoryid='493',
+        updated_at='2018-11-15 18:20:27',shortdescription='',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_52q5hs14'
+15/11/2018 18:18:40 | SUCCESS | Updtate MetaData(0_he5lcgov) | By-jeeyaho_ott333 | update entry set name='30 Days Ki Love Story | Short Film',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_he5lcgov/version/100022',longdescription='Hindi Short Film',
+        duration='723',type='1',tag='love story, romance, movie, short film, love',category='MOVIES>HINDI>SHORT FILMS',categoryid='451',
+        updated_at='2018-11-15 18:23:41',shortdescription='30 Days KI Superhit Love Story',
+        director='',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_he5lcgov'
+15/11/2018 18:25:01 | SUCCESS | Save New video(0_hqmj4qld) | By-jeeyaho_ott333 | 
+15/11/2018 18:26:08 | SUCCESS | Updtate MetaData(0_hqmj4qld) | By-jeeyaho_ott333 | update entry set name='Damru  Bhojpuri Shiv Bhajan 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hqmj4qld/version/0',longdescription='Superhit Shri Shiv Bhajan  ',
+        duration='498',type='1',tag='bhojpuri, bhajan, shiv, 2018',category='MUSIC>HINDI',categoryid='493',
+        updated_at='2018-11-15 18:31:09',shortdescription='',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_hqmj4qld'
+15/11/2018 18:29:06 | SUCCESS | Save New video(0_lpw3sf7x) | By-jeeyaho_ott333 | 
+15/11/2018 18:29:49 | SUCCESS | Updtate MetaData(0_lpw3sf7x) | By-jeeyaho_ott333 | update entry set name='BholeNath DJ Song 2018 | SMM Music ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lpw3sf7x/version/0',longdescription='Superhit Bhonenath Bhajan 2018',
+        duration='0',type='1',tag='music, song, bhojpuri, shiv',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 18:34:50',shortdescription='',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_lpw3sf7x'
+15/11/2018 18:42:46 | SUCCESS | Save New video(0_98cmqkl8) | By-jeeyaho_ott333 | 
+15/11/2018 18:43:39 | SUCCESS | Updtate MetaData(0_98cmqkl8) | By-jeeyaho_ott333 | update entry set name='Asra Pura Di  Bhojpuri Shiv Bhajan ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_98cmqkl8/version/0',longdescription='Superhit Bhojpuri Shiv Bhajan 2018',
+        duration='0',type='1',tag='shiv bhajan, song, bhojpuri',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 18:48:40',shortdescription='',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_98cmqkl8'
+15/11/2018 20:12:08 | SUCCESS | Save New video(0_2mhrkkmt) | By-jeeyaho_ott333 | 
+15/11/2018 20:13:14 | SUCCESS | Updtate MetaData(0_2mhrkkmt) | By-jeeyaho_ott333 | update entry set name='KISMAT 420 Comedy Short Film 2018 HD ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2mhrkkmt/version/0',longdescription='Comedy Short Film',
+        duration='0',type='1',tag='short film, film, movie',category='MOVIES>HINDI>SHORT FILMS',categoryid='451',
+        updated_at='2018-11-15 20:18:15',shortdescription='',
+        director='Viabhav Bist',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2mhrkkmt'
+15/11/2018 20:17:46 | SUCCESS | Save New video(0_8np9712d) | By-jeeyaho_ott333 | 
+15/11/2018 20:18:52 | SUCCESS | Updtate MetaData(0_8np9712d) | By-jeeyaho_ott333 | update entry set name='Please Maan Ja Valentine Day HD Video Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_8np9712d/version/0',longdescription='valentine Special love song ',
+        duration='0',type='1',tag='music, movie, love song, hd song',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-15 20:23:53',shortdescription='love song',
+        director='',producer='smm music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_8np9712d'
+15/11/2018 20:25:12 | SUCCESS | Save New video(0_9vvslng1) | By-jeeyaho_ott333 | 
+15/11/2018 20:26:22 | SUCCESS | Updtate MetaData(0_9vvslng1) | By-jeeyaho_ott333 | update entry set name='ROMANTIC Latest Bollywood Songs 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9vvslng1/version/0',longdescription='Romantic latest bollywood songs',
+        duration='317',type='1',tag='song, music, movie, love, bollywood',category='MUSIC>HINDI',categoryid='493',
+        updated_at='2018-11-15 20:31:23',shortdescription='Romantic',
+        director='',producer='Smm Music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9vvslng1'
+15/11/2018 20:28:57 | SUCCESS | Save New video(0_hakwg0q6) | By-jeeyaho_ott333 | 
+15/11/2018 20:29:45 | SUCCESS | Updtate MetaData(0_hakwg0q6) | By-jeeyaho_ott333 | update entry set name='Devghar Jali Tempu Se Bolbum Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hakwg0q6/version/0',longdescription='Devghar jali tempu se  bolbum song',
+        duration='0',type='1',tag='bhajan, shiv, shiv chalisa, song, music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 20:34:46',shortdescription='shiv bhajan',
+        director='',producer='smm music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_hakwg0q6'
+15/11/2018 20:32:34 | SUCCESS | Save New video(0_cjj84o5m) | By-jeeyaho_ott333 | 
+15/11/2018 20:36:57 | SUCCESS | Save New video(0_bej07k51) | By-jeeyaho_ott333 | 
+15/11/2018 20:38:06 | SUCCESS | Updtate MetaData(0_bej07k51) | By-jeeyaho_ott333 | update entry set name='Dj Pe Tanik Dola Ho SMM Music ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_bej07k51/version/0',longdescription='Latest Shiv kavad song 2018',
+        duration='0',type='1',tag='dj, smm music, shiv bhajan, music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 20:43:07',shortdescription='Shiv Kavad Song',
+        director='',producer='Smm Music pvt ltd',cast='',crew='Smm music',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_bej07k51'
+15/11/2018 20:53:51 | SUCCESS | Save New video(0_mytralw3) | By-jeeyaho_ott333 | 
+15/11/2018 20:55:19 | SUCCESS | Updtate MetaData(0_mytralw3) | By-jeeyaho_ott333 | update entry set name='Bolbum Bolat Chale Kawariya Video Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_mytralw3/version/100002',longdescription='2018 shiv kavad song',
+        duration='337',type='1',tag='shiv, bhajan, music, dj, songs',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-15 21:00:20',shortdescription='shiv Bhajan 2018',
+        director='',producer='Smm Music',cast='',crew='sm media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_mytralw3'

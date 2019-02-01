@@ -1,0 +1,7 @@
+07/03/2018 10:40:56 | SUCCESS | Save New video(0_ukbhe8l8) | By-Pitara_ott811 | 
+07/03/2018 10:42:18 | SUCCESS | Updtate MetaData(0_ukbhe8l8) | By-Pitara_ott811 | insert into entry(entryid,name,thumbnail,longdescription,duration,type,tag,
+        category,categoryid,status,contentpartnerid,countrycode,startdate,
+        enddate,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,pgrating,video_status)
+        values('0_ukbhe8l8','SampleVideo_1280x720_5mb.mp4','http://ott02.planetcast.in/p/145/sp/14500/thumbnail/entry_id/0_ukbhe8l8/version/100002','','30','1','','','','2','',
+        'null','','','2018-03-07','','','',
+         '','','','','','inactive')

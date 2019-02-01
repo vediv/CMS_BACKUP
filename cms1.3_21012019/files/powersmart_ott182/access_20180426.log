@@ -1,0 +1,98 @@
+26/04/2018 04:46:02 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+26/04/2018 10:20:50 | SUCCESS | Updtate MetaData(0_ozteglhw) | By-PowerSmart_ott182 | update entry set name='Morning start with some crispy News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_ozteglhw/version/100022',longdescription='Newspaper is the medium to grab news related to state,nation and international.',
+        duration='15',type='1',tag='news, morning, newspaper, crispy, reading, raed, national, state, international, report, reporter, test, latest',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ozteglhw'
+26/04/2018 10:22:19 | SUCCESS | Updtate MetaData(0_dqe9dhgt) | By-PowerSmart_ott182 | update entry set name='Catch live - latest news on devices',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_dqe9dhgt/version/100012',longdescription='You can catch news live feed, latest updates on your devices while you are traveling.',
+        duration='8',type='1',tag='android, ios, application, mobile, device, news, reading, report, reporting, reporter, latest, updates',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dqe9dhgt'
+26/04/2018 10:23:35 | SUCCESS | Updtate MetaData(0_vnvh8q6f) | By-PowerSmart_ott182 | update entry set name='Brisk Skipping is a healthy start',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_vnvh8q6f/version/100012',longdescription='Those who are health conscious will always keep in mind about a healthy start of a day through skipping,\r\njogging,weight lighting and so.',
+        duration='9',type='1',tag='skipping, rope, health, healthy, workout, diet, news, feed, updates, report, reporting, reporter',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vnvh8q6f'
+26/04/2018 10:24:42 | SUCCESS | Updtate MetaData(0_vnvh8q6f) | By-PowerSmart_ott182 | update entry set name='Brisk Skipping is a healthy start',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_vnvh8q6f/version/100012',longdescription='Those who are health conscious will always keep in mind about a healthy start of a day through skipping,\r\njogging,weight lighting and so.',
+        duration='9',type='1',tag='skipping, rope, health, healthy, workout, diet, news, feed, updates, report, reporting, reporter',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vnvh8q6f'
+26/04/2018 10:34:55 | SUCCESS | Updtate MetaData(0_ozteglhw) | By-PowerSmart_ott182 | update entry set name='Morning start with some crispy News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_ozteglhw/version/100022',longdescription='Newspaper is the medium to grab news related to state,nation and international.',
+        duration='15',type='1',tag='news, morning, newspaper, crispy, reading, raed, national, state, international, report, reporter, test, latest',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ozteglhw'
+26/04/2018 10:42:37 | SUCCESS | Save Thumbnail(0_5d2xpn2w) | By-PowerSmart_ott182 | 
+26/04/2018 10:43:59 | SUCCESS | Save Thumbnail(0_atst29sl) | By-PowerSmart_ott182 | 
+26/04/2018 10:44:51 | SUCCESS | Save Thumbnail(0_dnkd90ya) | By-PowerSmart_ott182 | 
+26/04/2018 10:55:32 | SUCCESS | Save Thumbnail(0_3zsosndm) | By-PowerSmart_ott182 | 
+26/04/2018 11:07:25 | SUCCESS | Updtate MetaData(0_3zsosndm) | By-PowerSmart_ott182 | update entry set name='News all around the world',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_3zsosndm/version/100022',longdescription='Watch all latest global news feed related to nation,state,international,technology,automobile,lifestyle and all news buzz.',
+        duration='10',type='1',tag='globe, global, news, feed, updates, report, reporting, reporter, latest, world, international, tv, national, state, ts2018',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3zsosndm'
+26/04/2018 05:57:19 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+26/04/2018 11:28:38 | SUCCESS | Updtate MetaData(0_uuo23bu9) | By-PowerSmart_ott182 | update entry set name='Fireworks | Celebration | Light',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_uuo23bu9/version/100012',longdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        duration='28',type='1',tag='firewrk, cracker, light, brightness, celebration, celebrate, news, feed, buzz, report, ts2018',category='WORLD,INDIA,SPORTS,ENTERTAINMENT,LIFESTYLE,HEALTH,SCIENCE',categoryid='324,325,326,328,330,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uuo23bu9'
+26/04/2018 12:07:39 | SUCCESS | Updtate MetaData(0_rf19oiyo) | By-PowerSmart_ott182 | update entry set name='Automobile - Latest Car Model',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_rf19oiyo/version/100012',longdescription='Watch car model with new features and latest designing .\r\nMechanical designers are building their new features and technology. ',
+        duration='7',type='1',tag='auto, automobile, latest, car, model, racing, race, four, wheel, wheeler, vehicle',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_rf19oiyo'
+26/04/2018 12:09:03 | SUCCESS | Updtate MetaData(0_5d2xpn2w) | By-PowerSmart_ott182 | update entry set name='News writing speed',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5d2xpn2w/version/100022',longdescription='Watch the Typing speed of a news writer.',
+        duration='8',type='1',tag='news, update, keyboard, writing, speed, typing, writer, feed, report, reporting, reporter, news presenter',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5d2xpn2w'
+26/04/2018 12:10:57 | SUCCESS | Updtate MetaData(0_dqe9dhgt) | By-PowerSmart_ott182 | update entry set name='Catch live - latest news on devices',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_dqe9dhgt/version/100012',longdescription='You can catch news live feed, latest updates on your devices while you are traveling.',
+        duration='8',type='1',tag='android, ios, application, mobile, device, news, reading, report, reporting, reporter, latest, updates, test, live feed, live, latest trend, digital, ipad, tablet',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dqe9dhgt'
+26/04/2018 12:11:40 | SUCCESS | Updtate MetaData(0_dqe9dhgt) | By-PowerSmart_ott182 | update entry set name='Catch live - latest news on devices',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_dqe9dhgt/version/100012',longdescription='You can catch news live feed, latest updates on your devices while you are traveling.',
+        duration='8',type='1',tag='android, ios, application, mobile, device, news, reading, report, reporting, reporter, latest, updates, test, live feed, live, latest trend, digital, ipad, tablet, catch up',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dqe9dhgt'
+26/04/2018 11:17:10 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+26/04/2018 16:47:27 | SUCCESS | Updtate MetaData(0_uuo23bu9) | By-PowerSmart_ott182 | update entry set name='Fireworks | Celebration | Light',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_uuo23bu9/version/100012',longdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        duration='28',type='1',tag='firewrk, cracker, light, brightness, celebration, celebrate, news, feed, buzz, report, ts2018',category='WORLD,INDIA,SPORTS,ENTERTAINMENT,LIFESTYLE,HEALTH,SCIENCE',categoryid='324,325,326,328,330,332,333',
+        updated_at='2018-04-26 04:49:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uuo23bu9'
+26/04/2018 16:58:09 | SUCCESS | Updtate MetaData(0_uuo23bu9) | By-PowerSmart_ott182 | update entry set name='Fireworks | Celebration | Light',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_uuo23bu9/version/100012',longdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        duration='28',type='1',tag='firewrk, cracker, light, brightness, celebration, celebrate, news, feed, buzz, report, ts2018',category='WORLD,INDIA,SPORTS,ENTERTAINMENT,LIFESTYLE,HEALTH,SCIENCE',categoryid='324,325,326,328,330,332,333',
+        updated_at='2018-04-26 17:00:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uuo23bu9'
+26/04/2018 17:37:18 | SUCCESS | Save Thumbnail(0_atst29sl) | By-PowerSmart_ott182 | 
+26/04/2018 17:38:08 | SUCCESS | Save Thumbnail(0_dnkd90ya) | By-PowerSmart_ott182 | 
+26/04/2018 17:41:34 | SUCCESS | Save Thumbnail(0_3zsosndm) | By-PowerSmart_ott182 | 
+26/04/2018 17:43:21 | SUCCESS | Save Thumbnail(0_atst29sl) | By-PowerSmart_ott182 | 
+26/04/2018 17:44:01 | SUCCESS | Save Thumbnail(0_dnkd90ya) | By-PowerSmart_ott182 | 
+26/04/2018 17:45:43 | SUCCESS | Save Thumbnail(0_5d2xpn2w) | By-PowerSmart_ott182 | 
+26/04/2018 17:46:54 | SUCCESS | Save Thumbnail(0_ozteglhw) | By-PowerSmart_ott182 | 
+26/04/2018 17:48:42 | SUCCESS | Updtate MetaData(0_3zsosndm) | By-PowerSmart_ott182 | update entry set name='News all around the world',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_3zsosndm/version/100042',longdescription='Watch all latest global news feed related to nation,state,international,technology,automobile,lifestyle and all news buzz.',
+        duration='10',type='1',tag='globe, global, news, feed, updates, report, reporting, reporter, latest, world, international, tv, national, state, ts2018',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-26 17:50:51',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3zsosndm'

@@ -1,0 +1,34 @@
+05/07/2018 04:33:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 10:07:21 | SUCCESS | Update New Plan Price(p775) | By-Biocine_ott503 | 
+05/07/2018 04:47:51 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+05/07/2018 04:53:20 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+05/07/2018 04:54:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 05:04:12 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+05/07/2018 05:13:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 05:14:05 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+05/07/2018 05:22:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 05:47:51 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+05/07/2018 06:20:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 11:51:01 | SUCCESS | update Content Partner Detail(Adosphere) | By-Biocine_ott503 | 
+05/07/2018 11:53:01 | SUCCESS | update Content Partner Detail(Adosphere) | By-Biocine_ott503 | 
+05/07/2018 11:55:00 | SUCCESS | update Content Partner Detail(biocienene) | By-Biocine_ott503 | 
+05/07/2018 12:02:38 | SUCCESS | update Content Partner Detail(Adosphere) | By-Biocine_ott503 | 
+05/07/2018 12:16:02 | SUCCESS | update Content Partner Detail(Adosphere) | By-Biocine_ott503 | 
+05/07/2018 07:35:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 13:06:18 | SUCCESS | update Content Partner Detail(Biocine) | By-Biocine_ott503 | 
+05/07/2018 13:09:47 | SUCCESS | update Content Partner Detail(Adosphere) | By-Biocine_ott503 | 
+05/07/2018 13:10:29 | SUCCESS | update Content Partner Detail(abcd ) | By-Biocine_ott503 | 
+05/07/2018 10:11:54 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+05/07/2018 10:15:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 15:46:53 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+05/07/2018 11:26:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 11:27:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 16:57:29 | SUCCESS | update plan Detail(Yearly) | By-Biocine_ott503 | 
+05/07/2018 11:40:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 17:10:50 | SUCCESS | Plan inactive(planID:p950,Status:inactive) | By-Biocine_ott503 | 
+05/07/2018 17:11:36 | SUCCESS | update plan Detail(Half Yearly) | By-Biocine_ott503 | 
+05/07/2018 17:11:58 | SUCCESS | Delete Plan (p775) | By-Biocine_ott503 | delete from plandetail where planID='p775'
+05/07/2018 17:11:59 | SUCCESS | Delete Plan (p950) | By-Biocine_ott503 | delete from plandetail where planID='p950'
+05/07/2018 17:12:00 | SUCCESS | Delete Plan (p950) | By-Biocine_ott503 | delete from plandetail where planID='p950'
+05/07/2018 12:04:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/07/2018 12:06:34 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

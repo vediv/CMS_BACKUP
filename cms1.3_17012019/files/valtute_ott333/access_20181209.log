@@ -1,0 +1,191 @@
+09/12/2018 00:03:08 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+09/12/2018 06:54:08 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+09/12/2018 13:59:39 | SUCCESS | Add New Slider Image(C:\fakepath\2000@1ooo kavya sammelan.jpeg) | By-jeeyaho_ott333 | 
+09/12/2018 13:59:48 | SUCCESS | Slider image inactive(SliderID:3,Status:inactive) | By-jeeyaho_ott333 | 
+09/12/2018 13:59:52 | SUCCESS | Slider image active(SliderID:20,Status:active) | By-jeeyaho_ott333 | 
+09/12/2018 14:00:23 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+09/12/2018 08:41:03 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+09/12/2018 13:44:50 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+09/12/2018 13:46:33 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+09/12/2018 19:20:36 | SUCCESS | Save New video(0_hd8zth0f) | By-jeeyaho_ott333 | 
+09/12/2018 19:22:45 | SUCCESS | Save New video(0_ny5n4u8z) | By-jeeyaho_ott333 | 
+09/12/2018 19:23:14 | SUCCESS | Updtate MetaData(0_hd8zth0f) | By-jeeyaho_ott333 | update entry set name='Dadri mela part 1',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hd8zth0f/version/100022',longdescription='Dadri mela part 1',
+        duration='48',type='1',tag='dadri mela, jeeya',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 19:28:35',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hd8zth0f'
+09/12/2018 19:24:18 | SUCCESS | Updtate MetaData(0_hd8zth0f) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 1 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hd8zth0f/version/100022',longdescription='Dadri mela part 1',
+        duration='48',type='1',tag='dadri mela, jeeya',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 19:29:38',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_hd8zth0f'
+09/12/2018 19:28:46 | SUCCESS | Updtate MetaData(0_ny5n4u8z) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 2 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ny5n4u8z/version/100022',longdescription='Dadri mela part 2',
+        duration='70',type='1',tag='dadri mela, jeeyaho, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 19:34:06',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ny5n4u8z'
+09/12/2018 19:33:00 | SUCCESS | Save New video(0_f41qu7kq) | By-jeeyaho_ott333 | 
+09/12/2018 19:35:58 | SUCCESS | Updtate MetaData(0_f41qu7kq) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 3 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_f41qu7kq/version/100022',longdescription='Dadri Mela Part 3 Live',
+        duration='24',type='1',tag='dadri mela, jeeyaho, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 19:41:19',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_f41qu7kq'
+09/12/2018 20:09:41 | SUCCESS | Save New video(0_wuu3bloz) | By-jeeyaho_ott333 | 
+09/12/2018 20:16:29 | SUCCESS | Save New video(0_6nd1dqeb) | By-jeeyaho_ott333 | 
+09/12/2018 20:17:23 | SUCCESS | Updtate MetaData(0_wuu3bloz) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 4',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wuu3bloz/version/100022',longdescription='Dadri Mela Part 4',
+        duration='97',type='1',tag='dadri mela, jeeyaho, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 20:22:43',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wuu3bloz'
+09/12/2018 20:19:50 | SUCCESS | Updtate MetaData(0_wuu3bloz) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 4 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wuu3bloz/version/100022',longdescription='Dadri Mela Part 4',
+        duration='97',type='1',tag='dadri mela, jeeyaho, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 20:25:11',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wuu3bloz'
+09/12/2018 20:20:24 | SUCCESS | Updtate MetaData(0_6nd1dqeb) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 5 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6nd1dqeb/version/100022',longdescription='Dadri Mela Part 5',
+        duration='65',type='1',tag='jeeyaho, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 20:25:45',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6nd1dqeb'
+09/12/2018 21:12:10 | SUCCESS | Save New video(0_bp5caq0k) | By-jeeyaho_ott333 | 
+09/12/2018 21:14:14 | SUCCESS | Save New video(0_389k6q0r) | By-jeeyaho_ott333 | 
+09/12/2018 21:14:48 | SUCCESS | Updtate MetaData(0_bp5caq0k) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 6 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_bp5caq0k/version/100022',longdescription='Dadri Mela Part 6',
+        duration='49',type='1',tag='dadri mela, kumar visvas, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 21:20:09',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_bp5caq0k'
+09/12/2018 21:18:55 | SUCCESS | Updtate MetaData(0_389k6q0r) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 7 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_389k6q0r/version/100022',longdescription='Dadri Mela Part 7 Live',
+        duration='52',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 21:24:15',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_389k6q0r'
+09/12/2018 21:43:33 | SUCCESS | Save New video(0_1bnbvkv6) | By-jeeyaho_ott333 | 
+09/12/2018 21:48:14 | SUCCESS | Save New video(0_jqd23h1v) | By-jeeyaho_ott333 | 
+09/12/2018 21:48:49 | SUCCESS | Updtate MetaData(0_1bnbvkv6) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 8 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_1bnbvkv6/version/100022',longdescription='Dadri Mela Part 8 Live',
+        duration='52',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 21:54:10',shortdescription='Dadri Mela Part 8 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1bnbvkv6'
+09/12/2018 21:53:33 | SUCCESS | Updtate MetaData(0_jqd23h1v) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 9 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jqd23h1v/version/100022',longdescription='Dadri Mela Part 9 Live',
+        duration='47',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 21:58:53',shortdescription='Dadri Mela Part 9 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jqd23h1v'
+09/12/2018 21:57:06 | SUCCESS | Save New video(0_fnut2bnb) | By-jeeyaho_ott333 | 
+09/12/2018 22:01:27 | SUCCESS | Save New video(0_chmv6bde) | By-jeeyaho_ott333 | 
+09/12/2018 22:02:01 | SUCCESS | Updtate MetaData(0_fnut2bnb) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 10 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_fnut2bnb/version/100022',longdescription='Dadri Mela Part 10 Live',
+        duration='34',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 22:07:22',shortdescription='Dadri Mela Part 10 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fnut2bnb'
+09/12/2018 22:05:50 | SUCCESS | Updtate MetaData(0_chmv6bde) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 11 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_chmv6bde/version/100022',longdescription='Dadri Mela Part 11 Live',
+        duration='82',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 22:11:10',shortdescription='Dadri Mela Part 11 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_chmv6bde'
+09/12/2018 22:09:50 | SUCCESS | Save New video(0_5u92a3vq) | By-jeeyaho_ott333 | 
+09/12/2018 22:14:05 | SUCCESS | Updtate MetaData(0_5u92a3vq) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 12 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5u92a3vq/version/100022',longdescription='Dadri Mela Part 12 Live',
+        duration='59',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 22:19:26',shortdescription='Dadri Mela Part 12 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5u92a3vq'
+09/12/2018 22:27:00 | SUCCESS | Save New video(0_dabslpc0) | By-jeeyaho_ott333 | 
+09/12/2018 22:34:41 | SUCCESS | Save New video(0_y0b0fpmg) | By-jeeyaho_ott333 | 
+09/12/2018 22:36:24 | SUCCESS | Updtate MetaData(0_dabslpc0) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 13 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_dabslpc0/version/100022',longdescription='Dadri Mela Part 13 Live',
+        duration='59',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 22:41:45',shortdescription='Dadri Mela Part 13 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dabslpc0'
+09/12/2018 22:37:04 | SUCCESS | Updtate MetaData(0_y0b0fpmg) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 14 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_y0b0fpmg/version/100022',longdescription='Dadri Mela Part 14 Live',
+        duration='34',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 22:42:24',shortdescription='Dadri Mela Part 14 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_y0b0fpmg'
+09/12/2018 22:39:23 | SUCCESS | Save New video(0_6bqi951z) | By-jeeyaho_ott333 | 
+09/12/2018 22:44:22 | SUCCESS | Updtate MetaData(0_6bqi951z) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 15 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6bqi951z/version/100022',longdescription='Dadri Mela Part 15 Live',
+        duration='18',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 22:49:43',shortdescription='Dadri Mela Part 15 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6bqi951z'
+09/12/2018 22:51:44 | SUCCESS | Save New video(0_4nvda2ua) | By-jeeyaho_ott333 | 
+09/12/2018 22:58:13 | SUCCESS | Save New video(0_9ub5w20s) | By-jeeyaho_ott333 | 
+09/12/2018 22:59:01 | SUCCESS | Updtate MetaData(0_4nvda2ua) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 16 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4nvda2ua/version/100022',longdescription='Dadri Mela Part 16 Live',
+        duration='84',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 23:04:21',shortdescription='Dadri Mela Part 16 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4nvda2ua'
+09/12/2018 23:01:54 | SUCCESS | Updtate MetaData(0_9ub5w20s) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 17 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9ub5w20s/version/100022',longdescription='Dadri Mela Part 17 Live',
+        duration='38',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 23:07:15',shortdescription='Dadri Mela Part 17 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_9ub5w20s'
+09/12/2018 23:08:57 | SUCCESS | Save New video(0_thhuwy4m) | By-jeeyaho_ott333 | 
+09/12/2018 23:15:43 | SUCCESS | Updtate MetaData(0_thhuwy4m) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 18 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_thhuwy4m/version/100022',longdescription='Dadri Mela Part 18 Live',
+        duration='61',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 23:21:03',shortdescription='Dadri Mela Part 18 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_thhuwy4m'
+09/12/2018 23:25:23 | SUCCESS | Save New video(0_1gciady5) | By-jeeyaho_ott333 | 
+09/12/2018 23:27:08 | SUCCESS | Save New video(0_k0hzob5f) | By-jeeyaho_ott333 | 
+09/12/2018 23:32:54 | SUCCESS | Updtate MetaData(0_1gciady5) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 19 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_1gciady5/version/100022',longdescription='Dadri Mela Part 19 Live',
+        duration='81',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 23:38:15',shortdescription='Dadri Mela Part 19 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1gciady5'
+09/12/2018 23:33:33 | SUCCESS | Updtate MetaData(0_k0hzob5f) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 20 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_k0hzob5f/version/100022',longdescription='Dadri Mela Part 20 Live',
+        duration='58',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 23:38:53',shortdescription='Dadri Mela Part 20 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_k0hzob5f'
+09/12/2018 23:36:11 | SUCCESS | Save New video(0_ssoxbsjc) | By-jeeyaho_ott333 | 
+09/12/2018 23:38:06 | SUCCESS | Save New video(0_ug777rgo) | By-jeeyaho_ott333 | 
+09/12/2018 23:40:41 | SUCCESS | Save New video(0_7zctstsg) | By-jeeyaho_ott333 | 
+09/12/2018 23:41:15 | SUCCESS | Updtate MetaData(0_ssoxbsjc) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 21 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ssoxbsjc/version/100022',longdescription='Dadri Mela Part 21 Live',
+        duration='75',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-09 23:46:35',shortdescription='Dadri Mela Part 21 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ssoxbsjc'
+09/12/2018 23:50:16 | SUCCESS | Save New video(0_bm08m4zh) | By-jeeyaho_ott333 | 
+09/12/2018 23:52:10 | SUCCESS | Save New video(0_wlivaprb) | By-jeeyaho_ott333 | 
+09/12/2018 23:57:55 | SUCCESS | Save New video(0_vjsn6eyo) | By-jeeyaho_ott333 | 
+09/12/2018 23:58:27 | SUCCESS | Updtate MetaData(0_ug777rgo) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 22 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ug777rgo/version/100022',longdescription='Dadri Mela Part 22 Live',
+        duration='67',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:03:48',shortdescription='Dadri Mela Part 22 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ug777rgo'
+09/12/2018 23:59:01 | SUCCESS | Updtate MetaData(0_7zctstsg) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 23 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7zctstsg/version/100022',longdescription='Dadri Mela Part 23 Live',
+        duration='91',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:04:22',shortdescription='Dadri Mela Part 23 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7zctstsg'
+09/12/2018 23:59:36 | SUCCESS | Updtate MetaData(0_bm08m4zh) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 24 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_bm08m4zh/version/100022',longdescription='Dadri Mela Part 24 Live',
+        duration='71',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:04:57',shortdescription='Dadri Mela Part 24 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_bm08m4zh'

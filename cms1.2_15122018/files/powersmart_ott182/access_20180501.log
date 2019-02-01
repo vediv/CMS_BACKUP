@@ -1,0 +1,64 @@
+01/05/2018 05:08:09 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 05:23:24 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 11:30:05 | SUCCESS | Updtate MetaData(0_5d2xpn2w) | By-PowerSmart_ott182 | update entry set name='News writing speed',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5d2xpn2w/version/100032',longdescription='Watch the Typing speed of a news writer.\r\nWhere one has its duty to display news on Tv or digital world or in newspaper. The person have to keep in mind about the typing speed. The typing speed must be fast to complete and serve crispy, latest news to their viewers.\r\nThe audience always stay intact with you at the crucial time or the Breaking news /prime time to see and get update regarding every single minute of the breaking news for particular.\r\nNews writing and maintain is an art to attract and hold viewers.',
+        duration='8',type='1',tag='news, update, keyboard, writing, speed, typing, writer, feed, report, reporting, reporter, news presenter',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-05-01 11:32:18',shortdescription='Watch the Typing speed of a news writer. Where one has its duty to display news on Tv or digital world or in newspaper.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_5d2xpn2w'
+01/05/2018 11:37:28 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+01/05/2018 11:40:12 | SUCCESS | Create New Category(health) | By-PowerSmart_ott182 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '338','332','1','111','health','HEALTH>health','332>338','0','0','','',NOW(),Now(),'107',ifnull(max(priority),0)+1,'0' from categories
+01/05/2018 11:46:14 | SUCCESS | Update Category(WORLD) | By-PowerSmart_ott182 | update categories set cat_name='WORLD',description='',tags='',fullname='WORLD' where category_id='324'
+01/05/2018 11:53:31 | SUCCESS | Sync New Category(ON DEMAND) | By-PowerSmart_ott182 | 
+01/05/2018 11:53:36 | SUCCESS | Sync New Category(KIDS) | By-PowerSmart_ott182 | 
+01/05/2018 11:53:40 | SUCCESS | Sync New Category(LEARNING) | By-PowerSmart_ott182 | 
+01/05/2018 06:24:58 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 12:11:27 | SUCCESS | Add New HomeSettingTag(#123) | By-PowerSmart_ott182 | 
+01/05/2018 12:27:43 | SUCCESS | Home Setting active(HomeID:4,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 12:27:56 | SUCCESS | update HomeSettingTag Detail(#123) | By-PowerSmart_ott182 | 
+01/05/2018 12:28:24 | SUCCESS | Home Setting priority Set | By-PowerSmart_ott182 | 
+01/05/2018 12:29:18 | SUCCESS | Add New HomeSettingTag(123456789012345678901234567890) | By-PowerSmart_ott182 | 
+01/05/2018 12:29:39 | SUCCESS | update HomeSettingTag Detail(123456789012345678901234567890) | By-PowerSmart_ott182 | 
+01/05/2018 12:29:49 | SUCCESS | Home Setting active(HomeID:5,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 12:30:08 | SUCCESS | Home Setting inactive(HomeID:5,Status:inactive) | By-PowerSmart_ott182 | 
+01/05/2018 12:30:38 | SUCCESS | Delete HomeSettingTag (5) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='5'
+01/05/2018 12:31:00 | SUCCESS | Add New HomeSettingTag(123456789012345678901234567890) | By-PowerSmart_ott182 | 
+01/05/2018 12:36:16 | SUCCESS | Delete HomeSettingTag (6) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='6'
+01/05/2018 12:36:23 | SUCCESS | Home Setting inactive(HomeID:4,Status:inactive) | By-PowerSmart_ott182 | 
+01/05/2018 12:36:31 | SUCCESS | Delete HomeSettingTag (4) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='4'
+01/05/2018 12:37:15 | SUCCESS | Add New HomeSettingTag(1) | By-PowerSmart_ott182 | 
+01/05/2018 12:39:21 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+01/05/2018 12:39:52 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+01/05/2018 12:40:08 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+01/05/2018 12:40:35 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+01/05/2018 12:42:44 | SUCCESS | Add New HomeSettingTag(bon voyage) | By-PowerSmart_ott182 | 
+01/05/2018 12:46:07 | SUCCESS | Header Menu active(HeaderID:47,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 12:46:10 | SUCCESS | Header Menu active(HeaderID:48,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 08:55:01 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 09:12:31 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 09:34:08 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 15:23:57 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+01/05/2018 15:24:29 | SUCCESS | delete Category(338) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='338'
+01/05/2018 15:29:25 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+01/05/2018 15:30:09 | SUCCESS | Header Menu inactive(HeaderID:48,Status:inactive) | By-PowerSmart_ott182 | 
+01/05/2018 15:30:49 | SUCCESS | Add New Header Content(WORLD) | By-PowerSmart_ott182 | 
+01/05/2018 15:37:30 | SUCCESS | Header Menu active(HeaderID:48,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 15:37:33 | SUCCESS | Header Menu active(HeaderID:49,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 15:38:35 | SUCCESS | Header Menu inactive(HeaderID:42,Status:inactive) | By-PowerSmart_ott182 | 
+01/05/2018 15:38:59 | SUCCESS | update Header Content Detail(WORLD) | By-PowerSmart_ott182 | 
+01/05/2018 15:40:10 | SUCCESS | Update Category(ENTERTAINMENT) | By-PowerSmart_ott182 | update categories set cat_name='ENTERTAINMENT',description='',tags='',fullname='ENTERTAINMENT' where category_id='328'
+01/05/2018 15:44:46 | SUCCESS | delete Category(339) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='339'
+01/05/2018 10:23:58 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+01/05/2018 16:24:03 | SUCCESS | Home Setting active(HomeID:7,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 17:02:33 | SUCCESS | Update Category(MUSIC) | By-PowerSmart_ott182 | update categories set cat_name='MUSIC',description='',tags='',fullname='MUSIC' where category_id='340'
+01/05/2018 17:02:54 | SUCCESS | delete Category(340) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='340'
+01/05/2018 17:18:35 | SUCCESS | Save Thumbnail(0_dnkd90ya) | By-PowerSmart_ott182 | 
+01/05/2018 17:18:43 | SUCCESS | Header Menu active(HeaderID:42,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 17:41:54 | SUCCESS | Create New Category(ROBOTICS) | By-PowerSmart_ott182 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '342','333','1','111','ROBOTICS','SCIENCE>ROBOTICS','333>342','0','0','','',NOW(),Now(),'107',ifnull(max(priority),0)+1,'0' from categories
+01/05/2018 17:43:17 | SUCCESS | Add New Header Content(FASHION) | By-PowerSmart_ott182 | 
+01/05/2018 17:43:34 | SUCCESS | Header Menu active(HeaderID:50,Status:active) | By-PowerSmart_ott182 | 
+01/05/2018 19:03:58 | SUCCESS | Save Thumbnail(0_dpgm93w2) | By-PowerSmart_ott182 | 
+01/05/2018 19:06:11 | SUCCESS | Save Thumbnail(0_dpgm93w2) | By-PowerSmart_ott182 | 
+01/05/2018 19:06:42 | SUCCESS | Save Thumbnail(0_dpgm93w2) | By-PowerSmart_ott182 | 

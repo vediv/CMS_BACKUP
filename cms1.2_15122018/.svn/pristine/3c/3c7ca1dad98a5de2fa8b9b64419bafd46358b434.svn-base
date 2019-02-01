@@ -1,0 +1,289 @@
+08/05/2018 03:38:36 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 04:30:11 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 04:49:48 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 04:56:32 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 05:05:47 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 05:15:55 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 10:46:37 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_qkjzq4cx','RA1.mxf','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_qkjzq4cx/version/0','','1','','1','0','2018-05-08 10:48:55','inactive','107')
+08/05/2018 10:49:07 | SUCCESS | Register User inactive(UserID:203,Status:inactive) | By-PowerSmart_ott182 | 
+08/05/2018 10:49:11 | SUCCESS | Register User active(UserID:203,Status:active) | By-PowerSmart_ott182 | 
+08/05/2018 10:49:50 | SUCCESS | Register User inactive(UserID:210,Status:inactive) | By-PowerSmart_ott182 | 
+08/05/2018 10:49:54 | SUCCESS | Register User active(UserID:210,Status:active) | By-PowerSmart_ott182 | 
+08/05/2018 10:53:57 | SUCCESS | Updtate MetaData(0_qkjzq4cx) | By-PowerSmart_ott182 | update entry set name='RA1.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_qkjzq4cx/version/100032',longdescription='',
+        duration='45',type='1',tag='',category='',categoryid='',
+        updated_at='2018-05-08 10:56:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_qkjzq4cx'
+08/05/2018 05:24:10 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 10:55:34 | SUCCESS | Updtate MetaData(0_qkjzq4cx) | By-PowerSmart_ott182 | update entry set name='RA1.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_qkjzq4cx/version/100032',longdescription='',
+        duration='45',type='1',tag='',category='INDIA',categoryid='325',
+        updated_at='2018-05-08 10:57:53',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_qkjzq4cx'
+08/05/2018 05:26:33 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 05:31:07 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 11:04:51 | SUCCESS | Register User inactive(UserID:203,Status:inactive) | By-PowerSmart_ott182 | 
+08/05/2018 11:05:46 | SUCCESS | Register User active(UserID:203,Status:active) | By-PowerSmart_ott182 | 
+08/05/2018 11:06:21 | SUCCESS | Register User inactive(UserID:212,Status:inactive) | By-PowerSmart_ott182 | 
+08/05/2018 11:07:09 | SUCCESS | Register User active(UserID:212,Status:active) | By-PowerSmart_ott182 | 
+08/05/2018 11:13:44 | SUCCESS | Register User inactive(UserID:212,Status:inactive) | By-PowerSmart_ott182 | 
+08/05/2018 11:17:49 | SUCCESS | Updtate MetaData(0_9rn9003u) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_9rn9003u','Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_9rn9003u/version/100002','animation story','136','1',
+        '','SCIENCE','333','2','2018-05-08 11:08:56','','','',
+         '','','','','','inactive','','')
+08/05/2018 11:19:41 | SUCCESS | Delete Video entry(0_fhvvoy0r) | By-PowerSmart_ott182 | 
+08/05/2018 11:19:52 | SUCCESS | Delete Video entry(0_hhfnrp0h) | By-PowerSmart_ott182 | 
+08/05/2018 11:19:53 | SUCCESS | Delete Video entry(0_9rn9003u) | By-PowerSmart_ott182 | 
+08/05/2018 05:52:46 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 11:22:59 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 05:54:34 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 11:28:56 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 05:59:34 | SUCCESS | login-(aj) | By-aj_ott182 | 
+08/05/2018 11:30:10 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:30:50 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:31:33 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:32:44 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:33:09 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:33:46 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:35:46 | SUCCESS | update Dashboard user(aj) | By-PowerSmart_ott182 | 
+08/05/2018 11:36:40 | SUCCESS | Delete Video entry(0_7810c4gx) | By-PowerSmart_ott182 | 
+08/05/2018 11:36:41 | SUCCESS | Delete Video entry(0_tw4uqds1) | By-PowerSmart_ott182 | 
+08/05/2018 06:08:17 | SUCCESS | login-(aj) | By-aj_ott182 | 
+08/05/2018 06:10:30 | SUCCESS | login-(ms) | By-ms_ott182 | 
+08/05/2018 06:10:55 | SUCCESS | login-(ms) | By-ms_ott182 | 
+08/05/2018 06:11:27 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 11:42:46 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 06:13:05 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 11:43:09 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 06:14:14 | SUCCESS | login-(mg) | By-mg_ott182 | 
+08/05/2018 06:15:07 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 06:16:19 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 11:46:25 | SUCCESS | Add New Dashboard user (jagu) | By-PowerSmart_ott182 | 
+08/05/2018 06:16:43 | SUCCESS | login-(jagu) | By-jagu_ott182 | 
+08/05/2018 06:18:19 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 06:18:48 | SUCCESS | login-(ms) | By-ms_ott182 | 
+08/05/2018 06:20:29 | SUCCESS | login-(ms) | By-ms_ott182 | 
+08/05/2018 11:51:24 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 06:37:56 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 12:08:15 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_au8a5k9j','TCfile.mov','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_au8a5k9j/version/0','','1','','1','0','2018-05-08 12:10:34','active','107')
+08/05/2018 12:14:45 | SUCCESS | Delete Video entry(0_wy90s94b) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:47 | SUCCESS | Delete Video entry(0_dk4dtbq0) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:50 | SUCCESS | Delete Video entry(0_mncvqa7q) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:51 | SUCCESS | Delete Video entry(0_qkjzq4cx) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:52 | SUCCESS | Delete Video entry(0_1t58dz4y) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:54 | SUCCESS | Delete Video entry(0_e0f3j0iu) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:55 | SUCCESS | Delete Video entry(0_4g9sa371) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:56 | SUCCESS | Delete Video entry(0_vg9oqb9e) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:57 | SUCCESS | Delete Video entry(0_bfxfchbk) | By-PowerSmart_ott182 | 
+08/05/2018 12:14:58 | SUCCESS | Delete Video entry(0_lati8lel) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:00 | SUCCESS | Delete Video entry(0_yocjjb3l) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:01 | SUCCESS | Delete Video entry(0_pduzi2tn) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:02 | SUCCESS | Delete Video entry(0_ma1f17ni) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:03 | SUCCESS | Delete Video entry(0_h7n3goki) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:05 | SUCCESS | Delete Video entry(0_ofw93pu5) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:07 | SUCCESS | Delete Video entry(0_9if2483k) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:08 | SUCCESS | Delete Video entry(0_z0b8fkt2) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:15 | SUCCESS | Delete Video entry(0_5gevb0jx) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:16 | SUCCESS | Delete Video entry(0_3fumzybw) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:18 | SUCCESS | Delete Video entry(0_unb3j0b4) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:20 | SUCCESS | Delete Video entry(0_gzv6dhbp) | By-PowerSmart_ott182 | 
+08/05/2018 12:15:21 | SUCCESS | Delete Video entry(0_c7fl4xgx) | By-PowerSmart_ott182 | 
+08/05/2018 12:17:12 | SUCCESS | Delete Video entry(0_au8a5k9j) | By-PowerSmart_ott182 | 
+08/05/2018 12:17:13 | SUCCESS | Delete Video entry(0_wzwumrkc) | By-PowerSmart_ott182 | 
+08/05/2018 12:17:15 | SUCCESS | Delete Video entry(0_sgrfe5l3) | By-PowerSmart_ott182 | 
+08/05/2018 06:47:55 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 12:18:45 | SUCCESS | Save New video(0_bot933x2) | By-PowerSmart_ott182 | 
+08/05/2018 12:19:03 | SUCCESS | Delete Video entry(0_bot933x2) | By-PowerSmart_ott182 | 
+08/05/2018 06:53:18 | SUCCESS | login-(mg) | By-mg_ott182 | 
+08/05/2018 06:53:45 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 12:24:30 | SUCCESS | update Dashboard user(mg) | By-PowerSmart_ott182 | 
+08/05/2018 06:54:35 | SUCCESS | login-(mg) | By-mg_ott182 | 
+08/05/2018 12:32:25 | ERROR-SQL | Lost connection to MySQL server during query | By-mg_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_rwhzl8h3','F8.mp4','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_rwhzl8h3/version/0','','1','','1','0','2018-05-08 12:34:43','inactive','122')
+08/05/2018 07:04:08 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 12:34:59 | SUCCESS | Updtate MetaData(0_g8j122yj) | By-PowerSmart_ott182 | update entry set name='Luxury Cars - Mercedes',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_g8j122yj/version/100012',longdescription='Watch luxury cars with new and latest features. ',
+        duration='12',type='1',tag='luxury, car, cars, automobile, wheeler, vehicle, mercedes, auto, india, techonolgy, technology',category='TECHNOLOGY,SPORTS',categoryid='329,326',
+        updated_at='2018-05-08 12:37:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_g8j122yj'
+08/05/2018 12:39:40 | ERROR-SQL | Lost connection to MySQL server during query | By-mg_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_5nkf6cwy','F8.mp4','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5nkf6cwy/version/0','','1','','1','0','2018-05-08 12:41:59','inactive','122')
+08/05/2018 12:43:42 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 12:43:54 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 13:05:16 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_mdyu3pcx','RA1.mxf','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mdyu3pcx/version/0','','1','','1','0','2018-05-08 13:07:34','inactive','107')
+08/05/2018 14:13:48 | SUCCESS | Updtate MetaData(0_mdyu3pcx) | By-PowerSmart_ott182 | update entry set name='RA1.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mdyu3pcx/version/100032',longdescription='',
+        duration='45',type='1',tag='',category='',categoryid='',
+        updated_at='2018-05-08 14:16:07',shortdescription='',
+        director='ss',producer='ss',cast='ss',crew='sss',sub_genre='sss',
+        language='ss',pgrating='ss',video_status='inactive',puser_id='107',custom_data='{"sss":"ssss"}'
+        where entryid='0_mdyu3pcx'
+08/05/2018 14:14:44 | SUCCESS | Updtate MetaData(0_mdyu3pcx) | By-PowerSmart_ott182 | update entry set name='RA1.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mdyu3pcx/version/100032',longdescription='',
+        duration='45',type='1',tag='',category='SPORTS,SCIENCE',categoryid='326,333',
+        updated_at='2018-05-08 14:17:03',shortdescription='',
+        director='ss',producer='ss',cast='ss',crew='sss',sub_genre='sss',
+        language='ss',pgrating='ss',video_status='inactive',puser_id='107',custom_data='{"sss":"ssss"}'
+        where entryid='0_mdyu3pcx'
+08/05/2018 08:47:42 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 08:50:11 | SUCCESS | login-(jagu) | By-jagu_ott182 | 
+08/05/2018 08:50:45 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 08:50:49 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 08:54:14 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 08:57:01 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 08:58:41 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 09:08:40 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 09:12:08 | SUCCESS | login-(ms) | By-ms_ott182 | 
+08/05/2018 14:43:06 | SUCCESS | update Dashboard user(ms) | By-PowerSmart_ott182 | 
+08/05/2018 09:14:16 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 09:24:28 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+08/05/2018 15:00:59 | SUCCESS | Updtate MetaData(0_atst29sl) | By-PowerSmart_ott182 | update entry set name='Live | Podcast | Streaming',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_atst29sl/version/100042',longdescription='Watch high quality Live streaming of channels\r\nat Powersmart.',
+        duration='5',type='1',tag='live, podcast, streaming, news, report, reading, reporter, buzz, latest, business',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH',categoryid='324,325,326,327,328,329,330,331,332',
+        updated_at='2018-05-08 15:03:18',shortdescription='Watch high quality of Live streaming at Powersmart.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_atst29sl'
+08/05/2018 15:01:34 | SUCCESS | Updtate MetaData(0_atst29sl) | By-PowerSmart_ott182 | update entry set name='Live | Podcast | Streaming',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_atst29sl/version/100042',longdescription='Watch high quality Live streaming of channels\r\nat Powersmart.',
+        duration='5',type='1',tag='live, podcast, streaming, news, report, reading, reporter, buzz, latest, business',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH',categoryid='324,325,326,327,328,329,330,331,332',
+        updated_at='2018-05-08 15:03:52',shortdescription='Watch high quality Live streaming at Powersmart.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_atst29sl'
+08/05/2018 15:02:53 | SUCCESS | Update Category(WORLD) | By-PowerSmart_ott182 | update categories set cat_name='WORLD',description='world  category',tags='world,earth,universe,plants,flowers,animals',fullname='WORLD' where category_id='324'
+08/05/2018 15:03:10 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:03:32 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:03:37 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:03:58 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:04:04 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:04:21 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:04:28 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:19:47 | SUCCESS | update HomeSettingTag Detail(Bon voyage) | By-PowerSmart_ott182 | 
+08/05/2018 15:19:56 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+08/05/2018 15:31:02 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:32:05 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:32:10 | SUCCESS | Sync New Category(CELEB INTERVIEWS) | By-PowerSmart_ott182 | 
+08/05/2018 15:33:11 | SUCCESS | Sync New Category(UP - CLOSE - HOLLYWOOD) | By-PowerSmart_ott182 | 
+08/05/2018 15:33:38 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:33:42 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:36:01 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:42:54 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:44:18 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:44:39 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:45:02 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:47:15 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_oin9364p','BMH000011.mp4','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_oin9364p/version/0','','1','','1','0','2018-05-08 15:49:34','inactive','107')
+08/05/2018 15:47:34 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:49:55 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:50:14 | SUCCESS | Add New HomeSettingTag(123456789012345678901234567890) | By-PowerSmart_ott182 | 
+08/05/2018 15:50:26 | SUCCESS | Home Setting priority Set | By-PowerSmart_ott182 | 
+08/05/2018 15:50:42 | SUCCESS | update HomeSettingTag Detail(123456789012345678901234567890) | By-PowerSmart_ott182 | 
+08/05/2018 15:52:07 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 15:52:49 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_3mqmg9k3','02 Alice Through The Looking Glass trailer.mp4','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_3mqmg9k3/version/0','','1','','1','0','2018-05-08 15:55:07','inactive','107')
+08/05/2018 15:55:01 | SUCCESS | Update Category(DOCUMENTARY) | By-PowerSmart_ott182 | update categories set cat_name='DOCUMENTARY',description='',tags='doc,documentary,movies',fullname='ON DEMAND>TRAVEL>DOCUMENTARY' where category_id='345'
+08/05/2018 16:01:06 | SUCCESS | Create New Category(test sub) | By-PowerSmart_ott182 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '361','353','3','111','test sub','ON DEMAND>KIDS>LEARNING>test sub','335>352>353>361','0','0','','two,sub,category',NOW(),Now(),'107',ifnull(max(priority),0)+1,'0' from categories
+08/05/2018 16:02:06 | SUCCESS | delete Category(361) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='361'
+08/05/2018 16:03:23 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:06:01 | SUCCESS | update HomeSettingTag Detail(12345678901234567890123456789) | By-PowerSmart_ott182 | 
+08/05/2018 16:06:27 | SUCCESS | Delete HomeSettingTag (9) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='9'
+08/05/2018 16:06:35 | SUCCESS | Updtate MetaData(0_fx1sjj7n) | By-PowerSmart_ott182 | update entry set name='Purple to the Rescue Kids Animation Story',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_fx1sjj7n/version/100002',longdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realise to capture anyone is not a good thing. Turtle made all the butterflies rescue out of the jar.',
+        duration='136',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, purple, rescue, turtle, rhyme, poems',category='ON DEMAND>KIDS>LEARNING',categoryid='353',
+        updated_at='2018-05-08 16:08:54',shortdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realise to capture anyone is not a good thing. Turtle made all the burtterflies rescue out of the jar.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_fx1sjj7n'
+08/05/2018 16:06:52 | SUCCESS | Add New HomeSettingTag(home vip) | By-PowerSmart_ott182 | 
+08/05/2018 16:07:02 | SUCCESS | Home Setting active(HomeID:10,Status:active) | By-PowerSmart_ott182 | 
+08/05/2018 16:07:17 | SUCCESS | Updtate MetaData(0_fx1sjj7n) | By-PowerSmart_ott182 | update entry set name='Purple to the Rescue Kids Animation Story',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_fx1sjj7n/version/100002',longdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realise to capture anyone is not a good thing. Turtle made all the butterflies rescue out of the jar.',
+        duration='136',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, purple, rescue, turtle, rhyme, poems',category='ON DEMAND>KIDS>LEARNING',categoryid='353',
+        updated_at='2018-05-08 16:09:36',shortdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_fx1sjj7n'
+08/05/2018 16:11:08 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:10 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:17 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:20 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:22 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:25 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:27 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:29 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:32 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:34 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:36 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:39 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:11:41 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:13:01 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:14:13 | SUCCESS | delete Category(362) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='362'
+08/05/2018 11:06:34 | SUCCESS | login-(ms) | By-ms_ott182 | 
+08/05/2018 16:40:53 | ERROR-SQL | Lost connection to MySQL server during query | By-ms_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_0odye0mn','ms.avi','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_0odye0mn/version/0','','1','ms','1','0','2018-05-08 16:43:12','active','119')
+08/05/2018 16:46:45 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 16:46:47 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 17:13:54 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_635ql9u5','BMH000011.mp4','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_635ql9u5/version/0','','1','','1','0','2018-05-08 17:16:12','inactive','107')
+08/05/2018 17:15:31 | SUCCESS | Delete Video entry(0_635ql9u5) | By-PowerSmart_ott182 | 
+08/05/2018 17:23:41 | SUCCESS | Sync New Category(TAMIL) | By-PowerSmart_ott182 | 
+08/05/2018 17:23:44 | SUCCESS | Sync New Category(MOVIES) | By-PowerSmart_ott182 | 
+08/05/2018 17:23:48 | SUCCESS | Sync New Category(FULL MOVIES) | By-PowerSmart_ott182 | 
+08/05/2018 17:23:51 | SUCCESS | Updtate MetaData(0_jhbi4j12) | By-PowerSmart_ott182 | update entry set name='Adimai Penn',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_jhbi4j12/version/100002',longdescription='Watch full length drama movie in tamil directed by K. Shanker.',
+        duration='10753',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, adimai, penn, shanker, shankar, pen, admai',category='',categoryid='',
+        updated_at='2018-05-08 17:26:10',shortdescription='Watch full length drama movie in tamil directed by K. Shanker.',
+        director='K. Shanker',producer='M. G. Ramachandran',cast='M. G. Ramachandran,J. Jayalalitha,R. S. Manohar,Cho Ramaswamy',crew='NULL',sub_genre='Drama',
+        language='Tamil',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_jhbi4j12'
+08/05/2018 17:24:41 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+08/05/2018 17:25:16 | SUCCESS | Updtate MetaData(0_jhbi4j12) | By-PowerSmart_ott182 | update entry set name='Adimai Penn',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_jhbi4j12/version/100002',longdescription='Watch full length drama movie in tamil directed by K. Shanker.',
+        duration='10753',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, adimai, penn, shanker, shankar, pen, admai',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-08 17:27:35',shortdescription='Watch full length drama movie in tamil directed by K. Shanker.',
+        director='K. Shanker',producer='M. G. Ramachandran',cast='M. G. Ramachandran,J. Jayalalitha,R. S. Manohar,Cho Ramaswamy',crew='NULL',sub_genre='Drama',
+        language='Tamil',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_jhbi4j12'
+08/05/2018 17:35:09 | SUCCESS | Sync Category | By-ms_ott182 | 
+08/05/2018 17:35:39 | SUCCESS | Sync Category | By-ms_ott182 | 
+08/05/2018 17:36:05 | SUCCESS | Sync Category | By-ms_ott182 | 
+08/05/2018 17:36:34 | SUCCESS | Save New video(0_awpp8lr2) | By-PowerSmart_ott182 | 
+08/05/2018 17:37:05 | SUCCESS | Delete Video entry(0_awpp8lr2) | By-PowerSmart_ott182 | 
+08/05/2018 17:41:49 | SUCCESS | Updtate MetaData(0_vnvh8q6f) | By-PowerSmart_ott182 | update entry set name='Brisk Skipping is a healthy start',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_vnvh8q6f/version/100012',longdescription='Those who are health conscious will always keep in mind about a healthy start of a day through skipping,\r\njogging,weight lighting and so.\r\nA skipping rope is a tool used in the sports and is a tool to play with.\r\nUsually t is used for playing purpose or to stay fit. Skipping helps to reduce weight loss and also strengthened your leg muscles.\r\nIt can be skipped as Speed step,Criss-Cross,side swing,double under,toad,leg over and so.\r\nIt may also be used as cardiovascular workout exercise.Ten minutes of skipping is equivalent to eight- minute.\r\nIt is a sport of jump rope where one or more than one participants an join and take the charge to play as a team.',
+        duration='9',type='1',tag='skipping, rope, health, healthy, workout, diet, news, feed, updates, report, reporting, reporter',category='',categoryid='',
+        updated_at='2018-05-08 17:44:08',shortdescription='Those who are health conscious will always keep in mind about a healthy start of a day through skipping, jogging,weight lighting and so. A skipping rope is a tool used in the sports and is a tool to play with. Usually t is used for playing purpose or to stay fit. Skipping helps to reduce weight loss and also strengthened your leg muscles. It can be skipped as Speed step,Criss-Cross,side swing,double under,toad,leg over and so. It may also be used as cardiovascular workout exercise.Ten minutes of skipping is equivalent to eight- minute. It is a sport of jump rope where one or more than one participants an join and take the charge to play as a team.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_vnvh8q6f'
+08/05/2018 17:43:51 | SUCCESS | Register User active(UserID:212,Status:active) | By-PowerSmart_ott182 | 
+08/05/2018 17:49:30 | SUCCESS | Updtate MetaData(0_l4pghr81) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_l4pghr81','Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_l4pghr81/version/100002','animation story','136','1',
+        '','SCIENCE','333','2','2018-05-08 17:48:11','','','',
+         '','','','','','active','','')
+08/05/2018 17:49:50 | SUCCESS | Updtate MetaData(0_gy1qfyum) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_gy1qfyum','Sandcastle  Kids Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_gy1qfyum/version/100002','animation story','117','1',
+        '','HEALTH','332','2','2018-05-08 17:48:13','','','',
+         '','','','','','active','','')
+08/05/2018 18:13:41 | SUCCESS | Updtate MetaData(0_mdyu3pcx) | By-PowerSmart_ott182 | update entry set name='RA1.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mdyu3pcx/version/100032',longdescription='',
+        duration='45',type='1',tag='shahrukh',category='SPORTS',categoryid='326',
+        updated_at='2018-05-08 18:16:00',shortdescription='',
+        director='ss',producer='ss',cast='ss',crew='sss',sub_genre='sss',
+        language='ss',pgrating='ss',video_status='inactive',puser_id='107',custom_data='{"sss":"ssss"}'
+        where entryid='0_mdyu3pcx'
+08/05/2018 18:15:34 | SUCCESS | Updtate MetaData(0_mdyu3pcx) | By-PowerSmart_ott182 | update entry set name='RA1.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mdyu3pcx/version/100032',longdescription='',
+        duration='45',type='1',tag='shahrukh',category='SPORTS,ENTERTAINMENT',categoryid='326,328',
+        updated_at='2018-05-08 18:17:53',shortdescription='',
+        director='ss',producer='ss',cast='ss',crew='sss',sub_genre='sss',
+        language='ss',pgrating='ss',video_status='inactive',puser_id='107',custom_data='{"sss":"ssss"}'
+        where entryid='0_mdyu3pcx'
+08/05/2018 18:20:54 | SUCCESS | update Header Content Detail(LIFESTYLE) | By-ms_ott182 | 
+08/05/2018 18:23:08 | SUCCESS | update Header Content Detail(FASHION) | By-ms_ott182 | 
+08/05/2018 18:34:12 | SUCCESS | update Header Content Detail(LIFESTYLE) | By-ms_ott182 | 
+08/05/2018 18:37:13 | SUCCESS | update Header Content Detail(LIFESTYLE) | By-ms_ott182 | 
+08/05/2018 18:38:24 | SUCCESS | update Header Content Detail(WORLD) | By-ms_ott182 | 

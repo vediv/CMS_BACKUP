@@ -1,0 +1,19 @@
+13/03/2018 12:51:00 | SUCCESS | Delete Video entry(0_ukbhe8l8) | By-Pitara_ott811 | 
+13/03/2018 14:41:11 | SUCCESS | Sync Category | By-Pitara_ott811 | 
+13/03/2018 14:53:13 | SUCCESS | Sync Category | By-Pitara_ott811 | 
+13/03/2018 14:55:04 | SUCCESS | Sync Category | By-Pitara_ott811 | 
+13/03/2018 16:35:39 | SUCCESS | Sync New Category(TEST1.3) | By-Pitara_ott811 | 
+13/03/2018 16:39:33 | SUCCESS | Sync New Category(TEST1.3) | By-Pitara_ott811 | 
+13/03/2018 16:49:51 | SUCCESS | Sync Category | By-Pitara_ott811 | 
+13/03/2018 16:54:18 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 17:46:41 | SUCCESS | Create New Category(TEST DEMO) | By-Pitara_ott811 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '1203','1196','1','145','TEST DEMO','TEST>TEST DEMO','1196>1203','0','0','','',NOW(),Now(),'77',ifnull(max(priority),0)+1,'0' from categories
+13/03/2018 17:46:57 | SUCCESS | delete Category(1203) | By-Pitara_ott811 | DELETE FROM categories where category_id='1203'
+13/03/2018 18:01:47 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 18:05:01 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 18:05:44 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 18:07:30 | SUCCESS | Update Category(TEST1.3) | By-Pitara_ott811 | update categories set cat_name='TEST1.3',description='',tags='',fullname='TEST>TEST1.3' where category_id='1198'
+13/03/2018 18:08:04 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 18:09:48 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 18:09:52 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'
+13/03/2018 18:10:18 | SUCCESS | Update Category(TEST1.4) | By-Pitara_ott811 | update categories set cat_name='TEST1.4',description='',tags='',fullname='TEST>TEST1.4' where category_id='1198'

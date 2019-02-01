@@ -1,0 +1,31 @@
+31/10/2018 05:15:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/10/2018 10:51:56 | SUCCESS | Plan active(planID:p142,Status:active) | By-Biocine_ott503 | 
+31/10/2018 07:02:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/10/2018 07:04:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/10/2018 12:38:01 | SUCCESS | Add New Subscription Code (TEST1234) | By-Biocine_ott503 | 
+31/10/2018 12:38:04 | SUCCESS | subscription code active(subscription ID:30,Status:active) | By-Biocine_ott503 | 
+31/10/2018 13:20:26 | SUCCESS | Add New Subscription Code (TEST123456) | By-Biocine_ott503 | 
+31/10/2018 13:20:31 | SUCCESS | subscription code active(subscription ID:31,Status:active) | By-Biocine_ott503 | 
+31/10/2018 09:51:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/10/2018 15:28:47 | SUCCESS | Add New Subscription Code (QGBJPVF1S9) | By-Biocine_ott503 | 
+31/10/2018 15:29:12 | SUCCESS | Update Subscription Code (33) | By-Biocine_ott503 | 
+31/10/2018 15:29:16 | SUCCESS | subscription code active(subscription ID:33,Status:active) | By-Biocine_ott503 | 
+31/10/2018 15:37:25 | SUCCESS | Plan active(planID:p183,Status:active) | By-Biocine_ott503 | 
+31/10/2018 15:38:24 | SUCCESS | Add New Subscription Code (ASAS21) | By-Biocine_ott503 | 
+31/10/2018 15:38:28 | SUCCESS | subscription code active(subscription ID:34,Status:active) | By-Biocine_ott503 | 
+31/10/2018 15:50:41 | SUCCESS | Add New Subscription Code (S2121) | By-Biocine_ott503 | 
+31/10/2018 15:50:48 | SUCCESS | subscription code active(subscription ID:35,Status:active) | By-Biocine_ott503 | 
+31/10/2018 10:24:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/10/2018 16:11:45 | SUCCESS | Update Subscription Code (37) | By-Biocine_ott503 | 
+31/10/2018 16:12:28 | SUCCESS | Add New Subscription Code (G4HT22) | By-Biocine_ott503 | 
+31/10/2018 16:12:33 | SUCCESS | subscription code active(subscription ID:38,Status:active) | By-Biocine_ott503 | 
+31/10/2018 17:33:25 | SUCCESS | update plan Detail(Yearly) | By-Biocine_ott503 | 
+31/10/2018 17:33:39 | SUCCESS | Plan inactive(planID:p607,Status:inactive) | By-Biocine_ott503 | 
+31/10/2018 17:33:42 | SUCCESS | Delete Plan (p607) | By-Biocine_ott503 | delete from plandetail where planID='p607'
+31/10/2018 17:33:51 | SUCCESS | Plan inactive(planID:p978,Status:inactive) | By-Biocine_ott503 | 
+31/10/2018 17:33:53 | SUCCESS | Delete Plan (p978) | By-Biocine_ott503 | delete from plandetail where planID='p978'
+31/10/2018 17:33:58 | SUCCESS | Plan inactive(planID:p570,Status:inactive) | By-Biocine_ott503 | 
+31/10/2018 17:34:00 | SUCCESS | Delete Plan (p570) | By-Biocine_ott503 | delete from plandetail where planID='p570'
+31/10/2018 17:34:07 | SUCCESS | Plan inactive(planID:p142,Status:inactive) | By-Biocine_ott503 | 
+31/10/2018 17:34:10 | SUCCESS | Delete Plan (p142) | By-Biocine_ott503 | delete from plandetail where planID='p142'
+31/10/2018 17:34:29 | SUCCESS | update plan Detail(half yearly) | By-Biocine_ott503 | 

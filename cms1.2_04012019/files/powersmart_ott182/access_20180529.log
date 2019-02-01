@@ -1,0 +1,14 @@
+29/05/2018 06:05:43 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+29/05/2018 06:47:01 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+29/05/2018 07:36:36 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+29/05/2018 07:36:49 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+29/05/2018 07:48:14 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+29/05/2018 13:30:23 | SUCCESS | Save New video(0_vsnekz0d) | By-PowerSmart_ott182 | 
+29/05/2018 13:37:31 | SUCCESS | Updtate MetaData(0_vsnekz0d) | By-PowerSmart_ott182 | update entry set name='Karnataka Alliance Government ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_vsnekz0d/version/100012',longdescription='ಮೈತ್ರಿ ಸರ್ಕಾರಕ್ಕೆ ಎದುರಾಗಿದೆ ಸಂಪುಟ ಸಂಕಷ್ಟ',
+        duration='488',type='1',tag='alliance government, karnataka, vip news',category='News',categoryid='378',
+        updated_at='2018-05-29 13:40:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_vsnekz0d'
+29/05/2018 13:38:03 | SUCCESS | Save Thumbnail(0_vsnekz0d) | By-PowerSmart_ott182 | 
+29/05/2018 09:17:09 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 

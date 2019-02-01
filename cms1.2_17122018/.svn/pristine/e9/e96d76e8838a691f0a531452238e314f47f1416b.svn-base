@@ -1,0 +1,4 @@
+30/01/2018 10:15:37 | SUCCESS | update plan Detail(Monthly) | By-Planetcast_ott417 | 
+30/01/2018 10:17:20 | SUCCESS | update plan Detail(Half-Yearly) | By-Planetcast_ott417 | 
+30/01/2018 10:17:55 | SUCCESS | update plan Detail(Yearly) | By-Planetcast_ott417 | 
+30/01/2018 10:26:43 | SUCCESS | Bulk Add Category(0_lxv01vi8,105) | By-Planetcast_ott417 | update entry set category='MOVIES>SHORT FILMS>ENGLISH', categoryid='105' where entryid='0_lxv01vi8' 

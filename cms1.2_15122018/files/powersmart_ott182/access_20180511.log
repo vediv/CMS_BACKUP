@@ -1,0 +1,53 @@
+11/05/2018 05:17:42 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+11/05/2018 06:09:49 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+11/05/2018 06:48:18 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+11/05/2018 11:11:49 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+11/05/2018 16:53:41 | SUCCESS | Updtate MetaData(0_6vkizpd7) | By-PowerSmart_ott182 | update entry set name='Business News from around the World',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6vkizpd7/version/100032',longdescription='Business news you should never miss. ',
+        duration='396',type='1',tag='business, business news, business latest, business updates',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-11 16:56:02',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6vkizpd7'
+11/05/2018 16:54:55 | SUCCESS | Updtate MetaData(0_gb4q0u0a) | By-PowerSmart_ott182 | update entry set name='Business News from around the World',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_gb4q0u0a/version/100032',longdescription='Business news you should never miss. ',
+        duration='706',type='1',tag='business, business news, business latest, business updates',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-11 16:57:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_gb4q0u0a'
+11/05/2018 16:55:23 | SUCCESS | Updtate MetaData(0_hbb324s9) | By-PowerSmart_ott182 | update entry set name='Business News from around the World',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_hbb324s9/version/100032',longdescription='Business news you should never miss. ',
+        duration='606',type='1',tag='business, business news, business latest, business updates',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-11 16:57:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_hbb324s9'
+11/05/2018 16:55:40 | SUCCESS | Updtate MetaData(0_47si0oo7) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_47si0oo7/version/100032',longdescription='Get every world news here. ',
+        duration='269',type='1',tag='world news, world, international news, international updates, international',category='WORLD',categoryid='324',
+        updated_at='2018-05-11 16:58:02',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_47si0oo7'
+11/05/2018 16:56:22 | SUCCESS | Updtate MetaData(0_gcozdx3v) | By-PowerSmart_ott182 | update entry set name='Sports News Updates ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_gcozdx3v/version/100032',longdescription='Every sports news for the sports-lover in You',
+        duration='377',type='1',tag='sports, cricket, basketball, hockey, badminton',category='SPORTS',categoryid='326',
+        updated_at='2018-05-11 16:58:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_gcozdx3v'
+11/05/2018 16:56:44 | SUCCESS | Updtate MetaData(0_1mn5swdt) | By-PowerSmart_ott182 | update entry set name='Lifestyle News for You',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_1mn5swdt/version/100032',longdescription='Lifestyle news for you to follow and change your life for good',
+        duration='293',type='1',tag='lifestyle, lifestyle news',category='LIFESTYLE',categoryid='330',
+        updated_at='2018-05-11 16:59:05',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_1mn5swdt'
+11/05/2018 16:57:04 | SUCCESS | Updtate MetaData(0_4rl0m1u0) | By-PowerSmart_ott182 | update entry set name='News across India',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_4rl0m1u0/version/100032',longdescription='Get the latest news of India anywhere, anytime.',
+        duration='258',type='1',tag='india news, india top news, india latest news',category='INDIA',categoryid='325',
+        updated_at='2018-05-11 16:59:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_4rl0m1u0'
+11/05/2018 16:58:05 | SUCCESS | Updtate MetaData(0_r9g2qn59) | By-PowerSmart_ott182 | update entry set name='Entertainment for Life',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_r9g2qn59/version/100032',longdescription='Get the latest updates of the entertainment industry.',
+        duration='214',type='1',tag='entertainment, films, sandalwood news, bollywood news, music',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-11 17:00:27',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_r9g2qn59'
+11/05/2018 20:09:44 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 

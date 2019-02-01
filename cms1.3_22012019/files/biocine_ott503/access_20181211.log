@@ -1,0 +1,15 @@
+11/12/2018 04:35:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 04:35:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 05:31:11 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 06:46:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 12:37:14 | SUCCESS | Add New coupon (ABC43) | By-Biocine_ott503 | 
+11/12/2018 12:37:24 | SUCCESS | Coupon active(Coupan ID:1,Status:active) | By-Biocine_ott503 | 
+11/12/2018 12:38:18 | SUCCESS | Coupon inactive(Coupan ID:1,Status:inactive) | By-Biocine_ott503 | 
+11/12/2018 12:38:21 | SUCCESS | Delete Coupon Delete (1) | By-Biocine_ott503 | delete from coupon where coupon_id='1'
+11/12/2018 12:55:32 | SUCCESS | Add New coupon (UU098) | By-Biocine_ott503 | 
+11/12/2018 12:55:37 | SUCCESS | Coupon active(Coupan ID:2,Status:active) | By-Biocine_ott503 | 
+11/12/2018 12:59:04 | SUCCESS | Coupon inactive(Coupan ID:2,Status:inactive) | By-Biocine_ott503 | 
+11/12/2018 12:59:07 | SUCCESS | Delete Coupon Delete (2) | By-Biocine_ott503 | delete from coupon where coupon_id='2'
+11/12/2018 09:06:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 10:49:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 12:45:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

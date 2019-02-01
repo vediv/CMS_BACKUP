@@ -1,0 +1,5 @@
+09/11/2017 16:41:43 | SUCCESS | Delete slider Image (109) | By-pitaara_ott955 | delete from slider_image_detail where img_id='109'
+09/11/2017 16:42:36 | SUCCESS | Add New Slider Image(C:\fakepath\pitaara aap-01.jpg) | By-pitaara_ott955 | 
+09/11/2017 16:44:10 | SUCCESS | update Slider Detail(,'') | By-pitaara_ott955 | 
+09/11/2017 16:45:41 | SUCCESS | Slider priority Set | By-pitaara_ott955 | 
+09/11/2017 16:46:16 | SUCCESS | Slider image active(SliderID:110,Status:active) | By-pitaara_ott955 | 

@@ -1,0 +1,159 @@
+31/07/2018 04:21:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 10:06:24 | SUCCESS | Updtate MetaData(0_1qvhrjaj) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1qvhrjaj/version/100052',longdescription='Watch promo of Infection Short film ',
+        duration='128',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-07-31 10:09:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1qvhrjaj'
+31/07/2018 10:09:24 | SUCCESS | Save Thumbnail(0_vwcyrmth) | By-Biocine_ott503 | 
+31/07/2018 10:10:02 | SUCCESS | Save Thumbnail(0_4wc2nq2m) | By-Biocine_ott503 | 
+31/07/2018 04:45:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 04:55:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 10:25:15 | SUCCESS | Delete Coupon Delete (23) | By-Biocine_ott503 | delete from coupon where coupon_id='23'
+31/07/2018 10:25:19 | SUCCESS | Delete Coupon Delete (24) | By-Biocine_ott503 | delete from coupon where coupon_id='24'
+31/07/2018 10:25:21 | SUCCESS | Delete Coupon Delete (19) | By-Biocine_ott503 | delete from coupon where coupon_id='19'
+31/07/2018 10:25:23 | SUCCESS | Delete Coupon Delete (18) | By-Biocine_ott503 | delete from coupon where coupon_id='18'
+31/07/2018 10:26:49 | SUCCESS | Add New coupon (9V91C9TROS) | By-Biocine_ott503 | 
+31/07/2018 10:26:59 | SUCCESS | Coupon active(Coupan ID:38,Status:active) | By-Biocine_ott503 | 
+31/07/2018 10:27:30 | SUCCESS | Update Coupon (38) | By-Biocine_ott503 | update coupon set name='Coupon _123',code='d23',type='P',discount='1.0000',date_start='2018-07-31 10:25:27',
+      date_end='2018-08-26 10:25:27',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='38'
+31/07/2018 10:27:42 | SUCCESS | Updtate MetaData(0_9zzp56a1) | By-Biocine_ott503 | update entry set name='JEEO SORT',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9zzp56a1/version/100042',longdescription='Watch Jeeo sort promo video.',
+        duration='47',type='1',tag='jeeo, sort, promo',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS',categoryid='295,296,297,298,299,310,311,312,313,314',
+        updated_at='2018-07-31 10:31:12',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9zzp56a1'
+31/07/2018 10:29:06 | SUCCESS | Updtate MetaData(0_vqlv1ku0) | By-Biocine_ott503 | update entry set name='SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vqlv1ku0/version/100042',longdescription='Watch first look of Jeeo musical Shock studio video.',
+        duration='130',type='1',tag='shock, studio',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS',categoryid='295,296,297,298,299,310,311,312,313,314',
+        updated_at='2018-07-31 10:32:36',shortdescription='Watch first look of Jeeo musical Shock studio video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vqlv1ku0'
+31/07/2018 10:29:30 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,KIDS,BAZAAR',categoryid='295,296,298,312,313',
+        updated_at='2018-07-31 10:33:01',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='Biocine',producer='Palnetcast',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data='{"Singer":"Shankar Mahadevan","Lyricist":"Javed Akhtar","Cinematography":"Test","Composer":"Planetcast","Music":"Test"}'
+        where entryid='0_55bqo6ga'
+31/07/2018 10:35:09 | SUCCESS | Add New coupon (S47WA) | By-Biocine_ott503 | 
+31/07/2018 10:35:15 | SUCCESS | Coupon active(Coupan ID:39,Status:active) | By-Biocine_ott503 | 
+31/07/2018 10:38:35 | SUCCESS | Updtate MetaData(0_dcj5shgn) | By-Biocine_ott503 | update entry set name='STATUS Trailer Final',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dcj5shgn/version/100042',longdescription='Watch Status Trailer .',
+        duration='100',type='1',tag='status, trailer, final',category='ORIGINALS>WEB SERIES,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>OTHERS,BAZAAR',categoryid='295,298,310,314,313',
+        updated_at='2018-07-31 10:42:05',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dcj5shgn'
+31/07/2018 10:39:04 | SUCCESS | Updtate MetaData(0_1qvhrjaj) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1qvhrjaj/version/100052',longdescription='Watch promo of Infection Short film ',
+        duration='128',type='1',tag='',category='ORIGINALS>SHORT FILMS,BAZAAR',categoryid='297,313',
+        updated_at='2018-07-31 10:42:35',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1qvhrjaj'
+31/07/2018 10:39:16 | SUCCESS | Updtate MetaData(0_xo9hpen2) | By-Biocine_ott503 | update entry set name='ELO SHE NATION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xo9hpen2/version/100042',longdescription='Watch ELO SHE NATION PROMO video.',
+        duration='118',type='1',tag='elo she nation, promo',category='ORIGINALS>WEB SERIES,BAZAAR',categoryid='295,313',
+        updated_at='2018-07-31 10:42:46',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_xo9hpen2'
+31/07/2018 10:39:36 | SUCCESS | Updtate MetaData(0_l4el6h6n) | By-Biocine_ott503 | update entry set name='Caminandes 2',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l4el6h6n/version/100052',longdescription='Watch test Caminandes 2 animated video.',
+        duration='146',type='1',tag='test, cami, caminandes',category='ORIGINALS>WEB SERIES,MUSIC>ORIGINAL>SHOCK STUDIO,BAZAAR',categoryid='295,310,313',
+        updated_at='2018-07-31 10:43:06',shortdescription='Watch test Caminandes 2 animated video.',
+        director='Jeeoguru',producer='Biocine',cast='Planetcast',crew='ABCD',sub_genre='Animation',
+        language='English',pgrating='U/A',video_status='active',custom_data='{"Production Company":"TEST","Singer":"Testing","Composer":"XYZ","Lyricist":"Planet","Creater":"Planet12"}'
+        where entryid='0_l4el6h6n'
+31/07/2018 05:23:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 10:56:46 | SUCCESS | Update Coupon (39) | By-Biocine_ott503 | update coupon set name='ABC31',code='S47WAA',type='P',discount='4.0000',date_start='2018-07-31 10:34:47',
+      date_end='2018-08-31 10:34:47',uses_total='1',uses_customer='5',updated_at=NOW() where coupon_id='39'
+31/07/2018 10:58:14 | SUCCESS | Update Coupon (39) | By-Biocine_ott503 | update coupon set name='ABC31',code='S47WAAA',type='P',discount='4.0000',date_start='2018-07-31 10:34:47',
+      date_end='2018-08-31 10:34:47',uses_total='1',uses_customer='5',updated_at=NOW() where coupon_id='39'
+31/07/2018 11:00:57 | SUCCESS | Add New Footer Content(as) | By-Biocine_ott503 | 
+31/07/2018 11:01:17 | SUCCESS | Add New Footer Content(5) | By-Biocine_ott503 | 
+31/07/2018 11:07:01 | SUCCESS | Bulk Add Category(0_dcj5shgn,0_vqlv1ku0,0_qu4ym00g,295,297,299,314,312) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>OTHERS,KIDS', categoryid='295,297,299,314,312' where entryid='0_qu4ym00g' 
+31/07/2018 11:07:55 | SUCCESS | Bulk Add Category(0_w66h241y,0_tgx0p2ga,0_m803knua,296,298,310,311,313) | By-Biocine_ott503 | update entry set category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR', categoryid='296,298,310,311,313' where entryid='0_m803knua' 
+31/07/2018 11:13:57 | SUCCESS | Bulk Add Category(0_41s7hg9v,0_9zzp56a1,0_1qvhrjaj,0_xo9hpen2,295,297,299,314,312) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>OTHERS,KIDS', categoryid='295,297,299,314,312' where entryid='0_xo9hpen2' 
+31/07/2018 11:14:46 | SUCCESS | Bulk Add Category(0_esm2o2rr,0_uqjrn5mv,0_offxitkt,296,298,310,311,313) | By-Biocine_ott503 | update entry set category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR', categoryid='296,298,310,311,313' where entryid='0_offxitkt' 
+31/07/2018 11:23:54 | SUCCESS | update Footer Content Detail(fgfg) | By-Biocine_ott503 | 
+31/07/2018 11:50:13 | SUCCESS | Updtate MetaData(0_vqlv1ku0) | By-Biocine_ott503 | update entry set name='SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vqlv1ku0/version/100042',longdescription='Watch first look of Jeeo musical Shock studio video.',
+        duration='130',type='1',tag='shock, studio',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,KIDS,MUSIC>ORIGINAL>OTHERS,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='295,297,299,312,314,310',
+        updated_at='2018-07-31 11:53:43',shortdescription='Watch first look of Jeeo musical Shock studio video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vqlv1ku0'
+31/07/2018 11:52:24 | SUCCESS | Updtate MetaData(0_oi6yx1f3) | By-Biocine_ott503 | update entry set name='Passion Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_oi6yx1f3/version/100042',longdescription='Watch Passion Promo video',
+        duration='160',type='1',tag='passion, promo',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-07-31 11:55:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_oi6yx1f3'
+31/07/2018 11:55:01 | SUCCESS | Updtate MetaData(0_u4ejkasa) | By-Biocine_ott503 | update entry set name='Big Buck Bunny',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_u4ejkasa/version/100052',longdescription='A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness.',
+        duration='5',type='1',tag='test, sample, bunny, bear, bugs',category='MOVIES>CLASSIC,MOVIES>THRILLER,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>COMEDY,MOVIES>ACTION',categoryid='302,303,304,305,306,307',
+        updated_at='2018-07-31 11:58:31',shortdescription='A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_u4ejkasa'
+31/07/2018 11:57:47 | SUCCESS | Delete Video entry(0_jhw3kief) | By-Biocine_ott503 | 
+31/07/2018 11:57:48 | SUCCESS | Delete Video entry(0_ibikoacz) | By-Biocine_ott503 | 
+31/07/2018 11:58:03 | SUCCESS | Updtate MetaData(0_va5swgpw) | By-Biocine_ott503 | update entry set name='Heavy Machinery',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_va5swgpw/version/100022',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machinery, construction, work, equipment, vehicle, automobile, tools, machine, crane',category='MOVIES>ACTION,MOVIES>CLASSIC',categoryid='307,302',
+        updated_at='2018-07-31 12:01:34',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_va5swgpw'
+31/07/2018 11:58:17 | SUCCESS | Updtate MetaData(0_l75wl3gn) | By-Biocine_ott503 | update entry set name='Bike Riding',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l75wl3gn/version/100022',longdescription='test video',
+        duration='13',type='1',tag='test, video, car, automobile, vehicle, classic',category='MUSIC>FILM,BAZAAR',categoryid='311,313',
+        updated_at='2018-07-31 12:01:47',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_l75wl3gn'
+31/07/2018 11:59:44 | SUCCESS | Delete Video entry(0_lf01jppz) | By-Biocine_ott503 | 
+31/07/2018 11:59:54 | SUCCESS | Delete Video entry(0_txywk6wi) | By-Biocine_ott503 | 
+31/07/2018 07:06:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 12:36:46 | SUCCESS | Save Thumbnail(0_m803knua) | By-Biocine_ott503 | 
+31/07/2018 12:37:03 | SUCCESS | Save Thumbnail(0_tgx0p2ga) | By-Biocine_ott503 | 
+31/07/2018 12:37:19 | SUCCESS | Save Thumbnail(0_w66h241y) | By-Biocine_ott503 | 
+31/07/2018 14:02:47 | SUCCESS | Save Thumbnail(0_w66h241y) | By-Biocine_ott503 | 
+31/07/2018 14:03:13 | SUCCESS | Save Thumbnail(0_oi6yx1f3) | By-Biocine_ott503 | 
+31/07/2018 08:40:35 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 14:10:49 | SUCCESS | Save New video(0_p0rv7ti4) | By-Biocine_ott503 | 
+31/07/2018 14:14:43 | SUCCESS | Updtate MetaData(0_p0rv7ti4) | By-Biocine_ott503 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0rv7ti4/version/100022',longdescription='Watch Big buck bunny video.',
+        duration='5',type='1',tag='big, buck, bunny, animation',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-07-31 14:18:13',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_p0rv7ti4'
+31/07/2018 14:35:08 | SUCCESS | Delete Video entry(0_jkedbxyf) | By-Biocine_ott503 | 
+31/07/2018 14:39:14 | SUCCESS | Save Thumbnail(0_dcj5shgn) | By-Biocine_ott503 | 
+31/07/2018 15:14:58 | SUCCESS | Save Thumbnail(0_9zzp56a1) | By-Biocine_ott503 | 
+31/07/2018 15:19:12 | SUCCESS | Update Coupon (9) | By-Biocine_ott503 | update coupon set name='MID SEASON OFFER',code='MSO2018',type='P',discount='20.0000',date_start='2018-07-07 10:55:51',
+      date_end='2018-08-17 10:55:51',uses_total='20',uses_customer='3',updated_at=NOW() where coupon_id='9'
+31/07/2018 15:21:09 | SUCCESS | Updtate MetaData(0_1qvhrjaj) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1qvhrjaj/version/100052',longdescription='Watch first look of Infection Short film .',
+        duration='128',type='1',tag='',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,KIDS,MUSIC>ORIGINAL>OTHERS',categoryid='295,297,299,312,314',
+        updated_at='2018-07-31 15:24:40',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"Associate Director":"Sanjay Das"}'
+        where entryid='0_1qvhrjaj'
+31/07/2018 15:22:17 | SUCCESS | Updtate MetaData(0_9zzp56a1) | By-Biocine_ott503 | update entry set name='JEEO SHORTS',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9zzp56a1/version/100052',longdescription='Watch Jeeo sort promo video.',
+        duration='47',type='1',tag='jeeo, sort, promo',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,KIDS,MUSIC>ORIGINAL>OTHERS',categoryid='295,297,299,312,314',
+        updated_at='2018-07-31 15:25:48',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9zzp56a1'
+31/07/2018 15:26:43 | SUCCESS | Save Thumbnail(0_vqlv1ku0) | By-Biocine_ott503 | 
+31/07/2018 15:27:06 | SUCCESS | Save Thumbnail(0_6xyp6du1) | By-Biocine_ott503 | 
+31/07/2018 15:29:15 | SUCCESS | Updtate MetaData(0_p0rv7ti4) | By-Biocine_ott503 | update entry set name='Sample bunny video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0rv7ti4/version/100022',longdescription='Watch Big buck bunny video.',
+        duration='5',type='1',tag='big, buck, bunny, animation',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-07-31 15:32:46',shortdescription='Watch Big buck bunny video.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_p0rv7ti4'
+31/07/2018 15:29:52 | SUCCESS | subscription code active(subscription ID:11,Status:active) | By-Biocine_ott503 | 
+31/07/2018 15:42:29 | SUCCESS | Save Thumbnail(0_va5swgpw) | By-Biocine_ott503 | 
+31/07/2018 16:29:09 | SUCCESS | Update Ticket Status(pending tid=69--by=104) | By-Biocine_ott503 | 
+31/07/2018 16:30:28 | SUCCESS | Update Ticket Status(inprocess tid=71--by=104) | By-Biocine_ott503 | 
+31/07/2018 16:31:25 | SUCCESS | Update Ticket Status(inprocess tid=71--by=104) | By-Biocine_ott503 | 
+31/07/2018 16:39:55 | SUCCESS | Update Ticket Status(pending tid=51--by=104) | By-Biocine_ott503 | 
+31/07/2018 17:12:04 | SUCCESS | Save Thumbnail(0_izk59xg2) | By-Biocine_ott503 | 
+31/07/2018 17:12:29 | SUCCESS | Save Thumbnail(0_esm2o2rr) | By-Biocine_ott503 | 
+31/07/2018 11:44:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 12:57:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+31/07/2018 16:08:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

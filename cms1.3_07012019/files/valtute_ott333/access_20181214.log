@@ -1,0 +1,22 @@
+14/12/2018 04:46:40 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/12/2018 05:42:50 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/12/2018 11:42:03 | SUCCESS | Updtate MetaData(0_nbgj8r9h) | By-jeeyaho_ott333 | update entry set name='Harsh Pandey Kavi Sammelan 3',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_nbgj8r9h/version/100022',longdescription='Harsh Pandey Kavi Sammelan 3',
+        duration='391',type='1',tag='harsh pandey kavi, jeeyaho, kavi sammelan, dadri mela 2018, balia kavi sammelan, balia 2018, event',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-14 11:47:27',shortdescription='Yuvak Kavi Harsh',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Harsh Pandey',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_nbgj8r9h'
+14/12/2018 12:21:47 | SUCCESS | Slider image inactive(SliderID:20,Status:inactive) | By-jeeyaho_ott333 | 
+14/12/2018 12:21:51 | SUCCESS | Delete slider Image (20) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='20'
+14/12/2018 12:21:59 | SUCCESS | Delete slider Image (3) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='3'
+14/12/2018 12:22:17 | SUCCESS | Slider image active(SliderID:15,Status:active) | By-jeeyaho_ott333 | 
+14/12/2018 12:22:20 | SUCCESS | Slider image active(SliderID:1,Status:active) | By-jeeyaho_ott333 | 
+14/12/2018 12:23:17 | SUCCESS | Add New Slider Image(C:\fakepath\kumar vishwas 2.jpeg) | By-jeeyaho_ott333 | 
+14/12/2018 12:23:26 | SUCCESS | Slider image active(SliderID:21,Status:active) | By-jeeyaho_ott333 | 
+14/12/2018 12:26:36 | SUCCESS | Add New Slider Image(C:\fakepath\kumar.jpeg) | By-jeeyaho_ott333 | 
+14/12/2018 12:26:47 | SUCCESS | Slider image inactive(SliderID:21,Status:inactive) | By-jeeyaho_ott333 | 
+14/12/2018 12:26:50 | SUCCESS | Delete slider Image (21) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='21'
+14/12/2018 12:26:54 | SUCCESS | Delete slider Image (22) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='22'
+14/12/2018 11:08:37 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/12/2018 17:19:27 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/12/2018 17:48:33 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

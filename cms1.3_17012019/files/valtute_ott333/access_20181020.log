@@ -1,0 +1,14 @@
+20/10/2018 04:44:47 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+20/10/2018 06:18:53 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+20/10/2018 06:24:00 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+20/10/2018 06:25:04 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+20/10/2018 06:27:35 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+20/10/2018 10:29:15 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+20/10/2018 16:06:29 | SUCCESS | Save New video(0_89dmtew9) | By-jeeyaho_ott333 | 
+20/10/2018 16:07:40 | SUCCESS | Bulk Add Category(0_89dmtew9,436) | By-jeeyaho_ott333 | update entry set category='LIFESTYLE>YOGA', categoryid='436' where entryid='0_89dmtew9' 
+20/10/2018 16:08:05 | SUCCESS | Updtate MetaData(0_89dmtew9) | By-jeeyaho_ott333 | update entry set name='big_buck_bunny_720p_5mb.mp4',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_89dmtew9/version/100022',longdescription='Watch test video',
+        duration='30',type='1',tag='big, buck, bunny',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-10-20 16:12:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='fitness',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_89dmtew9'

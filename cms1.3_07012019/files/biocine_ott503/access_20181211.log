@@ -1,0 +1,54 @@
+11/12/2018 04:37:34 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 10:41:52 | SUCCESS | Save New video(0_dh563qf7) | By-Biocine_ott503 | 
+11/12/2018 10:55:18 | SUCCESS | Save New video(0_5j92r1ol) | By-Biocine_ott503 | 
+11/12/2018 11:26:50 | SUCCESS | Save currency_data(0_5j92r1ol) | By-Biocine_ott503 | 
+11/12/2018 11:26:59 | SUCCESS | Save Plan(0_5j92r1ol,1) | By-Biocine_ott503 | 
+11/12/2018 11:27:38 | SUCCESS | Updtate MetaData(0_5j92r1ol) | By-Biocine_ott503 | update entry set name='EP-2 MIsme beng ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5j92r1ol/version/100022',longdescription='Watch second episodes .... ',
+        duration='690',type='1',tag='misme, beng, ep2, video',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-11 11:33:00',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5j92r1ol'
+11/12/2018 11:54:53 | SUCCESS | Updtate MetaData(0_dh563qf7) | By-Biocine_ott503 | update entry set name='EP-1 MIsme beng',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dh563qf7/version/100022',longdescription='testing on premium video',
+        duration='777',type='1',tag='test, premium',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-11 12:00:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dh563qf7'
+11/12/2018 11:55:01 | SUCCESS | Save Plan(0_dh563qf7,1) | By-Biocine_ott503 | 
+11/12/2018 11:55:15 | SUCCESS | Save currency_data(0_dh563qf7) | By-Biocine_ott503 | 
+11/12/2018 12:09:55 | SUCCESS | Updtate MetaData(0_dh563qf7) | By-Biocine_ott503 | update entry set name='EP-1 MIsme beng',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dh563qf7/version/100022',longdescription='testing on premium video',
+        duration='777',type='1',tag='test, premium',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-11 12:15:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dh563qf7'
+11/12/2018 12:10:02 | SUCCESS | Updtate MetaData(0_5j92r1ol) | By-Biocine_ott503 | update entry set name='EP-2 MIsme beng ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5j92r1ol/version/100022',longdescription='Watch second episodes .... ',
+        duration='690',type='1',tag='misme, beng, ep2, video',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-11 12:15:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5j92r1ol'
+11/12/2018 09:04:04 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 09:21:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 10:04:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 11:19:42 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 11:22:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 11:44:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/12/2018 17:19:16 | SUCCESS | update plan Detail(Yearly) | By-Biocine_ott503 | 
+11/12/2018 17:19:29 | SUCCESS | Update New Plan Price(p939) | By-Biocine_ott503 | 
+11/12/2018 19:55:33 | SUCCESS | Save currency_data(0_5j92r1ol) | By-Biocine_ott503 | 
+11/12/2018 19:56:06 | SUCCESS | Updtate MetaData(0_5j92r1ol) | By-Biocine_ott503 | update entry set name='EP-2 MIsme beng ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5j92r1ol/version/100022',longdescription='Watch second episodes .... ',
+        duration='690',type='1',tag='misme, beng, ep2, video',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-11 20:01:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5j92r1ol'
+11/12/2018 20:01:18 | SUCCESS | Updtate MetaData(0_1u822ei4) | By-Biocine_ott503 | update entry set name='SANWARA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1u822ei4/version/100032',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, the song \"SANWARA\" sung by Shameek Kundy only on JeeoGuru Apps.\r\n\r\nSong: Sanwara\r\nSingers: Shameek Kundu\r\nBack Vocals: A.Rony, & Eidip, Ankita, Satwika, Arundhuti\r\nType: Meera Bhajan Song\r\nRaag: Based on Raga Maand\r\nLyrics: Meera Bhajan\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Sumit\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna\r\nPiano: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='315',type='1',tag='sawara, bhajan song, shock studio, hindi song, jeeoguru, classical music, indian music, fusion music, sanwara',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-11 20:06:40',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='HINDI',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1u822ei4'
+11/12/2018 20:02:03 | SUCCESS | Save Thumbnail(0_1u822ei4) | By-Biocine_ott503 | 
+11/12/2018 19:36:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

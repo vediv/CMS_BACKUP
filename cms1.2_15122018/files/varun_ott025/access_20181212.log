@@ -1,0 +1,113 @@
+12/12/2018 04:56:20 | SUCCESS | Category video Entry Priority Insert(147-1) | By-varun_ott025 | 
+12/12/2018 04:56:20 | SUCCESS | Category video Entry Priority Insert(147-0) | By-varun_ott025 | 
+12/12/2018 05:07:52 | SUCCESS | Category video Entry Priority Insert(147-1) | By-varun_ott025 | 
+12/12/2018 05:07:52 | SUCCESS | Category video Entry Priority Insert(147-0) | By-varun_ott025 | 
+12/12/2018 05:23:29 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 05:28:51',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 05:25:35 | SUCCESS | Updtate MetaData(0_uqeudbin) | By-varun_ott025 | update entry set name='Helicopter Test Video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_uqeudbin/version/100002',longdescription='test video',
+        duration='18',type='1',tag='test, video, helicopter, vehicle, airplane, aeroplane',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 05:30:57',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_uqeudbin'
+12/12/2018 05:28:49 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 05:34:11',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 05:52:38 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 05:58:00',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 05:55:14 | SUCCESS | Updtate MetaData(0_uqeudbin) | By-varun_ott025 | update entry set name='Helicopter Test Video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_uqeudbin/version/100002',longdescription='test video',
+        duration='18',type='1',tag='test, video, helicopter, vehicle, airplane, aeroplane',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:00:35',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_uqeudbin'
+12/12/2018 06:01:38 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:07:01',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 06:02:01 | SUCCESS | Updtate MetaData(0_uqeudbin) | By-varun_ott025 | update entry set name='Helicopter Test Video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_uqeudbin/version/100002',longdescription='test video',
+        duration='18',type='1',tag='test, video, helicopter, vehicle, airplane, aeroplane',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:07:23',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_uqeudbin'
+12/12/2018 06:12:19 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:17:41',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 06:13:08 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:18:30',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 06:16:10 | SUCCESS | Updtate MetaData(0_81r91j1o) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_81r91j1o/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:21:32',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_81r91j1o'
+12/12/2018 06:16:41 | SUCCESS | Updtate MetaData(0_uqeudbin) | By-varun_ott025 | update entry set name='Helicopter Test Video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_uqeudbin/version/100002',longdescription='test video',
+        duration='18',type='1',tag='test, video, helicopter, vehicle, airplane, aeroplane',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:22:03',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_uqeudbin'
+12/12/2018 06:19:07 | SUCCESS | Updtate MetaData(0_uqeudbin) | By-varun_ott025 | update entry set name='Helicopter Test Video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_uqeudbin/version/100002',longdescription='test video',
+        duration='18',type='1',tag='test, video, helicopter, vehicle, airplane, aeroplane',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='140,142,143',
+        updated_at='2018-12-12 06:24:29',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_uqeudbin'
+12/12/2018 06:22:26 | SUCCESS | Updtate MetaData(0_0pt2wmj8) | By-varun_ott025 | update entry set name='Bike Riding',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_0pt2wmj8/version/100002',longdescription='test video',
+        duration='13',type='1',tag='test, video, car, automobile, vehicle',category='ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='140,142,410',
+        updated_at='2018-12-12 06:27:48',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_0pt2wmj8'
+12/12/2018 06:38:42 | SUCCESS | Updtate MetaData(0_o7c01fnj) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_o7c01fnj/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS,ON DEMAND>AUTOMOBILES',categoryid='138,141',
+        updated_at='2018-12-12 06:44:04',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_o7c01fnj'
+12/12/2018 06:39:50 | SUCCESS | Updtate MetaData(0_mobc8bmk) | By-varun_ott025 | update entry set name='Gang of riders with Motorcycles',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_mobc8bmk/version/100062',longdescription='Watch the video of motorcycle stunt gang.',
+        duration='13',type='1',tag='motorcycle, stunt, bike, race, racing, gang, riders, rt2017',category='ON DEMAND>ANIMALS,ON DEMAND>ANIMALS>CUTE ANIMALS,ON DEMAND>ANIMALS>INDOOR PET,ON DEMAND>AUTOMOBILES>DRIFT',categoryid='138,139,140,142',
+        updated_at='2018-12-12 06:45:12',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_mobc8bmk'
+12/12/2018 07:38:17 | SUCCESS | Bulk Add Category(0_yftx83rv,144) | By-varun_ott025 | update entry set category='ON DEMAND>AUTOMOBILES>BEYOND', categoryid='144' where entryid='0_yftx83rv' 
+12/12/2018 07:39:06 | SUCCESS | Bulk Add Category(0_yftx83rv,0_4g8rpybw,0_77zanc9r,144) | By-varun_ott025 | update entry set category='ON DEMAND>AUTOMOBILES>BEYOND', categoryid='144' where entryid='0_77zanc9r' 
+12/12/2018 07:44:02 | SUCCESS | Category video Entry Priority Update(140-4) | By-varun_ott025 | 
+12/12/2018 07:44:02 | SUCCESS | Category video Entry Priority Update(140-2) | By-varun_ott025 | 
+12/12/2018 07:44:02 | SUCCESS | Category video Entry Priority Update(140-1) | By-varun_ott025 | 
+12/12/2018 07:44:02 | SUCCESS | Category video Entry Priority Update(140-3) | By-varun_ott025 | 
+12/12/2018 07:46:15 | SUCCESS | Updtate MetaData(0_8mfjmmkv) | By-varun_ott025 | update entry set name='Sintel - Story of a girl | English',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_8mfjmmkv/version/100042',longdescription='The movie started production in September 2009 and was premiered at the Netherlands Film Festival at the end of September 2010. With a much larger team and with bigger budget,film has found much acclaim on the web; story telling and editing were top priorities for the team.',
+        duration='888',type='1',tag='sintel, english, animation, cartoon, an2017',category='ON DEMAND>ANIMALS>INDOOR PET',categoryid='140',
+        updated_at='2018-12-12 07:51:38',shortdescription='The movie started production in September 2009 and was premiered at the Netherlands Film Festival at the end of September 2010.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_8mfjmmkv'
+12/12/2018 09:29:49 | SUCCESS | Sync Category | By-varun_ott025 | 
+12/12/2018 10:02:14 | SUCCESS | Sync Category | By-varun_ott025 | 
+12/12/2018 10:02:40 | SUCCESS | Sync Category | By-varun_ott025 | 
+12/12/2018 10:03:19 | SUCCESS | Sync Category | By-varun_ott025 | 
+12/12/2018 10:07:10 | SUCCESS | Sync Category | By-varun_ott025 | 
+12/12/2018 10:07:34 | SUCCESS | Sync Category | By-varun_ott025 | 
+12/12/2018 10:10:33 | SUCCESS | Sync Category | By-varun_ott025 | 

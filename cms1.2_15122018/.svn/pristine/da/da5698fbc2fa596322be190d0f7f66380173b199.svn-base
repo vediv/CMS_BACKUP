@@ -1,0 +1,337 @@
+27/07/2018 04:55:41 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+27/07/2018 06:08:57 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+27/07/2018 07:06:41 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+27/07/2018 08:32:56 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+27/07/2018 14:26:11 | SUCCESS | Updtate MetaData(0_b3aj8sch) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 26 - The Doll',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_b3aj8sch/version/100012',longdescription='',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 26, peekaboo, doll',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:29:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_b3aj8sch'
+27/07/2018 14:26:19 | SUCCESS | Updtate MetaData(0_f0i5vmr8) | By-Adosphere_ott488 | update entry set name='Maro Maya Bazaar',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_f0i5vmr8/version/100022',longdescription='Watch this movie which is directed by C.S.Rao and acted by Chandra Mohan, Rajya Lakshmi.',
+        duration='8016',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, chandra, mohan, rajya, lakshmi, nutan, prasad, maro, maya, bazar, bazzar, rajaya, laxmi, bazaar',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-07-27 14:29:46',shortdescription='Watch this movie which is directed by C.S.Rao and acted by Chandra Mohan, Rajya Lakshmi.',
+        director='C.S.Rao',producer='Chintala Mallesh Goud',cast='Chandra Mohan, Rajya Lakshmi',crew='',sub_genre='Drama',
+        language='Telugu',pgrating='',video_status='active',custom_data=''
+        where entryid='0_f0i5vmr8'
+27/07/2018 14:26:27 | SUCCESS | Updtate MetaData(0_x96o9isg) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 31 - The Zoo',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_x96o9isg/version/100012',longdescription='The Kids Animation Takat the dog episode 31 - Takat\'s visit in zoo is a full pack of comedy where he also tease other animals.\r\n',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 31, zoo, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:29:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_x96o9isg'
+27/07/2018 14:26:54 | SUCCESS | Updtate MetaData(0_2cz0rg3d) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 37 - The Move',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_2cz0rg3d/version/100012',longdescription='In this episode Takat is curious about some furniture moved from an apartment of the building. He enters into the lift and goes up, watch this to know surprise is waiting for him at the apartment.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 37, peekaboo, move',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:30:21',shortdescription='In this episode Takat is curious about some furniture moved from an apartment of the building. He enters into the lift and goes up, watch this to know',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_2cz0rg3d'
+27/07/2018 14:28:15 | SUCCESS | Updtate MetaData(0_7lko3kh7) | By-Geetanjali_ott488 | update entry set name='Takat The Dog Ep 52 - The Oven',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_7lko3kh7/version/100002',longdescription='he smell of the fresh cakes and pastries just out of the oven attracts Takat to a bakery. He eats all the goodies which have a dangerous effect on Takat ́s stomach.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, 52, series, little, children, story, learning, animation, stories, telling, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, peekaboo, oven',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:31:42',shortdescription='Takat is fond of food and here in this episode bakery ovens are full of breads and cakes.Takat enters the bakery and eat lots of food beyond his capacity.After so much of food he is running away from all the eatable things.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_7lko3kh7'
+27/07/2018 14:28:32 | SUCCESS | Updtate MetaData(0_7pg90s78) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 51 - The Hummer',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_7pg90s78/version/100002',longdescription='It\'s very normal for Takat to see big cars, but he doesn\'t know what happens when a car with his size rolls over him. He takes a chance to face it and wins. Watch the video to see the fun moment of Takat.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 51, peekaboo, hummer',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:32:00',shortdescription='The Kids Animation Takat the dog episode 51 - While walking in park Takat saw a remote hummer car.The boy teases him and plays with his car. Takat also teach him a lesson with his own hummer. Watch the video to see the fun moment of Takat.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_7pg90s78'
+27/07/2018 14:28:49 | SUCCESS | Updtate MetaData(0_dkocdfwh) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 38 - Skating',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_dkocdfwh/version/100002',longdescription='In this episode Takat walks on the street when all of the sudden a skater almost rolls over him.He follows the skater and tries to bite him.Watch to know more the cool tricks and moves of skating of Takat.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 38, peekaboo, skating',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:32:16',shortdescription='The Kids Animation Takat the dog episode 38 - Takat dog enjoys up the cool tricks and moves of skating.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_dkocdfwh'
+27/07/2018 14:29:06 | SUCCESS | Updtate MetaData(0_fjws4mwe) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 39 - Agility',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fjws4mwe/version/100002',longdescription='In this episode Takat enters into the dog contest shows where he sees that every ends up with tempting biscuits. After looking to the bowl full of biscuits, he started his performance and ends with a shower of biscuits.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 39, peekaboo, agility',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:32:33',shortdescription='The Kids Animation Takat the dog episode 39 - Takat enters into the dog show where he see that every ends up with tempting biscuits.After looking to the bowl full of buiscuits,he started his performance and ends with a shower of buiscuits.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_fjws4mwe'
+27/07/2018 14:29:22 | SUCCESS | Updtate MetaData(0_g1p9o4eu) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 50 - The Sewer',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_g1p9o4eu/version/100002',longdescription='In this episode Takat chases a round cheese ball that falls down the sewer, he goes into the sewer where he fights with the rat for a box .',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 50, peekaboo, sewer',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:32:49',shortdescription='The Kids Animation Takat the dog episode 50 - Takat goes into the sewer where he fights with the rat for a box of cake.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_g1p9o4eu'
+27/07/2018 14:29:36 | SUCCESS | Updtate MetaData(0_glzbl1rq) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 46 - Terrace',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_glzbl1rq/version/100002',longdescription='In this episode Takat walks on the street and finds a peace of tasty dish.Watch to know Takat way to not be noticed and eat a tasty squid dish',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 46, terrace, peekaboo, takat the dog',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:33:03',shortdescription='The Kids Animation Takat the dog episode 46 - Takat in a terrace chases food and reach to his destination i.e food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_glzbl1rq'
+27/07/2018 14:29:50 | SUCCESS | Updtate MetaData(0_ji1pup2e) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 40 - The Road Weeper',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ji1pup2e/version/100002',longdescription='In this episode Takat has just woken up from his box and he is feeling a little lazy. A black cloud crossing by his box scares him. He discovers it\'s just the road sweeper, sweeping everything on his way; including his house.watch to know more how Takat recovers his house wisely.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 40, peekaboo, weeper',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:33:18',shortdescription='The Kids Animation Takat the dog episode 40 - Takat dog gets irritated by the road weeper who distrub his sleep.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_ji1pup2e'
+27/07/2018 14:30:07 | SUCCESS | Updtate MetaData(0_lxysg8gq) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 42- Ice Cream',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lxysg8gq/version/100002',longdescription='In this episode There is an ice cream car at a fair and Takat watches the ice cream cones as they come out of the truck for the children. He tries to catch them but finally he realizes the ice cream factory could be a better option.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 42, ice, cream, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:33:34',shortdescription='The Kids Animation Takat the dog episode 42 - While walking around in park Takat saw ice cream stall and when he see food he gets tempted to get the food .Here also he enjoys eating different flavours of ice cream .',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_lxysg8gq'
+27/07/2018 14:31:43 | SUCCESS | Updtate MetaData(0_w7g5jhl1) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 41- The Dinner Party',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_w7g5jhl1/version/100002',longdescription='In this episode Takat get the smell of tasty food where he chase the waiter and enter inside the party and enjoy with delicious food but with some twist.To know about twist watch the video.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 41, peekaboo, dinner, party',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:35:10',shortdescription='The Kids Animation Takat the dog episode 41 - Takat get the smell of tasty food where we chase the waiter and enter inside the party and enjoy with delicious food but with some twist.To know about twist watch the video.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_w7g5jhl1'
+27/07/2018 14:34:49 | SUCCESS | Updtate MetaData(0_00ootyiu) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 32 - The Sandwich',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_00ootyiu/version/100002',longdescription='In this video Takat walks on street in search of food and suddenly saw a delicious sandwich in a boy’s hand, he try to chase him, Very cool to watch Takat’s struggle to get the sandwich.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 32, peekaboo, sandwich',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:38:16',shortdescription='In this video Takat walks on street in search of food and suddenly saw a delicious sandwich in a boy’s hand, he try to chase him, Very cool to watch T',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_00ootyiu'
+27/07/2018 14:35:08 | SUCCESS | Updtate MetaData(0_0gnnfamw) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 14 - Seagull',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_0gnnfamw/version/100002',longdescription='In this episode Takat meets enemy bird’s Seagull at the beach. Seagull makes Takat’s life impossible until our street dog finds the way set a trap to teach the evil bird a lesson.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 14, seagull, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:38:35',shortdescription='In this episode Takat meets enemy bird’s Seagull at the beach.Seagull makes Takat’s life impossible until our street dog finds the way to teach lesson',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_0gnnfamw'
+27/07/2018 14:36:05 | SUCCESS | Updtate MetaData(0_0ydirdlz) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 06 - The Motorcycle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_0ydirdlz/version/100002',longdescription='In this episode Takat was sleeping, he senses a smell that catches his attention. He notices food sticking out from the box behind the motorcycle. While the pizza guy leaves his vehicle, Takat tries to open the box until he manages to get in.',
+        duration='161',type='1',tag='kids, cartoon, cartoons, takat, tkt, dog, episode, ep, 06, series, little, 4yr, 8yr, children, story, learning, animation, animated, stories, telling, zone, tales, tale, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, peekaboo, motorcycle, aroma, pizza',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:39:32',shortdescription='The Kids Animation Takat the dog episode 06 - Takat dog was lying on grass , suddenly the motorcycle cross by with a strong aroma of pizza . The comedy of Takat starts from here to know more watch the video.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_0ydirdlz'
+27/07/2018 14:36:29 | SUCCESS | Updtate MetaData(0_14y9c8th) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 21 - The Kite',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_14y9c8th/version/100002',longdescription='In this episode some people at the beach fly kites and Takat loves flying. Watch Takat’s kite fly without an engine.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 21, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:39:56',shortdescription='In this episode some people at the beach fly kites and Takat loves flying. Watch this Takat’s kite fly without an engine.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_14y9c8th'
+27/07/2018 14:36:45 | SUCCESS | Updtate MetaData(0_lcjl2i46) | By-Adosphere_ott488 | update entry set name='Vidinja Kalyanam',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lcjl2i46/version/100012',longdescription='Watch this 1986 tamil language indian feature film starring Sathyaraj and Jayashree in lead roles and directed by Manivannan',
+        duration='8413',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, sathyaraj, jayashree, vidinja, kalyanam, manivannan',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-07-27 14:40:12',shortdescription='Watch this 1986 tamil language indian feature film starring Sathyaraj and Jayashree in lead roles and directed by Manivannan',
+        director='Manivannan',producer='Thirupoor Mani',cast='Sathyaraj,Jayashree',crew='NULL',sub_genre='Drama',
+        language='Tamil',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_lcjl2i46'
+27/07/2018 14:36:51 | SUCCESS | Updtate MetaData(0_1s2jh6d8) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 22 - The Garden',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_1s2jh6d8/version/100002',longdescription='In this episode Night time is when Takat searches for food. He enters a garden where number of rabbits are eating carrots. He runs to save the carrots garden.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 22, peekaboo, garden',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:40:19',shortdescription='In this episode Night time is when Takat searches for food. He enters a garden where number of rabbits are eating carrots. ',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_1s2jh6d8'
+27/07/2018 14:37:15 | SUCCESS | Updtate MetaData(0_35d81xiv) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 10 - Magic Games',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_35d81xiv/version/100012',longdescription='In this episode Takat finds a box inside a dustbin. This box holds many surprise that makes him magician. Watch this to know Takat’s magic.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, magic, games, ten, 10',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:40:42',shortdescription='In this episode Takat finds a box inside a dustbin. This box holds many surprises that makes him magician. ',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_35d81xiv'
+27/07/2018 14:37:44 | SUCCESS | Updtate MetaData(0_3mscfh5c) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 34 - Full Moon',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3mscfh5c/version/100002',longdescription='In this episode Takat experiences different behavior of Cats when it’s a full moon. This night he gets annoyed with the pubic demonstrations of a group of meow.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 34, moon, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:41:11',shortdescription='In this episode Takat experiences different behavior of Cats when it’s a full moon. ',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_3mscfh5c'
+27/07/2018 14:41:22 | SUCCESS | Updtate MetaData(0_5h61qfiw) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 16 - The Police',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5h61qfiw/version/100002',longdescription='In this episode The police is looking for Takat and he finds out they are chasing him. He tries everything to hide himself form police. Watch this to know more... ',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 16, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:44:49',shortdescription='In this episode The police is looking for Takat and he finds out they are chasing him. He tries everything to hide himself form police. Watch this to ',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_5h61qfiw'
+27/07/2018 14:41:52 | SUCCESS | Updtate MetaData(0_7sz6tibv) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 02 - The Fountain',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_7sz6tibv/version/100002',longdescription='In this episode, Takat is thirsty and he seems not to find water anywhere until he finds water fountain, he tries to drink water form tap but he fails, now he has no clue how to make it work but after many tries he got the technique and drink lots of water and swim in it.',
+        duration='160',type='1',tag='kids, cartoon, cartoons, takat, tkt, dog, episode, ep, 02, series, little, 4yr, 8yr, children, story, learning, animation, animated, stories, telling, zone, tales, tale, juniors, season, tv3, digital, stray, non, dialogue, comedy, full, fountain, thirsty, technique, swim, drink, walk, park',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:45:19',shortdescription='In this episode, Takat is thirsty and he seems not to find water anywhere until he finds water fountain, he tries to drink water form tap but he fails',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_7sz6tibv'
+27/07/2018 14:42:17 | SUCCESS | Updtate MetaData(0_e56dztgr) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 20 - The Bee',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_e56dztgr/version/100002',longdescription='The Kids Animation Takat the dog episode 20 - Takat always love to relax and sleep. But this time the Villan of his sleep is Bee.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 20, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:45:44',shortdescription='The Kids Animation Takat the dog episode 20 - Takat always love to relax and sleep. But this time the Villan of his sleep is Bee.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_e56dztgr'
+27/07/2018 14:42:38 | SUCCESS | Updtate MetaData(0_flhmnang) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 17 - Parrots',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_flhmnang/version/100002',longdescription='In this episode Parrots interrupt the Takat with their chirruping sound. Takat tries to annoy the constant noise of the parrots but he failed. Watch the interesting point where he tries to find an effective way to get rid of them.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 17, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:46:05',shortdescription='In this episode Parrots interrupt the Takat with their chirruping sound. Takat tries to annoy the constant noise of the parrots but he failed. Watch t',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_flhmnang'
+27/07/2018 14:42:56 | SUCCESS | Updtate MetaData(0_gt6nu7s1) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 27 - Bubble Gum',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gt6nu7s1/version/100012',longdescription='In this episode Takat finds a piece of gum on the floor and eats it. The problems arise when everything gets sticky see the funny situation of Takat.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 27, peekaboo, bubble, gum, takat the dog',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:46:23',shortdescription='The Kids Animation Takat the dog episode 27 - Takat dog find Bubble gum on street.The bubble gum create the fuzzy situation of Takat . Watch more to see the funny situation of Takat.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_gt6nu7s1'
+27/07/2018 14:43:13 | SUCCESS | Updtate MetaData(0_hdqaecnj) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 19 - The Sprinkler',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_hdqaecnj/version/100002',longdescription='Little drops wake up Takat as he is lying right under a bush at a public park.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 19, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:46:41',shortdescription='The Kids Animation Takat the dog episode 19 - Watch how Takat\'s sleep get disturb by sprinkler.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_hdqaecnj'
+27/07/2018 14:45:12 | SUCCESS | Updtate MetaData(0_loyhjz3k) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 12 - The Store',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_loyhjz3k/version/100002',longdescription='Takat is taking a walk and all of the sudden he sees a window with a display of stuffed animals looking at him. He doesn\'t know they are not alive and on a corner he thinks he has just seen Babs trapped among his enemies. He tries to save her from her kidnappers.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 12, store',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:48:39',shortdescription='The Kids Animation Takat the dog episode 12 - Takat dog enters the toy store where he steal a toy dog thinking it as a real dog.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_loyhjz3k'
+27/07/2018 14:45:34 | SUCCESS | Updtate MetaData(0_nl2hem5c) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 30 - Starving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nl2hem5c/version/100012',longdescription='In this episode Takat is hungry and passes by a food truck that has a picture of cylindrical length. He presumes what\'s inside and prepares a strategy to eat them all.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 30, peekaboo, starving',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:49:02',shortdescription='The Kids Animation Takat the dog episode 30 - Takat dog ruins up the picnic of a family by his mischievous trick to get the food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_nl2hem5c'
+27/07/2018 14:45:54 | SUCCESS | Updtate MetaData(0_qimb3tw2) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 08 - The Thief',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qimb3tw2/version/100002',longdescription='The Kids Animation Takat the dog episode 08 - Takat dog make thief run away at the time of robbery.',
+        duration='156',type='1',tag='kids, cartoon, cartoons, takat, tkt, dog, episode, ep, 08, series, little, 4yr, 8yr, children, story, learning, animation, animated, stories, telling, zone, tales, tale, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, peekaboo, thief, robbery, takat the dog',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:49:21',shortdescription='The Kids Animation Takat the dog episode 08 - Takat dog make thief run away at the time of robbery.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_qimb3tw2'
+27/07/2018 14:46:10 | SUCCESS | Updtate MetaData(0_rc0x0cuw) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 24 - Rabbits II',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rc0x0cuw/version/100012',longdescription='Takat rests at the park when all of a sudden something hits him on the head. The rabbits are playing soccer and accidentally hit him.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 24, peekaboo, rabits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:49:37',shortdescription='The Kids Animation Takat the dog episode 24 - Takat dog is sleeping under a tree where some rabbits came and tease Takat.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_rc0x0cuw'
+27/07/2018 14:46:29 | SUCCESS | Updtate MetaData(0_rpvvpmfv) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 13 - The Frisbee',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rpvvpmfv/version/100002',longdescription='Takat is wondering around the beach where people are walking, sunbathing, and playing games. While two kids are playing with a Frisbee, Takat ́s attention is caught by the round object which makes him jump to try to catch it and find out what\'s the flying object.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 13, frisbee, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:49:56',shortdescription='The Kids Animation Takat the dog episode 13 - Takat dog walks around the beach and found one frisbee. He wants to play with the frisbee but comedy of animation cartoon starts from here and to know more watch the video.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_rpvvpmfv'
+27/07/2018 14:46:50 | SUCCESS | Updtate MetaData(0_sftvdbkd) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 09 - The Kitty',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_sftvdbkd/version/100002',longdescription='It\'s world known that cats and dogs don\'t get along. One day a little kitty appears on the box where Takat sleeps and he doesn\'t like it. The little kitty gets mellow with Takat who keeps avoiding it but at the end the kitten steals his heart. What will Takat do with the kitten?',
+        duration='163',type='1',tag='kids, cartoon, cartoons, takat, tkt, dog, episode, ep, 09, series, little, 4yr, 8yr, children, story, learning, animation, animated, stories, telling, zone, tales, tale, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, peekaboo, kitty, kittens',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:50:18',shortdescription='The Kids Animation Takat the dog episode 09 - Takat dog place cute little kitty withh the fellow kittens and also enjoy the comdy of Takat in the kitty episode .',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_sftvdbkd'
+27/07/2018 14:47:08 | SUCCESS | Updtate MetaData(0_snmfzd1i) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 18 - The Market',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_snmfzd1i/version/100002',longdescription='In this episode The market offers a variety of food that makes Takat drool. He is very hungry and tries to find as much food as he can from basket to basket.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 18, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:50:35',shortdescription='In this episode The market offers a variety of food that makes Takat drool. He is very hungry and tries to find as much food as he can from basket to ',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_snmfzd1i'
+27/07/2018 14:47:27 | SUCCESS | Updtate MetaData(0_t4utxd25) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 07 - The Fisherman',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_t4utxd25/version/100002',longdescription='The Kids Animation Takat the dog episode 07 - Takat dog swim into the sea and grabs up the fish food.',
+        duration='160',type='1',tag='kids, cartoon, cartoons, takat, tkt, dog, episode, ep, 07, series, little, 4yr, 8yr, children, story, learning, animation, animated, stories, telling, zone, tales, tale, juniors, season, tv3, digital, stray, non, dialogue, comedy, full, peekaboo, fisherman, sea, grabs, food, fish',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:50:54',shortdescription='The Kids Animation Takat the dog episode 07 - Takat dog swim into the sea and grabs up the fish food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_t4utxd25'
+27/07/2018 14:47:45 | SUCCESS | Updtate MetaData(0_twmrpnta) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 33 - The Janitor',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_twmrpnta/version/100002',longdescription='In this episode Takat considers A doorkeeper of the building lives there at a little apartment. He hates dogs but loves pigeons. Takat does everything to steal the pigeons\' food and annoy the doorkeeper',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 33, janitor, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:51:13',shortdescription='The Kids Animation Takat the dog episode 33 - Takat walks around on street and saw Janitor eating their food.He barks on the Janitors and eat their food.Watch to know the comic session in this episode of Janitor.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_twmrpnta'
+27/07/2018 14:48:08 | SUCCESS | Updtate MetaData(0_u26rpkv8) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 29 - The Nightmare',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_u26rpkv8/version/100002',longdescription='The Kids Animation Takat the dog episode 29 - Takat dog dreamt of food and has a nightmare of noodles .',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 29, nightmare, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:51:35',shortdescription='The Kids Animation Takat the dog episode 29 - Takat dog dreamt of food and has a nightmare of noodles .',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_u26rpkv8'
+27/07/2018 14:48:22 | SUCCESS | Updtate MetaData(0_xw11mmyq) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 23 - Rabbits',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xw11mmyq/version/100002',longdescription='Takat will pay a high price for a silly mistake. Burying his bones and keeping them for later will make Takat pay a high price with the rabbits.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 23, rabits, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:51:49',shortdescription='The Kids Animation Takat the dog episode 23 - Takat\'s favourite food is bone.He found one and hide it under the ground.Due to the smell of bone, bunch of rabbits come and tease him by digging and play with his food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_xw11mmyq'
+27/07/2018 14:48:34 | SUCCESS | Updtate MetaData(0_yri2xop7) | By-Geetanjali_ott488 | update entry set name='Takat the Dog Ep 11 - Picnic',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_yri2xop7/version/100002',longdescription='The Kids Animation Takat the dog episode 11 - Takat dog ruins up the picnic of a family by his mischievous trick to get the food.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 11, picnic',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 14:52:02',shortdescription='The Kids Animation Takat the dog episode 11 - Takat dog ruins up the picnic of a family by his mischievous trick to get the food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_yri2xop7'
+27/07/2018 15:00:38 | SUCCESS | Updtate MetaData(0_unuxaohp) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 3 - Differents',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_unuxaohp/version/100012',longdescription='The Kids Animation Edebits episode 3 - We have Roberto Simone arrives to Antarctica to help save seals from hunters.',
+        duration='780',type='1',tag='kids, cartoon, edebit, episode, ep, series, learning, little, kid, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, different, robert, simone, hunter, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:04:05',shortdescription='The Kids Animation Edebits episode 3 - We have Roberto Simone arrives to Antarctica to help save seals from hunters.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_unuxaohp'
+27/07/2018 15:00:57 | SUCCESS | Updtate MetaData(0_2q7m85he) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 23 - Let\'s save the base',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_2q7m85he/version/100002',longdescription='A rich woman has bought the oldest scientific base of Antarctica to turn it into a holiday resort.Of course Bet and all the team would like to stop all this.Their plan works and in the end the woman thanks Bet for having taught her an important lesson.',
+        duration='773',type='1',tag='kids, cartoon, edebit, episode, 23, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, safe, base, scientific, antartica, work, antarc, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:04:24',shortdescription='A rich woman has bought the oldest scientific base of Antarctica to turn it into a holiday resort.Of course Bet and all the team would like to stop all this.Their plan works and in the end the woman thanks Bet for having taught her an important lesson.',
+        director='Carlos Roca',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_2q7m85he'
+27/07/2018 15:01:10 | SUCCESS | Updtate MetaData(0_77wzp65r) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 20 - Gotcha',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_77wzp65r/version/100002',longdescription='Julia and Nil are about to send their research for a scientific competition when Lou and Morgan succeeds in stealing them the project. The Edebits will stop their evil plan to send Julia and Nil\' s  research as if it were theirs. They do so by exchanging the attached file which was going to be sent',
+        duration='783',type='1',tag='kids, cartoon, edebit, episode, 20, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, gotcha, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:04:37',shortdescription='Julia and Nil are about to send their research for a scientific competition when Lou and Morgan succeeds in stealing them the project. The Edebits will stop their evil plan to send Julia and Nil\' s  research as if it were theirs. They do so by exchanging the attached file which was going to be sent',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_77wzp65r'
+27/07/2018 15:01:46 | SUCCESS | Updtate MetaData(0_7ovs3h6f) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 24 - Change of colours',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_7ovs3h6f/version/100002',longdescription='Bet\'s parents have organized a short trip on the boat to explore the surrounding sea area of coloured icebergs. This natural phenomenon due to the reflection of the sun on the plankton and on the sea rests of animals and vegetables inside the ice, particularly visible when there is a lot of light.',
+        duration='785',type='1',tag='kids, cartoon, edebit, episode, 24, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, colours, change, boat, ice, bergs, plankton, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:05:13',shortdescription='Bet\'s parents have organized a short trip on the boat to explore the surrounding sea area of coloured icebergs. This natural phenomenon due to the reflection of the sun on the plankton and on the sea rests of animals and vegetables inside the ice, particularly visible when there is a lot of light.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_7ovs3h6f'
+27/07/2018 15:06:32 | SUCCESS | Updtate MetaData(0_jg71kxas) | By-Adosphere_ott488 | update entry set name='Adavi Veerulu ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jg71kxas/version/100002',longdescription='Watch full length Adavi Veerulu Tollywood film which is directed by P. Subramanyam and starring Kantha Rao,Vijaya Nirmala.',
+        duration='7608',type='1',tag='telugu, tollywood, comedy, south, indian, full, length, 90s, cinema, interesting, classic, drama, action, adavi, veerulu, psubramanyam, kantha, rao, vijaya, nirmala',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-07-27 15:09:59',shortdescription='Watch full length Adavi Veerulu Tollywood film which is directed by P. Subramanyam and starring Kantha Rao,Vijaya Nirmala.',
+        director='NULL',producer='NULL',cast='Kantha Rao, Vijaya Nirmala',crew='NULL',sub_genre='NULL',
+        language='Telugu',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_jg71kxas'
+27/07/2018 15:12:54 | SUCCESS | Updtate MetaData(0_vpzddihy) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 19 - The secret Base',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vpzddihy/version/100012',longdescription='Bet and Mandi hava discovered another base which does not appear in any of their maps.Bet is very curious and secretly gets into it to investigate. Unluckily she gets trapped inside but the Edebits help her out. Once back home, Bet discovers that the secret base is in fact a space agency',
+        duration='781',type='1',tag='kids, cartoon, edebit, episode, 19, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, mandi, hide, hidden, secret, base, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:16:21',shortdescription='Bet and Mandi hava discovered another base which does not appear in any of their maps.Bet is very curious and secretly gets into it to investigate. Unluckily she gets trapped inside but the Edebits help her out. Once back home, Bet discovers that the secret base is in fact a space agency',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_vpzddihy'
+27/07/2018 15:13:18 | SUCCESS | Updtate MetaData(0_8wk0atwv) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 9 - A Seal in danger',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8wk0atwv/version/100002',longdescription='The Kids Animation Edebits episode 9 - A scientific team discovered about various type of oil bins in the deep sea water endangering the sea life.',
+        duration='771',type='1',tag='kids, cartoon, edebit, episode, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, seal, danger, scientist, team, sea, life, episode 9, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:16:45',shortdescription='The Kids Animation Edebits episode 9 - A scientific team discovered about various type of oil bins in the deep sea water endangering the sea life.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_8wk0atwv'
+27/07/2018 15:13:33 | SUCCESS | Updtate MetaData(0_a4af73in) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 11 - We \'ve Got a Problem',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_a4af73in/version/100002',longdescription='Paul has come to visit his friend Bet but he seems more interested in Nil\'s scientific lessons on dinosaurs than to Bet’s play. In the meantime the Edebits have tried to steal a program on colors and when Bet realizes it,she gets very upset.',
+        duration='779',type='1',tag='kids, cartoon, edebit, episode, 11, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, problem, dinosaurs, nil, paul, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:17:00',shortdescription='Bet’s play. In the meantime the Edebits have tried to steal a program on colors and when Bet realizes it,she gets very upset',
+        director='Carlos Roca',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_a4af73in'
+27/07/2018 15:13:48 | SUCCESS | Updtate MetaData(0_azsjptm6) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 8 - The Sponsors',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_azsjptm6/version/100002',longdescription='The Kids Animation Edebits episode 8 - The sponsors visit with their children to survey about how everything is going.',
+        duration='769',type='1',tag='kids, cartoon, edebit, episode, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, sponsors, ede, bit, episode 8, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:17:15',shortdescription='The Kids Animation Edebits episode 8 - The sponsors visit with their children to survey about how everything is going.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_azsjptm6'
+27/07/2018 15:19:52 | SUCCESS | Updtate MetaData(0_nozqjgsw) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 15 - In search of the treasure',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nozqjgsw/version/100002',longdescription='Bet joins her parents on a scientific excursion on an island where Lou and Morgan are there too looking for the famous Captain Drake’s treasure.In the meantime the Edebits risk to be cancelled forever but thanks to an intelligent bit they are save.',
+        duration='778',type='1',tag='kids, cartoon, edebit, episode, 15, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, search, treasure, hunt, explore, lou, morgan, captain, drake, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:23:19',shortdescription='Bet joins her parents on a scientific excursion on an island where Lou and Morgan are there too looking for the famous Captain Drake�s treasure.In the meantime the Edebits risk to be cancelled forever but thanks to an intelligent bit they are save.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_nozqjgsw'
+27/07/2018 15:20:11 | SUCCESS | Updtate MetaData(0_olvtlof9) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 6 - Bet\'s New Pet',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_olvtlof9/version/100002',longdescription='The Kids Animation Edebits episode 6 - Bet\'s take home a baby Penguin after this her parents explain that why they should stay in their habit.',
+        duration='782',type='1',tag='kids, cartoon, edebit, episode, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, new, pet, penguin, baby, ice, creature, episode 6, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:23:38',shortdescription='The Kids Animation Edebits episode 6 - Bet\'s take home a baby Penguin after this her parents explain that why they should stay in their habit.',
+        director='Carlos Roca',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_olvtlof9'
+27/07/2018 15:20:30 | SUCCESS | Updtate MetaData(0_ppw7lhvz) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 1 - Bet\'s secret',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ppw7lhvz/version/100012',longdescription='The Kids Animation Edebits episode 1 - Bet\'s Secret is where Bet ends up creating five little characters which she named  them Arts,Gov,Net,org and Com.',
+        duration='770',type='1',tag='kids, cartoon, edebit, episode, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, bets, secret, edebits, ede, bit, episode 1',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:23:57',shortdescription='The Kids Animation Edebits episode 1 - Bet\'s Secret is where Bet ends up creating five little characters which she calls Arts,Gov,Net,org and Com.',
+        director='Carlos Roca',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_ppw7lhvz'
+27/07/2018 15:20:49 | SUCCESS | Updtate MetaData(0_rd442yf4) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 4 - Waste in the Water',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rd442yf4/version/100002',longdescription='The Kids Animation Edebits episode 4 - The Edebits get an idea to use the whales language to warn them of problems in their food supply.',
+        duration='765',type='1',tag='kids, cartoon, edebit, episode, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, waste, water, liquid, episode 4, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:24:16',shortdescription='The Kids Animation Edebits episode 4 - The Edebits get an idea to use the whales language to warn them of problems in their food supply.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_rd442yf4'
+27/07/2018 15:21:09 | SUCCESS | Updtate MetaData(0_xj0quzxd) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 12 - Danger at the airport',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xj0quzxd/version/100002',longdescription='Julia, Mandi and Bet are at the airport waiting for plane’s Nil arrival.Unexpectedly, Nil’s plane due to the thick fog can’t land without the assistance from earth.The Edebits help restoring the functioning of the network so that in the end Nil’s plane can land.',
+        duration='766',type='1',tag='kids, cartoon, edebit, episode, 12, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, danger, airport, fly, julia, telling, listen, stories, bet, arts, gov, net, org, com, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:24:36',shortdescription='Julia, Mandi and Bet are at the airport waiting for plane�s Nil arrival.Unexpectedly, Nil�s plane due to the thick fog can�t land without the assistance from earth.The Edebits help restoring the functioning of the network so that in the end Nil�s plane can land.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_xj0quzxd'
+27/07/2018 15:21:24 | SUCCESS | Updtate MetaData(0_y3vctaws) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 10 - A Dreadful Birthday',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_y3vctaws/version/100002',longdescription='The Kids Animation Edebits episode 10 - Bet\'s always try and wants to celebrate his birthday as a normal kid , but it seems to be impossible.',
+        duration='776',type='1',tag='kids, cartoon, edebit, episode, 10, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, dreadful, dread, birthday, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:24:51',shortdescription='The Kids Animation Edebits episode 10 - Bet\'s always try and wants to celebrate his birthday as a normal kid , but it seems to be impossible.',
+        director='Carlos Roca',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_y3vctaws'
+27/07/2018 15:21:35 | SUCCESS | Updtate MetaData(0_z9c73ug9) | By-Geetanjali_ott488 | update entry set name='Edebits Ep 14 - Grandma\'s decision',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_z9c73ug9/version/100012',longdescription='Bet’s grandmother has come to the Pangea base as she has decided to separate from his husband as he does not stop to stay in front of the computer all day. Bet asks Edebits help to manipulate the network so that he can stop it and come back to his wife.',
+        duration='766',type='1',tag='kids, cartoon, edebit, episode, 14, ep, series, learning, little, kid, yr, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, grandma, mother, decision, edebits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-07-27 15:25:02',shortdescription='Bet’s grandmother has come to the Pangea base as she has decided to separate from his husband as he does not stop to stay in front of the computer all day. Bet asks Edebits help to manipulate the network so that he can stop it and come back to his wife.',
+        director='Carlos Roca',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_z9c73ug9'
+27/07/2018 10:34:31 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+27/07/2018 17:40:31 | SUCCESS | Save Thumbnail(0_lrvv8a06) | By-Adosphere_ott488 | 
+27/07/2018 17:50:53 | SUCCESS | Save Thumbnail(0_ee3uqn0w) | By-Adosphere_ott488 | 

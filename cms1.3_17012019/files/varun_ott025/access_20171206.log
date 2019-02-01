@@ -1,0 +1,1 @@
+06/12/2017 11:09:18 | SUCCESS | Delete Menu Header (17) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='17'

@@ -1,0 +1,20 @@
+21/11/2018 00:42:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+21/11/2018 07:21:34 | SUCCESS | Save New video(0_r7u3e3a4) | By-Biocine_ott503 | 
+21/11/2018 08:50:58 | SUCCESS | Save New video(0_g55edpj9) | By-Biocine_ott503 | 
+21/11/2018 10:03:11 | SUCCESS | Updtate MetaData(0_g55edpj9) | By-Biocine_ott503 | update entry set name='Abhijan.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_g55edpj9/version/100002',longdescription='',
+        duration='328',type='1',tag='',category='',categoryid='',
+        updated_at='2018-11-21 10:08:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_g55edpj9'
+21/11/2018 05:07:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+21/11/2018 14:00:40 | SUCCESS | Save New video(0_1wuopqpg) | By-Biocine_ott503 | 
+21/11/2018 20:07:03 | SUCCESS | Save New video(0_sydn79mh) | By-Biocine_ott503 | 
+21/11/2018 14:53:10 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+21/11/2018 20:29:22 | SUCCESS | Save New video(0_9p8b3c9b) | By-Biocine_ott503 | 
+21/11/2018 20:37:32 | SUCCESS | Save New video(0_5b111z71) | By-Biocine_ott503 | 
+21/11/2018 20:41:36 | SUCCESS | Save New video(0_v3kv39b6) | By-Biocine_ott503 | 
+21/11/2018 20:41:43 | SUCCESS | Save New video(0_av9ilbcc) | By-Biocine_ott503 | 
+21/11/2018 20:41:51 | SUCCESS | Save New video(0_v8iq0trr) | By-Biocine_ott503 | 
+21/11/2018 20:41:53 | SUCCESS | Save New video(0_sxxi13p3) | By-Biocine_ott503 | 
+21/11/2018 20:42:59 | SUCCESS | Save New video(0_jg58qa7f) | By-Biocine_ott503 | 

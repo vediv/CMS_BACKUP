@@ -1,0 +1,6 @@
+01/12/2018 05:31:20 | SUCCESS | Updtate MetaData(0_fi7ne8bz) | By-varun_ott025 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_fi7ne8bz/version/100042',longdescription='',
+        duration='5',type='1',tag='',category='ON DEMAND',categoryid='137',
+        updated_at='2018-12-01 05:36:33',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_fi7ne8bz'

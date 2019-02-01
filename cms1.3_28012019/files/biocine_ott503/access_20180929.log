@@ -1,0 +1,15 @@
+29/09/2018 04:17:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+29/09/2018 09:33:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+29/09/2018 09:34:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+29/09/2018 15:06:03 | SUCCESS | Updtate MetaData(0_am29malg) | By-Biocine_ott503 | update entry set name='Andy And His Accordion',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_am29malg/version/100042',longdescription='',
+        duration='309',type='1',tag='andy, animation',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,KIDS',categoryid='296,299,312',
+        updated_at='2018-09-29 15:10:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_am29malg'
+29/09/2018 15:06:33 | SUCCESS | Updtate MetaData(0_am29malg) | By-Biocine_ott503 | update entry set name='Andy And His Accordion',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_am29malg/version/100042',longdescription='',
+        duration='309',type='1',tag='andy, animation, accordion',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,KIDS',categoryid='296,299,312',
+        updated_at='2018-09-29 15:10:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_am29malg'

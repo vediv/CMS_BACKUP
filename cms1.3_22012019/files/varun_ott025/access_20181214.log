@@ -1,0 +1,26 @@
+14/12/2018 08:49:55 | SUCCESS | login-(varun) | By-varun_ott025 | 
+14/12/2018 08:53:44 | SUCCESS | login-(varun) | By-varun_ott025 | 
+14/12/2018 08:57:28 | SUCCESS | login-(varun) | By-varun_ott025 | 
+14/12/2018 14:31:36 | SUCCESS | Create New Category(WEB SERIES) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '543','542','1','101','WEB SERIES','ORIGINAL>WEB SERIES','542>543','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+14/12/2018 14:32:11 | SUCCESS | Create New Category(SEASON 1) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '544','543','2','101','SEASON 1','ORIGINAL>WEB SERIES>SEASON 1','542>543>544','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+14/12/2018 14:32:28 | SUCCESS | Create New Category(SEASON 2) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '545','543','2','101','SEASON 2','ORIGINAL>WEB SERIES>SEASON 2','542>543>545','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+14/12/2018 14:38:04 | SUCCESS | Create New Category(WEB SERIES 2) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '546','542','1','101','WEB SERIES 2','ORIGINAL>WEB SERIES 2','542>546','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+14/12/2018 14:39:23 | SUCCESS | Bulk Add Category(0_yftx83rv,0_4g8rpybw,0_77zanc9r,544) | By-varun_ott025 | update entry set category='ORIGINAL>WEB SERIES 1>SEASON 1', categoryid='544' where entryid='0_77zanc9r' 
+14/12/2018 14:39:44 | SUCCESS | Bulk Add Category(0_8mfjmmkv,0_jj4fi9go,0_k76ra66p,0_mobc8bmk,0_t6iz4l0j,545) | By-varun_ott025 | update entry set category='ORIGINAL>WEB SERIES 1>SEASON 2', categoryid='545' where entryid='0_t6iz4l0j' 
+14/12/2018 09:22:36 | SUCCESS | login-(varun) | By-varun_ott025 | 
+14/12/2018 16:01:54 | SUCCESS | Add New Header Content(ORIGINAL) | By-varun_ott025 | 
+14/12/2018 16:02:01 | SUCCESS | Header Menu active(HeaderID:18,Status:active) | By-varun_ott025 | 
+14/12/2018 11:54:18 | SUCCESS | login-(varun) | By-varun_ott025 | 
+14/12/2018 17:25:01 | SUCCESS | Update Category(SHORT FILMS) | By-varun_ott025 | update categories set cat_name='SHORT FILMS',description='',tags='',fullname='ORIGINAL>SHORT FILMS' where category_id='546'
+14/12/2018 17:26:33 | SUCCESS | Update Category(SERIES 1) | By-varun_ott025 | update categories set cat_name='SERIES 1',description='',tags='',fullname='ORIGINAL>WEB SERIES>SERIES 1' where category_id='544'
+14/12/2018 17:26:41 | SUCCESS | Update Category(SERIES 2) | By-varun_ott025 | update categories set cat_name='SERIES 2',description='',tags='',fullname='ORIGINAL>WEB SERIES>SERIES 2' where category_id='545'
+14/12/2018 17:26:57 | SUCCESS | Create New Category(SEASON 1) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '547','544','3','101','SEASON 1','ORIGINAL>WEB SERIES>SERIES 1>SEASON 1','542>543>544>547','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+14/12/2018 17:27:14 | SUCCESS | Create New Category(SEASON 2) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '548','544','3','101','SEASON 2','ORIGINAL>WEB SERIES>SERIES 1>SEASON 2','542>543>544>548','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+14/12/2018 17:28:09 | SUCCESS | Bulk Add Category(0_yftx83rv,0_4g8rpybw,0_77zanc9r,547) | By-varun_ott025 | update entry set category='ORIGINAL>WEB SERIES>SERIES 1>SEASON 1', categoryid='547' where entryid='0_77zanc9r' 
+14/12/2018 17:28:39 | SUCCESS | Bulk Add Category(0_7t64txgh,0_9vm3lb2a,0_46jdssoq,0_5tt5n1nx,548) | By-varun_ott025 | update entry set category='ORIGINAL>WEB SERIES>SERIES 1>SEASON 2', categoryid='548' where entryid='0_5tt5n1nx' 

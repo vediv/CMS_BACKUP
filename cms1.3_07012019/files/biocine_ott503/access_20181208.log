@@ -1,0 +1,45 @@
+08/12/2018 00:10:25 | SUCCESS | Save Thumbnail(0_hriya1e0) | By-Biocine_ott503 | 
+08/12/2018 00:10:32 | SUCCESS | Save New video(0_tl3067n1) | By-Biocine_ott503 | 
+08/12/2018 02:16:30 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 04:36:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 06:53:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 13:23:05 | SUCCESS | Updtate MetaData(0_5b111z71) | By-Biocine_ott503 | update entry set name='EKTI ANAITIK GOLPO TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5b111z71/version/100012',longdescription='',
+        duration='65',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-08 13:28:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5b111z71'
+08/12/2018 08:16:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 14:08:14 | SUCCESS | Save New video(0_fs9kz92w) | By-Biocine_ott503 | 
+08/12/2018 08:55:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 09:52:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 16:20:12 | SUCCESS | Save New video(0_2eqq7njv) | By-Biocine_ott503 | 
+08/12/2018 12:21:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 12:31:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 13:03:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 14:44:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 20:47:45 | SUCCESS | Save Thumbnail(0_641ttcsl) | By-Biocine_ott503 | 
+08/12/2018 21:20:48 | SUCCESS | Updtate MetaData(0_641ttcsl) | By-Biocine_ott503 | update entry set name='SEX DORKAR | BABY & BABU',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_641ttcsl/version/100012',longdescription='',
+        duration='206',type='1',tag='',category='MUSIC>FILM',categoryid='311',
+        updated_at='2018-12-08 21:26:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_641ttcsl'
+08/12/2018 23:33:17 | SUCCESS | Save Thumbnail(0_641ttcsl) | By-Biocine_ott503 | 
+08/12/2018 23:33:42 | SUCCESS | Updtate MetaData(0_m06gqr15) | By-Biocine_ott503 | update entry set name='BABY & BABU|EP2|BENGALI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_m06gqr15/version/100002',longdescription='Here we are presenting promo of Bengali Web Series \'BABY & BABU\'. Starring with Amitabh , Meghna Haldar , Prosun , Ankita , Subrata Guha Roy , Moumita Gupta , Sarmistha & Others . Directed By Soumyajit Ganguly.\r\n------------------------------------------------------------\r\nBABY & BABU\r\n\r\nStory & Script: Subhamay Biswas \r\n\r\nDirection: Soumyajit Ganguly \r\n\r\nAssociated Director: Sabyasachi Mandal \r\n\r\nCreative Director: Sudip Chakraborty & Jit Chakraborty ( Song) \r\n\r\nDOP: Chayan Karmakar \r\n\r\nStarring: Amitabh, Meghna Haldar, Prosun, Ankita, Subrata Guha Roy, Moumita Gupta, Sarmistha & Others \r\n\r\nCreative Producer: Rakes Gupta \r\n\r\nExecutive Producer: Rupak Majumdar \r\n\r\nProduced by: Columbaas Digiplex \r\n\r\nProduction Controller: Kousick Mondal\r\n\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='866',type='1',tag='baby & babu, comedy, webseries, bengali, latest, comedy movies, jeeoguru, best comedy scene, soumyajit ganguly',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-08 23:39:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_m06gqr15'
+08/12/2018 23:37:33 | SUCCESS | Save Content Partner(0_iggaynip,) | By-Biocine_ott503 | 
+08/12/2018 23:42:09 | SUCCESS | Updtate MetaData(0_iggaynip) | By-Biocine_ott503 | update entry set name='AWA KAA AAA KHAA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_iggaynip/version/100012',longdescription='Here we are presenting a short film \"AWA KAA AAA KHAA\"\r\nA mental journey of two peoples\r\n\r\nCast:MOUSUMI, KARTISHA\r\nWritten By: SOURAV CHAKRABORTY\r\nDirected By: SOURAV CHAKRABORTY\r\nProduced By: SOURAV CHAKRABORTY\r\n',
+        duration='424',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, awards winning short film, short stories',category='AWARDS',categoryid='536',
+        updated_at='2018-12-08 23:47:29',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_iggaynip'
+08/12/2018 18:48:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 19:02:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 21:11:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/12/2018 21:19:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

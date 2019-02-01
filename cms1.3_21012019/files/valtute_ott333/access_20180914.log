@@ -1,0 +1,65 @@
+14/09/2018 07:23:25 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 10:00:04 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 10:01:30 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 15:32:11 | SUCCESS | Add New Plan (Half Yearly) | By-jeeyaho_ott333 | 
+14/09/2018 10:02:33 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 15:32:52 | SUCCESS | update plan Detail(Half Yearly) | By-jeeyaho_ott333 | 
+14/09/2018 15:32:55 | SUCCESS | Plan active(planID:p851,Status:active) | By-jeeyaho_ott333 | 
+14/09/2018 15:33:19 | SUCCESS | Add New Plan (Yearly) | By-jeeyaho_ott333 | 
+14/09/2018 15:33:24 | SUCCESS | Plan active(planID:p026,Status:active) | By-jeeyaho_ott333 | 
+14/09/2018 10:03:40 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 15:33:55 | SUCCESS | update plan Detail(Yearly) | By-jeeyaho_ott333 | 
+14/09/2018 15:39:00 | SUCCESS | Save Bulk Plan(0_84t8xd15,1) | By-jeeyaho_ott333 | update entry set ispremium='1',type='1',status='2' where entryid='0_84t8xd15'
+14/09/2018 15:45:53 | SUCCESS | Updtate MetaData(0_im73v88x) | By-jeeyaho_ott333 | update entry set name='Caminandes 3 - Animated Short Film',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_im73v88x/version/100022',longdescription='Watch funny animated movie Caminandes 3.',
+        duration='150',type='1',tag='caminandes, animated, short, film, animation, cartoon',category='LIFESTYLE>YOGA,MUSIC>REGIONAL>BHOJPURI,DEVOTIONAL>BHAJAN',categoryid='436,488,474',
+        updated_at='2018-09-14 15:50:01',shortdescription='Watch funny animated movie Caminandes 3.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_im73v88x'
+14/09/2018 15:47:13 | SUCCESS | Save Thumbnail(0_im73v88x) | By-jeeyaho_ott333 | 
+14/09/2018 10:17:56 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 15:51:04 | SUCCESS | Updtate MetaData(0_x2kpey41) | By-jeeyaho_ott333 | update entry set name='Tears of Steel',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_x2kpey41/version/100022',longdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.',
+        duration='734',type='1',tag='animation, animated, tears, steel, movie, short, film, test',category='MOVIES>HINDI>THRILLER,MOVIES>INTERNATIONAL>COMEDY,KIDS>STORY TELLING,DEVOTIONAL>GEETA SAAR,LIFESTYLE>FOOD,MUSIC>REGIONAL>MALAYALAM,MUSIC>HINDI>SAD,MUSIC>SPECIAL,DEVOTIONAL>CHAALISAA,DRAMA SERIES>ROMANCE',categoryid='447,458,470,480,440,491,495,500,476,463',
+        updated_at='2018-09-14 15:55:12',shortdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.',
+        director='',producer='',cast='',crew='',sub_genre='Sci-Fi',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_x2kpey41'
+14/09/2018 15:52:18 | SUCCESS | Save Thumbnail(0_x2kpey41) | By-jeeyaho_ott333 | 
+14/09/2018 15:55:13 | SUCCESS | Updtate MetaData(0_im73v88x) | By-jeeyaho_ott333 | update entry set name='Caminandes 3 - Animated Short Film',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_im73v88x/version/100032',longdescription='Watch funny animated movie Caminandes 3.',
+        duration='150',type='1',tag='caminandes, animated, short, film, animation, cartoon',category='LIFESTYLE>YOGA,DEVOTIONAL>BHAJAN,MUSIC>REGIONAL>BHOJPURI,KIDS>MOVIES,DRAMA SERIES>MYSTERY,DEVOTIONAL>RAMAYAN,LIFESTYLE>FITNESS,MUSIC>SUFI,DRAMA SERIES>FAMILY,MUSIC>REGIONAL>BENGALI,DEVOTIONAL>KATHAA,KIDS>RHYMES',categoryid='436,474,488,467,464,482,442,499,465,489,479,469',
+        updated_at='2018-09-14 15:59:21',shortdescription='Watch funny animated movie Caminandes 3.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_im73v88x'
+14/09/2018 10:26:15 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 15:57:21 | SUCCESS | Updtate MetaData(0_6h8hufc1) | By-jeeyaho_ott333 | update entry set name='Cosmos Laundromat | Animation',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6h8hufc1/version/100032',longdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        duration='730',type='1',tag='cosmos, laundromat, animation, movie, short, film, animated, kids, action, thriller',category='',categoryid='',
+        updated_at='2018-09-14 16:01:29',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6h8hufc1'
+14/09/2018 16:28:37 | SUCCESS | Save currency_data(0_84t8xd15) | By-jeeyaho_ott333 | 
+14/09/2018 16:36:34 | SUCCESS | Updtate MetaData(0_6h8hufc1) | By-jeeyaho_ott333 | update entry set name='Cosmos Laundromat | Animation',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6h8hufc1/version/100032',longdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        duration='730',type='1',tag='cosmos, laundromat, animation, movie, short, film, animated, kids, action, thriller',category='LIFESTYLE>DIET,KIDS>HOW TO EDUCATION,MOVIES>HINDI>COMEDY,MUSIC>HINDI>SAD,DEVOTIONAL>PRAVACHAN,MUSIC>SPECIAL,DRAMA SERIES>COMEDY,MUSIC>HINDI>PARTY,KIDS>MOVIES,DEVOTIONAL>GEETA SAAR,MUSIC>REGIONAL>TELUGU,DRAMA SERIES>FAMILY',categoryid='438,472,449,495,477,500,462,496,467,480,492,465',
+        updated_at='2018-09-14 16:40:42',shortdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_6h8hufc1'
+14/09/2018 11:14:18 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+14/09/2018 16:47:09 | SUCCESS | Save Plan(0_im73v88x,1) | By-jeeyaho_ott333 | 
+14/09/2018 16:50:09 | SUCCESS | Save currency_data(0_im73v88x) | By-jeeyaho_ott333 | 
+14/09/2018 16:52:05 | SUCCESS | Updtate MetaData(0_12eer0bb) | By-jeeyaho_ott333 | update entry set name='Heavy Machinery',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_12eer0bb/version/100022',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machinery, machine, tool, test, crane, building, equipment, construction, constructing',category='',categoryid='',
+        updated_at='2018-09-14 16:56:13',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_12eer0bb'
+14/09/2018 16:52:20 | SUCCESS | Bulk Add Age Restriction(Array,UA) | By-jeeyaho_ott333 | 
+14/09/2018 16:53:23 | SUCCESS | Save Thumbnail(0_12eer0bb) | By-jeeyaho_ott333 | 
+14/09/2018 16:56:42 | SUCCESS | Updtate MetaData(0_12eer0bb) | By-jeeyaho_ott333 | update entry set name='Heavy Machinery',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_12eer0bb/version/100032',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machinery, machine, tool, test, crane, building, equipment, construction, constructing',category='KIDS>STORY TELLING,MOVIES>ENGLISH,LIFESTYLE>DIET,MUSIC>HINDI>SAD,KIDS>ANIMATION,MOVIES>HINDI>SHORT FILMS,DRAMA SERIES>COMEDY,DRAMA SERIES>FAMILY,KIDS>HOW TO EDUCATION,LIFESTYLE>YOGA,MUSIC>SPECIAL,DEVOTIONAL>NAVRAATRI SPECIAL',categoryid='470,445,438,495,468,451,462,465,472,436,500,484',
+        updated_at='2018-09-14 17:00:50',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_12eer0bb'
+14/09/2018 16:57:21 | SUCCESS | Update Category(NAVRATARI SPECIAL) | By-jeeyaho_ott333 | update categories set cat_name='NAVRATARI SPECIAL',description='',tags='',fullname='DEVOTIONAL>NAVRATARI SPECIAL' where category_id='484'

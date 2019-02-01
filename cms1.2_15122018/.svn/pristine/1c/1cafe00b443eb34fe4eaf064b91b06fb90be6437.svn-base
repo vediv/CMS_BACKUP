@@ -1,0 +1,19 @@
+16/05/2018 10:21:52 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+16/05/2018 10:38:35 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+16/05/2018 07:30:12 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+16/05/2018 10:48:13 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+16/05/2018 22:17:13 | SUCCESS | Save New video(0_xk6wegqp) | By-PowerSmart_ott182 | 
+16/05/2018 22:26:19 | SUCCESS | Updtate MetaData(0_xk6wegqp) | By-PowerSmart_ott182 | update entry set name='RATHNAPRABHA- VIP news',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_xk6wegqp/version/100012',longdescription='Rathna Prabha Exclusive Interview',
+        duration='1305',type='1',tag='rathna prabha, vip news',category='News',categoryid='378',
+        updated_at='2018-05-16 22:28:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_xk6wegqp'
+16/05/2018 17:03:40 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+16/05/2018 22:35:55 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+16/05/2018 22:39:15 | SUCCESS | Updtate MetaData(0_xk6wegqp) | By-PowerSmart_ott182 | update entry set name='RATHNA PRABHA- VIP News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_xk6wegqp/version/100012',longdescription='Rathna Prabha Exclusive Interview',
+        duration='1305',type='1',tag='rathna prabha, vip news',category='News',categoryid='378',
+        updated_at='2018-05-16 22:41:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_xk6wegqp'

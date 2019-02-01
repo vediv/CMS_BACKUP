@@ -1,0 +1,8 @@
+07/12/2018 04:45:54 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+07/12/2018 10:16:45 | SUCCESS | Bulk Add Category(0_t3bomnoy,0_zgzex4lu,0_z14mynr1,0_w36yj3to,0_ckpvlbnj,0_zunctgu8,500,488) | By-jeeyaho_ott333 | update entry set category='MUSIC>SPECIAL,MUSIC>REGIONAL>BHOJPURI', categoryid='500,488' where entryid='0_zunctgu8' 
+07/12/2018 10:17:30 | SUCCESS | Bulk Add Category(0_i8tc6nbz,500,488) | By-jeeyaho_ott333 | update entry set category='MUSIC>SPECIAL,MUSIC>REGIONAL>BHOJPURI', categoryid='500,488' where entryid='0_i8tc6nbz' 
+07/12/2018 10:17:51 | SUCCESS | Bulk Add Category(0_uaojw87a,488) | By-jeeyaho_ott333 | update entry set category='MUSIC>REGIONAL>BHOJPURI', categoryid='488' where entryid='0_uaojw87a' 
+07/12/2018 10:18:42 | SUCCESS | Bulk Add Category(0_p94d13br,488) | By-jeeyaho_ott333 | update entry set category='MUSIC>REGIONAL>BHOJPURI', categoryid='488' where entryid='0_p94d13br' 
+07/12/2018 10:20:00 | SUCCESS | delete Category(540) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='540'
+07/12/2018 10:20:05 | SUCCESS | delete Category(539) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='539'
+07/12/2018 06:06:25 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

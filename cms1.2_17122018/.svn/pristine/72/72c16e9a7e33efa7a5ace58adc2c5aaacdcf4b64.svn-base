@@ -1,0 +1,49 @@
+13/09/2018 04:46:59 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+13/09/2018 10:52:48 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/KM801ACTD89C.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_KM801ACTD89C.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_KM801ACTD89C.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_KM801ACTD89C.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_KM801ACTD89C.png',updated_at=NOW() where category_id='501'
+13/09/2018 10:53:54 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/63I0JFBRK12Q.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_63I0JFBRK12Q.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_63I0JFBRK12Q.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_63I0JFBRK12Q.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_63I0JFBRK12Q.png',updated_at=NOW() where category_id='460'
+13/09/2018 10:54:35 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/I5GVVVBFDDNT.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_I5GVVVBFDDNT.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_I5GVVVBFDDNT.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_I5GVVVBFDDNT.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_I5GVVVBFDDNT.png',updated_at=NOW() where category_id='459'
+13/09/2018 10:55:11 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/R0AJQR6GLWIB.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_R0AJQR6GLWIB.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_R0AJQR6GLWIB.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_R0AJQR6GLWIB.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_R0AJQR6GLWIB.png',updated_at=NOW() where category_id='458'
+13/09/2018 10:55:50 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/XL7V36MI5Y0S.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_XL7V36MI5Y0S.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_XL7V36MI5Y0S.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_XL7V36MI5Y0S.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_XL7V36MI5Y0S.png',updated_at=NOW() where category_id='457'
+13/09/2018 10:56:23 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/ZSILM8X8ER98.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_ZSILM8X8ER98.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_ZSILM8X8ER98.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_ZSILM8X8ER98.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_ZSILM8X8ER98.png',updated_at=NOW() where category_id='456'
+13/09/2018 10:56:58 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/RSTXGI75SCJI.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_RSTXGI75SCJI.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_RSTXGI75SCJI.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_RSTXGI75SCJI.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_RSTXGI75SCJI.png',updated_at=NOW() where category_id='455'
+13/09/2018 10:57:34 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/JZGN37PHTQGR.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_JZGN37PHTQGR.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_JZGN37PHTQGR.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_JZGN37PHTQGR.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_JZGN37PHTQGR.png',updated_at=NOW() where category_id='454'
+13/09/2018 10:58:16 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/MB9MDO9DF6GX.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_MB9MDO9DF6GX.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_MB9MDO9DF6GX.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_MB9MDO9DF6GX.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_MB9MDO9DF6GX.png',updated_at=NOW() where category_id='453'
+13/09/2018 10:59:24 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/9AAL28U2JIO3.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_9AAL28U2JIO3.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_9AAL28U2JIO3.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_9AAL28U2JIO3.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_9AAL28U2JIO3.png',updated_at=NOW() where category_id='452'
+13/09/2018 11:00:07 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/43NLW254LKDO.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_43NLW254LKDO.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_43NLW254LKDO.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_43NLW254LKDO.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_43NLW254LKDO.png',updated_at=NOW() where category_id='451'
+13/09/2018 11:00:52 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/U1RQC0JB9MO6.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_U1RQC0JB9MO6.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_U1RQC0JB9MO6.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_U1RQC0JB9MO6.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_U1RQC0JB9MO6.png',updated_at=NOW() where category_id='450'
+13/09/2018 11:01:29 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/LEVYNXC8K8OH.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_LEVYNXC8K8OH.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_LEVYNXC8K8OH.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_LEVYNXC8K8OH.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_LEVYNXC8K8OH.png',updated_at=NOW() where category_id='449'
+13/09/2018 11:02:08 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/WOUAFLTDVVRA.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_WOUAFLTDVVRA.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_WOUAFLTDVVRA.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_WOUAFLTDVVRA.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_WOUAFLTDVVRA.png',updated_at=NOW() where category_id='448'
+13/09/2018 11:02:39 | SUCCESS | save Category thumb | By-jeeyaho_ott333 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnvaltute.planetcast.in',t_original_url='/valtute/data/valtute_ott333/upload_thumb/PHKPLSOUWKRG.png',
+t_small_url='/valtute/data/valtute_ott333/upload_thumb/320_PHKPLSOUWKRG.png',t_mediam_url='/valtute/data/valtute_ott333/upload_thumb/380_PHKPLSOUWKRG.png',t_large_url='/valtute/data/valtute_ott333/upload_thumb/480_PHKPLSOUWKRG.png',
+t_custom_url='/valtute/data/valtute_ott333/upload_thumb/720_PHKPLSOUWKRG.png',updated_at=NOW() where category_id='447'
+13/09/2018 05:49:36 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+13/09/2018 11:49:32 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+13/09/2018 11:50:53 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

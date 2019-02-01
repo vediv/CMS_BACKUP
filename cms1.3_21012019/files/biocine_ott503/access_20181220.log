@@ -1,0 +1,14 @@
+20/12/2018 04:43:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 04:49:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 05:04:42 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 09:21:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 09:46:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 10:31:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 10:34:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 16:10:14 | SUCCESS | Add New coupon (AB121) | By-Biocine_ott503 | 
+20/12/2018 16:10:17 | SUCCESS | Coupon active(Coupan ID:3,Status:active) | By-Biocine_ott503 | 
+20/12/2018 16:11:23 | SUCCESS | Coupon inactive(Coupan ID:3,Status:inactive) | By-Biocine_ott503 | 
+20/12/2018 16:11:26 | SUCCESS | Delete Coupon Delete (3) | By-Biocine_ott503 | delete from coupon where coupon_id='3'
+20/12/2018 11:27:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/12/2018 17:01:56 | SUCCESS | Delete Video entry(0_i4agiwcm) | By-Biocine_ott503 | 
+20/12/2018 12:01:55 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

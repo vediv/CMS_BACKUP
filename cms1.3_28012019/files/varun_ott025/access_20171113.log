@@ -1,0 +1,59 @@
+13/11/2017 10:43:22 | SUCCESS | Add New Slider Image(C:\fakepath\Screenshot from 2017-09-18 12-30-11.png) | By-Test_ott025 | 
+13/11/2017 10:43:55 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+13/11/2017 10:46:49 | SUCCESS | update Slider Detail(,'lllllllllllll4555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555554444') | By-Test_ott025 | 
+13/11/2017 10:48:48 | SUCCESS | update Slider Detail(,'lllllllllllll455555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555                                     555555555555555555555554444') | By-Test_ott025 | 
+13/11/2017 10:49:15 | SUCCESS | update Slider Detail(,'lllllllllllll455555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555            n                                   5555555555554444') | By-Test_ott025 | 
+13/11/2017 10:49:29 | SUCCESS | update Slider Detail(,'lllllllllllll45555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555              55555            n                                   5555555555554444') | By-Test_ott025 | 
+13/11/2017 10:52:52 | SUCCESS | update Slider Detail(,'llllllllll                                    55555555555555555555555555555555555555555555555555555555555555555555555              55555            n                                   5555555555554444') | By-Test_ott025 | 
+13/11/2017 10:53:22 | SUCCESS | update Slider Detail(,'llllllllll                                                                            55555        555555555555555555              55555            n                                   5555555555554444') | By-Test_ott025 | 
+13/11/2017 11:14:56 | SUCCESS | Delete Video entry(0_2wbibp5v) | By-Test_ott025 | 
+13/11/2017 11:16:28 | SUCCESS | update Slider Detail(,'1111212212                        212122                      111212121                            12111112                                                        11212112222222222                    ') | By-Test_ott025 | 
+13/11/2017 11:18:53 | SUCCESS | update Slider Detail(0_5jdlkth4,'hhhhh                hhhh          rttrttrrt              rererrtt                   etewtet                    ttetetwtttttt                       ttweryyutyytty                                      ') | By-Test_ott025 | 
+13/11/2017 11:29:04 | SUCCESS | Delete Video entry(0_tz2ffapk) | By-Test_ott025 | 
+13/11/2017 12:05:03 | SUCCESS | Plan inactive(planID:p963,Status:inactive) | By-Test_ott025 | 
+13/11/2017 12:13:34 | SUCCESS | Save New video(0_xywf58rm) | By-Test_ott025 | 
+13/11/2017 12:16:50 | SUCCESS | update plan Detail(7) | By-Test_ott025 | 
+13/11/2017 12:27:22 | SUCCESS | Add New Slider Image(C:\fakepath\Screenshot from 2017-09-14 22-12-13.png) | By-Test_ott025 | 
+13/11/2017 14:20:08 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:21:54 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:22:23 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:24:15 | SUCCESS | Plan active(planID:p963,Status:active) | By-Test_ott025 | 
+13/11/2017 14:25:02 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:25:26 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:26:52 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:31:11 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+13/11/2017 14:35:36 | SUCCESS | Delete Menu Header (3) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='3'
+13/11/2017 14:42:05 | SUCCESS | Delete Menu Header (7) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='7'
+13/11/2017 14:42:05 | SUCCESS | Delete Menu Header (7) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='7'
+13/11/2017 14:42:35 | SUCCESS | Add New Plan (n Amount #) | By-Test_ott025 | 
+13/11/2017 14:42:57 | SUCCESS | Delete Plan (p631) | By-Test_ott025 | delete from plandetail where planID='p631'
+13/11/2017 14:46:34 | SUCCESS | Plan inactive(planID:p366,Status:inactive) | By-Test_ott025 | 
+13/11/2017 14:46:35 | SUCCESS | Plan inactive(planID:p547,Status:inactive) | By-Test_ott025 | 
+13/11/2017 14:46:42 | SUCCESS | Plan inactive(planID:p602,Status:inactive) | By-Test_ott025 | 
+13/11/2017 14:46:52 | SUCCESS | Plan active(planID:p547,Status:active) | By-Test_ott025 | 
+13/11/2017 14:47:09 | SUCCESS | update plan Detail(2) | By-Test_ott025 | 
+13/11/2017 14:47:15 | SUCCESS | update plan Detail(2) | By-Test_ott025 | 
+13/11/2017 14:50:57 | SUCCESS | update plan Detail(my) | By-Test_ott025 | 
+13/11/2017 14:54:14 | SUCCESS | Delete Menu Header (8) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='8'
+13/11/2017 14:54:20 | SUCCESS | Delete Menu Header (4) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='4'
+13/11/2017 14:54:23 | SUCCESS | Delete Menu Header (2) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='2'
+13/11/2017 14:56:52 | SUCCESS | Delete Menu Header (6) | By-Test_ott025 | DELETE FROM header_menu WHERE hid='6'
+13/11/2017 16:30:59 | SUCCESS | Add New Plan (ki) | By-Test_ott025 | 
+13/11/2017 16:59:38 | SUCCESS | update plan Detail(my5454545454544) | By-Test_ott025 | 
+13/11/2017 16:59:51 | SUCCESS | update plan Detail(my5454545454544) | By-Test_ott025 | 
+13/11/2017 16:59:54 | SUCCESS | Delete slider Image (10001) | By-Test_ott025 | delete from slider_image_detail where img_id='10001'
+13/11/2017 17:00:22 | SUCCESS | update plan Detail(my5454545454544) | By-Test_ott025 | 
+13/11/2017 17:00:54 | SUCCESS | update plan Detail(my5454545454544) | By-Test_ott025 | 
+13/11/2017 17:50:26 | SUCCESS | update plan Detail(000000000000001) | By-Test_ott025 | 
+13/11/2017 17:55:45 | SUCCESS | update Slider Detail(0_z5z2bbzq,'aaaa888888444444444444512222222222222222222222222222222222222222222222222222223132132\r\n474747474774774747474\r\n\r\n\r\n\r\n\r\n\r\n25') | By-Test_ott025 | 
+13/11/2017 17:55:45 | SUCCESS | update Slider Detail(0_z5z2bbzq,'aaaa888888444444444444512222222222222222222222222222222222222222222222222222223132132\r\n474747474774774747474\r\n\r\n\r\n\r\n\r\n\r\n25') | By-Test_ott025 | 
+13/11/2017 17:55:50 | SUCCESS | update Slider Detail(0_z5z2bbzq,'aaaa888888444444444444512222222222222222222222222222222222222222222222222222223132132\r\n474747474774774747474\r\n\r\n\r\n\r\n\r\n\r\n25') | By-Test_ott025 | 
+13/11/2017 17:56:17 | SUCCESS | update Slider Detail(0_z5z2bbzq,'aaaa8ffffffffffffffffffffffffffffffgggggggggggggbbbbbbbbbbbbbbbbbbbbbbbbbbvc cnc yjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj%%%%%%%%%%%%%%%%%%%') | By-Test_ott025 | 
+13/11/2017 17:58:16 | SUCCESS | update Slider Detail(0_z5z2bbzq,'rtr4555555555555555555555555555555555555555555555555555555555555566666666666666666666666666666666^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*************************************@@@@@@@@@@@@EEEEEEEEEEEEEEEEEEE') | By-Test_ott025 | 
+13/11/2017 18:01:42 | SUCCESS | update Slider Detail(,'0\r\n\r\n4444\r\n\r\n\r\n777\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n655\r\n\r\n55\r\n\r\n\r\n5\r\n4\r\n\r\n4\r\n\r\n44                                       \r\n\r\n\r\n3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/////////////ttt999()()(()()()()()(ttttttttttttttttttttttttttttttttttttttttttt') | By-Test_ott025 | 
+13/11/2017 18:01:42 | SUCCESS | update Slider Detail(,'0\r\n\r\n4444\r\n\r\n\r\n777\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n655\r\n\r\n55\r\n\r\n\r\n5\r\n4\r\n\r\n4\r\n\r\n44                                       \r\n\r\n\r\n3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/////////////ttt999()()(()()()()()(ttttttttttttttttttttttttttttttttttttttttttt') | By-Test_ott025 | 
+13/11/2017 18:01:42 | SUCCESS | update Slider Detail(,'0\r\n\r\n4444\r\n\r\n\r\n777\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n655\r\n\r\n55\r\n\r\n\r\n5\r\n4\r\n\r\n4\r\n\r\n44                                       \r\n\r\n\r\n3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/////////////ttt999()()(()()()()()(ttttttttttttttttttttttttttttttttttttttttttt') | By-Test_ott025 | 
+13/11/2017 18:13:51 | SUCCESS | update Slider Detail(,'ddddddddd\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nffffffffffff\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nffffffffffff\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nggggggggggg\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nbbbbbbbbbbbbb\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nfffffffff') | By-Test_ott025 | 
+13/11/2017 18:14:50 | SUCCESS | update Slider Detail(,'0\r\n\r\n4444\r\n\r\n\r\n777\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n655\r\n\r\n55\r\n\r\n\r\n5\r\n4\r\n\r\n4\r\n\r\n44                                       \r\n\r\n\r\n3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nddd\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/////////////ttt999()()(()()()()()(tttttttttttttttttttttttttttttttttttttttt') | By-Test_ott025 | 
+13/11/2017 18:14:50 | SUCCESS | update Slider Detail(,'0\r\n\r\n4444\r\n\r\n\r\n777\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n655\r\n\r\n55\r\n\r\n\r\n5\r\n4\r\n\r\n4\r\n\r\n44                                       \r\n\r\n\r\n3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nddd\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/////////////ttt999()()(()()()()()(tttttttttttttttttttttttttttttttttttttttt') | By-Test_ott025 | 
+13/11/2017 18:14:50 | SUCCESS | update Slider Detail(,'0\r\n\r\n4444\r\n\r\n\r\n777\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n\r\n\r\n555\r\n\r\n\r\n\r\n655\r\n\r\n55\r\n\r\n\r\n5\r\n4\r\n\r\n4\r\n\r\n44                                       \r\n\r\n\r\n3\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nddd\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/////////////ttt999()()(()()()()()(tttttttttttttttttttttttttttttttttttttttt') | By-Test_ott025 | 

@@ -1,0 +1,25 @@
+30/05/2018 05:48:57 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+30/05/2018 05:54:52 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+30/05/2018 06:24:34 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+30/05/2018 06:43:33 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+30/05/2018 07:05:49 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+30/05/2018 07:08:05 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+30/05/2018 07:10:41 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+30/05/2018 08:36:04 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+30/05/2018 14:17:47 | SUCCESS | Save New video(0_v82zk2mu) | By-PowerSmart_ott182 | 
+30/05/2018 14:23:52 | SUCCESS | Updtate MetaData(0_v82zk2mu) | By-PowerSmart_ott182 | update entry set name='2 pm Headline - May 30, 2018',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_v82zk2mu/version/100032',longdescription='ಈ ಕ್ಷಣದ ಮುಖ್ಯಾಂಶಗಳು | Headlines at the Moment',
+        duration='55',type='1',tag='news, vip news, karnataka politics, kumaraswamy, latest news',category='News',categoryid='378',
+        updated_at='2018-05-30 14:26:30',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_v82zk2mu'
+30/05/2018 09:25:40 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+30/05/2018 16:04:52 | SUCCESS | Save New video(0_ytpu4vnq) | By-PowerSmart_ott182 | 
+30/05/2018 16:32:24 | SUCCESS | Save New video(0_ocdbw5vu) | By-PowerSmart_ott182 | 
+30/05/2018 16:41:00 | SUCCESS | Updtate MetaData(0_ytpu4vnq) | By-PowerSmart_ott182 | update entry set name='3 pm Headlines – May 30, 2018 ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_ytpu4vnq/version/100032',longdescription='ಈ ಕ್ಷಣದ ಮುಖ್ಯಾಂಶಗಳು',
+        duration='55',type='1',tag='vip news, latest news, karnataka',category='News',categoryid='378',
+        updated_at='2018-05-30 16:43:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_ytpu4vnq'
+30/05/2018 11:15:58 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 

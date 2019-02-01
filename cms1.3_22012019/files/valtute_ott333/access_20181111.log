@@ -1,0 +1,47 @@
+11/11/2018 07:18:29 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/11/2018 09:02:35 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/11/2018 09:19:04 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/11/2018 14:57:09 | SUCCESS | Add New Slider Image(C:\fakepath\VAN AND BUS STICKERS .png) | By-jeeyaho_ott333 | 
+11/11/2018 14:57:24 | SUCCESS | Delete slider Image (6) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='6'
+11/11/2018 15:14:42 | SUCCESS | Add New Slider Image(C:\fakepath\VAN AND BUS STICKERS .png) | By-jeeyaho_ott333 | 
+11/11/2018 15:14:52 | SUCCESS | Delete slider Image (7) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='7'
+11/11/2018 15:45:53 | SUCCESS | Add New Slider Image(C:\fakepath\BS01.JPG) | By-jeeyaho_ott333 | 
+11/11/2018 15:46:04 | SUCCESS | Delete slider Image (8) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='8'
+11/11/2018 15:47:48 | SUCCESS | Add New Slider Image(C:\fakepath\BS01.jpg) | By-jeeyaho_ott333 | 
+11/11/2018 15:48:01 | SUCCESS | Delete slider Image (9) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='9'
+11/11/2018 15:49:19 | SUCCESS | Add New Slider Image(C:\fakepath\BS01.jpg) | By-jeeyaho_ott333 | 
+11/11/2018 15:49:41 | SUCCESS | Slider image active(SliderID:10,Status:active) | By-jeeyaho_ott333 | 
+11/11/2018 15:50:07 | SUCCESS | Slider image inactive(SliderID:2,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 15:50:17 | SUCCESS | Delete slider Image (2) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='2'
+11/11/2018 15:50:45 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+11/11/2018 15:55:16 | SUCCESS | Slider image inactive(SliderID:3,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 15:55:33 | SUCCESS | Slider image inactive(SliderID:1,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 16:06:39 | SUCCESS | Add New Slider Image(C:\fakepath\BAG 001.png) | By-jeeyaho_ott333 | 
+11/11/2018 16:06:59 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+11/11/2018 16:08:15 | SUCCESS | Slider image active(SliderID:11,Status:active) | By-jeeyaho_ott333 | 
+11/11/2018 16:10:43 | SUCCESS | Slider image inactive(SliderID:10,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 16:10:48 | SUCCESS | Slider image inactive(SliderID:11,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 16:29:34 | SUCCESS | Save New video(0_x0tftmrx) | By-jeeyaho_ott333 | 
+11/11/2018 16:30:58 | SUCCESS | Delete Video entry(0_x0tftmrx) | By-jeeyaho_ott333 | 
+11/11/2018 16:38:16 | SUCCESS | Save New video(0_w34jw3r4) | By-jeeyaho_ott333 | 
+11/11/2018 16:42:28 | SUCCESS | Save New video(0_he5lcgov) | By-jeeyaho_ott333 | 
+11/11/2018 11:14:14 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/11/2018 16:50:57 | SUCCESS | Save New video(0_ngjteik9) | By-jeeyaho_ott333 | 
+11/11/2018 17:01:38 | SUCCESS | Save New video(0_zs0xxsvb) | By-jeeyaho_ott333 | 
+11/11/2018 17:19:09 | SUCCESS | Save New video(0_y0cb9kzp) | By-jeeyaho_ott333 | 
+11/11/2018 17:27:04 | SUCCESS | Save New video(0_83q0lzps) | By-jeeyaho_ott333 | 
+11/11/2018 11:57:54 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/11/2018 17:29:15 | SUCCESS | Slider image active(SliderID:11,Status:active) | By-jeeyaho_ott333 | 
+11/11/2018 17:29:23 | SUCCESS | Slider image active(SliderID:10,Status:active) | By-jeeyaho_ott333 | 
+11/11/2018 17:34:29 | SUCCESS | Save New video(0_4nca9f1j) | By-jeeyaho_ott333 | 
+11/11/2018 17:36:07 | SUCCESS | Add New Slider Image(C:\fakepath\new poster1.png) | By-jeeyaho_ott333 | 
+11/11/2018 17:36:18 | SUCCESS | Slider image active(SliderID:12,Status:active) | By-jeeyaho_ott333 | 
+11/11/2018 17:36:25 | SUCCESS | Slider image inactive(SliderID:10,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 17:36:30 | SUCCESS | Slider image inactive(SliderID:11,Status:inactive) | By-jeeyaho_ott333 | 
+11/11/2018 17:36:49 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+11/11/2018 17:42:23 | SUCCESS | Save New video(0_t9dvt9u7) | By-jeeyaho_ott333 | 
+11/11/2018 17:46:22 | SUCCESS | Save New video(0_lcf8o1s5) | By-jeeyaho_ott333 | 
+11/11/2018 12:20:57 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/11/2018 17:51:08 | SUCCESS | Save New video(0_orwozy1j) | By-jeeyaho_ott333 | 
+11/11/2018 17:55:03 | SUCCESS | Save New video(0_rlb2ibfx) | By-jeeyaho_ott333 | 
+11/11/2018 18:02:36 | SUCCESS | Save New video(0_3gwoti7l) | By-jeeyaho_ott333 | 

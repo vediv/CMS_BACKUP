@@ -1,0 +1,52 @@
+01/08/2018 04:33:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 11:18:36 | SUCCESS | Home Setting active(HomeID:16,Status:active) | By-Biocine_ott503 | 
+01/08/2018 05:48:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 11:19:03 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+01/08/2018 11:19:06 | SUCCESS | Delete Plan (p822) | By-Biocine_ott503 | delete from plandetail where planID='p822'
+01/08/2018 11:19:19 | SUCCESS | Delete Plan (p868) | By-Biocine_ott503 | delete from plandetail where planID='p868'
+01/08/2018 11:19:34 | SUCCESS | Plan inactive(planID:p644,Status:inactive) | By-Biocine_ott503 | 
+01/08/2018 11:19:37 | SUCCESS | Delete Plan (p644) | By-Biocine_ott503 | delete from plandetail where planID='p644'
+01/08/2018 11:19:41 | SUCCESS | Plan inactive(planID:p284,Status:inactive) | By-Biocine_ott503 | 
+01/08/2018 11:19:44 | SUCCESS | Delete Plan (p284) | By-Biocine_ott503 | delete from plandetail where planID='p284'
+01/08/2018 11:19:46 | SUCCESS | Home Setting active(HomeID:14,Status:active) | By-Biocine_ott503 | 
+01/08/2018 11:19:48 | SUCCESS | Plan inactive(planID:p843,Status:inactive) | By-Biocine_ott503 | 
+01/08/2018 11:19:50 | SUCCESS | Delete Plan (p843) | By-Biocine_ott503 | delete from plandetail where planID='p843'
+01/08/2018 11:20:33 | SUCCESS | Home Setting inactive(HomeID:14,Status:inactive) | By-Biocine_ott503 | 
+01/08/2018 11:20:35 | SUCCESS | Home Setting inactive(HomeID:16,Status:inactive) | By-Biocine_ott503 | 
+01/08/2018 11:40:15 | SUCCESS | Save New video(0_0f5v65zc) | By-Biocine_ott503 | 
+01/08/2018 11:59:30 | SUCCESS | Updtate MetaData(0_0f5v65zc) | By-Biocine_ott503 | update entry set name='Sample Kitten video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0f5v65zc/version/100012',longdescription='',
+        duration='13',type='1',tag='kitten',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-08-01 12:03:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0f5v65zc'
+01/08/2018 14:18:13 | SUCCESS | Save New video(0_kldkjbj7) | By-Biocine_ott503 | 
+01/08/2018 14:57:26 | SUCCESS | Update Ticket Status(inprocess tid=74--by=104) | By-Biocine_ott503 | 
+01/08/2018 14:57:52 | SUCCESS | Update Ticket Status(pending tid=74--by=104) | By-Biocine_ott503 | 
+01/08/2018 15:00:34 | SUCCESS | Update Ticket Status(pending tid=73--by=104) | By-Biocine_ott503 | 
+01/08/2018 15:00:58 | SUCCESS | Update Ticket Status(inprocess tid=73--by=104) | By-Biocine_ott503 | 
+01/08/2018 15:01:27 | SUCCESS | Update Ticket Status(close tid=73--by=104) | By-Biocine_ott503 | 
+01/08/2018 15:42:07 | SUCCESS | Save New video(0_yex8d93e) | By-Biocine_ott503 | 
+01/08/2018 10:23:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 10:30:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 16:04:00 | SUCCESS | Add New Subscription Code (OQI7QZMD7C) | By-Biocine_ott503 | 
+01/08/2018 16:04:22 | SUCCESS | subscription code active(subscription ID:12,Status:active) | By-Biocine_ott503 | 
+01/08/2018 16:04:49 | SUCCESS | Update Subscription Code (12) | By-Biocine_ott503 | 
+01/08/2018 10:38:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 16:34:35 | SUCCESS | Add New coupon (ZESKF4BUY7) | By-Biocine_ott503 | 
+01/08/2018 16:35:57 | SUCCESS | Add New coupon (7TAYXZDOKI) | By-Biocine_ott503 | 
+01/08/2018 16:40:29 | SUCCESS | Add New coupon (W7Q4PSDC1Q) | By-Biocine_ott503 | 
+01/08/2018 16:40:44 | SUCCESS | Update Coupon (43) | By-Biocine_ott503 | update coupon set name='ddd',code='www23',type='P',discount='5.0000',date_start='2018-08-01 16:40:04',
+      date_end='2018-09-01 16:40:04',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='43'
+01/08/2018 16:40:47 | SUCCESS | Coupon active(Coupan ID:43,Status:active) | By-Biocine_ott503 | 
+01/08/2018 16:41:45 | SUCCESS | Update Coupon (43) | By-Biocine_ott503 | update coupon set name='ddd',code='ACD21',type='P',discount='5.0000',date_start='2018-08-01 16:40:04',
+      date_end='2018-09-01 16:40:04',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='43'
+01/08/2018 16:43:42 | SUCCESS | Add New Subscription Code (MDDWICQW94) | By-Biocine_ott503 | 
+01/08/2018 16:43:57 | SUCCESS | subscription code active(subscription ID:13,Status:active) | By-Biocine_ott503 | 
+01/08/2018 11:19:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 16:54:06 | SUCCESS | subscription code inactive(subscription ID:8,Status:inactive) | By-Biocine_ott503 | 
+01/08/2018 11:42:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/08/2018 17:27:12 | SUCCESS | Add New coupon (YDHB1UJJH9) | By-Biocine_ott503 | 
+01/08/2018 18:01:14 | SUCCESS | Update Subscription Code (8) | By-Biocine_ott503 | 
+01/08/2018 18:01:20 | SUCCESS | subscription code active(subscription ID:8,Status:active) | By-Biocine_ott503 | 
+01/08/2018 12:35:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

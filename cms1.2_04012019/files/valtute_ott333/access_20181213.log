@@ -1,0 +1,26 @@
+13/12/2018 06:13:46 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+13/12/2018 11:44:12 | SUCCESS | Slider image inactive(SliderID:15,Status:inactive) | By-jeeyaho_ott333 | 
+13/12/2018 06:17:36 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+13/12/2018 12:37:30 | SUCCESS | Save New video(0_gn998bok) | By-jeeyaho_ott333 | 
+13/12/2018 12:50:55 | SUCCESS | Save New video(0_n0ngx807) | By-jeeyaho_ott333 | 
+13/12/2018 12:53:03 | SUCCESS | Updtate MetaData(0_gn998bok) | By-jeeyaho_ott333 | update entry set name='Lallu Kavi Sammelan',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_gn998bok/version/100022',longdescription='Lallu kavi sammelan',
+        duration='518',type='1',tag='jeeyaho, kavi sammelan, dadri mela, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-13 12:58:26',shortdescription='Lallu Kavi Sammelan',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gn998bok'
+13/12/2018 12:59:47 | SUCCESS | Save New video(0_nbgj8r9h) | By-jeeyaho_ott333 | 
+13/12/2018 13:05:51 | SUCCESS | Updtate MetaData(0_gn998bok) | By-jeeyaho_ott333 | update entry set name='Lallu Kavi Sammelan Part 1',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_gn998bok/version/100022',longdescription='Lallu kavi sammelan',
+        duration='518',type='1',tag='jeeyaho, kavi sammelan, dadri mela, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-13 13:11:14',shortdescription='Lallu Kavi Sammelan',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_gn998bok'
+13/12/2018 14:02:28 | SUCCESS | Updtate MetaData(0_n0ngx807) | By-jeeyaho_ott333 | update entry set name='Kumar Vishwas Kavi Sammelan Part 2',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_n0ngx807/version/100022',longdescription='Kumar Vishwas Kavi Sammelan',
+        duration='2044',type='1',tag='jeeyaho, kumar vishwas, kavi sammelan, dadri mela ballia',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-13 14:07:51',shortdescription='Kumar Vishwas Kavi Sammelan Part 2',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_n0ngx807'
+13/12/2018 10:40:40 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+13/12/2018 13:06:56 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

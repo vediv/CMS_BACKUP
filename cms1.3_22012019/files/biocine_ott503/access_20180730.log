@@ -1,0 +1,151 @@
+30/07/2018 04:35:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 10:06:19 | SUCCESS | Register User active(UserID:525,Status:active) | By-Biocine_ott503 | 
+30/07/2018 04:50:04 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 10:35:38 | SUCCESS | Save New video(0_offxitkt) | By-Biocine_ott503 | 
+30/07/2018 10:44:27 | SUCCESS | Updtate MetaData(0_offxitkt) | By-Biocine_ott503 | update entry set name='AMRA NA ORA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_offxitkt/version/100032',longdescription='',
+        duration='33',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-07-30 10:47:57',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_offxitkt'
+30/07/2018 10:46:54 | SUCCESS | Updtate MetaData(0_offxitkt) | By-Biocine_ott503 | update entry set name='AMRA NA ORA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_offxitkt/version/100032',longdescription='',
+        duration='33',type='1',tag='amra na ora, ora, amra',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-07-30 10:50:23',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_offxitkt'
+30/07/2018 10:49:46 | SUCCESS | Updtate MetaData(0_offxitkt) | By-Biocine_ott503 | update entry set name='AMRA NAA ORA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_offxitkt/version/100032',longdescription='Watch Amra Na Ora video .',
+        duration='33',type='1',tag='ora, amra, amra naa ora',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-07-30 10:53:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_offxitkt'
+30/07/2018 10:50:02 | SUCCESS | Save Thumbnail(0_offxitkt) | By-Biocine_ott503 | 
+30/07/2018 05:37:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 11:49:08 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+30/07/2018 11:49:38 | SUCCESS | update Content Partner Detail(biocine ) | By-Biocine_ott503 | 
+30/07/2018 06:25:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 11:59:21 | SUCCESS | Add New coupon (5454WEW) | By-Biocine_ott503 | 
+30/07/2018 12:05:07 | SUCCESS | Save New video(0_7qms362c) | By-Biocine_ott503 | 
+30/07/2018 12:06:00 | SUCCESS | Save New video(0_uqjrn5mv) | By-Biocine_ott503 | 
+30/07/2018 12:07:10 | SUCCESS | Save New video(0_esm2o2rr) | By-Biocine_ott503 | 
+30/07/2018 12:08:20 | SUCCESS | Save New video(0_xo9hpen2) | By-Biocine_ott503 | 
+30/07/2018 12:09:49 | SUCCESS | Save New video(0_1qvhrjaj) | By-Biocine_ott503 | 
+30/07/2018 12:10:17 | SUCCESS | Save New video(0_9zzp56a1) | By-Biocine_ott503 | 
+30/07/2018 12:14:48 | SUCCESS | Save New video(0_41s7hg9v) | By-Biocine_ott503 | 
+30/07/2018 12:15:52 | SUCCESS | Save New video(0_m803knua) | By-Biocine_ott503 | 
+30/07/2018 06:52:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 12:22:54 | SUCCESS | Save New video(0_tgx0p2ga) | By-Biocine_ott503 | 
+30/07/2018 12:27:36 | SUCCESS | Save New video(0_w66h241y) | By-Biocine_ott503 | 
+30/07/2018 06:58:52 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 12:30:36 | SUCCESS | Save New video(0_qu4ym00g) | By-Biocine_ott503 | 
+30/07/2018 12:33:07 | SUCCESS | Save New video(0_oi6yx1f3) | By-Biocine_ott503 | 
+30/07/2018 12:42:23 | SUCCESS | Save New video(0_6xyp6du1) | By-Biocine_ott503 | 
+30/07/2018 12:43:44 | SUCCESS | Save New video(0_izk59xg2) | By-Biocine_ott503 | 
+30/07/2018 12:45:28 | SUCCESS | Save New video(0_vqlv1ku0) | By-Biocine_ott503 | 
+30/07/2018 12:47:18 | SUCCESS | Save New video(0_dcj5shgn) | By-Biocine_ott503 | 
+30/07/2018 12:49:10 | SUCCESS | Save New video(0_4btqecc0) | By-Biocine_ott503 | 
+30/07/2018 12:54:45 | SUCCESS | Update Category(OTHERS) | By-Biocine_ott503 | update categories set cat_name='OTHERS',description='',tags='',fullname='MUSIC>ORIGINAL>OTHERS' where category_id='314'
+30/07/2018 12:55:06 | SUCCESS | Update Category(OTHERS) | By-Biocine_ott503 | update categories set cat_name='OTHERS',description='',tags='',fullname='MUSIC>ORIGINAL>OTHERS' where category_id='314'
+30/07/2018 07:28:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 07:38:13 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 07:42:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 14:06:45 | SUCCESS | Save Age Restriction(0_offxitkt,UA) | By-Biocine_ott503 | 
+30/07/2018 14:06:55 | SUCCESS | Save Age Restriction(0_7qms362c,A) | By-Biocine_ott503 | 
+30/07/2018 14:10:59 | SUCCESS | Save Age Restriction(0_esm2o2rr,A) | By-Biocine_ott503 | 
+30/07/2018 14:11:39 | SUCCESS | Save Age Restriction(0_xo9hpen2,A) | By-Biocine_ott503 | 
+30/07/2018 14:12:24 | SUCCESS | Save Age Restriction(0_1qvhrjaj,A) | By-Biocine_ott503 | 
+30/07/2018 14:15:33 | SUCCESS | Save Age Restriction(0_oi6yx1f3,A) | By-Biocine_ott503 | 
+30/07/2018 14:16:11 | SUCCESS | Save Age Restriction(0_6xyp6du1,A) | By-Biocine_ott503 | 
+30/07/2018 14:18:23 | SUCCESS | Save Age Restriction(0_4btqecc0,A) | By-Biocine_ott503 | 
+30/07/2018 14:24:07 | SUCCESS | Bulk Add Category(0_vqlv1ku0,0_qu4ym00g,0_w66h241y,0_tgx0p2ga,0_m803knua,0_41s7hg9v,0_9zzp56a1,0_uqjrn5mv,0_offxitkt,295,296,297,298,299,312,313,310,314,311) | By-Biocine_ott503 | update entry set category='ORIGINALS>SHORT FILMS,ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,KIDS,BAZAAR,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>OTHERS,MUSIC>FILM', categoryid='297,295,296,298,299,312,313,310,314,311' where entryid='0_offxitkt' 
+30/07/2018 09:08:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 09:25:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 15:02:53 | SUCCESS | Updtate MetaData(0_tgx0p2ga) | By-Biocine_ott503 | update entry set name='M FOR MOM',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_tgx0p2ga/version/100032',longdescription='',
+        duration='30',type='1',tag='',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS',categoryid='295,296,297,298,299,310,311,312,313,314',
+        updated_at='2018-07-30 15:06:23',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_tgx0p2ga'
+30/07/2018 10:18:18 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 10:54:51 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 10:56:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 16:28:47 | SUCCESS | Updtate MetaData(0_dcj5shgn) | By-Biocine_ott503 | update entry set name='STATUS Trailer Final',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dcj5shgn/version/100032',longdescription='Watch Status Trailer .',
+        duration='100',type='1',tag='status, trailer, final',category='ORIGINALS>WEB SERIES,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>OTHERS',categoryid='295,298,310,314',
+        updated_at='2018-07-30 16:32:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dcj5shgn'
+30/07/2018 16:39:08 | SUCCESS | Delete Video entry(0_qpfn71l3) | By-Biocine_ott503 | 
+30/07/2018 16:39:08 | SUCCESS | Delete Video entry(0_6mhwpmrk) | By-Biocine_ott503 | 
+30/07/2018 16:39:08 | SUCCESS | Delete Video entry(0_1w4jd4db) | By-Biocine_ott503 | 
+30/07/2018 16:39:09 | SUCCESS | Delete Video entry(0_oa6mdf81) | By-Biocine_ott503 | 
+30/07/2018 16:39:09 | SUCCESS | Delete Video entry(0_720kthdj) | By-Biocine_ott503 | 
+30/07/2018 16:39:10 | SUCCESS | Delete Video entry(0_dpfxaz99) | By-Biocine_ott503 | 
+30/07/2018 16:39:10 | SUCCESS | Delete Video entry(0_674o8urt) | By-Biocine_ott503 | 
+30/07/2018 16:39:11 | SUCCESS | Delete Video entry(0_6vogv19y) | By-Biocine_ott503 | 
+30/07/2018 16:39:11 | SUCCESS | Delete Video entry(0_aaejp3g8) | By-Biocine_ott503 | 
+30/07/2018 16:39:12 | SUCCESS | Delete Video entry(0_8jgnejwm) | By-Biocine_ott503 | 
+30/07/2018 16:39:12 | SUCCESS | Delete Video entry(0_vctaqh9v) | By-Biocine_ott503 | 
+30/07/2018 11:16:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 17:01:11 | SUCCESS | Delete Video entry(0_0yhkj5ww) | By-Biocine_ott503 | 
+30/07/2018 17:01:11 | SUCCESS | Delete Video entry(0_c43pre32) | By-Biocine_ott503 | 
+30/07/2018 17:01:12 | SUCCESS | Delete Video entry(0_d7mptpc1) | By-Biocine_ott503 | 
+30/07/2018 17:01:13 | SUCCESS | Delete Video entry(0_9hlz7mbg) | By-Biocine_ott503 | 
+30/07/2018 17:01:14 | SUCCESS | Delete Video entry(0_7ut5m0zo) | By-Biocine_ott503 | 
+30/07/2018 11:59:53 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 17:30:21 | SUCCESS | Slider image inactive(SliderID:4,Status:inactive) | By-Biocine_ott503 | 
+30/07/2018 17:30:29 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+30/07/2018 17:30:45 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+30/07/2018 17:30:50 | SUCCESS | Delete slider Image (4) | By-Biocine_ott503 | delete from slider_image_detail where img_id='4'
+30/07/2018 17:34:12 | SUCCESS | Add New Slider Image(C:\fakepath\banner12.jpg) | By-Biocine_ott503 | 
+30/07/2018 17:36:22 | SUCCESS | Slider image active(SliderID:10,Status:active) | By-Biocine_ott503 | 
+30/07/2018 17:36:35 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+30/07/2018 17:39:28 | SUCCESS | Save Thumbnail(0_vwcyrmth) | By-Biocine_ott503 | 
+30/07/2018 17:41:06 | SUCCESS | Save Thumbnail(0_d4zjkcz7) | By-Biocine_ott503 | 
+30/07/2018 17:41:38 | SUCCESS | Save Thumbnail(0_v6n3lzd3) | By-Biocine_ott503 | 
+30/07/2018 17:44:25 | SUCCESS | Save Thumbnail(0_offxitkt) | By-Biocine_ott503 | 
+30/07/2018 17:44:41 | SUCCESS | Save Thumbnail(0_7qms362c) | By-Biocine_ott503 | 
+30/07/2018 17:44:54 | SUCCESS | Save Thumbnail(0_uqjrn5mv) | By-Biocine_ott503 | 
+30/07/2018 17:45:09 | SUCCESS | Save Thumbnail(0_esm2o2rr) | By-Biocine_ott503 | 
+30/07/2018 17:48:06 | SUCCESS | Save Thumbnail(0_uqjrn5mv) | By-Biocine_ott503 | 
+30/07/2018 17:49:24 | SUCCESS | Save Thumbnail(0_qu4ym00g) | By-Biocine_ott503 | 
+30/07/2018 17:50:12 | SUCCESS | Save Thumbnail(0_vwcyrmth) | By-Biocine_ott503 | 
+30/07/2018 17:52:21 | SUCCESS | Save Thumbnail(0_qu4ym00g) | By-Biocine_ott503 | 
+30/07/2018 17:55:10 | SUCCESS | Save Thumbnail(0_qu4ym00g) | By-Biocine_ott503 | 
+30/07/2018 17:56:42 | SUCCESS | Updtate MetaData(0_qu4ym00g) | By-Biocine_ott503 | update entry set name='MUSIC VIDEO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qu4ym00g/version/100062',longdescription='',
+        duration='73',type='1',tag='music, promo',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS',categoryid='295,296,297,298,299,310,311,312,313,314',
+        updated_at='2018-07-30 18:00:12',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_qu4ym00g'
+30/07/2018 17:57:54 | SUCCESS | Save Thumbnail(0_qu4ym00g) | By-Biocine_ott503 | 
+30/07/2018 18:03:48 | SUCCESS | Save Thumbnail(0_qu4ym00g) | By-Biocine_ott503 | 
+30/07/2018 18:04:28 | SUCCESS | Save Thumbnail(0_xo9hpen2) | By-Biocine_ott503 | 
+30/07/2018 18:04:45 | SUCCESS | Save Thumbnail(0_1qvhrjaj) | By-Biocine_ott503 | 
+30/07/2018 18:05:12 | SUCCESS | Bulk Add Category(0_1qvhrjaj,0_xo9hpen2,0_esm2o2rr,295) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES', categoryid='295' where entryid='0_esm2o2rr' 
+30/07/2018 18:09:42 | SUCCESS | Save Thumbnail(0_uqjrn5mv) | By-Biocine_ott503 | 
+30/07/2018 18:11:36 | SUCCESS | Updtate MetaData(0_1qvhrjaj) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1qvhrjaj/version/100042',longdescription='Watch promo of Infection Short film ',
+        duration='128',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-07-30 18:15:06',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1qvhrjaj'
+30/07/2018 18:11:51 | SUCCESS | Save Thumbnail(0_1qvhrjaj) | By-Biocine_ott503 | 
+30/07/2018 18:12:11 | SUCCESS | Save Thumbnail(0_esm2o2rr) | By-Biocine_ott503 | 
+30/07/2018 18:12:28 | SUCCESS | Save Thumbnail(0_9zzp56a1) | By-Biocine_ott503 | 
+30/07/2018 12:47:59 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/07/2018 18:26:13 | SUCCESS | Save Thumbnail(0_41s7hg9v) | By-Biocine_ott503 | 
+30/07/2018 18:26:27 | SUCCESS | Save Thumbnail(0_m803knua) | By-Biocine_ott503 | 
+30/07/2018 18:32:54 | SUCCESS | Save Thumbnail(0_l4el6h6n) | By-Biocine_ott503 | 
+30/07/2018 18:34:24 | SUCCESS | Save Thumbnail(0_4dgt70k7) | By-Biocine_ott503 | 
+30/07/2018 18:35:24 | SUCCESS | Save Thumbnail(0_m803knua) | By-Biocine_ott503 | 
+30/07/2018 18:35:37 | SUCCESS | Save Thumbnail(0_41s7hg9v) | By-Biocine_ott503 | 
+30/07/2018 18:42:35 | SUCCESS | Save Thumbnail(0_w66h241y) | By-Biocine_ott503 | 
+30/07/2018 18:43:37 | SUCCESS | Save Thumbnail(0_tgx0p2ga) | By-Biocine_ott503 | 
+30/07/2018 18:44:02 | SUCCESS | Save Thumbnail(0_oi6yx1f3) | By-Biocine_ott503 | 
+30/07/2018 18:48:24 | SUCCESS | Save Thumbnail(0_6xyp6du1) | By-Biocine_ott503 | 
+30/07/2018 18:51:36 | SUCCESS | Save Thumbnail(0_izk59xg2) | By-Biocine_ott503 | 
+30/07/2018 18:54:01 | SUCCESS | Save Thumbnail(0_vqlv1ku0) | By-Biocine_ott503 | 
+30/07/2018 18:57:27 | SUCCESS | Save Thumbnail(0_dcj5shgn) | By-Biocine_ott503 | 
+30/07/2018 18:58:38 | SUCCESS | Save Thumbnail(0_4btqecc0) | By-Biocine_ott503 | 

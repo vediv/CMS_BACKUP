@@ -1,0 +1,257 @@
+30/11/2018 01:14:44 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+30/11/2018 01:14:45 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+30/11/2018 05:58:00 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+30/11/2018 11:29:32 | SUCCESS | Updtate MetaData(0_om80vd3s) | By-jeeyaho_ott333 | update entry set name='Tohar Buri Nazar-Sunil Maurya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_om80vd3s/version/100022',longdescription='Tohar Buri Nazar-Sunil Maurya ',
+        duration='345',type='1',tag='bhojpuri song, dj, item song, lotus, sunil maurya',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:34:45',shortdescription='Tohar Buri Nazar-Sunil Maurya ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_om80vd3s'
+30/11/2018 11:30:13 | SUCCESS | Updtate MetaData(0_h2a46mdn) | By-jeeyaho_ott333 | update entry set name='Alka Pahadiya & Manohar Singh - Kunwar Badu Holi Khelal Risk Bawe ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_h2a46mdn/version/100022',longdescription='Alka Pahadiya & Manohar Singh - Kunwar Badu Holi Khelal Risk Bawe ',
+        duration='214',type='1',tag='bhojpuri song, dj song, item number, lotus',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:35:26',shortdescription='Alka Pahadiya & Manohar Singh ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_h2a46mdn'
+30/11/2018 11:30:52 | SUCCESS | Updtate MetaData(0_luzsgmft) | By-jeeyaho_ott333 | update entry set name='Mela Ghume Khatir Taiyar Rahalu ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_luzsgmft/version/100022',longdescription='Mela Ghume Khatir Taiyar Rahalu ',
+        duration='204',type='1',tag='bhojpuri song, lotus, item song, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:36:05',shortdescription='Mela Ghume Khatir Taiyar Rahalu ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_luzsgmft'
+30/11/2018 11:31:37 | SUCCESS | Updtate MetaData(0_jktvlfqv) | By-jeeyaho_ott333 | update entry set name='Wanted Jila Aara-Dharmendra Singh',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jktvlfqv/version/100022',longdescription='Wanted Jila Aara-Dharmendra Singh',
+        duration='240',type='1',tag='bhojpuri latest song, dj, lotus, dharmendra singh',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:36:50',shortdescription='Wanted Jila Aara-Dharmendra Singh',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jktvlfqv'
+30/11/2018 11:32:22 | SUCCESS | Updtate MetaData(0_g4boh5xv) | By-jeeyaho_ott333 | update entry set name='Bharat Mata Ki Jai - New Deshbhakti Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_g4boh5xv/version/100022',longdescription='Bharat Mata Ki Jai - New Deshbhakti Song ',
+        duration='403',type='1',tag='bhojpuri song, dj song, desh bhakti, lotus, bharat mata',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:37:35',shortdescription='Bharat Mata Ki Jai - New Deshbhakti Song ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_g4boh5xv'
+30/11/2018 11:32:55 | SUCCESS | Updtate MetaData(0_53ulu4qt) | By-jeeyaho_ott333 | update entry set name='Jai Shree Ram - Ramnavami Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_53ulu4qt/version/100022',longdescription='Jai Shree Ram - Ramnavami Song 2018 ',
+        duration='204',type='1',tag='jai shri ram, bhojpuri song, dj, lotus',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:38:08',shortdescription='Jai Shree Ram - Ramnavami Song 2018 ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_53ulu4qt'
+30/11/2018 11:33:26 | SUCCESS | Updtate MetaData(0_7bknwh84) | By-jeeyaho_ott333 | update entry set name=' Saddhu Se Pahile Hamar Rahalu',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7bknwh84/version/100022',longdescription=' Saddhu Se Pahile Hamar Rahalu',
+        duration='308',type='1',tag='bhojpuri song, dj, item number, lotus',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:38:39',shortdescription=' Saddhu Se Pahile Hamar Rahalu',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7bknwh84'
+30/11/2018 11:33:53 | SUCCESS | Updtate MetaData(0_uofwy9dw) | By-jeeyaho_ott333 | update entry set name='Pichaswa Hamra Pe Bharosa Tora Naikhe ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_uofwy9dw/version/100022',longdescription='Pichaswa Hamra Pe Bharosa Tora Naikhe ',
+        duration='203',type='1',tag='horror, comedy, dj, bhojpuri, lotus',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:39:07',shortdescription='Pichaswa Hamra Pe Bharosa Tora Naikhe ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uofwy9dw'
+30/11/2018 11:34:31 | SUCCESS | Updtate MetaData(0_xk019e18) | By-jeeyaho_ott333 | update entry set name='Jawani Murchata-Dhananjay Sharma',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xk019e18/version/100022',longdescription='Jawani Murchata-Dhananjay Sharma',
+        duration='491',type='1',tag='dj, bhojpuri, item song, lotus, dhananjay sharma',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:39:44',shortdescription='Jawani Murchata-Dhananjay Sharma',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xk019e18'
+30/11/2018 11:35:01 | SUCCESS | Updtate MetaData(0_73v158pi) | By-jeeyaho_ott333 | update entry set name=' Devi Maai Se Dulha Jhakkas Paibu Gudiya Giri ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_73v158pi/version/100022',longdescription=' Devi Maai Se Dulha Jhakkas Paibu Gudiya Giri ',
+        duration='226',type='1',tag='devi geet, bhojpuri song, dj, lotus',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:40:14',shortdescription=' Devi Maai Se Dulha Jhakkas Paibu Gudiya Giri ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_73v158pi'
+30/11/2018 11:35:27 | SUCCESS | Updtate MetaData(0_5hn7hurx) | By-jeeyaho_ott333 | update entry set name=' Kundan Singh - A Ho Driver Saiya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5hn7hurx/version/100022',longdescription=' Kundan Singh - A Ho Driver Saiya ',
+        duration='364',type='1',tag='bhojpuri latest song, dj, love song, lotus, kundan singh',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:40:41',shortdescription=' Kundan Singh - A Ho Driver Saiya ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5hn7hurx'
+30/11/2018 11:36:03 | SUCCESS | Updtate MetaData(0_hmg84hnm) | By-jeeyaho_ott333 | update entry set name=' Ho Driver Saiya-New Bhojpuri Video',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hmg84hnm/version/100022',longdescription=' Ho Driver Saiya-New Bhojpuri Video',
+        duration='435',type='1',tag='bhojpuri song, dj, item song, lotus, driver saiya',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:41:16',shortdescription=' Ho Driver Saiya-New Bhojpuri Video',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hmg84hnm'
+30/11/2018 11:36:38 | SUCCESS | Updtate MetaData(0_54080c69) | By-jeeyaho_ott333 | update entry set name='Pyar Sai Ek Baar Mangeni-new song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_54080c69/version/100022',longdescription='Pyar Sai Ek Baar Mangeni-new song',
+        duration='344',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:41:52',shortdescription='Pyar Sai Ek Baar Mangeni-new song',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_54080c69'
+30/11/2018 11:37:14 | SUCCESS | Updtate MetaData(0_t2srbgar) | By-jeeyaho_ott333 | update entry set name='Mela Ghume Khatir Taiyar Rahalu ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t2srbgar/version/100022',longdescription='Mela Ghume Khatir Taiyar Rahalu ',
+        duration='204',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:42:27',shortdescription='Mela Ghume Khatir Taiyar Rahalu ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_t2srbgar'
+30/11/2018 11:38:11 | SUCCESS | Updtate MetaData(0_v5lt97ei) | By-jeeyaho_ott333 | update entry set name=' Re Chandawa Chinhat Naikhe ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_v5lt97ei/version/100022',longdescription=' Re Chandawa Chinhat Naikhe ',
+        duration='268',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:43:24',shortdescription=' Re Chandawa Chinhat Naikhe ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_v5lt97ei'
+30/11/2018 11:38:46 | SUCCESS | Updtate MetaData(0_pmrg9q42) | By-jeeyaho_ott333 | update entry set name='Chaat Geet-Dhanjey Sharma',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_pmrg9q42/version/100022',longdescription='Chaat Geet-Dhanjey Sharma',
+        duration='304',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:44:00',shortdescription='Chaat Geet-Dhananjay Sharma',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_pmrg9q42'
+30/11/2018 11:39:11 | SUCCESS | Updtate MetaData(0_oldoxm0r) | By-jeeyaho_ott333 | update entry set name='  Darr Lagela Ae Ram - Sikha Sahni ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_oldoxm0r/version/100022',longdescription='  Darr Lagela Ae Ram - Sikha Sahni ',
+        duration='413',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:44:24',shortdescription='  Darr Lagela Ae Ram - Sikha Sahni ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_oldoxm0r'
+30/11/2018 11:39:35 | SUCCESS | Updtate MetaData(0_w1d4esim) | By-jeeyaho_ott333 | update entry set name='Gavna Karake-New Bhojpuri Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_w1d4esim/version/100022',longdescription='Gavna Karake-New Bhojpuri Song ',
+        duration='313',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:44:49',shortdescription='Gavna Karake-New Bhojpuri Song ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w1d4esim'
+30/11/2018 11:40:00 | SUCCESS | Updtate MetaData(0_xcdryxlu) | By-jeeyaho_ott333 | update entry set name='Pankaj Fauji - New Bhojpuri Arkestra Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xcdryxlu/version/100022',longdescription='Pankaj Fauji - New Bhojpuri Arkestra Song ',
+        duration='199',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:45:13',shortdescription='Pankaj Fauji - New Bhojpuri Arkestra Song ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xcdryxlu'
+30/11/2018 11:40:29 | SUCCESS | Updtate MetaData(0_x5uhbpvy) | By-jeeyaho_ott333 | update entry set name='Kundan  Singh-Mauga Bhatar ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_x5uhbpvy/version/100022',longdescription='bhojpuri song, dj, lotus, item song, dance song, hd, ',
+        duration='344',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:45:42',shortdescription='Kundan  Singh-Mauga Bhatar ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_x5uhbpvy'
+30/11/2018 11:40:56 | SUCCESS | Updtate MetaData(0_swijv7ox) | By-jeeyaho_ott333 | update entry set name='Gajab Sobhe Sunari -Shivam Sagar ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_swijv7ox/version/100022',longdescription='Gajab Sobhe Sunari -Shivam Sagar ',
+        duration='334',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:46:09',shortdescription='Gajab Sobhe Sunari -Shivam Sagar ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_swijv7ox'
+30/11/2018 11:41:26 | SUCCESS | Updtate MetaData(0_wk5wc4od) | By-jeeyaho_ott333 | update entry set name=' Beauty Parlor Wali - Dhananjay Sharma',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wk5wc4od/version/100022',longdescription=' Beauty Parlor Wali - Dhananjay Sharma',
+        duration='583',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:46:39',shortdescription=' Beauty Parlor Wali - Dhananjay Sharma',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wk5wc4od'
+30/11/2018 11:41:52 | SUCCESS | Updtate MetaData(0_xcwo46uc) | By-jeeyaho_ott333 | update entry set name=' Raat Bhar Horn Dabaib E Balam ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xcwo46uc/version/100022',longdescription=' Raat Bhar Horn Dabaib E Balam ',
+        duration='182',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:47:05',shortdescription=' Raat Bhar Horn Dabaib E Balam ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xcwo46uc'
+30/11/2018 11:42:18 | SUCCESS | Updtate MetaData(0_4y46u03f) | By-jeeyaho_ott333 | update entry set name='Tohar Naina Mare Jaan - Dhananjay Sharma',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4y46u03f/version/100022',longdescription='Tohar Naina Mare Jaan - Dhananjay Sharma',
+        duration='248',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:47:31',shortdescription='Tohar Naina Mare Jaan - Dhananjay Sharma',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4y46u03f'
+30/11/2018 11:43:47 | SUCCESS | Updtate MetaData(0_e1txsxns) | By-jeeyaho_ott333 | update entry set name='Rahedi Raja Fat Jaai Ho Sunil Maurya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_e1txsxns/version/100022',longdescription='Rahedi Raja Fat Jaai Ho Sunil Maurya ',
+        duration='312',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:49:00',shortdescription='Rahedi Raja Fat Jaai Ho Sunil Maurya ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_e1txsxns'
+30/11/2018 11:44:41 | SUCCESS | Updtate MetaData(0_c2elqygh) | By-jeeyaho_ott333 | update entry set name=' Kamar Odhke Ghiu Piyele ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_c2elqygh/version/100022',longdescription=' Kamar Odhke Ghiu Piyele ',
+        duration='303',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:49:54',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='`lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_c2elqygh'
+30/11/2018 11:45:16 | SUCCESS | Updtate MetaData(0_c9q7uk0n) | By-jeeyaho_ott333 | update entry set name='Fevicol Chuwa Ke Saiya - Bipin Singh ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_c9q7uk0n/version/100022',longdescription='Fevicol Chuwa Ke Saiya - Bipin Singh ',
+        duration='338',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:50:29',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_c9q7uk0n'
+30/11/2018 11:46:04 | SUCCESS | Updtate MetaData(0_rmxl1z8u) | By-jeeyaho_ott333 | update entry set name='Pyar Kahe Kailu - New Bhojpuri Sad Songs ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_rmxl1z8u/version/100022',longdescription='Pyar Kahe Kailu - New Bhojpuri Sad Songs ',
+        duration='265',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:51:17',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rmxl1z8u'
+30/11/2018 11:46:41 | SUCCESS | Updtate MetaData(0_793wq598) | By-jeeyaho_ott333 | update entry set name='Selfie Khinch Ke-Mohini Pandey ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_793wq598/version/100022',longdescription='Selfie Khinch Ke-Mohini Pandey ',
+        duration='250',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd, mohini pandey',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:51:54',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_793wq598'
+30/11/2018 11:48:07 | SUCCESS | Updtate MetaData(0_pkgeifro) | By-jeeyaho_ott333 | update entry set name=' Nazar Na Churawal Kara Prasidh Tiwari ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_pkgeifro/version/100022',longdescription=' Nazar Na Churawal Kara Prasidh Tiwari ',
+        duration='250',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:53:20',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_pkgeifro'
+30/11/2018 11:48:39 | SUCCESS | Updtate MetaData(0_jsj5wfiu) | By-jeeyaho_ott333 | update entry set name=' Piritiya Ke Tar-Sunil Maurya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jsj5wfiu/version/100022',longdescription=' Piritiya Ke Tar-Sunil Maurya ',
+        duration='253',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:53:52',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jsj5wfiu'
+30/11/2018 11:49:13 | SUCCESS | Updtate MetaData(0_rvbvt3n5) | By-jeeyaho_ott333 | update entry set name=' Yaad Me Tadapake - Dhananjay Sharma ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_rvbvt3n5/version/100022',longdescription=' Yaad Me Tadapake - Dhananjay Sharma ',
+        duration='361',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd, mohini pandey',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:54:26',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rvbvt3n5'
+30/11/2018 11:49:47 | SUCCESS | Updtate MetaData(0_gz7unzvq) | By-jeeyaho_ott333 | update entry set name='Bhojpuri Chaita-bhatre sai mili ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_gz7unzvq/version/100022',longdescription='Bhojpuri Chaita-bhatre sai mili ',
+        duration='229',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:55:00',shortdescription=' Kamar Odhke Ghiu Piyele ',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gz7unzvq'
+30/11/2018 11:50:23 | SUCCESS | Updtate MetaData(0_xw0sf1lv) | By-jeeyaho_ott333 | update entry set name=' Mohini Pandey - A Lalan',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xw0sf1lv/version/100022',longdescription=' Mohini Pandey - A Lalan',
+        duration='223',type='1',tag='bhojpuri song, dj, lotus, item song, dance song, hd',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 11:55:36',shortdescription=' Mohini Pandey - A Lalan',
+        director='',producer='lotus',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xw0sf1lv'
+30/11/2018 06:38:16 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+30/11/2018 12:18:15 | SUCCESS | Save New video(0_byxauztb) | By-jeeyaho_ott333 | 
+30/11/2018 12:20:59 | SUCCESS | Save New video(0_rtt920kb) | By-jeeyaho_ott333 | 
+30/11/2018 12:25:53 | SUCCESS | Save New video(0_rnj38ww3) | By-jeeyaho_ott333 | 
+30/11/2018 12:28:11 | SUCCESS | Save New video(0_s6chav8t) | By-jeeyaho_ott333 | 
+30/11/2018 12:30:34 | SUCCESS | Save New video(0_cw8671kk) | By-jeeyaho_ott333 | 
+30/11/2018 12:33:08 | SUCCESS | Save New video(0_lpg18afw) | By-jeeyaho_ott333 | 
+30/11/2018 12:35:21 | SUCCESS | Save New video(0_t80t06m6) | By-jeeyaho_ott333 | 
+30/11/2018 12:36:53 | SUCCESS | Save New video(0_ewlmz9v8) | By-jeeyaho_ott333 | 
+30/11/2018 12:38:48 | SUCCESS | Save New video(0_yjwa3tle) | By-jeeyaho_ott333 | 
+30/11/2018 12:40:52 | SUCCESS | Save New video(0_lgeoua7k) | By-jeeyaho_ott333 | 
+30/11/2018 13:21:15 | SUCCESS | Updtate MetaData(0_lpg18afw) | By-jeeyaho_ott333 | update entry set name='Pawan Singh Live In Jeeyaho part 2',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lpg18afw/version/100022',longdescription='Pawan SIngh Live In Jeeyaho Banaras 2018 part 2',
+        duration='391',type='1',tag='pawan singh, ritesh pandey, jeeyaho, banaras 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 13:26:28',shortdescription='Pawan SIngh Dhamal In jeeyaho 2018',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lpg18afw'
+30/11/2018 13:21:53 | SUCCESS | Updtate MetaData(0_lpg18afw) | By-jeeyaho_ott333 | update entry set name='Pawan Singh Live In Jeeyaho part 2',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lpg18afw/version/100022',longdescription='Pawan SIngh Live In Jeeyaho Banaras 2018 part 2',
+        duration='391',type='1',tag='pawan singh, ritesh pandey, jeeyaho, banaras 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 13:27:06',shortdescription='Pawan SIngh Dhamal In jeeyaho 2018',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lpg18afw'
+30/11/2018 13:23:55 | SUCCESS | Updtate MetaData(0_t80t06m6) | By-jeeyaho_ott333 | update entry set name='Pawan Singh Intro In jeeyaho part 3',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t80t06m6/version/100022',longdescription='Pawan Singh Intro In jeeyaho Banaras 2018 part 3',
+        duration='130',type='1',tag='pawan singh, ritesh pandey, dj, banaras 2018, live, amarpali dubey',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 13:29:08',shortdescription='Pawan Singh Intro In jeeyaho part 3',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_t80t06m6'
+30/11/2018 13:24:36 | SUCCESS | Updtate MetaData(0_ewlmz9v8) | By-jeeyaho_ott333 | update entry set name='Pawan Singh In jeeyaho Part 4',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ewlmz9v8/version/100022',longdescription='Pawan Singh In jeeyaho Part 4',
+        duration='171',type='1',tag='pawan singh, ritesh pandey, live, banaras, 2018, jeeyaho',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 13:29:50',shortdescription='Pawan Singh In jeeyaho Part 4',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ewlmz9v8'
+30/11/2018 13:25:10 | SUCCESS | Updtate MetaData(0_yjwa3tle) | By-jeeyaho_ott333 | update entry set name='Pawan Singh Live IN Jeeyaho part 5',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_yjwa3tle/version/100022',longdescription='Pawan Singh Live IN Jeeyaho Banaras 2018  part 5',
+        duration='307',type='1',tag='pawan singh, ritesh pandey, shubhi sharma, live, banaras 2018, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-30 13:30:24',shortdescription='Pawan Singh Live IN Jeeyaho part 5',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_yjwa3tle'
+30/11/2018 17:46:07 | SUCCESS | Delete slider Image (16) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='16'
+30/11/2018 18:04:05 | SUCCESS | Add New Slider Image(C:\fakepath\pawan singh.jpeg) | By-jeeyaho_ott333 | 
+30/11/2018 18:06:23 | SUCCESS | update Slider Detail(0_t80t06m6,'') | By-jeeyaho_ott333 | 
+30/11/2018 18:06:30 | SUCCESS | Slider image active(SliderID:17,Status:active) | By-jeeyaho_ott333 | 
+30/11/2018 18:10:35 | SUCCESS | Delete slider Image (4) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='4'
+30/11/2018 18:11:09 | SUCCESS | Add New Slider Image(C:\fakepath\Ritesh pandey.jpeg) | By-jeeyaho_ott333 | 
+30/11/2018 18:11:18 | SUCCESS | Slider image active(SliderID:18,Status:active) | By-jeeyaho_ott333 | 
+30/11/2018 18:05:49 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+30/11/2018 18:43:43 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

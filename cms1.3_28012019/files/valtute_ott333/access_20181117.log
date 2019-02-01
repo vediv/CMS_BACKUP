@@ -1,0 +1,123 @@
+17/11/2018 00:15:23 | SUCCESS | Save New video(0_oakzs20r) | By-jeeyaho_ott333 | 
+17/11/2018 00:16:40 | SUCCESS | Updtate MetaData(0_59ztvskk) | By-jeeyaho_ott333 | update entry set name='  Donation ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_59ztvskk/version/100022',longdescription='  Donation  for Education ',
+        duration='329',type='1',tag='short film, sm media, hindi, donation, dj',category='KIDS>MOVIES',categoryid='467',
+        updated_at='2018-11-17 00:21:43',shortdescription='  Donation  for Education ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_59ztvskk'
+17/11/2018 01:04:05 | SUCCESS | Updtate MetaData(0_oakzs20r) | By-jeeyaho_ott333 | update entry set name='I Respect You ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_oakzs20r/version/100022',longdescription=' Respect You From My Heart',
+        duration='1089',type='1',tag='love, film, sm media, respect, movie',category='DRAMA SERIES>ROMANCE',categoryid='463',
+        updated_at='2018-11-17 01:09:07',shortdescription=' Respect You From My Heart',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_oakzs20r'
+17/11/2018 03:44:36 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+17/11/2018 09:22:44 | SUCCESS | Save Thumbnail(0_19nqyhwm) | By-jeeyaho_ott333 | 
+17/11/2018 09:33:54 | SUCCESS | Save Thumbnail(0_ce3fkuye) | By-jeeyaho_ott333 | 
+17/11/2018 06:56:42 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+17/11/2018 12:29:59 | SUCCESS | Save New video(0_ir5hi8d1) | By-jeeyaho_ott333 | 
+17/11/2018 12:42:33 | SUCCESS | Updtate MetaData(0_ir5hi8d1) | By-jeeyaho_ott333 | update entry set name='Mile aabe New Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ir5hi8d1/version/100022',longdescription='Mile aabe New Song ',
+        duration='321',type='1',tag='bengali, jarkhandi sm media, dj',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-11-17 12:47:35',shortdescription='Mile aabe New Song ',
+        director='',producer='jharkhand music',cast='',crew='',sub_genre='',
+        language='jharkhandi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ir5hi8d1'
+17/11/2018 12:44:56 | SUCCESS | Updtate MetaData(0_t9dvt9u7) | By-jeeyaho_ott333 | update entry set name=' Ruhani In Ankhon Se | Superhit Hindi Love Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t9dvt9u7/version/100022',longdescription='New Hindi Song',
+        duration='288',type='1',tag='new hindi song, love song, music',category='MUSIC>HINDI>SAD',categoryid='495',
+        updated_at='2018-11-17 12:49:58',shortdescription='Hindi Love Song 2018',
+        director='',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_t9dvt9u7'
+17/11/2018 12:53:30 | SUCCESS | Save New video(0_i7nl0v6m) | By-jeeyaho_ott333 | 
+17/11/2018 13:02:23 | SUCCESS | Save New video(0_5tg663c7) | By-jeeyaho_ott333 | 
+17/11/2018 13:02:41 | SUCCESS | Delete Video entry(0_i7nl0v6m) | By-jeeyaho_ott333 | 
+17/11/2018 13:12:33 | SUCCESS | Updtate MetaData(0_5tg663c7) | By-jeeyaho_ott333 | update entry set name='Sufi JugalBandi',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5tg663c7/version/100022',longdescription='Sufi jugal bandi ',
+        duration='817',type='1',tag='sufi song, music, movie, event',category='MUSIC>SUFI',categoryid='499',
+        updated_at='2018-11-17 13:17:35',shortdescription='Sufi JugalBandi',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5tg663c7'
+17/11/2018 07:55:21 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+17/11/2018 13:57:48 | SUCCESS | Update Ticket Status(close tid=14--by=173) | By-jeeyaho_ott333 | 
+17/11/2018 08:35:25 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+17/11/2018 15:25:48 | SUCCESS | Save New video(0_tm0ht4z8) | By-jeeyaho_ott333 | 
+17/11/2018 15:36:51 | SUCCESS | Save New video(0_sgdl9qws) | By-jeeyaho_ott333 | 
+17/11/2018 15:37:53 | SUCCESS | Updtate MetaData(0_tm0ht4z8) | By-jeeyaho_ott333 | update entry set name='Evening With Sufi Music',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_tm0ht4z8/version/100022',longdescription='Sufi Program',
+        duration='657',type='1',tag='sufi, music, sangeet, sm media',category='MUSIC>SUFI',categoryid='499',
+        updated_at='2018-11-17 15:42:56',shortdescription='Evening With Sufi Music',
+        director='',producer='sm media',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_tm0ht4z8'
+17/11/2018 15:41:23 | SUCCESS | Save New video(0_69bv1xm1) | By-jeeyaho_ott333 | 
+17/11/2018 15:42:12 | SUCCESS | Updtate MetaData(0_sgdl9qws) | By-jeeyaho_ott333 | update entry set name='A Ishika New Song 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_sgdl9qws/version/100002',longdescription='A Ishika New Song 2018',
+        duration='408',type='1',tag='song, music, sm media, nawwa jharkhand',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-11-17 15:47:14',shortdescription='A Ishika New Song 2018',
+        director='',producer='naawa jharkhand',cast='',crew='',sub_genre='',
+        language='Jharkhandi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_sgdl9qws'
+17/11/2018 15:45:57 | SUCCESS | Save New video(0_0df4gco9) | By-jeeyaho_ott333 | 
+17/11/2018 15:46:35 | SUCCESS | Updtate MetaData(0_69bv1xm1) | By-jeeyaho_ott333 | update entry set name='Bewafa Aengan Ambke sochaa',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_69bv1xm1/version/100002',longdescription='Bewafa Aengan Ambke sochaa',
+        duration='308',type='1',tag='2018, dj, sad, song, ambke sochaa',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-17 15:51:38',shortdescription='Bewafa Aengan Ambke sochaa',
+        director='',producer='nawwa jharkhand',cast='',crew='',sub_genre='',
+        language='jharkhandi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_69bv1xm1'
+17/11/2018 15:49:58 | SUCCESS | Save New video(0_lrm086na) | By-jeeyaho_ott333 | 
+17/11/2018 15:52:42 | SUCCESS | Save New video(0_s3bujlgb) | By-jeeyaho_ott333 | 
+17/11/2018 15:59:50 | SUCCESS | Save New video(0_uhyfj6js) | By-jeeyaho_ott333 | 
+17/11/2018 16:07:10 | SUCCESS | Delete slider Image (12) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='12'
+17/11/2018 16:15:10 | SUCCESS | Save New video(0_jn0aia4q) | By-jeeyaho_ott333 | 
+17/11/2018 16:30:57 | SUCCESS | Updtate MetaData(0_0df4gco9) | By-jeeyaho_ott333 | update entry set name='Ek Duje Bina Na Jeena ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_0df4gco9/version/100022',longdescription='Ek Duje Bina Na Jeena ',
+        duration='416',type='1',tag='new song, music, bengali, jharkhandi',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-11-17 16:36:00',shortdescription='Ek Duje Bina Na Jeena ',
+        director='',producer='nawwa jharkhand',cast='',crew='',sub_genre='',
+        language='nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0df4gco9'
+17/11/2018 16:31:48 | SUCCESS | Updtate MetaData(0_lrm086na) | By-jeeyaho_ott333 | update entry set name='Pyar Kar Hawa ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lrm086na/version/100022',longdescription='Pyar Kar Hawa  a superhit song',
+        duration='320',type='1',tag='new song, jharkhand, dj song, nawwa jharkhand',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-11-17 16:36:51',shortdescription='Pyar Kar Hawa ',
+        director='',producer='nawwa jharkhand',cast='',crew='',sub_genre='',
+        language='nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lrm086na'
+17/11/2018 16:42:20 | SUCCESS | Delete slider Image (10) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='10'
+17/11/2018 16:53:19 | SUCCESS | Add New Slider Image(C:\fakepath\JEEYA HO.JPEG) | By-jeeyaho_ott333 | 
+17/11/2018 16:53:32 | SUCCESS | Slider image inactive(SliderID:11,Status:inactive) | By-jeeyaho_ott333 | 
+17/11/2018 16:53:37 | SUCCESS | Slider image active(SliderID:13,Status:active) | By-jeeyaho_ott333 | 
+17/11/2018 16:53:58 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+17/11/2018 17:06:03 | SUCCESS | Delete slider Image (11) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='11'
+17/11/2018 17:06:34 | SUCCESS | Add New Slider Image(C:\fakepath\RESPECT.JPEG) | By-jeeyaho_ott333 | 
+17/11/2018 17:06:47 | SUCCESS | Slider image active(SliderID:14,Status:active) | By-jeeyaho_ott333 | 
+17/11/2018 17:06:59 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+17/11/2018 17:07:35 | SUCCESS | Slider image inactive(SliderID:4,Status:inactive) | By-jeeyaho_ott333 | 
+17/11/2018 17:07:41 | SUCCESS | Slider image active(SliderID:3,Status:active) | By-jeeyaho_ott333 | 
+17/11/2018 17:09:49 | SUCCESS | Updtate MetaData(0_s3bujlgb) | By-jeeyaho_ott333 | update entry set name=' Chukhur Chukhur Re Sahiya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_s3bujlgb/version/100022',longdescription=' Chukhur Chukhur Re Sahiya ',
+        duration='309',type='1',tag='new song, music, movie, chukur chukur',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-11-17 17:14:51',shortdescription=' Chukhur Chukhur Re Sahiya ',
+        director='',producer='nawwa jharkhand',cast='',crew='',sub_genre='',
+        language='nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_s3bujlgb'
+17/11/2018 17:10:37 | SUCCESS | Updtate MetaData(0_uhyfj6js) | By-jeeyaho_ott333 | update entry set name='Vowels and Consonants For Kids ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_uhyfj6js/version/100022',longdescription='Vowels and Consonants For Kids ',
+        duration='170',type='1',tag='kids, child, rhymes, poem',category='KIDS>HOW TO EDUCATION',categoryid='472',
+        updated_at='2018-11-17 17:15:39',shortdescription='Vowels and Consonants For Kids ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='english',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uhyfj6js'
+17/11/2018 17:11:55 | SUCCESS | Updtate MetaData(0_jn0aia4q) | By-jeeyaho_ott333 | update entry set name='Theatre drama',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jn0aia4q/version/100022',longdescription='Theatre drama',
+        duration='265',type='1',tag='music, song, movie, film',category='DRAMA SERIES>FAMILY',categoryid='465',
+        updated_at='2018-11-17 17:16:57',shortdescription='Theatre drama',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jn0aia4q'
+17/11/2018 17:13:08 | SUCCESS | Slider image inactive(SliderID:14,Status:inactive) | By-jeeyaho_ott333 | 
+17/11/2018 17:13:13 | SUCCESS | Delete slider Image (14) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='14'
+17/11/2018 17:14:06 | SUCCESS | Add New Slider Image(C:\fakepath\RESPECT.JPEG) | By-jeeyaho_ott333 | 
+17/11/2018 17:14:21 | SUCCESS | Slider image active(SliderID:15,Status:active) | By-jeeyaho_ott333 | 
+17/11/2018 17:14:38 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+17/11/2018 11:53:33 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+17/11/2018 17:24:48 | SUCCESS | Slider image inactive(SliderID:13,Status:inactive) | By-jeeyaho_ott333 | 
+17/11/2018 17:28:27 | SUCCESS | update Slider Detail(0_cb4s7qmx,'') | By-jeeyaho_ott333 | 
+17/11/2018 17:41:52 | SUCCESS | Delete slider Image (13) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='13'
+17/11/2018 17:42:28 | SUCCESS | Add New Slider Image(C:\fakepath\PAWAN SINGH .JPEG) | By-jeeyaho_ott333 | 
+17/11/2018 17:42:42 | SUCCESS | Slider priority Set | By-jeeyaho_ott333 | 
+17/11/2018 17:42:49 | SUCCESS | Slider image active(SliderID:16,Status:active) | By-jeeyaho_ott333 | 
+17/11/2018 12:23:52 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

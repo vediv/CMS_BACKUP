@@ -1,0 +1,67 @@
+12/09/2018 04:47:53 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+12/09/2018 10:20:23 | SUCCESS | Add New Header Content(Watchlist) | By-jeeyaho_ott333 | 
+12/09/2018 10:21:05 | SUCCESS | Add New Header Content(Plan) | By-jeeyaho_ott333 | 
+12/09/2018 10:21:18 | SUCCESS | Header Menu active(HeaderID:62,Status:active) | By-jeeyaho_ott333 | 
+12/09/2018 10:21:20 | SUCCESS | Header Menu active(HeaderID:63,Status:active) | By-jeeyaho_ott333 | 
+12/09/2018 10:24:32 | SUCCESS | Header Content priority Set | By-jeeyaho_ott333 | 
+12/09/2018 10:24:49 | SUCCESS | Header Content priority Set | By-jeeyaho_ott333 | 
+12/09/2018 11:12:59 | SUCCESS | update Header Content Detail(HOME) | By-jeeyaho_ott333 | 
+12/09/2018 11:13:42 | SUCCESS | update Header Content Detail(MUSIC) | By-jeeyaho_ott333 | 
+12/09/2018 11:14:09 | SUCCESS | update Header Content Detail(MOVIES) | By-jeeyaho_ott333 | 
+12/09/2018 11:14:36 | SUCCESS | update Header Content Detail(DRAMA SERIES) | By-jeeyaho_ott333 | 
+12/09/2018 11:15:09 | SUCCESS | update Header Content Detail(KIDS) | By-jeeyaho_ott333 | 
+12/09/2018 11:15:47 | SUCCESS | update Header Content Detail(HOME) | By-jeeyaho_ott333 | 
+12/09/2018 11:16:16 | SUCCESS | update Header Content Detail(Profile) | By-jeeyaho_ott333 | 
+12/09/2018 11:16:49 | SUCCESS | update Header Content Detail(ABOUT US) | By-jeeyaho_ott333 | 
+12/09/2018 11:22:55 | SUCCESS | Add New Plan (Free) | By-jeeyaho_ott333 | 
+12/09/2018 11:23:00 | SUCCESS | Plan active(planID:p318,Status:active) | By-jeeyaho_ott333 | 
+12/09/2018 11:50:37 | SUCCESS | Save Age Restriction(0_sfqyajl1,UA) | By-jeeyaho_ott333 | 
+12/09/2018 12:38:37 | SUCCESS | Bulk Add Category(0_84t8xd15,0_yctfljtz,0_j05l7365,0_79hnk6x5,0_xpxp8s7q,0_44aw75bl,0_0f37hv4y,0_5qs7eep6,447,448,449,450,451,452,453,454,455,501,456,457,458,459,460,488,489,490,491,492) | By-jeeyaho_ott333 | update entry set category='MUSIC>REGIONAL>BHOJPURI,MOVIES>HINDI>THRILLER,MOVIES>HINDI>HORROR,MOVIES>HINDI>COMEDY,MOVIES>HINDI>ROMANCE,MOVIES>HINDI>SHORT FILMS,MOVIES>ENGLISH>THRILLER,MOVIES>ENGLISH>HORROR,MOVIES>ENGLISH>ROMANCE,MOVIES>ENGLISH>SHORT FILMS,MOVIES>ENGLISH>COMEDY,MOVIES>INTERNATIONAL>THRILLER,MOVIES>INTERNATIONAL>HORROR,MOVIES>INTERNATIONAL>COMEDY,MOVIES>INTERNATIONAL>ROMANCE,MOVIES>INTERNATIONAL>SHORT FILMS,MUSIC>REGIONAL>BENGALI,MUSIC>REGIONAL>TAMIL,MUSIC>REGIONAL>MALAYALAM,MUSIC>REGIONAL>TELUGU', categoryid='488,447,448,449,450,451,452,453,454,455,501,456,457,458,459,460,489,490,491,492' where entryid='0_5qs7eep6' 
+12/09/2018 12:50:12 | SUCCESS | Bulk Add Category(0_sfqyajl1,0_f0v6x03v,0_pm5impnj,0_v6ahqyk3,0_0qwrm2ay,0_7fy1akfa,0_2n6lubes,0_eu177hel,494,495,496,497,498,499,500,462,463,464,465,467,468,469,470,471,472,474,475,476) | By-jeeyaho_ott333 | update entry set category='MUSIC>HINDI>LOVE,MUSIC>HINDI>SAD,MUSIC>HINDI>PARTY,MUSIC>HINDI>MIX,MUSIC>HINDI>BOLLYWOOD,MUSIC>SUFI,MUSIC>SPECIAL,DRAMA SERIES>COMEDY,DRAMA SERIES>ROMANCE,DRAMA SERIES>MYSTERY,DRAMA SERIES>FAMILY,KIDS>MOVIES,KIDS>ANIMATION,KIDS>RHYMES,KIDS>STORY TELLING,KIDS>PUPPET,KIDS>HOW TO EDUCATION,DEVOTIONAL>BHAJAN,DEVOTIONAL>AARTI,DEVOTIONAL>CHAALISAA', categoryid='494,495,496,497,498,499,500,462,463,464,465,467,468,469,470,471,472,474,475,476' where entryid='0_eu177hel' 
+12/09/2018 12:55:06 | SUCCESS | Bulk Add Category(0_ofs0qrqp,0_wu2bw6bi,477,478,479,480,481,483,482) | By-jeeyaho_ott333 | update entry set category='DEVOTIONAL>PRAVACHAN,DEVOTIONAL>MANTRA,DEVOTIONAL>KATHAA,DEVOTIONAL>GEETA SAAR,DEVOTIONAL>POOJA VIDHI,DEVOTIONAL>VRAT KATHAA,DEVOTIONAL>RAMAYAN', categoryid='477,478,479,480,481,483,482' where entryid='0_wu2bw6bi' 
+12/09/2018 12:56:51 | SUCCESS | Updtate MetaData(0_5qs7eep6) | By-jeeyaho_ott333 | update entry set name='Black Bear in the forest',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5qs7eep6/version/100022',longdescription='Watch Black Bear roaming in the forest.',
+        duration='28',type='1',tag='animal, black, bear, wild, life, wildlife, amazing world, animals, bear life, brown bear close view, bear wild, forest video, brown bear, wild life, living, dangerous, dangerous animal, wild zone, wild life photography',category='MOVIES>HINDI>THRILLER,MOVIES>HINDI>HORROR,MOVIES>HINDI>COMEDY,MOVIES>HINDI>ROMANCE,MOVIES>HINDI>SHORT FILMS,MOVIES>ENGLISH>THRILLER,MOVIES>ENGLISH>HORROR,MOVIES>ENGLISH>ROMANCE,MOVIES>ENGLISH>SHORT FILMS,MOVIES>INTERNATIONAL>THRILLER,MOVIES>INTERNATIONAL>HORROR,MOVIES>INTERNATIONAL>COMEDY,MOVIES>INTERNATIONAL>ROMANCE,MOVIES>INTERNATIONAL>SHORT FILMS,MUSIC>REGIONAL>BHOJPURI,MUSIC>REGIONAL>BENGALI,MUSIC>REGIONAL>TAMIL,MUSIC>REGIONAL>MALAYALAM,MUSIC>REGIONAL>TELUGU,MOVIES>ENGLISH>COMEDY,DEVOTIONAL>BHAJAN,DEVOTIONAL>CHAALISAA,DEVOTIONAL>MANTRA,DEVOTIONAL>GEETA SAAR,DEVOTIONAL>RAMAYAN,LIFESTYLE>FOOD',categoryid='447,448,449,450,451,452,453,454,455,456,457,458,459,460,488,489,490,491,492,501,474,476,478,480,482,440',
+        updated_at='2018-09-12 13:00:57',shortdescription='Watch Black Bear roaming in the forest.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5qs7eep6'
+12/09/2018 12:57:55 | SUCCESS | Updtate MetaData(0_5pbrb0kb) | By-jeeyaho_ott333 | update entry set name='Cookery show- Butter Chicken',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5pbrb0kb/version/100012',longdescription='Watch the video & know how to cook butter chicken.',
+        duration='182',type='1',tag='cookery, show, cook, cooking, butter, chicken, non veg, dinner, food, easy cook',category='LIFESTYLE>YOGA,LIFESTYLE>HEALTH,LIFESTYLE>DIET,LIFESTYLE>BEAUTY,LIFESTYLE>FOOD,LIFESTYLE>FASHION,LIFESTYLE>FITNESS,DEVOTIONAL>BHAJAN,DEVOTIONAL>AARTI,DEVOTIONAL>PRAVACHAN,DEVOTIONAL>KATHAA,DEVOTIONAL>POOJA VIDHI,DEVOTIONAL>RAMAYAN',categoryid='436,437,438,439,440,441,442,474,475,477,479,481,482',
+        updated_at='2018-09-12 13:02:02',shortdescription='Watch the video & know how to cook butter chicken.',
+        director='',producer='',cast='',crew='',sub_genre='Non-Veg',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5pbrb0kb'
+12/09/2018 12:58:54 | SUCCESS | Updtate MetaData(0_wu2bw6bi) | By-jeeyaho_ott333 | update entry set name='BEAUTY TIPS ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wu2bw6bi/version/100012',longdescription='Watch how to cleanse your face in three simple steps.',
+        duration='198',type='1',tag='beauty, tips, fashion, lifestyle, grooming, cleansing, face, clean, glow',category='DEVOTIONAL>PRAVACHAN,DEVOTIONAL>MANTRA,DEVOTIONAL>KATHAA,DEVOTIONAL>GEETA SAAR,DEVOTIONAL>POOJA VIDHI,DEVOTIONAL>RAMAYAN,DEVOTIONAL>VRAT KATHAA,LIFESTYLE>YOGA,LIFESTYLE>HEALTH,LIFESTYLE>DIET,LIFESTYLE>BEAUTY,LIFESTYLE>FOOD,LIFESTYLE>FASHION,LIFESTYLE>FITNESS',categoryid='477,478,479,480,481,482,483,436,437,438,439,440,441,442',
+        updated_at='2018-09-12 13:03:00',shortdescription='Watch how to cleanse your face in three simple steps.',
+        director='',producer='',cast='',crew='',sub_genre='Beauty',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wu2bw6bi'
+12/09/2018 13:00:34 | SUCCESS | Save Thumbnail(0_ofs0qrqp) | By-jeeyaho_ott333 | 
+12/09/2018 13:02:02 | SUCCESS | Save Thumbnail(0_eu177hel) | By-jeeyaho_ott333 | 
+12/09/2018 13:03:06 | SUCCESS | Save Thumbnail(0_5qs7eep6) | By-jeeyaho_ott333 | 
+12/09/2018 13:04:01 | SUCCESS | Save Thumbnail(0_2n6lubes) | By-jeeyaho_ott333 | 
+12/09/2018 13:06:59 | SUCCESS | Save Thumbnail(0_0f37hv4y) | By-jeeyaho_ott333 | 
+12/09/2018 13:08:31 | SUCCESS | Save Thumbnail(0_84t8xd15) | By-jeeyaho_ott333 | 
+12/09/2018 13:09:45 | SUCCESS | Save Thumbnail(0_sfqyajl1) | By-jeeyaho_ott333 | 
+12/09/2018 13:10:58 | SUCCESS | Save Thumbnail(0_yctfljtz) | By-jeeyaho_ott333 | 
+12/09/2018 13:12:52 | SUCCESS | Save Thumbnail(0_f0v6x03v) | By-jeeyaho_ott333 | 
+12/09/2018 14:07:19 | SUCCESS | Save Thumbnail(0_j05l7365) | By-jeeyaho_ott333 | 
+12/09/2018 14:07:50 | SUCCESS | Save Thumbnail(0_pm5impnj) | By-jeeyaho_ott333 | 
+12/09/2018 14:08:22 | SUCCESS | Save Thumbnail(0_79hnk6x5) | By-jeeyaho_ott333 | 
+12/09/2018 14:09:02 | SUCCESS | Save Thumbnail(0_v6ahqyk3) | By-jeeyaho_ott333 | 
+12/09/2018 14:10:42 | SUCCESS | Save Thumbnail(0_xpxp8s7q) | By-jeeyaho_ott333 | 
+12/09/2018 14:11:18 | SUCCESS | Save Thumbnail(0_0qwrm2ay) | By-jeeyaho_ott333 | 
+12/09/2018 14:13:18 | SUCCESS | Save Thumbnail(0_0qwrm2ay) | By-jeeyaho_ott333 | 
+12/09/2018 14:14:07 | SUCCESS | Save Thumbnail(0_44aw75bl) | By-jeeyaho_ott333 | 
+12/09/2018 14:14:55 | SUCCESS | Save Thumbnail(0_7fy1akfa) | By-jeeyaho_ott333 | 
+12/09/2018 14:51:59 | SUCCESS | Add New Slider Image(C:\fakepath\banne4.jpg) | By-jeeyaho_ott333 | 
+12/09/2018 14:52:40 | SUCCESS | update Slider Detail(0_7fy1akfa,'') | By-jeeyaho_ott333 | 
+12/09/2018 14:52:44 | SUCCESS | Slider image active(SliderID:4,Status:active) | By-jeeyaho_ott333 | 
+12/09/2018 16:01:35 | SUCCESS | Save Age Restriction(0_84t8xd15,UA) | By-jeeyaho_ott333 | 
+12/09/2018 16:02:40 | SUCCESS | Save Age Restriction(0_yctfljtz,UA) | By-jeeyaho_ott333 | 
+12/09/2018 16:07:13 | SUCCESS | Bulk Add Age Restriction(Array,UA) | By-jeeyaho_ott333 | 
+12/09/2018 16:07:52 | SUCCESS | Bulk Add Age Restriction(Array,UA) | By-jeeyaho_ott333 | 
+12/09/2018 16:08:49 | SUCCESS | Bulk Add Age Restriction(Array,A) | By-jeeyaho_ott333 | 
+12/09/2018 10:43:57 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+12/09/2018 16:14:35 | SUCCESS | update plan Detail(Free) | By-jeeyaho_ott333 | 

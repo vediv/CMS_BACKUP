@@ -1,0 +1,33 @@
+20/04/2018 04:33:58 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+20/04/2018 10:04:30 | SUCCESS | Add New HomeSettingTag(Top Stories) | By-PowerSmart_ott182 | 
+20/04/2018 10:04:34 | SUCCESS | Home Setting active(HomeID:3,Status:active) | By-PowerSmart_ott182 | 
+20/04/2018 10:05:25 | SUCCESS | Updtate MetaData(0_uuo23bu9) | By-PowerSmart_ott182 | update entry set name='Fireworks | Celebration | Light',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_uuo23bu9/version/100012',longdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        duration='28',type='1',tag='firewrk, cracker, light, brightness, celebration, celebrate, news, feed, buzz, report',category='WORLD,INDIA,SPORTS,ENTERTAINMENT,LIFESTYLE,HEALTH,SCIENCE',categoryid='324,325,326,328,330,332,333',
+        updated_at='2018-04-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uuo23bu9'
+20/04/2018 10:06:04 | SUCCESS | Updtate MetaData(0_dnkd90ya) | By-PowerSmart_ott182 | update entry set name='News Reading and reporting',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_dnkd90ya/version/100012',longdescription='Watch Latest news feed and buzz related to all types of category anywhere & anytime . \r\nYou can easily reach news to your devices.',
+        duration='19',type='1',tag='news, feed, updates, report, reporting, reporter, latest, world, international, tv, national, state, reading, reader, mobile, devices',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_dnkd90ya'
+20/04/2018 10:06:29 | SUCCESS | Updtate MetaData(0_5d2xpn2w) | By-PowerSmart_ott182 | update entry set name='News writing speed',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5d2xpn2w/version/100012',longdescription='Watch the Typing speed of a news writer.',
+        duration='8',type='1',tag='news, update, keyboard, writing, speed, typing, writer, feed, report, reporting, reporter',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5d2xpn2w'
+20/04/2018 10:34:57 | SUCCESS | Updtate MetaData(0_uuo23bu9) | By-PowerSmart_ott182 | update entry set name='Fireworks | Celebration | Light',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_uuo23bu9/version/100012',longdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        duration='28',type='1',tag='firewrk, cracker, light, brightness, celebration, celebrate, news, feed, buzz, report',category='WORLD,INDIA,SPORTS,ENTERTAINMENT,LIFESTYLE,HEALTH,SCIENCE',categoryid='324,325,326,328,330,332,333',
+        updated_at='2018-04-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uuo23bu9'
+20/04/2018 10:36:06 | SUCCESS | Updtate MetaData(0_g8j122yj) | By-PowerSmart_ott182 | update entry set name='Luxury Cars - Mercedes',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_g8j122yj/version/100012',longdescription='Watch luxury cars with new and latest features. ',
+        duration='12',type='1',tag='luxury, car, cars, automobile, wheeler, vehicle, mercedes, auto',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE,AUTOPORTAL,HEALTH,SCIENCE',categoryid='324,325,326,327,328,329,330,331,332,333',
+        updated_at='2018-04-20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_g8j122yj'

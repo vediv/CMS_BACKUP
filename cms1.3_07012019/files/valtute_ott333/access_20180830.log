@@ -1,0 +1,45 @@
+30/08/2018 05:09:41 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+30/08/2018 10:43:22 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+30/08/2018 10:48:19 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+30/08/2018 10:54:07 | SUCCESS | Create New Category(FASHION) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '441','435','1','113','FASHION','LIFESTYLE>FASHION','435>441','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:54:39 | SUCCESS | Create New Category(FITNESS) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '442','435','1','113','FITNESS','LIFESTYLE>FITNESS','435>442','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:55:54 | SUCCESS | Create New Category(HINDI) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '444','443','1','113','HINDI','MOVIES>HINDI','443>444','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:56:16 | SUCCESS | Create New Category(ENGLISH) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '445','443','1','113','ENGLISH','MOVIES>ENGLISH','443>445','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:56:40 | SUCCESS | Create New Category(INTERNATIONAL) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '446','443','1','113','INTERNATIONAL','MOVIES>INTERNATIONAL','443>446','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:57:34 | SUCCESS | Create New Category(THRILLER) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '447','444','2','113','THRILLER','MOVIES>HINDI>THRILLER','443>444>447','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:58:07 | SUCCESS | Create New Category(HORROR) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '448','444','2','113','HORROR','MOVIES>HINDI>HORROR','443>444>448','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:58:32 | SUCCESS | Create New Category(COMEDY) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '449','444','2','113','COMEDY','MOVIES>HINDI>COMEDY','443>444>449','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:59:05 | SUCCESS | Create New Category(ROMANCE) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '450','444','2','113','ROMANCE','MOVIES>HINDI>ROMANCE','443>444>450','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 10:59:38 | SUCCESS | Create New Category(SHORT FILMS) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '451','444','2','113','SHORT FILMS','MOVIES>HINDI>SHORT FILMS','443>444>451','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:01:16 | SUCCESS | Create New Category(THRILLER) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '452','445','2','113','THRILLER','MOVIES>ENGLISH>THRILLER','443>445>452','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:02:42 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+30/08/2018 11:04:04 | SUCCESS | Create New Category(HORROR) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '453','445','2','113','HORROR','MOVIES>ENGLISH>HORROR','443>445>453','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:05:07 | SUCCESS | Create New Category(ROMANCE) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '454','445','2','113','ROMANCE','MOVIES>ENGLISH>ROMANCE','443>445>454','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:06:11 | SUCCESS | Create New Category(SHORT FILMS) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '455','445','2','113','SHORT FILMS','MOVIES>ENGLISH>SHORT FILMS','443>445>455','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:07:08 | SUCCESS | Create New Category(THRILLER) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '456','446','2','113','THRILLER','MOVIES>INTERNATIONAL>THRILLER','443>446>456','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:07:43 | SUCCESS | Create New Category(HORROR) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '457','446','2','113','HORROR','MOVIES>INTERNATIONAL>HORROR','443>446>457','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:08:21 | SUCCESS | Create New Category(ROMANCE) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '458','446','2','113','ROMANCE','MOVIES>INTERNATIONAL>ROMANCE','443>446>458','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:08:39 | SUCCESS | Update Category(COMEDY) | By-jeeyaho_ott333 | update categories set cat_name='COMEDY',description='',tags='',fullname='MOVIES>INTERNATIONAL>COMEDY' where category_id='458'
+30/08/2018 11:09:27 | SUCCESS | Create New Category(ROMANCE) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '459','446','2','113','ROMANCE','MOVIES>INTERNATIONAL>ROMANCE','443>446>459','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:10:03 | SUCCESS | Create New Category(SHORT FILMS) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '460','446','2','113','SHORT FILMS','MOVIES>INTERNATIONAL>SHORT FILMS','443>446>460','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+30/08/2018 11:12:00 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+30/08/2018 05:51:25 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

@@ -1,0 +1,20 @@
+31/03/2018 10:35:46 | SUCCESS | Header Content priority Set | By-Pitara_ott811 | 
+31/03/2018 10:38:56 | SUCCESS | Delete Menu Header (2) | By-Pitara_ott811 | DELETE FROM header_menu WHERE hid='2'
+31/03/2018 12:18:54 | SUCCESS | Register User inactive(UserID:,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:19:22 | SUCCESS | Register User active(UserID:23,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:19:45 | SUCCESS | Register User inactive(UserID:23,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:19:47 | SUCCESS | Register User active(UserID:23,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:23:22 | SUCCESS | Register User inactive(UserID:23,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:23:25 | SUCCESS | Register User active(UserID:23,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:24:46 | SUCCESS | Register User inactive(UserID:43,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:24:51 | SUCCESS | Register User active(UserID:43,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:24:55 | SUCCESS | Register User inactive(UserID:23,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:24:56 | SUCCESS | Register User inactive(UserID:24,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:24:59 | SUCCESS | Register User inactive(UserID:32,Status:inactive) | By-Pitara_ott811 | 
+31/03/2018 12:25:05 | SUCCESS | Register User active(UserID:23,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:25:08 | SUCCESS | Register User active(UserID:24,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:25:11 | SUCCESS | Register User active(UserID:32,Status:active) | By-Pitara_ott811 | 
+31/03/2018 12:41:44 | SUCCESS | Update User Detail(Piyush) | By-Pitara_ott811 | 
+31/03/2018 12:42:44 | SUCCESS | Update User Detail(Piyush) | By-Pitara_ott811 | 
+31/03/2018 12:46:02 | SUCCESS | Update User Detail(Piyush) | By-Pitara_ott811 | 
+31/03/2018 12:46:06 | SUCCESS | Update User Detail(Piyush) | By-Pitara_ott811 | 

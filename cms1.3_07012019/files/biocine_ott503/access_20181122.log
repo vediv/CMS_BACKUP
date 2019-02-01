@@ -1,0 +1,57 @@
+22/11/2018 10:13:03 | SUCCESS | Save New video(0_n737x9bm) | By-Biocine_ott503 | 
+22/11/2018 10:18:13 | SUCCESS | Save New video(0_oirr8i10) | By-Biocine_ott503 | 
+22/11/2018 10:19:05 | SUCCESS | Save New video(0_67tvoz6r) | By-Biocine_ott503 | 
+22/11/2018 10:19:05 | SUCCESS | Save New video(0_basbdq3z) | By-Biocine_ott503 | 
+22/11/2018 10:50:19 | SUCCESS | Delete Video entry(0_basbdq3z) | By-Biocine_ott503 | 
+22/11/2018 10:50:19 | SUCCESS | Delete Video entry(0_67tvoz6r) | By-Biocine_ott503 | 
+22/11/2018 10:50:20 | SUCCESS | Delete Video entry(0_oirr8i10) | By-Biocine_ott503 | 
+22/11/2018 10:50:20 | SUCCESS | Delete Video entry(0_n737x9bm) | By-Biocine_ott503 | 
+22/11/2018 10:51:44 | SUCCESS | Save New video(0_sqpfp0fc) | By-Biocine_ott503 | 
+22/11/2018 10:52:18 | SUCCESS | Save New video(0_kqzxwx2s) | By-Biocine_ott503 | 
+22/11/2018 10:52:36 | SUCCESS | Save New video(0_z6iwkhvh) | By-Biocine_ott503 | 
+22/11/2018 10:53:11 | SUCCESS | Save New video(0_smme5qiw) | By-Biocine_ott503 | 
+22/11/2018 10:54:29 | SUCCESS | Save New video(0_y1r0u940) | By-Biocine_ott503 | 
+22/11/2018 10:54:37 | SUCCESS | Save New video(0_udw5ytuh) | By-Biocine_ott503 | 
+22/11/2018 10:56:04 | SUCCESS | Save New video(0_yi9jhsz5) | By-Biocine_ott503 | 
+22/11/2018 11:01:55 | SUCCESS | Save New video(0_xsf6kyae) | By-Biocine_ott503 | 
+22/11/2018 11:04:43 | SUCCESS | Save New video(0_uocw69na) | By-Biocine_ott503 | 
+22/11/2018 05:46:31 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/11/2018 06:04:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/11/2018 12:27:34 | SUCCESS | Save New video(0_2bgp7yl0) | By-Biocine_ott503 | 
+22/11/2018 12:36:16 | SUCCESS | Save New video(0_5c097g50) | By-Biocine_ott503 | 
+22/11/2018 07:15:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/11/2018 12:46:57 | SUCCESS | Save New video(0_f2vd8j42) | By-Biocine_ott503 | 
+22/11/2018 12:59:39 | SUCCESS | Save New video(0_m3nxt1tr) | By-Biocine_ott503 | 
+22/11/2018 14:41:20 | SUCCESS | Save New video(0_w6g43juu) | By-Biocine_ott503 | 
+22/11/2018 14:44:19 | SUCCESS | Updtate MetaData(0_5us5cziw) | By-Biocine_ott503 | update entry set name='Leave Together|Promo| Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5us5cziw/version/100022',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='91',type='1',tag='promo, leave, together, anang deshai, mithu, web series, hindi, comedy, love story, sex, romantic',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-22 14:49:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5us5cziw'
+22/11/2018 15:01:51 | SUCCESS | Save New video(0_504rj4k9) | By-Biocine_ott503 | 
+22/11/2018 15:23:28 | SUCCESS | Updtate MetaData(0_1h3pdjlh) | By-Biocine_ott503 | update entry set name='DevDas 2.5.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1h3pdjlh/version/100002',longdescription='',
+        duration='89',type='1',tag='',category='',categoryid='',
+        updated_at='2018-11-22 15:28:33',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1h3pdjlh'
+22/11/2018 15:23:47 | SUCCESS | Save New video(0_farva03u) | By-Biocine_ott503 | 
+22/11/2018 15:36:44 | SUCCESS | Save New video(0_6zma3ci6) | By-Biocine_ott503 | 
+22/11/2018 15:40:24 | SUCCESS | Save New video(0_x3htvqgv) | By-Biocine_ott503 | 
+22/11/2018 15:41:37 | SUCCESS | Save New video(0_g3pl6afv) | By-Biocine_ott503 | 
+22/11/2018 15:50:57 | SUCCESS | Save New video(0_yza9lsv7) | By-Biocine_ott503 | 
+22/11/2018 15:52:13 | SUCCESS | Save New video(0_za90gqr3) | By-Biocine_ott503 | 
+22/11/2018 15:56:16 | SUCCESS | Save New video(0_w1bge1pc) | By-Biocine_ott503 | 
+22/11/2018 16:05:13 | SUCCESS | Save New video(0_cj5d6rk1) | By-Biocine_ott503 | 
+22/11/2018 16:07:26 | SUCCESS | Save New video(0_f3zrtvu7) | By-Biocine_ott503 | 
+22/11/2018 16:07:59 | SUCCESS | Save New video(0_1hgsdti7) | By-Biocine_ott503 | 
+22/11/2018 16:11:23 | SUCCESS | Save New video(0_rz9ywakt) | By-Biocine_ott503 | 
+22/11/2018 17:09:20 | SUCCESS | Save New video(0_9zdei4eg) | By-Biocine_ott503 | 
+22/11/2018 18:56:10 | SUCCESS | Save New video(0_0o73zfks) | By-Biocine_ott503 | 
+22/11/2018 19:00:42 | SUCCESS | Save New video(0_chxq9285) | By-Biocine_ott503 | 
+22/11/2018 19:46:57 | SUCCESS | Save New video(0_n8974y8h) | By-Biocine_ott503 | 
+22/11/2018 19:49:25 | SUCCESS | Save New video(0_l0jugx09) | By-Biocine_ott503 | 
+22/11/2018 20:59:08 | SUCCESS | Save New video(0_llyb57sq) | By-Biocine_ott503 | 
+22/11/2018 21:31:33 | SUCCESS | Save New video(0_1kzgt36w) | By-Biocine_ott503 | 
+22/11/2018 22:30:44 | SUCCESS | Save New video(0_3aloomg7) | By-Biocine_ott503 | 

@@ -1,0 +1,19 @@
+16/06/2018 12:08:46 | SUCCESS | Delete Video entry(0_ub3yh1ld) | By-Adosphere_ott488 | 
+16/06/2018 12:09:58 | SUCCESS | Delete Video entry(0_r0ls3mpn) | By-Adosphere_ott488 | 
+16/06/2018 12:15:49 | SUCCESS | Save New video(0_qemeille) | By-Adosphere_ott488 | 
+16/06/2018 12:19:21 | SUCCESS | Delete Video entry(0_uxs92nma) | By-Adosphere_ott488 | 
+16/06/2018 12:20:07 | SUCCESS | Bulk Add Category(0_qemeille,223) | By-Adosphere_ott488 | update entry set category='MOVIES>SHORT FILMS>HINDI', categoryid='223' where entryid='0_qemeille' 
+16/06/2018 12:21:45 | SUCCESS | Updtate MetaData(0_qemeille) | By-Adosphere_ott488 | update entry set name='Antardwand by Ankit Jaiswal',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qemeille/version/100002',longdescription='Watch Social - Drama Short Film Antardwand which is directed by Ankit Jaiswal.',
+        duration='903',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, antardhwand, ankit, jaiswal, antar, antardwand',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-06-16 12:24:36',shortdescription='Watch Social - Drama Short Film Antardwand which is directed by Ankit Jaiswal.',
+        director='Ankit Jaiswal',producer='',cast='',crew='',sub_genre='Social,Drama',
+        language='Hindi',pgrating='NC16',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_qemeille'
+16/06/2018 12:22:29 | SUCCESS | Save Content Partner(0_qemeille,) | By-Adosphere_ott488 | 
+16/06/2018 12:22:58 | SUCCESS | Save Content Viewer Rating(0_qemeille,NC16) | By-Adosphere_ott488 | 
+16/06/2018 12:23:20 | SUCCESS | Delete Video entry(0_ft85lzf6) | By-Adosphere_ott488 | 
+16/06/2018 12:41:23 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+16/06/2018 15:09:01 | SUCCESS | Save Thumbnail(0_w5kqazod) | By-Adosphere_ott488 | 
+16/06/2018 15:42:49 | SUCCESS | Save Thumbnail(0_4d89ik12) | By-Adosphere_ott488 | 
+16/06/2018 15:44:52 | SUCCESS | Save New video(0_5o6molla) | By-Adosphere_ott488 | 
+16/06/2018 16:39:56 | SUCCESS | Save Thumbnail(0_y9ethxdf) | By-Adosphere_ott488 | 

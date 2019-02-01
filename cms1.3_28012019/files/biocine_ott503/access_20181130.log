@@ -1,0 +1,16 @@
+30/11/2018 04:21:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/11/2018 06:50:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/11/2018 07:24:04 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/11/2018 12:54:45 | SUCCESS | Save New video using UCG(0_er783z3f) | By-Biocine_ott503 | 
+30/11/2018 14:50:11 | SUCCESS | Updtate MetaData(0_er783z3f) | By-Biocine_ott503 | update entry set name='testing',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_er783z3f/version/100002',longdescription='test\r\n\r\n\r\n\r\n\r\nthis\r\n\r\n\r\n\r\n\r\n\r\nvideo\r\n\r\n\r\n\r\n\r\n\r\nnow',
+        duration='30',type='1',tag='test',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-30 14:55:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_er783z3f'
+30/11/2018 14:51:19 | SUCCESS | Updtate MetaData(0_er783z3f) | By-Biocine_ott503 | update entry set name='testing',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_er783z3f/version/100002',longdescription='test\r\n\r\n\r\n\r\n\r\nthis\r\n\r\n\r\n\r\n\r\n\r\nvideo\r\n\r\n\r\n\r\n\r\n\r\nnow',
+        duration='30',type='1',tag='test',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-30 14:56:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_er783z3f'

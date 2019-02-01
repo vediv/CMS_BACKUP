@@ -1,0 +1,297 @@
+<?php 
+include_once 'corefunction.php';
+$successMsg=''; $successMsgpass='';
+$getMsg=isset($_GET['msg'])?$_GET['msg'] :0;
+$act=isset($_GET['act'])?$_GET['act'] :0;
+$fid=isset($_GET['fid'])?$_GET['fid'] :0;
+if($act=='pay_per_view'){
+   
+   $qry="select value,type from filter_setting where fsid='".$fid."'"; 
+   $fetchD= db_select($conn,$qry);
+   $value=$fetchD[0]['value']; $type=$fetchD[0]['type']; //$publisher_pass=$fetchD[0]['publisher_pass'];
+}
+if($act=='gst'){
+   
+   $qry="select value,type from filter_setting where fsid='".$fid."'"; 
+   $fetchD= db_select($conn,$qry);
+   $value_gst=$fetchD[0]['value']; $type_gst=$fetchD[0]['type']; //$publisher_pass=$fetchD[0]['publisher_pass'];
+}
+
+if(isset($_POST['save_pay_par_view']))
+{
+       $tag='pay_per_view';
+       $qcheck="select fsid from filter_setting where tag='".$tag."' ";
+       $pay_value=$_POST['pay_value']; $validity_type=$_POST['validity_type'];
+       $totalRow= db_totalRow($conn,$qcheck);
+       if($totalRow==1)
+       {
+           $upin="update filter_setting set value='$pay_value',type='$validity_type',updated_at=NOW() where fsid='$fid'";
+           $q= db_query($conn,$upin);
+           $error_level=1;$msg="update Pay per View($pay_value)"; $lusername=DASHBOARD_USER_NAME."_".PUBLISHER_UNIQUE_ID;
+           $qry='';
+           write_log($error_level,$msg,$lusername,$qry);
+       }    
+       if($totalRow==0)
+       {
+           $upin="insert into filter_setting(name,tag,value,status,type,created_at)
+           values('Pay per View','$tag','$pay_value','1','$validity_type',NOW())";
+           $q= db_query($conn,$upin);
+           $error_level=1;$msg="insert Pay per view ($pay_value)"; $lusername=DASHBOARD_USER_NAME."_".PUBLISHER_UNIQUE_ID;
+           $qry='';
+           write_log($error_level,$msg,$lusername,$qry);
+       } 
+       
+       header("location:basic_setting.php?msg=1&act=$tag");
+      
+} 
+
+
+if($getMsg==1)
+{
+    $successMsg='<div class="alert alert-success">
+    <strong>Success!</strong> Pay Per View Update Successfully.
+    </div>';
+}   
+if($getMsg==2)
+{
+    $successMsgpass='<div class="alert alert-success">
+    <strong>Success!</strong> GST Update Successfully.
+    </div>';
+}
+if(isset($_POST['saveGst']))
+    {
+       $tag='gst';
+       $gst_type=$_POST['gst_type']; $gst=$_POST['gst'];
+       $qcheck="select fsid from filter_setting where tag='".$tag."' ";
+        $totalRow= db_totalRow($conn,$qcheck);
+       if($totalRow==1)
+       {
+            $upin="update filter_setting set value='$gst',type='$gst_type',updated_at=NOW() where fsid='$fid'";
+           $q= db_query($conn,$upin);
+           $error_level=1;$msg="update GST($tag)"; $lusername=DASHBOARD_USER_NAME."_".PUBLISHER_UNIQUE_ID;
+           $qry='';
+           write_log($error_level,$msg,$lusername,$qry);
+       }    
+       if($totalRow==0)
+       {
+           $upin="insert into filter_setting(name,tag,value,status,type,created_at)
+           values('GST','$tag','$gst','1','$gst_type',NOW())";
+           $q= db_query($conn,$upin);
+           $error_level=1;$msg="insert GST ($gst)"; $lusername=DASHBOARD_USER_NAME."_".PUBLISHER_UNIQUE_ID;
+           $qry='';
+           write_log($error_level,$msg,$lusername,$qry);
+       }    
+       header("location:basic_setting.php?msg=2&act=$tag");
+
+    }
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+<meta charset="UTF-8">
+<title><?php echo PROJECT_TITLE." | PlanDetail";?></title>
+<link href="bootstrap/css/pagingCss.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.box-header {  padding: 4px 10px 0px 10px !important;  }
+.navbar-form .input-group > .form-control {    height: 26px !important; }
+h5 {margin-top: 0px  !important;}
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+    height: 26px;
+    margin-left: -1px;
+    padding: 4px;
+}
+ 
+</style>
+  </head>
+  <body class="skin-blue">
+    <div class="wrapper">
+   <?php include_once 'header.php';?>
+           <!-- Left side column. contains the logo and sidebar -->
+      <?php include_once 'lsidebar.php';?>
+      <!-- Content Wrapper. Contains page content -->
+      <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+         <section class="content-header">
+         <h1>Basic Setting
+          <?php    
+           ?>
+         
+         </h1>
+          <ol class="breadcrumb">
+            <li><a href="dashboard.php"><i class="fa fa-home" title="Home"></i> Home</a></li>
+            <li class="active">Basic Setting </li>
+          </ol>
+        </section>
+        <!-- Main content -->
+        
+        
+        
+ <section class="content">
+           <div class="row" >
+            <!-- left column -->
+            <div class="col-md-6" >
+              <!-- general form elements -->
+              <div class="box box-primary" style="min-height:500px;">
+                <div class="box-header">
+                <h3 class="box-title">Pay Per View Setting</h3>
+                </div><!-- /.box-header -->
+               
+                <form role="form" method="post">
+                  <div class="box-body">
+                     <?php echo $successMsg; ?>    
+                    <div class="form-group">
+                      <label for="pay_value">Enter Value</label>
+                      <input type="number" min="0" step="1" class="form-control" id="pay_value" name="pay_value"  value="<?php echo $value; ?>"  placeholder="Enter Number only" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="validity_type">Select Validity Type</label>
+                     <select class="form-control" id="validity_type" name="validity_type">
+                        <option value="hour" <?php echo $type=='hour'?'selected':'';  ?> >Hour</option>
+                        <!--<option value="day" <?php //echo $type=='day'?'selected':'';  ?>>Day</option>-->
+                     </select> 
+                    </div>
+                  </div><!-- /.box-body -->
+               
+                 <div class="box-footer">
+                     <button type="submit" name="save_pay_par_view"  class="btn btn-primary">Submit</button>
+                 </div>
+                </form>
+                <div class="box-body" style="border: 0px solid red;">
+                  <?php
+                  $qry="select fsid,name,value,type,status from filter_setting where tag='pay_per_view'";
+                  $ff= db_select($conn,$qry);
+                  ?>    
+                 <div class="table-responsive">
+                    <table class="table no-margin">
+                      <thead>
+                        <tr>
+                          <th>Name</th>
+                          <th>Value</th>
+                          <th>Type</th>
+                          <th>Status</th>
+                          <th>Action</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <?php foreach($ff as $fsocial){
+                         $name=$fsocial['name']; $value=$fsocial['value']; $type=$fsocial['type'];  $fsid=$fsocial['fsid'];
+                         if($type=='P'){ $type1="percentage"; }
+                         else{ $type1=$type; }
+                         $conf_status=$fsocial['status']; $conf_id=$fsocial['conf_id'];
+                         if($conf_status==1){ $active="active"; $sclass="label-success";    }
+                         else{ $active="inactive"; $sclass="label-danger"; }
+                         ?>  
+                        <tr>
+                          <td><?php echo $name; ?></td>
+                          <td><?php echo $value; ?></td>
+                          <td><?php echo $type1; ?></td>
+                          <td id="getstatus<?php  echo $fsid; ?>"><span id="setlevel<?php  echo $fsid; ?>" class="label <?php echo $sclass; ?>"><?php echo $active; ?></span></td>
+                          <input type="hidden" size="1" id="ad_status<?php echo $fsid;  ?>" value="<?php echo $conf_status;  ?>" >
+                          <!--<td>
+                          <?php  if(in_array(4, $UserRight)){ ?> 
+                          <a href="#">
+                          <i id="icon_status<?php echo $fsid; ?>"   class="status-icon fa <?php  echo ($conf_status == 1) ? 'fa-check-square-o':'fa-ban';?>" onclick=social_act_deact('<?php echo $fsid;  ?>')></i> </a>
+                          <?php } ?>
+                          </td>-->
+                           <td>
+                          <?php  if(in_array(2, $UserRight)){ ?> 
+                               <a href="basic_setting.php?fid=<?php echo $fsid; ?>&act=pay_per_view"><i  class="status-icon fa  fa-edit "></i> </a>
+                          <?php } ?>
+                          </td>
+                        </tr>
+                        <?php } ?>
+                      
+                      </tbody>
+                    </table>
+                  </div><!-- /.table-responsive -->
+                 </div>
+              </div>
+              
+              
+            </div><!--/.col (left) -->
+            <!-- right column -->
+            <div class="col-md-6">
+              <!-- general form elements disabled -->
+              <div class="box box-warning" style="min-height:500px;">
+                <div class="box-header">
+                 <h3 class="box-title">GST Setting</h3>
+                </div><!-- /.box-header -->
+                <div class="box-body">
+                    <?php echo $successMsgpass; ?> 
+                    <form role="form" method="post">
+                    <!-- text input -->
+                    <div class="form-group">
+                      <label>Enter GST Value</label>
+                      <input type="number" min="0" step="1"   class="form-control" id="gst" name="gst" value="<?php echo $value_gst; ?>"  placeholder="Enter Number only" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="gst_type">Select Type</label>
+                     <select class="form-control" id="gst_type" name="gst_type">
+                        <option value="P" <?php echo $type_gst=='P'?'selected':'';  ?> >Percentage</option>
+                        
+                     </select> 
+                    </div>
+                    <div class="box-footer">
+                     <button type="submit" name="saveGst"  class="btn btn-primary">Submit</button>
+                  </div>
+                  </form>
+                    <div class="box-body" style="border: 0px solid red;">
+                  <?php
+                  $qry="select fsid,name,value,type,status from filter_setting where tag='gst'";
+                  $ff= db_select($conn,$qry);
+                  ?>    
+                 <div class="table-responsive">
+                    <table class="table no-margin">
+                      <thead>
+                        <tr>
+                          <th>Name</th>
+                          <th>Value</th>
+                          <th>Type</th>
+                          <th>Status</th>
+                          <th>Action</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <?php foreach($ff as $fsocial){
+                         $name=$fsocial['name']; $value=$fsocial['value']; $type=$fsocial['type'];  $fsid=$fsocial['fsid'];
+                         if($type=='P'){ $type1="percentage"; }
+                         else{ $type1=$type; }
+                         $conf_status=$fsocial['status']; $conf_id=$fsocial['conf_id'];
+                         if($conf_status==1){ $active="active"; $sclass="label-success";    }
+                         else{ $active="inactive"; $sclass="label-danger"; }
+                         ?>  
+                        <tr>
+                          <td><?php echo $name; ?></td>
+                          <td><?php echo $value; ?></td>
+                          <td><?php echo $type1; ?></td>
+                          <td id="getstatus<?php  echo $fsid; ?>"><span id="setlevel<?php  echo $fsid; ?>" class="label <?php echo $sclass; ?>"><?php echo $active; ?></span></td>
+                          <input type="hidden" size="1" id="ad_status<?php echo $fsid;  ?>" value="<?php echo $conf_status;  ?>" >
+                          <!--<td>
+                          <?php  if(in_array(4, $UserRight)){ ?> 
+                          <a href="#">
+                          <i id="icon_status<?php echo $fsid; ?>"   class="status-icon fa <?php  echo ($conf_status == 1) ? 'fa-check-square-o':'fa-ban';?>" onclick=social_act_deact('<?php echo $fsid;  ?>')></i> </a>
+                          <?php } ?>
+                          </td>-->
+                           <td>
+                          <?php  if(in_array(2, $UserRight)){ ?> 
+                               <a href="basic_setting.php?fid=<?php echo $fsid; ?>&act=gst"><i  class="status-icon fa  fa-edit "></i> </a>
+                          <?php } ?>
+                          </td>
+                        </tr>
+                        <?php } ?>
+                      
+                      </tbody>
+                    </table>
+                  </div><!-- /.table-responsive -->
+                 </div>
+                </div>
+                <!-- /.box-body -->
+              </div><!-- /.box -->
+            </div><!--/.col (right) -->
+          </div>
+ </section>
+</div>
+    <?php include_once "footer.php"; include_once 'commonJS.php'; ?>
+    </div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+09/11/2017 11:40:51 | SUCCESS | Slider image inactive(SliderID:10,Status:inactive) | By-Planetcast_ott417 | 
+09/11/2017 11:41:01 | SUCCESS | Delete Video entry(0_z6oe6o5s) | By-Planetcast_ott417 | 
+09/11/2017 11:42:44 | SUCCESS | Save New video(0_u0hjavfb) | By-Planetcast_ott417 | 
+09/11/2017 14:14:33 | SUCCESS | Add New Slider Image(C:\fakepath\GADGETS.jpg) | By-Planetcast_ott417 | 
+09/11/2017 14:14:39 | SUCCESS | Delete slider Image (19) | By-Planetcast_ott417 | delete from slider_image_detail where img_id='19'
+09/11/2017 14:15:36 | SUCCESS | Add New Slider Image(C:\fakepath\TECHMANIA.jpg) | By-Planetcast_ott417 | 
+09/11/2017 14:15:42 | SUCCESS | Delete slider Image (20) | By-Planetcast_ott417 | delete from slider_image_detail where img_id='20'
+09/11/2017 14:26:17 | SUCCESS | Add New Slider Image(C:\fakepath\02Missmuffet.jpg) | By-Planetcast_ott417 | 
+09/11/2017 14:26:22 | SUCCESS | Slider image active(SliderID:21,Status:active) | By-Planetcast_ott417 | 
+09/11/2017 14:27:02 | SUCCESS | Slider image inactive(SliderID:21,Status:inactive) | By-Planetcast_ott417 | 
+09/11/2017 14:27:09 | SUCCESS | Delete slider Image (21) | By-Planetcast_ott417 | delete from slider_image_detail where img_id='21'
+09/11/2017 14:29:51 | SUCCESS | Add New Slider Image(C:\fakepath\5LITTLETURTLESupdated.jpg) | By-Planetcast_ott417 | 
+09/11/2017 14:35:19 | SUCCESS | Slider priority Set | By-Planetcast_ott417 | 
+09/11/2017 14:37:07 | SUCCESS | update Slider Detail(0_u0hjavfb,'') | By-Planetcast_ott417 | 
+09/11/2017 14:37:11 | SUCCESS | Slider image active(SliderID:10,Status:active) | By-Planetcast_ott417 | 
+09/11/2017 14:38:48 | SUCCESS | Slider priority Set | By-Planetcast_ott417 | 
+09/11/2017 14:39:10 | SUCCESS | Delete slider Image (22) | By-Planetcast_ott417 | delete from slider_image_detail where img_id='22'

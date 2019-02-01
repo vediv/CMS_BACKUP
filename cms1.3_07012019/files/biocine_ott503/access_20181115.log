@@ -1,0 +1,36 @@
+15/11/2018 05:01:52 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+15/11/2018 10:33:21 | SUCCESS | Save New video(0_r5dv4g58) | By-Biocine_ott503 | 
+15/11/2018 12:31:14 | SUCCESS | Save New video(0_sz1od8it) | By-Biocine_ott503 | 
+15/11/2018 12:33:24 | SUCCESS | Delete Video entry(0_sz1od8it) | By-Biocine_ott503 | 
+15/11/2018 12:33:24 | SUCCESS | Delete Video entry(0_r5dv4g58) | By-Biocine_ott503 | 
+15/11/2018 10:33:10 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+15/11/2018 11:13:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+15/11/2018 19:42:34 | SUCCESS | Save New video(0_a6uqzo0d) | By-Biocine_ott503 | 
+15/11/2018 20:41:14 | SUCCESS | Updtate MetaData(0_a6uqzo0d) | By-Biocine_ott503 | update entry set name='Mishmi | Promo | Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_a6uqzo0d/version/100002',longdescription='we are presenting promo of Bengali Web Series \'MISHMI\'. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..',
+        duration='125',type='1',tag='mishmi, promo, web series, sumedha dutta, shaan, pulakita, jeeo, guru, app, bengali, latest, hit, new release',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-15 20:46:16',shortdescription='This story based on a Heroine\'s ups & down life style.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_a6uqzo0d'
+15/11/2018 20:41:57 | SUCCESS | Save Access Control(0_a6uqzo0d) | By-Biocine_ott503 | 
+15/11/2018 20:42:18 | SUCCESS | Save Age Restriction(0_a6uqzo0d,UA) | By-Biocine_ott503 | 
+15/11/2018 20:42:45 | SUCCESS | Delete Video entry(0_opcsecn7) | By-Biocine_ott503 | 
+15/11/2018 20:42:45 | SUCCESS | Delete Video entry(0_kmd4ctt9) | By-Biocine_ott503 | 
+15/11/2018 20:42:46 | SUCCESS | Delete Video entry(0_5z3fjwm2) | By-Biocine_ott503 | 
+15/11/2018 20:42:47 | SUCCESS | Delete Video entry(0_pkge4ikg) | By-Biocine_ott503 | 
+15/11/2018 20:57:39 | SUCCESS | Add New Slider Image(C:\fakepath\mismi banner promo.jpg) | By-Biocine_ott503 | 
+15/11/2018 20:58:00 | SUCCESS | update Slider Detail(0_a6uqzo0d,'Watch Now Mishmi Promo') | By-Biocine_ott503 | 
+15/11/2018 20:58:19 | SUCCESS | Slider image active(SliderID:17,Status:active) | By-Biocine_ott503 | 
+15/11/2018 20:58:56 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+15/11/2018 20:59:37 | SUCCESS | Slider image inactive(SliderID:17,Status:inactive) | By-Biocine_ott503 | 
+15/11/2018 20:59:42 | SUCCESS | Delete slider Image (17) | By-Biocine_ott503 | delete from slider_image_detail where img_id='17'
+15/11/2018 21:00:28 | SUCCESS | Updtate MetaData(0_a6uqzo0d) | By-Biocine_ott503 | update entry set name='Mishmi | Promo | Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_a6uqzo0d/version/100012',longdescription='we are presenting promo of Bengali Web Series \'MISHMI\'. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..',
+        duration='125',type='1',tag='mishmi, promo, web series, sumedha dutta, shaan, pulakita, jeeo, guru, app, bengali, latest, hit, new release',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-15 21:05:29',shortdescription='This story based on a Heroine\'s ups & down life style.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_a6uqzo0d'
+15/11/2018 21:01:08 | SUCCESS | Add New Slider Image(C:\fakepath\mismi banner promo.jpg) | By-Biocine_ott503 | 
+15/11/2018 21:01:13 | SUCCESS | Slider image active(SliderID:18,Status:active) | By-Biocine_ott503 | 
+15/11/2018 21:01:25 | SUCCESS | update Slider Detail(,'Watch Mishmi Promo') | By-Biocine_ott503 | 
+15/11/2018 21:01:35 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 

@@ -1,0 +1,57 @@
+26/11/2018 09:56:44 | SUCCESS | Save Access Control(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:04:27 | SUCCESS | Save Access Control(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:06:15 | SUCCESS | Save Access Control(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:08:08 | SUCCESS | Save Access Control(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:11:33 | SUCCESS | Save currency_data(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:12:02 | SUCCESS | Save currency_data(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:13:52 | SUCCESS | Save currency_data(iZWozlQrFVk) | By-varun_ott025 | 
+26/11/2018 10:20:22 | SUCCESS | Save Content Partner(iZWozlQrFVk,) | By-varun_ott025 | 
+26/11/2018 10:20:29 | SUCCESS | Save Content Partner(iZWozlQrFVk,) | By-varun_ott025 | 
+26/11/2018 10:23:14 | SUCCESS | Delete Content Partner (66) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='66'
+26/11/2018 10:23:18 | SUCCESS | Delete Content Partner (210) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='210'
+26/11/2018 10:23:23 | SUCCESS | Delete Content Partner (230) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='230'
+26/11/2018 10:23:27 | SUCCESS | Delete Content Partner (237) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='237'
+26/11/2018 10:23:33 | SUCCESS | Delete Content Partner (297) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='297'
+26/11/2018 10:23:40 | SUCCESS | Delete Content Partner (420) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='420'
+26/11/2018 10:23:47 | SUCCESS | Delete Content Partner (503) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='503'
+26/11/2018 10:23:52 | SUCCESS | Delete Content Partner (581) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='581'
+26/11/2018 10:24:07 | SUCCESS | Delete Content Partner (605) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='605'
+26/11/2018 10:24:18 | SUCCESS | Delete Content Partner (27) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='27'
+26/11/2018 10:24:23 | SUCCESS | Delete Content Partner (753) | By-varun_ott025 | DELETE FROM content_partner WHERE contentpartnerid='753'
+26/11/2018 10:25:28 | SUCCESS | Add New Content Partner(test Content) | By-varun_ott025 | 
+26/11/2018 10:25:51 | SUCCESS | Save Content Partner(iZWozlQrFVk,) | By-varun_ott025 | 
+26/11/2018 10:29:13 | SUCCESS | Save Plan(iZWozlQrFVk,0) | By-varun_ott025 | 
+26/11/2018 10:29:26 | SUCCESS | Save Plan(k81DivBoL4k,1) | By-varun_ott025 | 
+26/11/2018 10:31:13 | SUCCESS | Save Plan(WioybHcrnfU,1) | By-varun_ott025 | 
+26/11/2018 10:33:49 | SUCCESS | Save Plan(iZWozlQrFVk,1) | By-varun_ott025 | 
+26/11/2018 10:36:52 | SUCCESS | Save Plan(iZWozlQrFVk,1) | By-varun_ott025 | 
+26/11/2018 11:17:41 | SUCCESS | Updtate MetaData() | By-varun_ott025 | update entry set name=,thumbnail='',longdescription=,
+        tag=,categoryid='Array',
+        updated_at='1970-01-01 00:00:00',shortdescription='short desc1',
+        director='dir1',producer='pro1',cast='cast1',crew='crew1',sub_genre='sub genre1',
+        language='language1',pgrating='pg1',video_status='active',custom_data='{"actor":"ajay","actress":"kreena","music":"himesh","dir":"sanjay leela","producer":"vinod"}'
+        where entryid=''
+26/11/2018 11:28:12 | SUCCESS | Updtate MetaData() | By-varun_ott025 | update entry set name='Conclusion Video of NCER Week test',longdescription='\'Conclusion Video of NCER Week 10\', test',
+        tag='[u\'ncer note\',u\'nptel ncer note\'],test',categoryid='142,140',
+        updated_at='2018-11-26 11:28:12',shortdescription='short desc1',
+        director='dir1',producer='pro1',cast='cast1',crew='crew1',sub_genre='sub genre1',
+        language='language1',pgrating='pg1',video_status='inactive',custom_data='{"actor":"santosh","music":"pritam","dir":"vinod","actress":"kareena","producer":"vinod"}'
+        where entryid='iZWozlQrFVk'
+26/11/2018 11:30:06 | SUCCESS | Updtate MetaData() | By-varun_ott025 | update entry set name='Conclusion Video of NCER Week test',longdescription='\'Conclusion Video of NCER Week  ,test',
+        tag='[u\'ncer note\',u\'nptel ncer note\'],test',categoryid='142,141',
+        updated_at='2018-11-26 11:30:06',shortdescription='short desc1',
+        director='dir1',producer='pro1',cast='cast1',crew='crew1',sub_genre='sub genre1',
+        language='language1',pgrating='pg1',video_status='inactive',custom_data='{"actor":"test"}'
+        where entryid='iZWozlQrFVk'
+26/11/2018 11:31:34 | SUCCESS | Updtate MetaData() | By-varun_ott025 | update entry set name='Conclusion Video of NCER Week test',longdescription='\'Conclusion Video of NCER Week ,test',
+        tag='[u\'ncer note\',u\'nptel ncer note\'],test',categoryid='141,142',
+        updated_at='2018-11-26 11:31:34',shortdescription='short desc1',
+        director='dir1',producer='pro1',cast='cast1',crew='crew1',sub_genre='sub genre1',
+        language='language1',pgrating='pg1',video_status='inactive',custom_data='{"actor":"test","actress":"sanjay"}'
+        where entryid='iZWozlQrFVk'
+26/11/2018 11:52:42 | SUCCESS | Updtate MetaData() | By-varun_ott025 | update entry set name='Conclusion Video of NCER Week test',longdescription='\'Conclusion Video of NCER Week ,test',
+        tag='[u\'ncer note\',u\'nptel ncer note\'],test',categoryid='1234',
+        updated_at='2018-11-26 11:52:42',shortdescription='short desc1',
+        director='dir1',producer='pro1',cast='cast1',crew='crew1',sub_genre='sub genre1',
+        language='language1',pgrating='pg1',video_status='inactive',custom_data='{"actor":"test","actress":"sanjay"}'
+        where entryid='iZWozlQrFVk'

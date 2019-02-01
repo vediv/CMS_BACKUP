@@ -1,0 +1,76 @@
+04/08/2018 04:49:58 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 05:06:27 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 10:49:41 | SUCCESS | Save Thumbnail(0_v6n3lzd3) | By-Biocine_ott503 | 
+04/08/2018 11:05:18 | SUCCESS | Add New Dashboard user (AYUSHI) | By-Biocine_ott503 | 
+04/08/2018 11:07:30 | SUCCESS | Add New Dashboard user (MADHAVI) | By-Biocine_ott503 | 
+04/08/2018 11:09:49 | SUCCESS | Add New Dashboard user (GEETANJALI) | By-Biocine_ott503 | 
+04/08/2018 05:53:35 | SUCCESS | login-(GEETANJALI) | By-GEETANJALI_ott503 | 
+04/08/2018 05:53:51 | SUCCESS | login-(AYUSHI) | By-AYUSHI_ott503 | 
+04/08/2018 05:55:17 | SUCCESS | login-(GEETANJALI) | By-GEETANJALI_ott503 | 
+04/08/2018 05:55:32 | SUCCESS | login-(MADHAVI) | By-MADHAVI_ott503 | 
+04/08/2018 05:57:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 11:29:16 | SUCCESS | Add New Content Partner(GEET) | By-Biocine_ott503 | 
+04/08/2018 11:31:41 | SUCCESS | Add New Content Partner(MADHAVIII) | By-Biocine_ott503 | 
+04/08/2018 11:33:46 | SUCCESS | Add New Content Partner(AYUSHI) | By-Biocine_ott503 | 
+04/08/2018 06:04:03 | SUCCESS | login-(AYUSHI) | By-AYUSHI_ott503 | 
+04/08/2018 06:05:06 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 11:35:27 | SUCCESS | update Content Partner Detail(AYUSHI) | By-Biocine_ott503 | 
+04/08/2018 06:05:52 | SUCCESS | login-(AYUSHI) | By-AYUSHI_ott503 | 
+04/08/2018 06:07:37 | SUCCESS | login-(GEET) | By-GEET_ott503 | 
+04/08/2018 06:44:25 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 06:50:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 12:23:18 | SUCCESS | Updtate MetaData(0_neos5omy) | By-Biocine_ott503 | update entry set name='Test Bulk CSV AYUSHI Smashing Race Car',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_neos5omy/version/100002',longdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        duration='38',type='1',tag='car, race, racing, auto, automobile, fore, wheel, wheeler, bikes, ride, auto tech, technology, biker, bike, street, car lover, road, trainer, safety measure, high, speed, stunt, luxury, smoothdriving, drive',category='ORIGINALS>FOOD',categoryid='296',
+        updated_at='2018-08-04 12:26:52',shortdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        director='Test',producer='ww',cast='Testing',crew='Biocine CSV',sub_genre='Automobile',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_neos5omy'
+04/08/2018 12:23:39 | SUCCESS | update HomeSettingTag Detail(TEST HOME) | By-Biocine_ott503 | 
+04/08/2018 12:23:42 | SUCCESS | Home Setting active(HomeID:16,Status:active) | By-Biocine_ott503 | 
+04/08/2018 12:23:53 | SUCCESS | Updtate MetaData(0_neos5omy) | By-Biocine_ott503 | update entry set name='Test Bulk CSV AYUSHI Smashing Race Car',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_neos5omy/version/100002',longdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        duration='38',type='1',tag='car, race, racing, auto, automobile, fore, wheel, wheeler, bikes, ride, auto tech, technology, biker, bike, street, car lover, road, trainer, safety measure, high, speed, stunt, luxury, smoothdriving, drive, th',category='ORIGINALS>FOOD',categoryid='296',
+        updated_at='2018-08-04 12:27:27',shortdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        director='Test',producer='ww',cast='Testing',crew='Biocine CSV',sub_genre='Automobile',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_neos5omy'
+04/08/2018 12:24:33 | SUCCESS | Updtate MetaData(0_neos5omy) | By-Biocine_ott503 | update entry set name='Test Bulk CSV AYUSHI Smashing Race Car',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_neos5omy/version/100002',longdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        duration='38',type='1',tag='car, race, racing, auto, automobile, fore, wheel, wheeler, bikes, ride, auto tech, technology, biker, bike, street, car lover, road, trainer, safety measure, high, speed, stunt, luxury, smoothdriving, drive, th',category='ORIGINALS>FOOD',categoryid='296',
+        updated_at='2018-08-04 12:28:06',shortdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        director='Test',producer='ww',cast='Testing',crew='Biocine CSV',sub_genre='Automobile',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_neos5omy'
+04/08/2018 12:25:03 | SUCCESS | Updtate MetaData(0_0f5v65zc) | By-Biocine_ott503 | update entry set name='Sample Kitten video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0f5v65zc/version/100022',longdescription='',
+        duration='13',type='1',tag='kitten, th',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-08-04 12:28:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0f5v65zc'
+04/08/2018 12:26:01 | SUCCESS | update HomeSettingTag Detail(TEST HOME) | By-Biocine_ott503 | 
+04/08/2018 12:26:13 | SUCCESS | Updtate MetaData(0_neos5omy) | By-Biocine_ott503 | update entry set name='Test Bulk CSV AYUSHI Smashing Race Car',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_neos5omy/version/100002',longdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        duration='38',type='1',tag='car, race, racing, auto, automobile, fore, wheel, wheeler, bikes, ride, auto tech, technology, biker, bike, street, car lover, road, trainer, safety measure, high, speed, stunt, luxury, smoothdriving, drive, th2018',category='ORIGINALS>FOOD',categoryid='296',
+        updated_at='2018-08-04 12:29:46',shortdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        director='Test',producer='ww',cast='Testing',crew='Biocine CSV',sub_genre='Automobile',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_neos5omy'
+04/08/2018 12:26:26 | SUCCESS | Updtate MetaData(0_0f5v65zc) | By-Biocine_ott503 | update entry set name='Sample Kitten video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0f5v65zc/version/100022',longdescription='',
+        duration='13',type='1',tag='kitten, th2018',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-08-04 12:30:00',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0f5v65zc'
+04/08/2018 07:05:11 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 07:05:40 | SUCCESS | login-(AYUSHI) | By-AYUSHI_ott503 | 
+04/08/2018 07:10:53 | SUCCESS | login-(MADHAVIII) | By-MADHAVIII_ott503 | 
+04/08/2018 07:15:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 07:55:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 08:42:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 08:51:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 08:53:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 09:19:34 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 14:59:31 | SUCCESS | Update Subscription Code (11) | By-Biocine_ott503 | 
+04/08/2018 09:52:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 10:04:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 10:35:30 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 11:47:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/08/2018 17:44:11 | SUCCESS | Add New Subscription Code (3QB6N0QRKD) | By-Biocine_ott503 | 
+04/08/2018 17:44:46 | SUCCESS | Add New Subscription Code (XSRF1WG0J0) | By-Biocine_ott503 | 

@@ -1,0 +1,51 @@
+15/05/2018 04:13:47 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+15/05/2018 06:23:44 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+15/05/2018 12:52:21 | SUCCESS | Add New Header Content(News) | By-PowerSmart_ott182 | 
+15/05/2018 12:52:30 | SUCCESS | Header Menu active(HeaderID:58,Status:active) | By-PowerSmart_ott182 | 
+15/05/2018 12:52:39 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+15/05/2018 12:55:34 | SUCCESS | Updtate MetaData(0_khgoq80g) | By-PowerSmart_ott182 | update entry set name='ಈ ಹೊತ್ತಿನ ಕರ್ನಾಟಕ ಚುನಾವಣಾ ವರದಿ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_khgoq80g/version/100032',longdescription='ಈ ಹೊತ್ತಿನ ಕರ್ನಾಟಕ ಚುನಾವಣಾ ವಿಶೇಷ ಸುದ್ದಿಗಳು | Latest Karnataka Election News',
+        duration='65',type='1',tag='election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-15 12:57:59',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_khgoq80g'
+15/05/2018 12:56:40 | SUCCESS | Updtate MetaData(0_6l2b8k4c) | By-PowerSmart_ott182 | update entry set name='VIP News @ 4 pm ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6l2b8k4c/version/100022',longdescription='We are also on:\r\n\r\nFacebook: https://www.facebook.com/vipnewschannel\r\nTwitter: https://twitter.com/vipnewschannel\r\nInstagram: https://www.instagram.com/vipnewschannel/\r\nGoogle+: https://plus.google.com/+vipnewschannel\r\nLinkedIn: https://www.linkedin.com/company/vip-news-karnataka/\r\n\r\nVIP News - The Power of Karnataka\r\n',
+        duration='1200',type='1',tag='vip news, news, karnataka election, vote',category='News',categoryid='378',
+        updated_at='2018-05-15 12:59:05',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6l2b8k4c'
+15/05/2018 12:57:00 | SUCCESS | Updtate MetaData(0_6l2b8k4c) | By-PowerSmart_ott182 | update entry set name='VIP News @ 4 pm ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6l2b8k4c/version/100022',longdescription='We are also on:\r\n\r\nFacebook: https://www.facebook.com/vipnewschannel\r\nTwitter: https://twitter.com/vipnewschannel\r\nInstagram: https://www.instagram.com/vipnewschannel/\r\nGoogle+: https://plus.google.com/+vipnewschannel\r\nLinkedIn: https://www.linkedin.com/company/vip-news-karnataka/\r\n\r\nVIP News - The Power of Karnataka\r\n',
+        duration='1200',type='1',tag='vip news, news, karnataka election, vote',category='News',categoryid='378',
+        updated_at='2018-05-15 12:59:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6l2b8k4c'
+15/05/2018 12:57:40 | SUCCESS | Updtate MetaData(0_m75v6aqf) | By-PowerSmart_ott182 | update entry set name='Kadadaragaddi - VIP News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_m75v6aqf/version/100032',longdescription='',
+        duration='533',type='1',tag='',category='Politics',categoryid='376',
+        updated_at='2018-05-15 13:00:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_m75v6aqf'
+15/05/2018 12:58:00 | SUCCESS | Updtate MetaData(0_mdh6lwee) | By-PowerSmart_ott182 | update entry set name='ಮತದಾರರಿಗೆ ದಿನೇಶ್ ಗುಂಡೂರಾವ್ ರವರಿಂದ ಬ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mdh6lwee/version/100032',longdescription='ಮತದಾರರಿಗೆ ದಿನೇಶ್ ಗುಂಡೂರಾವ್ ರವರಿಂದ ಬಿಸಿ ಬಿಸಿ ಬಿರಿಯಾನಿ ವ್ಯವಸ್ಥೆ | Hot biriyani served by Dinesh Gundu Rao for voters',
+        duration='210',type='1',tag='election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-15 13:00:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_mdh6lwee'
+15/05/2018 12:58:19 | SUCCESS | Updtate MetaData(0_m4b2oc5k) | By-PowerSmart_ott182 | update entry set name='ಮತದಾನ ಮಾಡುವುದು ನಿಮ್ಮ ಹಕ್ಕು. ನಿಮ್ಮ ಹ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_m4b2oc5k/version/100022',longdescription='ಮತದಾನ ಮಾಡುವುದು ನಿಮ್ಮ ಹಕ್ಕು. ನಿಮ್ಮ ಹಕ್ಕನ್ನು ಚಲಾಯಿಸಿ | It is your right to vote. Cast your vote',
+        duration='368',type='1',tag='election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-15 13:00:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_m4b2oc5k'
+15/05/2018 13:58:29 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+15/05/2018 14:13:06 | SUCCESS | Save New video(0_vn5bzzio) | By-PowerSmart_ott182 | 
+15/05/2018 14:15:21 | SUCCESS | Updtate MetaData(0_vn5bzzio) | By-PowerSmart_ott182 | update entry set name='ಎಡ್ಡ್ಯೂರಪ್ಪ ಹಾಗು ಸಿದ್ದರಾಮಯ್ಯ  ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_vn5bzzio/version/100012',longdescription='ಎಡ್ಡ್ಯೂರಪ್ಪ ಹಾಗು ಸಿದ್ದರಾಮಯ್ಯ ನಡುವಿನ ವ್ಯಂಗ್ಯತೆಯನ್ನು ಗುರುತಿಸುವಂತಹ, ಈ ಕ್ಷಣದ ಸ್ಥಿತಿಗೆ ತಕ್ಕಂತಹ ಒಂದು ನೃತ್ಯ! https://youtu.be/1rhfmM4-AaY',
+        duration='113',type='1',tag='karnataka verdict, karnataka election results, karnataka polls results',category='Politics',categoryid='376',
+        updated_at='2018-05-15 14:17:46',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_vn5bzzio'
+15/05/2018 09:32:47 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+15/05/2018 11:21:30 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 

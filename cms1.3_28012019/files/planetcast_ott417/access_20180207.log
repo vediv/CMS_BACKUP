@@ -1,0 +1,30 @@
+07/02/2018 11:42:19 | SUCCESS | Save Thumbnail(0_dhrxbd3v) | By-Planetcast_ott417 | 
+07/02/2018 11:43:53 | SUCCESS | Create New Category(TEST) | By-Planetcast_ott417 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '214','121','1','105','TEST','fdhg>TEST','121>214','0','0','','',NOW(),Now(),'90',ifnull(max(priority),0)+1,'0' from categories
+07/02/2018 11:44:00 | SUCCESS | Sync Category | By-Planetcast_ott417 | 
+07/02/2018 11:44:43 | SUCCESS | Updtate MetaData(0_dhrxbd3v) | By-Planetcast_ott417 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/105/sp/10500/thumbnail/entry_id/0_dhrxbd3v/version/100052',longdescription='',duration='5',type='1',tag='',category='fdhg>TEST',categoryid='214',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-02-07',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='ENGLISH',pgrating='',video_status='inactive' where entryid='0_dhrxbd3v'
+07/02/2018 11:45:23 | SUCCESS | Updtate MetaData(0_dhrxbd3v) | By-Planetcast_ott417 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/105/sp/10500/thumbnail/entry_id/0_dhrxbd3v/version/100052',longdescription='',duration='5',type='1',tag='',category='fdhg>TEST',categoryid='214',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-02-07',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='ENGLISH',pgrating='',video_status='inactive' where entryid='0_dhrxbd3v'
+07/02/2018 11:48:10 | SUCCESS | Add New Plan (Test) | By-Planetcast_ott417 | 
+07/02/2018 11:48:21 | SUCCESS | Plan inactive(planID:p064,Status:inactive) | By-Planetcast_ott417 | 
+07/02/2018 11:48:24 | SUCCESS | Delete Plan (p064) | By-Planetcast_ott417 | delete from plandetail where planID='p064'
+07/02/2018 11:49:16 | SUCCESS | Add New Slider Image(C:\fakepath\header1.jpg) | By-Planetcast_ott417 | 
+07/02/2018 11:52:44 | SUCCESS | Bulk Add Category(0_dhrxbd3v,214,65) | By-Planetcast_ott417 | update entry set category='fdhg>TEST,MOVIES>TRAILERS>ENGLISH', categoryid='214,65' where entryid='0_dhrxbd3v' 
+07/02/2018 12:48:34 | SUCCESS | Slider image active(SliderID:23,Status:active) | By-Planetcast_ott417 | 
+07/02/2018 12:55:47 | SUCCESS | Slider image inactive(SliderID:23,Status:inactive) | By-Planetcast_ott417 | 
+07/02/2018 12:57:27 | SUCCESS | Slider image active(SliderID:23,Status:active) | By-Planetcast_ott417 | 
+07/02/2018 12:58:25 | SUCCESS | Slider image inactive(SliderID:23,Status:inactive) | By-Planetcast_ott417 | 
+07/02/2018 12:58:57 | SUCCESS | Slider image active(SliderID:23,Status:active) | By-Planetcast_ott417 | 
+07/02/2018 14:24:43 | SUCCESS | Sync Category | By-Planetcast_ott417 | 
+07/02/2018 14:40:26 | SUCCESS | Updtate MetaData(0_can02fcb) | By-Planetcast_ott417 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/105/sp/10500/thumbnail/entry_id/0_can02fcb/version/100042',longdescription='',duration='5',type='1',tag='',category='',categoryid='',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-02-07',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='inactive' where entryid='0_can02fcb'
+07/02/2018 14:48:51 | SUCCESS | Slider image inactive(SliderID:23,Status:inactive) | By-Planetcast_ott417 | 
+07/02/2018 15:10:18 | SUCCESS | Sync Category | By-Planetcast_ott417 | 
+07/02/2018 15:22:25 | SUCCESS | Sync Category | By-Planetcast_ott417 | 
+07/02/2018 15:24:46 | SUCCESS | Sync Category | By-Planetcast_ott417 | 
+07/02/2018 15:40:15 | SUCCESS | Sync Category | By-Planetcast_ott417 | 
+07/02/2018 15:45:35 | SUCCESS | Sync Category | By-Planetcast_ott417 | 

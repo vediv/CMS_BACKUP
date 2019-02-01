@@ -1,0 +1,633 @@
+16/11/2018 05:29:26 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/11/2018 05:38:31 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/11/2018 06:14:04 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/11/2018 11:48:51 | SUCCESS | Save New video(0_govf2kyc) | By-jeeyaho_ott333 | 
+16/11/2018 11:49:48 | SUCCESS | Updtate MetaData(0_govf2kyc) | By-jeeyaho_ott333 | update entry set name='Ek Jaam Tohre Naam | Superhit Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_govf2kyc/version/0',longdescription='Ek Jaam Tohre Naam | Superhit Song ',
+        duration='322',type='1',tag='jaam tere naam, song, music, movie, bhojpuri',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 11:54:49',shortdescription='Ek Jaam Tere Naam',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_govf2kyc'
+16/11/2018 11:53:08 | SUCCESS | Save New video(0_io0dw6iy) | By-jeeyaho_ott333 | 
+16/11/2018 11:54:05 | SUCCESS | Updtate MetaData(0_io0dw6iy) | By-jeeyaho_ott333 | update entry set name='Ago Chummi Mang Dehni Latest Bhojpuri ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_io0dw6iy/version/0',longdescription='Ago Chummi Mang Dehni Latest Bhojpuri ',
+        duration='331',type='1',tag='bhojpuri, music, movie, song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 11:59:07',shortdescription='Ago Chummi Mang Dehni Latest Bhojpuri ',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_io0dw6iy'
+16/11/2018 12:04:33 | SUCCESS | Save New video(0_7bm3num0) | By-jeeyaho_ott333 | 
+16/11/2018 12:44:48 | SUCCESS | Save Age Restriction(0_3gwoti7l,A) | By-jeeyaho_ott333 | 
+16/11/2018 12:45:15 | SUCCESS | Save Age Restriction(0_orwozy1j,A) | By-jeeyaho_ott333 | 
+16/11/2018 12:45:43 | SUCCESS | Save Age Restriction(0_4nca9f1j,A) | By-jeeyaho_ott333 | 
+16/11/2018 12:46:19 | SUCCESS | Save Age Restriction(0_w34jw3r4,A) | By-jeeyaho_ott333 | 
+16/11/2018 12:49:49 | SUCCESS | Save New video(0_4pvlj8ft) | By-jeeyaho_ott333 | 
+16/11/2018 12:50:54 | SUCCESS | Updtate MetaData(0_4pvlj8ft) | By-jeeyaho_ott333 | update entry set name=' Shiv Chalisha 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4pvlj8ft/version/0',longdescription='Shiv Chalisha 2018 dj ',
+        duration='0',type='1',tag='shiv, chalisa, bhajan, dj chalisa',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 12:55:56',shortdescription='Shiv Chalisa 2018',
+        director='',producer='smm music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4pvlj8ft'
+16/11/2018 12:54:18 | SUCCESS | Save New video(0_e1kx9w9j) | By-jeeyaho_ott333 | 
+16/11/2018 12:55:10 | SUCCESS | Updtate MetaData(0_e1kx9w9j) | By-jeeyaho_ott333 | update entry set name=' Letest Hanuman Chalisa 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_e1kx9w9j/version/0',longdescription=' Letest Hanuman Chalisa 2018',
+        duration='0',type='1',tag='hanumaan, chalisa, 2018, dj',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:00:12',shortdescription=' Letest Hanuman Chalisa 2018',
+        director='',producer='smm music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_e1kx9w9j'
+16/11/2018 13:08:00 | SUCCESS | Save New video(0_edhfg1ik) | By-jeeyaho_ott333 | 
+16/11/2018 13:08:44 | SUCCESS | Updtate MetaData(0_edhfg1ik) | By-jeeyaho_ott333 | update entry set name='Balam Parvat Pe | Kheshari Lal 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_edhfg1ik/version/0',longdescription='Balam Parvat Pe | Kheshari Lal 2018',
+        duration='231',type='1',tag='khesari lal, new song, bhojpuri',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 13:13:45',shortdescription='Balam Parvat Pe | Kheshari Lal 2018',
+        director='',producer='Lotus Music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_edhfg1ik'
+16/11/2018 13:09:07 | SUCCESS | Delete Video entry(0_7bm3num0) | By-jeeyaho_ott333 | 
+16/11/2018 13:11:42 | SUCCESS | Save New video(0_esfm26mz) | By-jeeyaho_ott333 | 
+16/11/2018 13:12:38 | SUCCESS | Updtate MetaData(0_esfm26mz) | By-jeeyaho_ott333 | update entry set name=' Khesari Banle Pujari  Bol Bam Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_esfm26mz/version/0',longdescription='khesari benle pujari 2018',
+        duration='0',type='1',tag='khesari lal, bhojpuri, 2018, dj song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 13:17:40',shortdescription='khesari benle pujari 2018',
+        director='',producer='Lotus Music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_esfm26mz'
+16/11/2018 13:13:19 | SUCCESS | Updtate MetaData(0_9vvslng1) | By-jeeyaho_ott333 | update entry set name='ROMANTIC Latest Bollywood Songs 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9vvslng1/version/100022',longdescription='Romantic latest bollywood songs',
+        duration='317',type='1',tag='song, music, movie, love, bollywood',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:18:20',shortdescription='Romantic',
+        director='',producer='Smm Music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9vvslng1'
+16/11/2018 13:17:38 | SUCCESS | Save Thumbnail(0_hqmj4qld) | By-jeeyaho_ott333 | 
+16/11/2018 13:23:14 | SUCCESS | Updtate MetaData(0_lcf8o1s5) | By-jeeyaho_ott333 | update entry set name='Ganpati Bhajan | SMM MUSIC ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lcf8o1s5/version/100022',longdescription='New HD Ganesh Bhajan',
+        duration='316',type='1',tag='bhajan, ganesh ji, music',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:28:15',shortdescription='Shri Ganesh Bhajan',
+        director='',producer='Smm music',cast='',crew='Smm Music',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_lcf8o1s5'
+16/11/2018 13:26:29 | SUCCESS | Create New Category(Devotional) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '535','486','1','113','Devotional','MUSIC>Devotional','486>535','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+16/11/2018 13:28:05 | SUCCESS | Updtate MetaData(0_e1kx9w9j) | By-jeeyaho_ott333 | update entry set name=' Letest Hanuman Chalisa 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_e1kx9w9j/version/100022',longdescription=' Letest Hanuman Chalisa 2018',
+        duration='448',type='1',tag='hanumaan, chalisa, 2018, dj',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:33:07',shortdescription=' Letest Hanuman Chalisa 2018',
+        director='',producer='smm music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_e1kx9w9j'
+16/11/2018 13:28:16 | SUCCESS | delete Category(535) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='535'
+16/11/2018 13:29:44 | SUCCESS | Updtate MetaData(0_hqmj4qld) | By-jeeyaho_ott333 | update entry set name='Damru  Bhojpuri Shiv Bhajan 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hqmj4qld/version/100032',longdescription='Superhit Shri Shiv Bhajan  ',
+        duration='498',type='1',tag='bhojpuri, bhajan, shiv, 2018',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:34:46',shortdescription='',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_hqmj4qld'
+16/11/2018 13:30:16 | SUCCESS | Updtate MetaData(0_t9dvt9u7) | By-jeeyaho_ott333 | update entry set name=' Ruhani In Ankhon Se | Superhit Hindi Love Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t9dvt9u7/version/100022',longdescription='New Hindi Song',
+        duration='288',type='1',tag='new hindi song, love song, music',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:35:17',shortdescription='Hindi Love Song 2018',
+        director='',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_t9dvt9u7'
+16/11/2018 13:30:47 | SUCCESS | Updtate MetaData(0_52q5hs14) | By-jeeyaho_ott333 | update entry set name='Ganpati Bhajan 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_52q5hs14/version/100022',longdescription='Watch new Ganpati bhajan song video.',
+        duration='316',type='1',tag='ganpati, bhajan, devotional, arti, song, musical, music, peace, ganesh, maurya, bappa',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 13:35:48',shortdescription='',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_52q5hs14'
+16/11/2018 13:40:04 | SUCCESS | Save Thumbnail(0_83q0lzps) | By-jeeyaho_ott333 | 
+16/11/2018 13:45:10 | SUCCESS | Save New video(0_ularyfr1) | By-jeeyaho_ott333 | 
+16/11/2018 13:46:26 | SUCCESS | Updtate MetaData(0_ularyfr1) | By-jeeyaho_ott333 | update entry set name='2018 New Devi Geet Lotus_Music_India ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ularyfr1/version/0',longdescription='2018 New Devi Geet maae ke Darbar ',
+        duration='0',type='1',tag='devi geet, song, music, bhojpuri, lotus',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 13:51:27',shortdescription='2018 New Devi Geet maae ke Darbar ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ularyfr1'
+16/11/2018 13:47:48 | SUCCESS | Save New video(0_nvgthdte) | By-jeeyaho_ott333 | 
+16/11/2018 13:48:25 | SUCCESS | Updtate MetaData(0_nvgthdte) | By-jeeyaho_ott333 | update entry set name='Ajeet Premi Yadav - Baurahawa Ho - New Kanwar Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_nvgthdte/version/0',longdescription='Ajeet Premi Yadav - Baurahawa Ho - New Kanwar Song ',
+        duration='0',type='1',tag='bhojpuri, lotus, music, kanwar song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 13:53:27',shortdescription='Ajeet Premi Yadav - Baurahawa Ho - New Kanwar Song ',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_nvgthdte'
+16/11/2018 13:48:45 | SUCCESS | Updtate MetaData(0_nvgthdte) | By-jeeyaho_ott333 | update entry set name='Ajeet Premi Yadav - Baurahawa Ho - New Kanwar Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_nvgthdte/version/0',longdescription='Ajeet Premi Yadav - Baurahawa Ho - New Kanwar Song ',
+        duration='263',type='1',tag='bhojpuri, lotus, music, kanwar song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 13:53:46',shortdescription='Ajeet Premi Yadav - Baurahawa Ho - New Kanwar Song ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_nvgthdte'
+16/11/2018 13:51:05 | SUCCESS | Save New video(0_w4mqd10e) | By-jeeyaho_ott333 | 
+16/11/2018 13:54:06 | SUCCESS | Save New video(0_l2hu3kay) | By-jeeyaho_ott333 | 
+16/11/2018 13:54:43 | SUCCESS | Updtate MetaData(0_l2hu3kay) | By-jeeyaho_ott333 | update entry set name='  Baba Chalal Nahi Jata - Krishna Mohan Yadav ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_l2hu3kay/version/0',longdescription='  Baba Chalal Nahi Jata - Krishna Mohan Yadav ',
+        duration='0',type='1',tag='baba, shiv, music, lotus, dj, sond 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 13:59:45',shortdescription='  Baba Chalal Nahi Jata - Krishna Mohan Yadav ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_l2hu3kay'
+16/11/2018 14:18:55 | SUCCESS | Save New video(0_x7z34c2e) | By-jeeyaho_ott333 | 
+16/11/2018 14:19:35 | SUCCESS | Updtate MetaData(0_x7z34c2e) | By-jeeyaho_ott333 | update entry set name='Khesari Lal Yadav - BolBam Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_x7z34c2e/version/0',longdescription='Latest bhojpuri Bolbam shiv bhajan 2018 ',
+        duration='0',type='1',tag='khesari lal, bhojpuri, music, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:24:37',shortdescription='Latest bhojpuri Bolbam shiv bhajan 2018',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_x7z34c2e'
+16/11/2018 14:24:17 | SUCCESS | Save New video(0_9skiz6dh) | By-jeeyaho_ott333 | 
+16/11/2018 14:25:04 | SUCCESS | Updtate MetaData(0_9skiz6dh) | By-jeeyaho_ott333 | update entry set name='Khushboo Uttam New Song 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9skiz6dh/version/0',longdescription='Khushboo_Uttam Banal_Rahe_Senura_Suhag ',
+        duration='0',type='1',tag='bhojpuri, music, movie, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:30:05',shortdescription='Khushboo_Uttam Banal_Rahe_Senura_Suhag ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9skiz6dh'
+16/11/2018 14:27:53 | SUCCESS | Save New video(0_s10soxjr) | By-jeeyaho_ott333 | 
+16/11/2018 14:28:35 | SUCCESS | Updtate MetaData(0_s10soxjr) | By-jeeyaho_ott333 | update entry set name='Tora Jija Tora Didi Ke Devar Bani Ho ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_s10soxjr/version/0',longdescription='Tora Jija Tora Didi Ke Devar Bani Ho ',
+        duration='0',type='1',tag='bhojpuri, music, movie',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:33:37',shortdescription='Tora Jija Tora Didi Ke Devar Bani Ho ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_s10soxjr'
+16/11/2018 14:30:00 | SUCCESS | Save New video(0_bu0zu0e5) | By-jeeyaho_ott333 | 
+16/11/2018 14:30:42 | SUCCESS | Updtate MetaData(0_bu0zu0e5) | By-jeeyaho_ott333 | update entry set name='Prasidh Tiwari Naram Kalai New Dj Song 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_bu0zu0e5/version/0',longdescription='Prasidh Tiwari Naram Kalai New Dj Song 2018',
+        duration='0',type='1',tag='bhojpuri, lotus music, dj song, 2018, music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:35:44',shortdescription='Prasidh Tiwari Naram Kalai New Dj Song 2018',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_bu0zu0e5'
+16/11/2018 14:32:19 | SUCCESS | Save New video(0_ssmgd2ck) | By-jeeyaho_ott333 | 
+16/11/2018 14:33:03 | SUCCESS | Updtate MetaData(0_ssmgd2ck) | By-jeeyaho_ott333 | update entry set name='Rakesh Basanti Parvati Ke Chakkar Me Bolbam 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ssmgd2ck/version/0',longdescription='Rakesh Basanti  Parvati Ke Chakkar Me  Bolbam 2018 ',
+        duration='292',type='1',tag='bhojpuri, dj song, lotus music, music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:38:04',shortdescription='Rakesh Basanti  Parvati Ke Chakkar Me  Bolbam 2018 ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ssmgd2ck'
+16/11/2018 14:35:20 | SUCCESS | Save New video(0_vfsugbqb) | By-jeeyaho_ott333 | 
+16/11/2018 14:36:02 | SUCCESS | Updtate MetaData(0_vfsugbqb) | By-jeeyaho_ott333 | update entry set name='Teej Video 2018  New Bhojpuri Song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_vfsugbqb/version/0',longdescription='Teej Video 2018  New Bhojpuri Song ',
+        duration='0',type='1',tag='bhojpuri, music, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:41:04',shortdescription='Teej Video 2018  New Bhojpuri Song ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vfsugbqb'
+16/11/2018 14:42:34 | SUCCESS | Save Thumbnail(0_83q0lzps) | By-jeeyaho_ott333 | 
+16/11/2018 14:49:54 | SUCCESS | Save New video(0_ui1ht90z) | By-jeeyaho_ott333 | 
+16/11/2018 14:50:35 | SUCCESS | Updtate MetaData(0_ui1ht90z) | By-jeeyaho_ott333 | update entry set name=' Daradiya Kare Kalai - Arvind Singh ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ui1ht90z/version/0',longdescription=' Daradiya Kare Kalai - Arvind Singh ',
+        duration='184',type='1',tag='music, bhojpuri, lotus music, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:55:37',shortdescription=' Daradiya Kare Kalai - Arvind Singh ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ui1ht90z'
+16/11/2018 14:53:23 | SUCCESS | Save New video(0_hpmndcqy) | By-jeeyaho_ott333 | 
+16/11/2018 14:54:14 | SUCCESS | Updtate MetaData(0_hpmndcqy) | By-jeeyaho_ott333 | update entry set name=' Dhananjay Sharma - Diwana Bholeynath Ke ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hpmndcqy/version/0',longdescription=' Dhananjay Sharma - Diwana Bholeynath Ke ',
+        duration='227',type='1',tag='shiv, bhojpuri, music, bolbum, dj, 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 14:59:16',shortdescription='Dhananjay Sharma - Diwana Bholeynath Ke ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_hpmndcqy'
+16/11/2018 14:56:52 | SUCCESS | Save New video(0_pg9uwjwl) | By-jeeyaho_ott333 | 
+16/11/2018 14:57:27 | SUCCESS | Updtate MetaData(0_pg9uwjwl) | By-jeeyaho_ott333 | update entry set name=' Khesari Lal Yadav | Maai Darbaar ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_pg9uwjwl/version/0',longdescription=' Khesari Lal Yadav | Maai Darbaar ',
+        duration='224',type='1',tag='khesari lal, music, bhakti, bhojpuri, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:02:29',shortdescription=' Khesari Lal Yadav | Maai Darbaar ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_pg9uwjwl'
+16/11/2018 15:00:49 | SUCCESS | Save New video(0_3irau8s3) | By-jeeyaho_ott333 | 
+16/11/2018 15:01:28 | SUCCESS | Updtate MetaData(0_3irau8s3) | By-jeeyaho_ott333 | update entry set name=' Ganja Pine Na Diya - New Bolbam Video 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_3irau8s3/version/0',longdescription=' Ganja Pine Na Diya - New Bolbam Video 2018 ',
+        duration='229',type='1',tag='shiv, dj, music, song 2018, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:06:29',shortdescription=' Ganja Pine Na Diya - New Bolbam Video 2018 ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3irau8s3'
+16/11/2018 15:02:39 | SUCCESS | Updtate MetaData(0_w4mqd10e) | By-jeeyaho_ott333 | update entry set name='New Bhojpuri Hit Song 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_w4mqd10e/version/100022',longdescription='Alam_Raj Antra_Singh_Priyanka - New Bhojpuri Hit Song 2018 ',
+        duration='255',type='1',tag='bhojpuri, music, movie, dj, new song, 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:07:40',shortdescription='New Bhojpuri Hit Song 2018 ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w4mqd10e'
+16/11/2018 15:06:15 | SUCCESS | Save New video(0_cx146d7c) | By-jeeyaho_ott333 | 
+16/11/2018 15:06:44 | SUCCESS | Updtate MetaData(0_cx146d7c) | By-jeeyaho_ott333 | update entry set name=' Naihar Ke Yaar Pakdail Ba ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_cx146d7c/version/0',longdescription=' Naihar Ke Yaar Pakdail Ba ',
+        duration='0',type='1',tag='bhojpuri, music, dj song, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:11:46',shortdescription=' Naihar Ke Yaar Pakdail Ba ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_cx146d7c'
+16/11/2018 15:09:28 | SUCCESS | Save New video(0_okvjssnx) | By-jeeyaho_ott333 | 
+16/11/2018 15:10:01 | SUCCESS | Updtate MetaData(0_okvjssnx) | By-jeeyaho_ott333 | update entry set name='Maar Ke Chilam - Adarsh Pandey',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_okvjssnx/version/0',longdescription='Maar Ke Chilam - Adarsh Pandey',
+        duration='0',type='1',tag='lotus music, bhojpuri, music, dj song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:15:02',shortdescription='Maar Ke Chilam - Adarsh Pandey',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_okvjssnx'
+16/11/2018 15:11:59 | SUCCESS | Save New video(0_u555v85w) | By-jeeyaho_ott333 | 
+16/11/2018 15:12:32 | SUCCESS | Updtate MetaData(0_u555v85w) | By-jeeyaho_ott333 | update entry set name='Hum Na Jaib Sasurawa  Sunil Maurya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_u555v85w/version/0',longdescription='Hum Na Jaib Sasurawa  Sunil Maurya ',
+        duration='0',type='1',tag='bhojpuri, lotus music, dj song, movie, sad',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:17:34',shortdescription='Hum Na Jaib Sasurawa  Sunil Maurya ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_u555v85w'
+16/11/2018 15:18:53 | SUCCESS | Save New video(0_a677sbjt) | By-jeeyaho_ott333 | 
+16/11/2018 15:19:56 | SUCCESS | Updtate MetaData(0_a677sbjt) | By-jeeyaho_ott333 | update entry set name=' Tite Tite Bate Neem Ke Pataiya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_a677sbjt/version/0',longdescription=' Tite Tite Bate Neem Ke Pataiya ',
+        duration='335',type='1',tag='lotus music, bhojpuri, music, dj song',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:24:58',shortdescription=' Tite Tite Bate Neem Ke Pataiya ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_a677sbjt'
+16/11/2018 15:30:44 | SUCCESS | Save New video(0_5255vulv) | By-jeeyaho_ott333 | 
+16/11/2018 15:31:21 | SUCCESS | Updtate MetaData(0_5255vulv) | By-jeeyaho_ott333 | update entry set name='Ghare Laxmi Aili  Mohini Pandey ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5255vulv/version/0',longdescription='Ghare Laxmi Aili - Mohini Pandey ',
+        duration='231',type='1',tag='sohar, bhojpuri, lotus music, beti sohar, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:36:23',shortdescription='Ghare Laxmi Aili  Mohini Pandey ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5255vulv'
+16/11/2018 15:35:07 | SUCCESS | Save New video(0_h1sz6xy8) | By-jeeyaho_ott333 | 
+16/11/2018 15:35:46 | SUCCESS | Updtate MetaData(0_h1sz6xy8) | By-jeeyaho_ott333 | update entry set name='Indu Sonali Suhag Geet 2018 ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_h1sz6xy8/version/0',longdescription='Indu Sonali Suhag Geet 2018 ',
+        duration='0',type='1',tag='bhojpuri, lotus music, indu sonali, dj, suhag geet',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:40:48',shortdescription='Indu Sonali Suhag Geet 2018 ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_h1sz6xy8'
+16/11/2018 15:41:21 | SUCCESS | Save New video(0_o8b6vmtb) | By-jeeyaho_ott333 | 
+16/11/2018 15:41:54 | SUCCESS | Updtate MetaData(0_o8b6vmtb) | By-jeeyaho_ott333 | update entry set name=' SIYA KAILE CHHATH KE BARATIYA DEVI  ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_o8b6vmtb/version/0',longdescription=' SIYA KAILE CHHATH KE BARATIYA DEVI  ',
+        duration='0',type='1',tag='devi, lotus music, bhojpuri, music, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:46:55',shortdescription=' SIYA KAILE CHHATH KE BARATIYA DEVI  ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_o8b6vmtb'
+16/11/2018 15:46:48 | SUCCESS | Save New video(0_wfqaulvq) | By-jeeyaho_ott333 | 
+16/11/2018 15:47:22 | SUCCESS | Updtate MetaData(0_wfqaulvq) | By-jeeyaho_ott333 | update entry set name='Khesari Lal Yadav Maai Darbaar ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wfqaulvq/version/0',longdescription='Khesari Lal Yadav Maai Darbaar ',
+        duration='0',type='1',tag='bhojpuri, music, khesari lal, dj, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:52:24',shortdescription='Khesari Lal Yadav Maai Darbaar ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wfqaulvq'
+16/11/2018 15:53:02 | SUCCESS | Save New video(0_2e9vtidm) | By-jeeyaho_ott333 | 
+16/11/2018 15:53:37 | SUCCESS | Updtate MetaData(0_2e9vtidm) | By-jeeyaho_ott333 | update entry set name=' Maiya Rani Ko Bulayenge  Hema Anand ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2e9vtidm/version/0',longdescription=' Maiya Rani Ko Bulayenge  Hema Anand ',
+        duration='0',type='1',tag='hema anand, bhojpuri, music, dj, devi geet',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 15:58:38',shortdescription=' Maiya Rani Ko Bulayenge  Hema Anand ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2e9vtidm'
+16/11/2018 15:55:51 | SUCCESS | Save New video(0_wlmw3g7n) | By-jeeyaho_ott333 | 
+16/11/2018 15:56:21 | SUCCESS | Updtate MetaData(0_wlmw3g7n) | By-jeeyaho_ott333 | update entry set name='Yaad Me Tadapake  Dhananjay Sharma',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wlmw3g7n/version/0',longdescription='Yaad Me Tadapake  Dhananjay Sharma',
+        duration='361',type='1',tag='bhojpuri, lotus music, music, sad song, dhananjay sharma',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:01:23',shortdescription='Yaad Me Tadapake  Dhananjay Sharma',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wlmw3g7n'
+16/11/2018 16:00:48 | SUCCESS | Save New video(0_2rhiy1r9) | By-jeeyaho_ott333 | 
+16/11/2018 16:01:55 | SUCCESS | Updtate MetaData(0_2rhiy1r9) | By-jeeyaho_ott333 | update entry set name=' Jalwa Chadhala  Sandip Shrewatsava ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2rhiy1r9/version/100002',longdescription=' Jalwa Chadhala  Sandip Shrewatsava ',
+        duration='296',type='1',tag='bhojpuri, music, dj, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:06:57',shortdescription=' Jalwa Chadhala  Sandip Shrewatsava ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2rhiy1r9'
+16/11/2018 16:06:04 | SUCCESS | Save New video(0_n7ty9ifx) | By-jeeyaho_ott333 | 
+16/11/2018 16:06:40 | SUCCESS | Updtate MetaData(0_n7ty9ifx) | By-jeeyaho_ott333 | update entry set name=' Bagiya Lagawale Raja Dashrath  Mohini Pandey',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_n7ty9ifx/version/0',longdescription=' Jalwa Chadhala  Sandip Shrewatsava ',
+        duration='0',type='1',tag='mohini pandey, bhojpuri, dj, lotus music, sohar, paramparik',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:11:42',shortdescription=' Jalwa Chadhala  Sandip Shrewatsava ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_n7ty9ifx'
+16/11/2018 16:10:14 | SUCCESS | Save New video(0_2cymuup4) | By-jeeyaho_ott333 | 
+16/11/2018 16:10:57 | SUCCESS | Updtate MetaData(0_2cymuup4) | By-jeeyaho_ott333 | update entry set name='Amrita Dixit Ganesh Geet 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2cymuup4/version/0',longdescription='Amrita Dixit Ganesh Geet 2018',
+        duration='175',type='1',tag='amrita dixit, lotus music, geet, ganesh bhajan, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:15:59',shortdescription='Amrita Dixit Ganesh Geet 2018',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2cymuup4'
+16/11/2018 16:11:52 | SUCCESS | Updtate MetaData(0_2cymuup4) | By-jeeyaho_ott333 | update entry set name='Amrita Dixit Shri Ganesh Geet 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2cymuup4/version/100002',longdescription='Amrita Dixit Ganesh Geet 2018',
+        duration='175',type='1',tag='amrita dixit, lotus music, geet, ganesh bhajan, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:16:54',shortdescription='Amrita Dixit Ganesh Geet 2018',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2cymuup4'
+16/11/2018 16:15:11 | SUCCESS | Save New video(0_21wlkr8t) | By-jeeyaho_ott333 | 
+16/11/2018 16:15:43 | SUCCESS | Updtate MetaData(0_21wlkr8t) | By-jeeyaho_ott333 | update entry set name='Akshara Singh Tarse Jiya Sawanwa Me',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_21wlkr8t/version/0',longdescription='Akshara Singh Tarse Jiya Sawanwa Me',
+        duration='0',type='1',tag='bhojpuri, akshara singh, lotus music, dj, bolbam',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:20:45',shortdescription='Akshara Singh Tarse Jiya Sawanwa Me',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_21wlkr8t'
+16/11/2018 16:21:46 | SUCCESS | Save New video(0_7bl349wp) | By-jeeyaho_ott333 | 
+16/11/2018 16:22:58 | SUCCESS | Updtate MetaData(0_7bl349wp) | By-jeeyaho_ott333 | update entry set name='Akshra Singh Pawan Singh Video Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7bl349wp/version/100002',longdescription='Akshra Singh Pawan Singh Video Song',
+        duration='0',type='1',tag='akshra singh, pawan singh, video song, bhojpuri movie, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:28:00',shortdescription='Akshra Singh Pawan Singh Video Song',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7bl349wp'
+16/11/2018 16:26:39 | SUCCESS | Save New video(0_mdirvyls) | By-jeeyaho_ott333 | 
+16/11/2018 16:27:55 | SUCCESS | Updtate MetaData(0_mdirvyls) | By-jeeyaho_ott333 | update entry set name='Amrita Dixit Vishawkarma Puja Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_mdirvyls/version/100002',longdescription='Amrita Dixit Vishawkarma Puja Song',
+        duration='0',type='1',tag='amrita dixit, bhojpuri, bhajan, dj, video song, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:32:57',shortdescription='Amrita Dixit Vishawkarma Puja Song',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_mdirvyls'
+16/11/2018 16:30:33 | SUCCESS | Save New video(0_5ubvgw3d) | By-jeeyaho_ott333 | 
+16/11/2018 16:31:25 | SUCCESS | Updtate MetaData(0_5ubvgw3d) | By-jeeyaho_ott333 | update entry set name=' Amrita Dixit Krishna Bhajan',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5ubvgw3d/version/0',longdescription='Amrita Dixit Krishna Bhajan',
+        duration='0',type='1',tag='amrita dixit, krishna bhajan, bhojpuri, dj, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:36:26',shortdescription='Amrita Dixit Krishna Bhajan',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5ubvgw3d'
+16/11/2018 16:35:25 | SUCCESS | Save New video(0_654sd47r) | By-jeeyaho_ott333 | 
+16/11/2018 16:36:11 | SUCCESS | Updtate MetaData(0_654sd47r) | By-jeeyaho_ott333 | update entry set name='Radheshyam Rasiya Bhojpuri Devi Geet',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_654sd47r/version/0',longdescription='Radheshyam Rasiya Bhojpuri Devi Geet',
+        duration='0',type='1',tag='lotus music, bhojpuri, devi geet, dj, radheshyam rasiya',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:41:12',shortdescription='Radheshyam Rasiya Bhojpuri Devi Geet',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_654sd47r'
+16/11/2018 16:36:42 | SUCCESS | Updtate MetaData(0_7bl349wp) | By-jeeyaho_ott333 | update entry set name='Akshra Singh Pawan Singh Video Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7bl349wp/version/100022',longdescription='Akshra Singh Pawan Singh Video Song',
+        duration='277',type='1',tag='akshra singh, pawan singh, video song, bhojpuri movie, lotus music',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:41:44',shortdescription='Akshra Singh Pawan Singh Video Song',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7bl349wp'
+16/11/2018 11:07:33 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/11/2018 16:37:37 | SUCCESS | Delete Video entry(0_7bl349wp) | By-jeeyaho_ott333 | 
+16/11/2018 16:42:55 | SUCCESS | Save New video(0_1yx7fd04) | By-jeeyaho_ott333 | 
+16/11/2018 16:43:37 | SUCCESS | Updtate MetaData(0_1yx7fd04) | By-jeeyaho_ott333 | update entry set name='Bhola Ke Kripa  Radheshyam Rasiya',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_1yx7fd04/version/0',longdescription='Bhola Ke Kripa  Radheshyam Rasiya',
+        duration='0',type='1',tag='radheshyam rasiya, bhojpuri, kawar song, dj, bolbam',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-11-16 16:48:39',shortdescription='Bhola Ke Kripa  Radheshyam Rasiya',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1yx7fd04'
+16/11/2018 11:21:18 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/11/2018 17:05:15 | SUCCESS | Updtate MetaData(0_mdirvyls) | By-jeeyaho_ott333 | update entry set name='Amrita Dixit Vishawkarma Puja Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_mdirvyls/version/100022',longdescription='Amrita Dixit Vishawkarma Puja Song',
+        duration='198',type='1',tag='amrita dixit, bhojpuri, bhajan, dj, video song, lotus music',category='MUSIC>REGIONAL>BHOJPURI,MUSIC>HINDI>LOVE',categoryid='488,494',
+        updated_at='2018-11-16 17:10:16',shortdescription='Amrita Dixit Vishawkarma Puja Song',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_mdirvyls'
+16/11/2018 17:06:46 | SUCCESS | Updtate MetaData(0_2mhrkkmt) | By-jeeyaho_ott333 | update entry set name='KISMAT 420 Comedy Short Film 2018 HD ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2mhrkkmt/version/100022',longdescription='Comedy Short Film',
+        duration='1533',type='1',tag='short film, film, movie',category='MOVIES>HINDI>COMEDY',categoryid='449',
+        updated_at='2018-11-16 17:11:47',shortdescription='',
+        director='Viabhav Bist',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2mhrkkmt'
+16/11/2018 17:07:10 | SUCCESS | Updtate MetaData(0_he5lcgov) | By-jeeyaho_ott333 | update entry set name='30 Days Ki Love Story | Short Film',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_he5lcgov/version/100022',longdescription='Hindi Short Film',
+        duration='723',type='1',tag='love story, romance, movie, short film, love',category='MOVIES>HINDI>ROMANCE',categoryid='450',
+        updated_at='2018-11-16 17:12:11',shortdescription='30 Days KI Superhit Love Story',
+        director='',producer='Sm Media',cast='',crew='Sm Media',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_he5lcgov'
+16/11/2018 17:07:49 | SUCCESS | Updtate MetaData(0_mdirvyls) | By-jeeyaho_ott333 | update entry set name='Amrita Dixit Vishawkarma Puja Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_mdirvyls/version/100022',longdescription='Amrita Dixit Vishawkarma Puja Song',
+        duration='198',type='1',tag='amrita dixit, bhojpuri, bhajan, dj, video song, lotus music',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 17:12:50',shortdescription='Amrita Dixit Vishawkarma Puja Song',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_mdirvyls'
+16/11/2018 17:08:28 | SUCCESS | Updtate MetaData(0_2cymuup4) | By-jeeyaho_ott333 | update entry set name='Amrita Dixit Shri Ganesh Geet 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2cymuup4/version/100022',longdescription='Amrita Dixit Ganesh Geet 2018',
+        duration='175',type='1',tag='amrita dixit, lotus music, geet, ganesh bhajan, dj',category='MUSIC>HINDI>LOVE',categoryid='494',
+        updated_at='2018-11-16 17:13:30',shortdescription='Amrita Dixit Ganesh Geet 2018',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2cymuup4'
+16/11/2018 17:13:48 | SUCCESS | Save New video(0_1gg6pwrg) | By-jeeyaho_ott333 | 
+16/11/2018 17:15:26 | SUCCESS | Save New video(0_xmeaqcgt) | By-jeeyaho_ott333 | 
+16/11/2018 17:16:21 | SUCCESS | Updtate MetaData(0_1gg6pwrg) | By-jeeyaho_ott333 | update entry set name='ABCD Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_1gg6pwrg/version/100022',longdescription='how to learn abcd ',
+        duration='72',type='1',tag='kids, rhymes, story, song',category='KIDS>RHYMES',categoryid='469',
+        updated_at='2018-11-16 17:21:23',shortdescription='ABCD Song',
+        director='',producer='m kids',cast='',crew='',sub_genre='',
+        language='english',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1gg6pwrg'
+16/11/2018 17:17:32 | SUCCESS | Save New video(0_xmfd1b6w) | By-jeeyaho_ott333 | 
+16/11/2018 17:18:16 | SUCCESS | Updtate MetaData(0_xmeaqcgt) | By-jeeyaho_ott333 | update entry set name='Virtual Class  Vegitables',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xmeaqcgt/version/100022',longdescription='Virtual Class  Vegitables',
+        duration='58',type='1',tag='virtual class, song, kids, story',category='KIDS>ANIMATION',categoryid='468',
+        updated_at='2018-11-16 17:23:18',shortdescription='Virtual Class  Vegitables',
+        director='',producer='m kids',cast='',crew='',sub_genre='',
+        language='english',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xmeaqcgt'
+16/11/2018 17:21:52 | SUCCESS | Save New video(0_mvs0egny) | By-jeeyaho_ott333 | 
+16/11/2018 17:24:01 | SUCCESS | Save New video(0_ij5zkcj3) | By-jeeyaho_ott333 | 
+16/11/2018 17:24:38 | SUCCESS | Updtate MetaData(0_xmfd1b6w) | By-jeeyaho_ott333 | update entry set name='Fashion show',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xmfd1b6w/version/100022',longdescription='Fashion show',
+        duration='56',type='1',tag='fashion, lifestyle',category='LIFESTYLE>FASHION',categoryid='441',
+        updated_at='2018-11-16 17:29:40',shortdescription='fashion',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='english',pgrating='',video_status='active',custom_data=''
+        where entryid='0_xmfd1b6w'
+16/11/2018 17:25:11 | SUCCESS | Updtate MetaData(0_mvs0egny) | By-jeeyaho_ott333 | update entry set name='Pervachan in kumbh',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_mvs0egny/version/100022',longdescription='Pervachan in kumbh',
+        duration='37',type='1',tag='kunbh, pervachan',category='DEVOTIONAL>PRAVACHAN',categoryid='477',
+        updated_at='2018-11-16 17:30:12',shortdescription='pravachan in kumbh',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_mvs0egny'
+16/11/2018 17:26:22 | SUCCESS | Updtate MetaData(0_ij5zkcj3) | By-jeeyaho_ott333 | update entry set name='Hare Ram In Kumbh',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ij5zkcj3/version/100022',longdescription='Hare Ram In Kumbh',
+        duration='41',type='1',tag='kumbh, hare ram',category='DEVOTIONAL>KUMBH',categoryid='485',
+        updated_at='2018-11-16 17:31:24',shortdescription='kumbh',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ij5zkcj3'
+16/11/2018 17:31:37 | SUCCESS | Save New video(0_5vj5c4db) | By-jeeyaho_ott333 | 
+16/11/2018 17:35:28 | SUCCESS | Save New video(0_b67fkh6m) | By-jeeyaho_ott333 | 
+16/11/2018 17:37:20 | SUCCESS | Save New video(0_gaesc2iu) | By-jeeyaho_ott333 | 
+16/11/2018 17:38:44 | SUCCESS | Updtate MetaData(0_wfqaulvq) | By-jeeyaho_ott333 | update entry set name='Khesari Lal Yadav Maai Darbaar ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wfqaulvq/version/100022',longdescription='Khesari Lal Yadav Maai Darbaar ',
+        duration='226',type='1',tag='bhojpuri, music, khesari lal, dj, lotus music',category='DEVOTIONAL>NAVRATARI SPECIAL',categoryid='484',
+        updated_at='2018-11-16 17:43:46',shortdescription='Khesari Lal Yadav Maai Darbaar ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wfqaulvq'
+16/11/2018 17:40:14 | SUCCESS | Updtate MetaData(0_9skiz6dh) | By-jeeyaho_ott333 | update entry set name='Khushboo Uttam New Song 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9skiz6dh/version/100022',longdescription='Khushboo_Uttam Banal_Rahe_Senura_Suhag ',
+        duration='327',type='1',tag='bhojpuri, music, movie, dj',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-11-16 17:45:16',shortdescription='Khushboo_Uttam Banal_Rahe_Senura_Suhag ',
+        director='',producer='lotus music',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9skiz6dh'
+16/11/2018 17:41:27 | SUCCESS | Updtate MetaData(0_19nqyhwm) | By-jeeyaho_ott333 | update entry set name='Shri Krishna Bhajan 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_19nqyhwm/version/100022',longdescription='Watch Krishna Superhit Bhojpuri bhajan .',
+        duration='300',type='1',tag='krishna, krishan, gpoal, devotional, bhajan, bhojpuri, superhit',category='DEVOTIONAL>BHAJAN',categoryid='474',
+        updated_at='2018-11-16 17:46:29',shortdescription='Letest Krishna Bhajan',
+        director='',producer='Smm Music Pvt Ltd',cast='',crew='SM Media',sub_genre='',
+        language='Bhojpuri',pgrating='',video_status='active',custom_data=''
+        where entryid='0_19nqyhwm'
+16/11/2018 17:42:15 | SUCCESS | Updtate MetaData(0_5vj5c4db) | By-jeeyaho_ott333 | update entry set name='Dadimaa Ki Kahaniya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5vj5c4db/version/100012',longdescription='Dadimaa Ki Kahaniya ',
+        duration='1276',type='1',tag='kids, story',category='KIDS>STORY TELLING',categoryid='470',
+        updated_at='2018-11-16 17:47:17',shortdescription='Dadimaa Ki Kahaniya ',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5vj5c4db'
+16/11/2018 18:24:05 | SUCCESS | Save New video(0_li09gnq2) | By-jeeyaho_ott333 | 
+16/11/2018 18:25:31 | SUCCESS | Updtate MetaData(0_b67fkh6m) | By-jeeyaho_ott333 | update entry set name='Child Should Learn by Age 10',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_b67fkh6m/version/100022',longdescription='10 Important Things Your Child Should Learn by Age 10.mp4',
+        duration='652',type='1',tag='kids, rhymes',category='KIDS>HOW TO EDUCATION',categoryid='472',
+        updated_at='2018-11-16 18:30:33',shortdescription='Child Should Learn by Age 10',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='english',pgrating='',video_status='active',custom_data=''
+        where entryid='0_b67fkh6m'
+16/11/2018 18:26:12 | SUCCESS | Updtate MetaData(0_gaesc2iu) | By-jeeyaho_ott333 | update entry set name='Balanced Diet kids',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_gaesc2iu/version/100012',longdescription='Balanced Diet kids',
+        duration='340',type='1',tag='kids, rhymes',category='KIDS>HOW TO EDUCATION',categoryid='472',
+        updated_at='2018-11-16 18:31:14',shortdescription='Balanced Diet kids',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='english',pgrating='',video_status='active',custom_data=''
+        where entryid='0_gaesc2iu'
+16/11/2018 18:27:16 | SUCCESS | Save New video(0_b6bk04p4) | By-jeeyaho_ott333 | 
+16/11/2018 18:37:02 | SUCCESS | Save New video(0_3xem3t3v) | By-jeeyaho_ott333 | 
+16/11/2018 18:37:49 | SUCCESS | Updtate MetaData(0_li09gnq2) | By-jeeyaho_ott333 | update entry set name='The Chintu Show',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_li09gnq2/version/100022',longdescription='The Chintu Show',
+        duration='434',type='1',tag='kids, animation',category='KIDS>PUPPET',categoryid='471',
+        updated_at='2018-11-16 18:42:51',shortdescription='puppet show',
+        director='',producer='sm media',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_li09gnq2'
+16/11/2018 18:38:39 | SUCCESS | Updtate MetaData(0_b6bk04p4) | By-jeeyaho_ott333 | update entry set name='The Chintu Show 2',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_b6bk04p4/version/100022',longdescription='The Chintu Show 2',
+        duration='434',type='1',tag='kids, animation',category='KIDS>PUPPET',categoryid='471',
+        updated_at='2018-11-16 18:43:41',shortdescription='puppet show',
+        director='',producer='sm media',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_b6bk04p4'
+16/11/2018 18:43:09 | SUCCESS | Save New video(0_cb4s7qmx) | By-jeeyaho_ott333 | 
+16/11/2018 18:44:56 | SUCCESS | Save New video(0_kkrz3ruk) | By-jeeyaho_ott333 | 
+16/11/2018 18:47:55 | SUCCESS | Save New video(0_p04yx8jf) | By-jeeyaho_ott333 | 
+16/11/2018 19:02:05 | SUCCESS | Save New video(0_skna04r3) | By-jeeyaho_ott333 | 
+16/11/2018 19:02:55 | SUCCESS | Updtate MetaData(0_3xem3t3v) | By-jeeyaho_ott333 | update entry set name='Griha pravesh ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_3xem3t3v/version/100022',longdescription='Griha pravesh ',
+        duration='526',type='1',tag='drama, horrer',category='MOVIES>HINDI>HORROR',categoryid='448',
+        updated_at='2018-11-16 19:07:57',shortdescription='horror movie',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_3xem3t3v'
+16/11/2018 19:03:48 | SUCCESS | Updtate MetaData(0_cb4s7qmx) | By-jeeyaho_ott333 | update entry set name='I Respect You ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_cb4s7qmx/version/100012',longdescription='I Respect You ',
+        duration='1089',type='1',tag='film, movie, sm media, i respect you',category='MOVIES>HINDI>ROMANCE',categoryid='450',
+        updated_at='2018-11-16 19:08:50',shortdescription='most romantic movie',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_cb4s7qmx'
+16/11/2018 19:04:51 | SUCCESS | Save New video(0_lebbm18a) | By-jeeyaho_ott333 | 
+16/11/2018 19:05:43 | SUCCESS | Updtate MetaData(0_kkrz3ruk) | By-jeeyaho_ott333 | update entry set name='Useful Donation',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_kkrz3ruk/version/100022',longdescription='USEFUL DONATION',
+        duration='329',type='1',tag='uesefull donation, film, short film',category='MOVIES>HINDI>SHORT FILMS',categoryid='451',
+        updated_at='2018-11-16 19:10:44',shortdescription='USEFUL DONATION',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_kkrz3ruk'
+16/11/2018 19:06:42 | SUCCESS | Save New video(0_m9ae90dq) | By-jeeyaho_ott333 | 
+16/11/2018 19:08:36 | SUCCESS | Save New video(0_2kib69s4) | By-jeeyaho_ott333 | 
+16/11/2018 19:09:53 | SUCCESS | Save New video(0_wnegi3ne) | By-jeeyaho_ott333 | 
+16/11/2018 19:10:52 | SUCCESS | Save New video(0_hflkc4v7) | By-jeeyaho_ott333 | 
+16/11/2018 19:12:06 | SUCCESS | Save New video(0_ohy8m5pm) | By-jeeyaho_ott333 | 
+16/11/2018 19:13:17 | SUCCESS | Save New video(0_64g3slsf) | By-jeeyaho_ott333 | 
+16/11/2018 19:14:06 | SUCCESS | Updtate MetaData(0_p04yx8jf) | By-jeeyaho_ott333 | update entry set name='Vastu ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_p04yx8jf/version/100012',longdescription='vastu a thirller movie',
+        duration='1348',type='1',tag='vastu, sm media, film, short film, movie',category='MOVIES>HINDI>THRILLER',categoryid='447',
+        updated_at='2018-11-16 19:19:08',shortdescription='most thiller movie vaastu',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_p04yx8jf'
+16/11/2018 19:30:00 | SUCCESS | Save New video(0_0rxc2o8y) | By-jeeyaho_ott333 | 
+16/11/2018 19:33:35 | SUCCESS | Save New video(0_sr2hlwi0) | By-jeeyaho_ott333 | 
+16/11/2018 19:34:30 | SUCCESS | Updtate MetaData(0_skna04r3) | By-jeeyaho_ott333 | update entry set name='Laxmi Mata Chalisha',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_skna04r3/version/100012',longdescription='Laxmi Mata Chalisha',
+        duration='288',type='1',tag='laxmi mata chalisa, bhajan, aarti, sm media',category='DEVOTIONAL>CHAALISAA',categoryid='476',
+        updated_at='2018-11-16 19:39:32',shortdescription='Laxmi Mata Chalisha',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_skna04r3'
+16/11/2018 19:35:24 | SUCCESS | Updtate MetaData(0_lebbm18a) | By-jeeyaho_ott333 | update entry set name='Lord Vishnu Sloka',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lebbm18a/version/100022',longdescription='Lord Vishnu Sloka',
+        duration='169',type='1',tag='sloka, load vishnu, aarti, mantra, chalisa, sm media',category='DEVOTIONAL>MANTRA',categoryid='478',
+        updated_at='2018-11-16 19:40:26',shortdescription='Lord Vishnu Sloka',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lebbm18a'
+16/11/2018 19:36:57 | SUCCESS | Save New video(0_7epzz62s) | By-jeeyaho_ott333 | 
+16/11/2018 19:37:44 | SUCCESS | Updtate MetaData(0_m9ae90dq) | By-jeeyaho_ott333 | update entry set name='Ramayan Ke Paawan Rang ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_m9ae90dq/version/100022',longdescription='Ramayan Ke Paawan Rang ',
+        duration='244',type='1',tag='ramayan, ram, temple, aarti, chalisa',category='DEVOTIONAL>RAMAYAN',categoryid='482',
+        updated_at='2018-11-16 19:42:46',shortdescription='Ramayan Ke Paawan Rang ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_m9ae90dq'
+16/11/2018 19:38:57 | SUCCESS | Save New video(0_99deerrv) | By-jeeyaho_ott333 | 
+16/11/2018 19:42:29 | SUCCESS | Save New video(0_aqgks70h) | By-jeeyaho_ott333 | 
+16/11/2018 19:43:31 | SUCCESS | Updtate MetaData(0_2kib69s4) | By-jeeyaho_ott333 | update entry set name='Shree Ganesh Aarti',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2kib69s4/version/100022',longdescription='SHREE GANESH AARTI',
+        duration='241',type='1',tag='ganesh, aarti, katha, chalisa, sm media',category='DEVOTIONAL>AARTI',categoryid='475',
+        updated_at='2018-11-16 19:48:33',shortdescription='Shree Ganesh Aarti',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2kib69s4'
+16/11/2018 19:50:17 | SUCCESS | Save New video(0_if552kep) | By-jeeyaho_ott333 | 
+16/11/2018 19:51:11 | SUCCESS | Updtate MetaData(0_hflkc4v7) | By-jeeyaho_ott333 | update entry set name='Santoshi Maa Chalisa',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hflkc4v7/version/100012',longdescription='Santoshi Maa Chalisa',
+        duration='547',type='1',tag='chalisa, aarti, sm media, song',category='DEVOTIONAL>CHAALISAA',categoryid='476',
+        updated_at='2018-11-16 19:56:12',shortdescription='Santoshi Maa Chalisa',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hflkc4v7'
+16/11/2018 20:11:50 | SUCCESS | Updtate MetaData(0_ohy8m5pm) | By-jeeyaho_ott333 | update entry set name=' Diwali Pooja Vidhi ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ohy8m5pm/version/100012',longdescription=' Diwali Pooja Vidhi ',
+        duration='251',type='1',tag='pooja vidhi, diwali, aarti, chalisa, sm media',category='DEVOTIONAL>POOJA VIDHI',categoryid='481',
+        updated_at='2018-11-16 20:16:52',shortdescription='Swasti Vachan Diwali Pooja Vidhi ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ohy8m5pm'
+16/11/2018 20:26:25 | SUCCESS | Updtate MetaData(0_64g3slsf) | By-jeeyaho_ott333 | update entry set name='Karwa Chauth Vrat Katha ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_64g3slsf/version/100022',longdescription='Karwa Chauth Vrat Katha ',
+        duration='364',type='1',tag='karva chayth, vrath, katha, aarti, chalisa, sm media',category='DEVOTIONAL>KATHAA',categoryid='479',
+        updated_at='2018-11-16 20:31:27',shortdescription='Karwa Chauth Vrat Katha ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_64g3slsf'
+16/11/2018 20:27:21 | SUCCESS | Updtate MetaData(0_wnegi3ne) | By-jeeyaho_ott333 | update entry set name=' Gayatri Mantra',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wnegi3ne/version/100022',longdescription=' Gayatri Mantra the most powerful mantra in world',
+        duration='919',type='1',tag='mantra, aarti, chalisa, katha, sm media',category='DEVOTIONAL>MANTRA',categoryid='478',
+        updated_at='2018-11-16 20:32:23',shortdescription='Gayatri Mantra the most powerful mantra in world',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wnegi3ne'
+16/11/2018 20:41:28 | SUCCESS | Save New video(0_4dbgwcyc) | By-jeeyaho_ott333 | 
+16/11/2018 20:42:08 | SUCCESS | Updtate MetaData(0_0rxc2o8y) | By-jeeyaho_ott333 | update entry set name='Geeta Saar',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_0rxc2o8y/version/100022',longdescription='Geeta Saar',
+        duration='776',type='1',tag='geeta saar, aarti, chalisa',category='DEVOTIONAL>GEETA SAAR',categoryid='480',
+        updated_at='2018-11-16 20:47:10',shortdescription='Geeta Saar',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0rxc2o8y'
+16/11/2018 20:45:32 | SUCCESS | Save New video(0_tgud3zsi) | By-jeeyaho_ott333 | 
+16/11/2018 20:48:43 | SUCCESS | Delete Video entry(0_tgud3zsi) | By-jeeyaho_ott333 | 
+16/11/2018 17:02:15 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/11/2018 22:35:06 | SUCCESS | Updtate MetaData(0_sr2hlwi0) | By-jeeyaho_ott333 | update entry set name='Bhagwat Katha',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_sr2hlwi0/version/100022',longdescription='Bhagwat katha a right way of life',
+        duration='1735',type='1',tag='katha, aarti, chalisa',category='DEVOTIONAL>KATHAA',categoryid='479',
+        updated_at='2018-11-16 22:40:08',shortdescription='Bhagwat Katha',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_sr2hlwi0'
+16/11/2018 22:36:43 | SUCCESS | Updtate MetaData(0_7epzz62s) | By-jeeyaho_ott333 | update entry set name='Merry Christmas Kids song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7epzz62s/version/100022',longdescription='Merry Christmas Kids song ',
+        duration='114',type='1',tag='kids, merry christmas, rhymes',category='KIDS>RHYMES',categoryid='469',
+        updated_at='2018-11-16 22:41:45',shortdescription='Merry Christmas Kids song ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7epzz62s'
+16/11/2018 22:38:53 | SUCCESS | Updtate MetaData(0_99deerrv) | By-jeeyaho_ott333 | update entry set name='Merry Christmas song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_99deerrv/version/100022',longdescription='Merry Christmas song',
+        duration='119',type='1',tag='song, christmas, kids, rhymes, story',category='KIDS>RHYMES',categoryid='469',
+        updated_at='2018-11-16 22:43:55',shortdescription='Merry Christmas Kids song ',
+        director='',producer='smm music pvt ltd',cast='',crew='sm media',sub_genre='',
+        language='english',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_99deerrv'
+16/11/2018 22:39:20 | SUCCESS | Updtate MetaData(0_7epzz62s) | By-jeeyaho_ott333 | update entry set name='Merry Christmas Kids song ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7epzz62s/version/100022',longdescription='Merry Christmas Kids song ',
+        duration='114',type='1',tag='kids, merry christmas, rhymes',category='KIDS>RHYMES',categoryid='469',
+        updated_at='2018-11-16 22:44:22',shortdescription='Merry Christmas Kids song ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7epzz62s'
+16/11/2018 22:40:25 | SUCCESS | Updtate MetaData(0_aqgks70h) | By-jeeyaho_ott333 | update entry set name='acid ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_aqgks70h/version/100022',longdescription='Acid best short Film',
+        duration='409',type='1',tag='film, movie, acid, sm media',category='DRAMA SERIES>MYSTERY',categoryid='464',
+        updated_at='2018-11-16 22:45:27',shortdescription='acid the film',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_aqgks70h'
+16/11/2018 22:41:24 | SUCCESS | Updtate MetaData(0_if552kep) | By-jeeyaho_ott333 | update entry set name='Top 3 Diet Rules for Healthy Eating',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_if552kep/version/100022',longdescription='Top 3 Diet Rules for Healthy Eating',
+        duration='1013',type='1',tag='heath, diet, eating',category='LIFESTYLE>HEALTH',categoryid='437',
+        updated_at='2018-11-16 22:46:26',shortdescription='Top 3 Diet Rules for Healthy Eating',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_if552kep'
+16/11/2018 22:42:19 | SUCCESS | Updtate MetaData(0_4dbgwcyc) | By-jeeyaho_ott333 | update entry set name='Exam ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4dbgwcyc/version/100012',longdescription='Exam a short film',
+        duration='594',type='1',tag='exam, kids, story',category='DRAMA SERIES>FAMILY',categoryid='465',
+        updated_at='2018-11-16 22:47:21',shortdescription='Exam a short film',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4dbgwcyc'
+16/11/2018 22:59:08 | SUCCESS | Save New video(0_cru2025w) | By-jeeyaho_ott333 | 
+16/11/2018 23:14:32 | SUCCESS | Save New video(0_24t1588j) | By-jeeyaho_ott333 | 
+16/11/2018 23:17:15 | SUCCESS | Save New video(0_zw7gfflm) | By-jeeyaho_ott333 | 
+16/11/2018 23:18:45 | SUCCESS | Updtate MetaData(0_cru2025w) | By-jeeyaho_ott333 | update entry set name='Diet Plan To Lose Weight Fast  ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_cru2025w/version/100022',longdescription='Diet Plan To Lose Weight Fast  ',
+        duration='1049',type='1',tag='diet, lose weight, fitness',category='LIFESTYLE>DIET',categoryid='438',
+        updated_at='2018-11-16 23:23:47',shortdescription='Diet Plan To Lose Weight Fast  ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_cru2025w'
+16/11/2018 23:20:52 | SUCCESS | Updtate MetaData(0_64g3slsf) | By-jeeyaho_ott333 | update entry set name='Karwa Chauth Vrat Katha ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_64g3slsf/version/100022',longdescription='Karwa Chauth Vrat Katha ',
+        duration='364',type='1',tag='karva chayth, vrath, katha, aarti, chalisa, sm media',category='DEVOTIONAL>VRAT KATHAA',categoryid='483',
+        updated_at='2018-11-16 23:25:54',shortdescription='Karwa Chauth Vrat Katha ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_64g3slsf'
+16/11/2018 23:26:01 | SUCCESS | Save New video(0_59ztvskk) | By-jeeyaho_ott333 | 
+16/11/2018 23:26:43 | SUCCESS | Updtate MetaData(0_24t1588j) | By-jeeyaho_ott333 | update entry set name='Chai with Culayam With Aahul Baba  ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_24t1588j/version/100022',longdescription='Chai with Culayam With Aahul Baba  ',
+        duration='237',type='1',tag='comady, sm media, chai, chulayam, drama',category='DRAMA SERIES>COMEDY',categoryid='462',
+        updated_at='2018-11-16 23:31:45',shortdescription='Chai with Culayam With Aahul Baba  ',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_24t1588j'
+16/11/2018 23:27:24 | SUCCESS | Updtate MetaData(0_zw7gfflm) | By-jeeyaho_ott333 | update entry set name='Chai WIth Culayam  ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zw7gfflm/version/100022',longdescription='Chai WIth Culayam  with javed dafter',
+        duration='270',type='1',tag='chai, comady, sm media, chulayam',category='DRAMA SERIES>COMEDY',categoryid='462',
+        updated_at='2018-11-16 23:32:26',shortdescription='Chai WIth Culayam  with javed dafter',
+        director='',producer='sm media',cast='',crew='sm media',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zw7gfflm'

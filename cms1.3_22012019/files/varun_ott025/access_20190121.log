@@ -1,0 +1,16 @@
+21/01/2019 07:05:31 | SUCCESS | login-(varun) | By-varun_ott025 | 
+21/01/2019 09:58:05 | SUCCESS | login-(varun) | By-varun_ott025 | 
+21/01/2019 15:45:05 | SUCCESS | Save Plan(0_jj4fi9go,1) | By-varun_ott025 | 
+21/01/2019 15:49:40 | SUCCESS | Save Plan(0_5tt5n1nx,1) | By-varun_ott025 | 
+21/01/2019 10:44:48 | SUCCESS | login-(varun) | By-varun_ott025 | 
+21/01/2019 10:54:47 | SUCCESS | login-(varun) | By-varun_ott025 | 
+21/01/2019 10:57:23 | SUCCESS | login-(varun) | By-varun_ott025 | 
+21/01/2019 16:28:14 | ERROR-SQL | plan not Created(planforCategory) | By-varun_ott025 | insert into plandetail(planID,planName,pValue,pduration,pdescription,plan_added_date,plan_update_date,plan_created_by,planuniquename,currency,plan_used_for)
+        values('p700','planforCategory','','100','plan for catregory',NOW(),NOW(),'86','p','','w')
+21/01/2019 16:31:58 | ERROR-SQL | plan not Created(planforCategory) | By-varun_ott025 | insert into plandetail(planID,planName,pValue,pduration,pdescription,plan_added_date,plan_update_date,plan_created_by,planuniquename,currency,plan_used_for)
+        values('p792','planforCategory','','15','plan for category',NOW(),NOW(),'86','p','{"IN":"100","US":"100"}','w')
+21/01/2019 16:32:01 | ERROR-SQL | plan not Created(planforCategory) | By-varun_ott025 | insert into plandetail(planID,planName,pValue,pduration,pdescription,plan_added_date,plan_update_date,plan_created_by,planuniquename,currency,plan_used_for)
+        values('p621','planforCategory','','15','plan for category',NOW(),NOW(),'86','p','{"IN":"100","US":"100"}','w')
+21/01/2019 16:34:38 | SUCCESS | Add New Plan (planforCategory) | By-varun_ott025 | 
+21/01/2019 16:37:21 | SUCCESS | add plan in category(548-p531) | By-varun_ott025 | 
+21/01/2019 16:38:27 | SUCCESS | add category premium/free (f-548-0) | By-varun_ott025 | 

@@ -1,0 +1,64 @@
+07/05/2018 04:51:20 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 11:35:20 | SUCCESS | Add New Dashboard user (fdfdfdfdfdfdfdfdfdfdfdfdfdrerer) | By-PowerSmart_ott182 | 
+07/05/2018 11:37:11 | SUCCESS | Add New Dashboard user (afdfdfdfdfdfdfdfdfdfdfdfdfdrerer) | By-PowerSmart_ott182 | 
+07/05/2018 06:09:29 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 11:52:42 | SUCCESS | Add New Dashboard user (abcdefghijklmnopqrstuvwxyzabcdef) | By-PowerSmart_ott182 | 
+07/05/2018 06:36:02 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 12:06:24 | SUCCESS | Add New Footer Content(cms) | By-PowerSmart_ott182 | 
+07/05/2018 06:44:06 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 06:50:51 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 12:20:57 | SUCCESS | Bulk Add Category(0_yocjjb3l,0_pduzi2tn,328) | By-PowerSmart_ott182 | update entry set category='ENTERTAINMENT', categoryid='328' where entryid='0_pduzi2tn' 
+07/05/2018 12:21:33 | SUCCESS | Bulk Add Category(0_yocjjb3l,0_pduzi2tn,328,324) | By-PowerSmart_ott182 | update entry set category='ENTERTAINMENT,WORLD', categoryid='328,324' where entryid='0_pduzi2tn' 
+07/05/2018 06:55:27 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 13:51:07 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+07/05/2018 08:33:35 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 14:05:04 | SUCCESS | Save New video(0_vg9oqb9e) | By-PowerSmart_ott182 | 
+07/05/2018 14:07:08 | SUCCESS | Updtate MetaData(0_lati8lel) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_lati8lel','Sandcastle  Kids Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_lati8lel/version/100002','animation story','117','1',
+        '','INDIA','325','2','2018-05-07 14:05:34','','','',
+         '','','','','','active','','')
+07/05/2018 14:16:14 | SUCCESS | Updtate MetaData(0_bfxfchbk) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_bfxfchbk','Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_bfxfchbk/version/100002','animation story','136','1',
+        '','','','2','2018-05-07 14:05:34','','','',
+         '','','','','','inactive','','')
+07/05/2018 14:24:55 | SUCCESS | Updtate MetaData(0_e0f3j0iu) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_e0f3j0iu','Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_e0f3j0iu/version/100002','animation story','136','1',
+        '','SCIENCE','333','2','2018-05-07 14:23:36','','','',
+         '','','','','','inactive','','')
+07/05/2018 14:25:21 | SUCCESS | Updtate MetaData(0_4g9sa371) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_4g9sa371','Sandcastle  Kids Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_4g9sa371/version/100002','animation story','117','1',
+        '','HEALTH','332','2','2018-05-07 14:23:36','','','',
+         '','','','','','inactive','','')
+07/05/2018 14:30:41 | SUCCESS | Bulk Add Category(0_e0f3j0iu,0_4g9sa371,324,328) | By-PowerSmart_ott182 | update entry set category='WORLD,ENTERTAINMENT', categoryid='324,328' where entryid='0_4g9sa371' 
+07/05/2018 09:30:53 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 15:30:12 | SUCCESS | Add New Footer Content(cms) | By-PowerSmart_ott182 | 
+07/05/2018 15:30:32 | SUCCESS | Delete Footer Content (3) | By-PowerSmart_ott182 | DELETE FROM dashbord_footer WHERE f_id='3'
+07/05/2018 15:31:01 | SUCCESS | update Footer Content Detail(cmsuiuiuuuiuiuyiuiuiuiuiuiui) | By-PowerSmart_ott182 | 
+07/05/2018 15:31:47 | SUCCESS | update Footer Content Detail(cmsuiuiuuuiuiuyiuiuiuiuiuiuiyuiuiyyuiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyooooooooooooooooooooooooooooooooooooooooo) | By-PowerSmart_ott182 | 
+07/05/2018 15:33:43 | SUCCESS | Header Menu inactive(HeaderID:48,Status:inactive) | By-PowerSmart_ott182 | 
+07/05/2018 15:34:24 | SUCCESS | Header Menu active(HeaderID:48,Status:active) | By-PowerSmart_ott182 | 
+07/05/2018 15:43:43 | SUCCESS | Save Thumbnail(0_l8qnop1f) | By-PowerSmart_ott182 | 
+07/05/2018 15:57:24 | SUCCESS | Delete Social Config  (7) | By-PowerSmart_ott182 | DELETE FROM configuration_setup WHERE conf_id='7'
+07/05/2018 15:57:58 | SUCCESS | Delete Social Config  (6) | By-PowerSmart_ott182 | DELETE FROM configuration_setup WHERE conf_id='6'
+07/05/2018 15:58:11 | SUCCESS | Delete Social Config  (5) | By-PowerSmart_ott182 | DELETE FROM configuration_setup WHERE conf_id='5'
+07/05/2018 10:28:54 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 10:32:17 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 16:03:05 | SUCCESS | Delete Social Config  (8) | By-PowerSmart_ott182 | DELETE FROM configuration_setup WHERE conf_id='8'
+07/05/2018 16:04:46 | SUCCESS | Delete Social Config  (10) | By-PowerSmart_ott182 | DELETE FROM configuration_setup WHERE conf_id='10'
+07/05/2018 16:27:06 | SUCCESS | update Footer Content Detail(cms) | By-PowerSmart_ott182 | 
+07/05/2018 16:29:26 | SUCCESS | update Footer Content Detail(VIPNEWS) | By-PowerSmart_ott182 | 
+07/05/2018 16:34:04 | SUCCESS | Add New Footer Content(VIPNews) | By-PowerSmart_ott182 | 
+07/05/2018 11:06:57 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+07/05/2018 17:22:57 | SUCCESS | Register User active(UserID:146,Status:active) | By-PowerSmart_ott182 | 
+07/05/2018 17:23:50 | SUCCESS | Register User inactive(UserID:210,Status:inactive) | By-PowerSmart_ott182 | 
+07/05/2018 17:23:53 | SUCCESS | Register User active(UserID:210,Status:active) | By-PowerSmart_ott182 | 
+07/05/2018 12:12:20 | SUCCESS | login-(ms) | By-ms_ott182 | 
+07/05/2018 12:20:39 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 

@@ -1,0 +1,226 @@
+04/01/2019 04:24:07 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+04/01/2019 04:24:44 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+04/01/2019 04:35:14 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+04/01/2019 10:20:32 | SUCCESS | Updtate MetaData(0_8bp5gpvf) | By-Geetanjali_ott488 | update entry set name='The new BMW R 1250 R',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8bp5gpvf/version/100002',longdescription='For decades, the boxer engine in the BMW Motorrad R, RS and\r\nGS Adventure models has stood for distinctive, powerful and reliable propulsion when it comes to dynamic riding along country roads, sporty touring or enjoying long-distance trips and motorcycling adventures to the full. For more than 25 years, BMW Motorrad has used 4-valve technology in this connection, combined with electronic fuel injection and closed-loop catalytic converter technology in order to achieve the best possible power and torque delivery, efficiency and environmental compatibility.\r\n\r\nFurther advanced boxer engine with BMW ShiftCam Technology for an additional increase in power across the entire engine speed range, reduced emission and fuel consumption levels, optimised running smoothness and refinement.\r\nWith the extensively further advanced boxer engine, the new R 1250 R, R 1250 GS and R 1250 GS Adventure not only achieve a whole new level of power and torque. It was also possible to significantly optimise refinement and running smoothness – especially within the lower engine speed range. What is more, the new engine offers improved emission and fuel consumption levels as well as a particularly satisfying sound. For this purpose, BMW ShiftCam Technology has been used for the first time in the serial production of BMW Motorrad engines: this enables variation of the valve timings and valve stroke on the intake side. In addition, the intake camshafts are designed for asynchronous opening of the two intake valves, resulting in enhanced swirl of the fresh, incoming mixture and therefore more effective combustion. Other technical changes to the engine relate to the camshaft drive – now taken care of by a toothed chain (previously a roller chain) – an optimised oil supply, twin-jet injection valves and a new exhaust system.',
+        duration='40',type='1',tag='bmw, bmw r 1250 r, r 1250 r, bmw r1250r, new bmw r 1250 r, motorcycles, automototv, bikes, bike, cruiser, sports, speed, ride, track, riding, motorbikes, powerfull, bikelife, biker, motorcycle',category='ON DEMAND>AUTOMOBILE>DIRT BIKES',categoryid='516',
+        updated_at='2019-01-04 10:26:11',shortdescription='For decades, the boxer engine in the BMW Motorrad R, RS and GS Adventure models has stood for distinctive, powerful and reliable propulsion when it comes to dynamic riding along country roads, sporty touring or enjoying long-distance trips and motorcycling adventures to the full.',
+        director='',producer='',cast='',crew='',sub_genre='Bike Riding',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_8bp5gpvf'
+04/01/2019 10:24:25 | SUCCESS | Updtate MetaData(0_3tqywrxz) | By-Geetanjali_ott488 | update entry set name='The new BMW C 400 GT',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3tqywrxz/version/100002',longdescription='The new BMW C 400 GT. The Gran Turismo among the mid-size scooters for excellent comfort and dynamic performance as well as lots of riding fun.\r\n\r\nBMW Motorrad established its new product category in the area of urban mobility in 2011 with the debut of the C 600 Sport and the C 650 GT as premium vehicles for the maxi scooter segment. These were then followed by the C 400 X, which was first presented in autumn 2017 – a dynamically oriented premium vehicle for the mid-size scooter segment. Now BMW Motorrad introduces the BMW C 400 GT, the Gran Turismo variant of the mid-size scooter, geared towards further increased comfort and enhanced touring capability. Whether riding into the city centre, travelling to the office or enjoying a tour after work or at the weekend – the new C 400 GT is the perfect partner on which to enjoy free-time riding to the full: not just as alone but with a passenger, too.',
+        duration='32',type='1',tag='bmw, bmw c 400 gt, c 400 gt, bmw c400gt, new bmw c 400 gt, motorcycles, automototv, bikes, bike, cruiser, sports, speed, ride, track, riding, motorbikes, powerfull, bikelife, biker, motorcycle',category='ON DEMAND>AUTOMOBILE>DIRT BIKES',categoryid='516',
+        updated_at='2019-01-04 10:30:04',shortdescription='The new BMW C 400 GT. The Gran Turismo among the mid-size scooters for excellent comfort and dynamic performance as well as lots of riding fun.',
+        director='',producer='',cast='',crew='',sub_genre='Sports Bike',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_3tqywrxz'
+04/01/2019 10:24:41 | SUCCESS | Bulk Add Content Viewer(Array,PG13) | By-Geetanjali_ott488 | 
+04/01/2019 10:40:58 | SUCCESS | Delete Video entry(0_bfrzl2id) | By-Geetanjali_ott488 | 
+04/01/2019 10:48:00 | SUCCESS | Updtate MetaData(0_73t17bd8) | By-Geetanjali_ott488 | update entry set name='SEMA Show Brings the Automotive Industry to Las Vegas - Arriving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_73t17bd8/version/100002',longdescription='The SEMA Show at the Las Vegas Convention Center represents the $43 billion automotive aftermarket. It is the only trade show that brings together every segment of the automotive industry, from hot rods and off-roads, to mobile electronics and collision repair. With more than 2,400 exhibiting companies and attendees from all over the world, the SEMA Show is where the hottest, newest automotive products debut. To wrap up the show was SEMA Cruise and SEMA Ignited...the official SEMA Show afterparties where a parade of vehicles for all to see took place just outside the Las Vegas Convention Center, while the Top 12 of the SEMA \"Battle of the Builders\" showed off their hot rods to conventioneers who also enjoyed music, entertainment and food. ',
+        duration='237',type='1',tag='sema, sema show, automotive industry, las vegas, auto show, motor show, 2018, arriving, las vegas convention center, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 10:53:39',shortdescription='The SEMA Show at the Las Vegas Convention Center represents the $43 billion automotive aftermarket. It is the only trade show that brings together every segment of the automotive industry, from hot rods and off-roads, to mobile electronics and collision repair.',
+        director='',producer='',cast='',crew='',sub_genre='Event',
+        language='English',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_73t17bd8'
+04/01/2019 10:52:11 | SUCCESS | Delete Video entry(0_tajowztb) | By-Geetanjali_ott488 | 
+04/01/2019 05:22:19 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+04/01/2019 11:08:06 | SUCCESS | Updtate MetaData(0_zc6h1j7b) | By-Geetanjali_ott488 | update entry set name='Jaguar I-PACE eTROPHY Completes Final Pre-Season Test - Rockingham Motor Speedway',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_zc6h1j7b/version/100002',longdescription='Pre-season testing for the Jaguar I-PACE eTROPHY championship took place this week at Rockingham, Europe’s fastest racing circuit. Previously announced entrants Katherine Legge, Bryan Sellers, Cacá Bueno, Sérgio Jimenez and Simon Evans were joined by confirmed multi-car entrants from Saudi Arabia, China and Germany, who are due to announce their team and driver details in November. British model and racing enthusiast David Gandy also attended the test and drove the Jaguar I-PACE eTROPHY racecar. Each round will feature a VIP car driven by famous faces from the world of motorsport and beyond.',
+        duration='75',type='1',tag='jaguar, jaguar i-pace, jaguar i-pace etrophy, i-pace, i-pace etrophy, jaguar etrophy, final pre-season test, pre-season test, racing, rockingham motor speedway, rockingham, speedway, automototv, race, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motorsport, sport, racer, auto',category='ON DEMAND>AUTOMOBILE>RACING',categoryid='197',
+        updated_at='2019-01-04 11:13:46',shortdescription='Pre-season testing for the Jaguar I-PACE eTROPHY championship took place this week at Rockingham, Europe’s fastest racing circuit. ',
+        director='',producer='',cast='',crew='',sub_genre='Racing Car',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zc6h1j7b'
+04/01/2019 11:11:17 | SUCCESS | Updtate MetaData(0_dsc26ysx) | By-Geetanjali_ott488 | update entry set name='The new Porsche 911 - a testing programme for the new generation',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_dsc26ysx/version/100002',longdescription='The home straight for the new Porsche 911: the eighth generation of the sports car classic will come to European market at the beginning of 2019. In advance of this, the prototypes are revving up their engines again, to complete the final testing programme around the globe – putting the new sports cars under a great deal of stress. They are shuttling between climate zones with temperature differences of up to 85 degrees Celsius; sprinting across elevation changes spanning more than four kilometres; enduring traffic jams in major cities and setting new records on the racetracks. After all of this, every component of the car must function just as reliably as it did at the outset.',
+        duration='57',type='1',tag='porsche, porsche 911, new porsche 911, testing programme, new generation, automototv, luxury, cars, comfort, expensive, smooth, royalty, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor, auto, interior, exterior, design, color',category='ON DEMAND>AUTOMOBILE>LUXURY CARS',categoryid='206',
+        updated_at='2019-01-04 11:16:57',shortdescription='The home straight for the new Porsche 911: the eighth generation of the sports car classic will come to European market at the beginning of 2019. ',
+        director='',producer='',cast='',crew='',sub_genre='Sports Car',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dsc26ysx'
+04/01/2019 11:16:46 | SUCCESS | Updtate MetaData(0_v6pstg2y) | By-Geetanjali_ott488 | update entry set name='The Ferrari Finali Mondiali 2018',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_v6pstg2y/version/100002',longdescription='More than 30,000 people flocked to the Autodromo Nazionale di Monza for the final day of Ferrari Finali Mondiali, where the world titles of the four classes of the Ferrari Challenge were assigned and a great show staged involving almost 100 Prancing Horse cars. More than 50,000 people attended the circuit over the four days of the event despite the rain that disrupted the first races of the weekend.',
+        duration='86',type='1',tag='ferrari, ferrari finali mondiali, 2018, autodromo nazionale di monza, ferrari challenge, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:22:26',shortdescription='More than 30,000 people flocked to the Autodromo Nazionale di Monza for the final day of Ferrari Finali Mondiali, where the world titles of the four classes of the Ferrari Challenge were assigned and a great show staged involving almost 100 Prancing Horse cars. ',
+        director='',producer='',cast='',crew='',sub_genre='Racing Event',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_v6pstg2y'
+04/01/2019 11:20:28 | SUCCESS | Updtate MetaData(0_m8i19bgx) | By-Ravindra_ott488 | update entry set name='Porsche now able to test virtual prototypes on the Nürburgring',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_m8i19bgx/version/100002',longdescription='Full speed into the future: After Porsche AG Supervisory Board approved series production of the Taycan Cross Turismo on 18 October, the development process has been taken up a gear.\r\n\r\nThe Cross Turismo will be Porsche\'s second electric-only vehicle after the Taycan, which is scheduled to launch at the end of 2019. The brand\'s engineers are using the most cutting-edge digital development methods, employing something known as virtual prototypes. These models make sure that a number of systems and components can be tested in a virtual environment at an early stage in the process. Extensive tests can also check these components in conjunction with other systems, even before any actual prototypes have been built. As a result, the development process for the new Taycan Cross Turismo will be quicker and more efficient. The virtual prototypes have completed more than ten million digital kilometres in total.',
+        duration='159',type='1',tag='porsche, test, virtual prototypes, nürburgring, automototv, motor, vehicle, automobile, road, track, trend, technology, travel, engine, system, modern, model, auto, moto, tv',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:26:08',shortdescription='Full speed into the future: After Porsche AG Supervisory Board approved series production of the Taycan Cross Turismo on 18 October, the development process has been taken up a gear.',
+        director='',producer='',cast='',crew='',sub_genre='Sport Car',
+        language='',pgrating='G',video_status='inactive',custom_data=''
+        where entryid='0_m8i19bgx'
+04/01/2019 11:27:23 | SUCCESS | Updtate MetaData(0_1dvfca3r) | By-Geetanjali_ott488 | update entry set name='Mazda’s new SKYACTIV-X engine',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_1dvfca3r/version/100002',longdescription='The story behind the SkyActiv-X engine is the so-called Spark Controlled Compression Ignition. It’s mission is to balance performance and economy in not just sports cars, but an everyday compact hatchback like the Mazda 3. That means it also has to operate smoothly so the driver doesn’t notice what the tech under the hood is doing to achieve that balance. Gasoline engines have spark plugs to ignite the air and fuel mixture to combust and make the engine operate. Diesels use compression ignition, which forces air and fuel to combust without a spark, improving efficiency but resulting in higher emissions. And compression ignition engines also suffer in terms of refinement compared to spark ignition cars, Mazda engineers say, which they think would turn off prospective drivers who aren’t as swayed by fuel economy claims as others.',
+        duration='182',type='1',tag='mazda, mazda skyactiv-x, mazda skyactiv-x engine, engine, skyactiv-x engine, skyactiv-x, automototv, mechanical, workshop, work, shop, pain, tecnology, assemble, manifacture',category='ON DEMAND>AUTOMOBILE>MECHANICAL BOOSTER',categoryid='515',
+        updated_at='2019-01-04 11:33:03',shortdescription='The story behind the SkyActiv-X engine is the so-called Spark Controlled Compression Ignition. It’s mission is to balance performance and economy in not just sports cars, but an everyday compact hatchback like the Mazda 3. ',
+        director='',producer='',cast='',crew='',sub_genre='Engine',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1dvfca3r'
+04/01/2019 11:29:15 | SUCCESS | Updtate MetaData(0_8lgae25b) | By-Ravindra_ott488 | update entry set name='Collaboration project between Mapbox and Porsche on future navigation',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8lgae25b/version/100002',longdescription='Porsche shows at the startup conference Slush in Helsinki results of a collaboration project on the future of navigation.\r\n\r\nIt\'s about a human machine interface that is efficiently designed for drivers, navigating the curves and scenery of the worlds most thrilling drives. Porsche embodies the emotion of driving. Speed, performance, and perfection belong to the core of the brand - in regard to every detail of the car and the experience. In order to match navigation with the sportscar of the future, Porsche has been working on a collaboration project with Mapbox, an open source mapping platform for custom designed maps. In a period of only a few weeks, the designers from Porsche and Mapbox have been able to show in a prototype what could be possible for the future.\r\nless\r\n',
+        duration='152',type='1',tag='porsche, mapbox, collaboration project, future navigation, navigation, automototv, motor, vehicle, automobile, road, track, trend, technology, travel, engine, system, modern, model, auto, moto, tv',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:34:55',shortdescription='Porsche shows at the startup conference Slush in Helsinki results of a collaboration project on the future of navigation. It\'s about a human machine interface that is efficiently designed for drivers, navigating the curves and scenery of the worlds most thrilling drives.',
+        director='',producer='',cast='',crew='',sub_genre='Car features',
+        language='English',pgrating='G',video_status='inactive',custom_data=''
+        where entryid='0_8lgae25b'
+04/01/2019 11:34:19 | SUCCESS | Updtate MetaData(0_p8in2c8q) | By-Geetanjali_ott488 | update entry set name='Audi expands Traffic Light Information to Washington, D.C.',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_p8in2c8q/version/100002',longdescription='Audi of America announced that more than 600 intersections in the District of Columbia support the “time-to-green” feature of Traffic Light Information. “This initiative represents the kind of innovation that is critical for us to advance the traffic safety goals of Vision Zero,” said Mayor Bowser. “We look forward to building on this, and similar partnerships, as we continue to build a safer, stronger, and smarter D.C.” In 2016, Traffic Light Information was launched in Las Vegas, Nevada. Audi, in collaboration with Traffic Technology Services (TTS), has brought the service to six other cities including areas of Dallas and Houston, Palo Alto and Arcadia, California, Portland, Oregon and Denver. With the addition of Washington, more than 1,600 intersections across the U.S. support Traffic Light Information.',
+        duration='35',type='1',tag='audi, expand, traffic light information, washington, d.c., automototv, luxury, cars, comfort, expensive, smooth, royalty, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor, auto, interior, exterior, design, color',category='ON DEMAND>AUTOMOBILE>LUXURY CARS',categoryid='206',
+        updated_at='2019-01-04 11:39:59',shortdescription='Audi of America announced that more than 600 intersections in the District of Columbia support the “time-to-green” feature of Traffic Light Information.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_p8in2c8q'
+04/01/2019 11:40:07 | SUCCESS | Updtate MetaData(0_vqsx1bzx) | By-Geetanjali_ott488 | update entry set name='The new Mitsubishi Outlander PHEV presented at the 2018 Geneva Motor Show',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vqsx1bzx/version/100002',longdescription='The updated Mitsubishi Outlander PHEV debuted at the Geneva motor show. The European 2019Outlander PHEV features a new and updated generation of the vehicle\'s plug-in hybrid powertrain. The previous 2.0-liter inline-4 engine, operating on the conventional Otto Cycle, has been replaced by a larger one of 2.4-liter capacity specially tuned to run on the ultra-efficient Atkinson Cycle instead.',
+        duration='48',type='1',tag='mitsubishi, mitsubishi outlander, mitsubishi outlander phev, new mitsubishi outlander phev, geneva motor show, 2018, geneva, motor show, geneva motor show 2018, auto show, geneva international motor show, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:45:46',shortdescription='The updated Mitsubishi Outlander PHEV debuted at the Geneva motor show. The European 2019Outlander PHEV features a new and updated generation of the vehicle\'s plug-in hybrid powertrain.',
+        director='',producer='',cast='',crew='',sub_genre='Event',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vqsx1bzx'
+04/01/2019 11:42:30 | SUCCESS | Updtate MetaData(0_a57d34sh) | By-Geetanjali_ott488 | update entry set name='The new Ferrari 488 GTO presented at the 2018 Geneva Motor Show',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_a57d34sh/version/100002',longdescription='Ferrari has unveiled their next supercar called the Ferrari 488 Pista, the successor to Ferrari’s previous special series cars, the 360 Challenge Stradale, 430 Scuderia and 458 Speciale, each of which featured undiluted performance and handling. The Ferrari 488 Pista marks a significant step forward from the previous special series cars in both performance dynamics and for the level of technology derived from Ferrari’s racing efforts. Powering the 488 Pista is a twin turbo V8 engine, which generates 710 hp at 8,000 rpm and 568 lb-ft of torque at 3,000 rpm in 7th gear. It is the most powerful V8 in Ferrari history! The 488 Pista will accelerate from 0-100 km/h (62 mph) in 2.8 seconds and from 0-200 km/h (124 mph) in just 7.6 seconds. It has a top speed of 340 km/h (211 mph).',
+        duration='55',type='1',tag='ferrari, ferrari 488, ferrari 488 gto, new ferrari 488 gto, geneva motor show, 2018, geneva, motor show, geneva motor show 2018, auto show, geneva international motor show, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:48:10',shortdescription='Ferrari has unveiled their next supercar called the Ferrari 488 Pista, the successor to Ferrari’s previous special series cars, the 360 Challenge Stradale, 430 Scuderia and 458 Speciale, each of which featured undiluted performance and handling. ',
+        director='',producer='',cast='',crew='',sub_genre='Event',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_a57d34sh'
+04/01/2019 11:46:12 | SUCCESS | Updtate MetaData(0_ke66k3z0) | By-Geetanjali_ott488 | update entry set name='Tata presented the Sedan Electric Concept at the 2018 Geneva Motor Show',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ke66k3z0/version/100002',longdescription='Tata celebrated its 20th anniversary appearance at Geneva Motor Showy revealing a new Evasion Sedan concept. The concept sports the Impact 2.0 design language that was recently showcased on the H5X SUV and the 45X premium hatchback concept. Tata Motors did not let out any information on the electric powertrain that will be doing duty in the EVision sedan.',
+        duration='57',type='1',tag='tata, tata sedan electric concept, sedan, concept car, tata electric, geneva motor show, 2018, geneva, motor show, geneva motor show 2018, auto show, geneva international motor show, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:51:52',shortdescription='Tata celebrated its 20th anniversary appearance at Geneva Motor Showy revealing a new Evasion Sedan concept. ',
+        director='',producer='',cast='',crew='',sub_genre='Event',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ke66k3z0'
+04/01/2019 11:48:34 | SUCCESS | Updtate MetaData(0_hgyp2j9c) | By-Geetanjali_ott488 | update entry set name='Rolls-Royce Phantom VIII presented at the 2018 Geneva Motor Show',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_hgyp2j9c/version/100002',longdescription='Rolls Royce revealed the new 2018 Phantom VIII, the first car built on what Rolls-Royce calls its new Architecture of Luxury, a high-strength aluminum chassis. This twin-turbocharged V12 leviathan has a starting price of about $450,000.',
+        duration='55',type='1',tag='rolls-royce, rolls-royce phantom, rolls-royce phantom viii, geneva motor show, 2018, geneva, motor show, geneva motor show 2018, auto show, geneva international motor show, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 11:54:14',shortdescription='Rolls Royce revealed the new 2018 Phantom VIII, the first car built on what Rolls-Royce calls its new Architecture of Luxury, a high-strength aluminum chassis. ',
+        director='',producer='',cast='',crew='',sub_genre='Event',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hgyp2j9c'
+04/01/2019 11:59:35 | SUCCESS | Save Thumbnail(0_tplizy35) | By-Geetanjali_ott488 | 
+04/01/2019 12:01:11 | SUCCESS | Save Thumbnail(0_qwnr9nlq) | By-Geetanjali_ott488 | 
+04/01/2019 12:01:51 | SUCCESS | Save Thumbnail(0_c7gcsd7z) | By-Geetanjali_ott488 | 
+04/01/2019 12:02:36 | SUCCESS | Save Thumbnail(0_p6er2nc4) | By-Geetanjali_ott488 | 
+04/01/2019 12:03:20 | SUCCESS | Save Thumbnail(0_zumud5c2) | By-Geetanjali_ott488 | 
+04/01/2019 12:04:11 | SUCCESS | Save Thumbnail(0_tg2px9zw) | By-Geetanjali_ott488 | 
+04/01/2019 12:04:37 | SUCCESS | Updtate MetaData(0_614oasbw) | By-Ravindra_ott488 | update entry set name='Audi e-tron TheCharge Event Highlightcut 2018',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_614oasbw/version/100002',longdescription='With the introduction of the Audi e-tron, the Audi brand presents its first fully electric production model. The mid-size SUV is electrified, performance oriented and fit for every aspect of daily life. In combination with a comprehensive range of available charging solutions for home and on the move, customers can enjoy fully electric driving without compromise.\r\n\r\nThe Audi e-tron is an electric SUV for sport, family and leisure. It is 193 inches long, 76.3 inches wide and 65.5 inches high. It offers the spaciousness and comfort commensurate with an Audi. With a wheelbase of 115.1 inches, the Audi e-tron has ample space for five occupants and cargo. The total luggage capacity is 28.5 cu ft. (57.0 cu ft. seats down), equipping the electric SUV for short jaunts and long road trips.',
+        duration='193',type='1',tag='audi, audi e-tron, e-tron, thecharge event, highlightcut, 2018, automototv, motor, vehicle, automobile, road, track, trend, technology, travel, engine, system, modern, model, auto, moto, tv',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 12:10:17',shortdescription='With the introduction of the Audi e-tron, the Audi brand presents its first fully electric production model. The mid-size SUV is electrified, performance oriented and fit for every aspect of daily life.',
+        director='',producer='',cast='',crew='',sub_genre='Star Interview',
+        language='English',pgrating='G',video_status='inactive',custom_data=''
+        where entryid='0_614oasbw'
+04/01/2019 12:05:01 | SUCCESS | Save Thumbnail(0_35hlxxt9) | By-Geetanjali_ott488 | 
+04/01/2019 12:05:32 | SUCCESS | Save Thumbnail(0_sqlu2ary) | By-Geetanjali_ott488 | 
+04/01/2019 12:06:30 | SUCCESS | Updtate MetaData(0_z3cfqux6) | By-Ravindra_ott488 | update entry set name='Audi e-tron Interview Bram Schot',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_z3cfqux6/version/100002',longdescription='Do we really need to work 40 hours a week to achieve our goals? Bram Schot talks about the importance how important it is to of dreaming and discussing dream and to discuss ideas as we work together towards the future of mobility and Audi.',
+        duration='44',type='1',tag='audi, audi e-tron, e-tron, interview, bram schot, automototv, motor, vehicle, automobile, road, track, trend, technology, travel, engine, system, modern, model, auto, moto, tv',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 12:12:09',shortdescription='Do we really need to work 40 hours a week to achieve our goals? Bram Schot talks about the importance how important it is to of dreaming and discussing dream and to discuss ideas as we work together towards the future of mobility and Audi.',
+        director='',producer='',cast='',crew='',sub_genre='Star Interview',
+        language='English',pgrating='G',video_status='inactive',custom_data=''
+        where entryid='0_z3cfqux6'
+04/01/2019 12:07:58 | SUCCESS | Save Thumbnail(0_vg8pg0u9) | By-Geetanjali_ott488 | 
+04/01/2019 12:08:44 | SUCCESS | Save Thumbnail(0_wrtde4ih) | By-Geetanjali_ott488 | 
+04/01/2019 12:09:07 | SUCCESS | Save Thumbnail(0_6gpwk99a) | By-Geetanjali_ott488 | 
+04/01/2019 12:09:45 | SUCCESS | Save Thumbnail(0_v04da9bj) | By-Geetanjali_ott488 | 
+04/01/2019 12:10:27 | SUCCESS | Save Thumbnail(0_5gzj7uaa) | By-Geetanjali_ott488 | 
+04/01/2019 12:11:02 | SUCCESS | Save Thumbnail(0_8wgtecsa) | By-Geetanjali_ott488 | 
+04/01/2019 12:11:56 | SUCCESS | Updtate MetaData(0_oprf839m) | By-Ravindra_ott488 | update entry set name='Audi e-tron animation charge and thermomanagement 2018',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_oprf839m/version/100002',longdescription='With the introduction of the Audi e-tron, the Audi brand presents its first fully electric production model. The mid-size SUV is electrified, performance oriented and fit for every aspect of daily life. In combination with a comprehensive range of available charging solutions for home and on the move, customers can enjoy fully electric driving without compromise.\r\n\r\nThe Audi e-tron is an electric SUV for sport, family and leisure. It is 193 inches long, 76.3 inches wide and 65.5 inches high. It offers the spaciousness and comfort commensurate with an Audi. With a wheelbase of 115.1 inches, the Audi e-tron has ample space for five occupants and cargo. The total luggage capacity is 28.5 cu ft. (57.0 cu ft. seats down), equipping the electric SUV for short jaunts and long road trips.',
+        duration='222',type='1',tag='audi, audi e-tron, e-tron, animation, charge, thermomanagement, 2018, automototv, motor, vehicle, automobile, road, track, trend, technology, travel, engine, system, modern, model, auto, moto, tv',category='ON DEMAND>AUTOMOBILE>LUXURY CARS',categoryid='206',
+        updated_at='2019-01-04 12:17:36',shortdescription='With the introduction of the Audi e-tron, the Audi brand presents its first fully electric production model. The mid-size SUV is electrified, performance oriented and fit for every aspect of daily life.',
+        director='',producer='',cast='',crew='',sub_genre='Car Feature',
+        language='',pgrating='G',video_status='inactive',custom_data=''
+        where entryid='0_oprf839m'
+04/01/2019 12:12:14 | SUCCESS | Save Thumbnail(0_ukunlia6) | By-Geetanjali_ott488 | 
+04/01/2019 12:18:16 | SUCCESS | Save New video(0_cdc64qg5) | By-Adosphere_ott488 | 
+04/01/2019 12:18:43 | SUCCESS | Save New video(0_ou9t65oc) | By-Adosphere_ott488 | 
+04/01/2019 12:19:50 | SUCCESS | Save New video(0_xen1vs9j) | By-Adosphere_ott488 | 
+04/01/2019 06:50:31 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+04/01/2019 06:51:29 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+04/01/2019 12:28:49 | SUCCESS | Save Thumbnail(0_994tt69d) | By-Geetanjali_ott488 | 
+04/01/2019 12:29:35 | SUCCESS | Save Thumbnail(0_p9l8vtgi) | By-Geetanjali_ott488 | 
+04/01/2019 12:30:11 | SUCCESS | Save Thumbnail(0_hrqkyn3t) | By-Geetanjali_ott488 | 
+04/01/2019 12:30:50 | SUCCESS | Save Thumbnail(0_kyueu2xp) | By-Geetanjali_ott488 | 
+04/01/2019 12:31:37 | SUCCESS | Save Thumbnail(0_hy16y7lb) | By-Geetanjali_ott488 | 
+04/01/2019 12:32:06 | SUCCESS | Save Thumbnail(0_d3b5d8s4) | By-Geetanjali_ott488 | 
+04/01/2019 12:32:45 | SUCCESS | Save Thumbnail(0_tzlb0032) | By-Geetanjali_ott488 | 
+04/01/2019 12:34:41 | SUCCESS | Save Thumbnail(0_a8x23z4p) | By-Geetanjali_ott488 | 
+04/01/2019 12:35:36 | SUCCESS | Save Thumbnail(0_txmclifk) | By-Geetanjali_ott488 | 
+04/01/2019 12:36:18 | SUCCESS | Save Thumbnail(0_1m7utic5) | By-Geetanjali_ott488 | 
+04/01/2019 12:37:07 | SUCCESS | Save Thumbnail(0_dg73dbtj) | By-Geetanjali_ott488 | 
+04/01/2019 12:38:22 | SUCCESS | Save Thumbnail(0_5rcqema9) | By-Geetanjali_ott488 | 
+04/01/2019 12:39:43 | SUCCESS | Save Thumbnail(0_dgy8rd7u) | By-Geetanjali_ott488 | 
+04/01/2019 12:41:14 | SUCCESS | Save Thumbnail(0_0vnzfjyx) | By-Geetanjali_ott488 | 
+04/01/2019 12:48:56 | SUCCESS | Save Thumbnail(0_m73ts80h) | By-Geetanjali_ott488 | 
+04/01/2019 12:51:44 | SUCCESS | Save Thumbnail(0_vdegnuq8) | By-Geetanjali_ott488 | 
+04/01/2019 12:52:22 | SUCCESS | Save Thumbnail(0_rajnlqeg) | By-Geetanjali_ott488 | 
+04/01/2019 12:53:10 | SUCCESS | Save Thumbnail(0_r9xllfht) | By-Geetanjali_ott488 | 
+04/01/2019 12:53:38 | SUCCESS | Save Thumbnail(0_pmapvml4) | By-Geetanjali_ott488 | 
+04/01/2019 12:54:49 | SUCCESS | Save Thumbnail(0_j9uvzhcc) | By-Geetanjali_ott488 | 
+04/01/2019 12:55:33 | SUCCESS | Save Thumbnail(0_rm94ein7) | By-Geetanjali_ott488 | 
+04/01/2019 12:57:30 | SUCCESS | Save Thumbnail(0_btjuglgw) | By-Geetanjali_ott488 | 
+04/01/2019 12:58:07 | SUCCESS | Save Thumbnail(0_o1tkfars) | By-Geetanjali_ott488 | 
+04/01/2019 12:59:57 | SUCCESS | Save Thumbnail(0_t9n888h2) | By-Geetanjali_ott488 | 
+04/01/2019 13:59:31 | SUCCESS | Save Thumbnail(0_c4wsbhzt) | By-Geetanjali_ott488 | 
+04/01/2019 14:00:15 | SUCCESS | Save Thumbnail(0_qggv18at) | By-Geetanjali_ott488 | 
+04/01/2019 14:00:59 | SUCCESS | Save Thumbnail(0_df941w2z) | By-Geetanjali_ott488 | 
+04/01/2019 14:02:16 | SUCCESS | Save Thumbnail(0_7pu3fl38) | By-Geetanjali_ott488 | 
+04/01/2019 14:04:49 | SUCCESS | Save Thumbnail(0_uzyp0lh1) | By-Geetanjali_ott488 | 
+04/01/2019 14:05:29 | SUCCESS | Save Thumbnail(0_7qf7006e) | By-Geetanjali_ott488 | 
+04/01/2019 14:12:05 | SUCCESS | Save Thumbnail(0_y6i2zwoh) | By-Geetanjali_ott488 | 
+04/01/2019 14:12:32 | SUCCESS | Save Thumbnail(0_rr0n20r2) | By-Geetanjali_ott488 | 
+04/01/2019 14:12:59 | SUCCESS | Save Thumbnail(0_2pthwehj) | By-Geetanjali_ott488 | 
+04/01/2019 14:14:08 | SUCCESS | Updtate MetaData(0_cg9gwn94) | By-Geetanjali_ott488 | update entry set name='Volvo Cars and Luminar show groundbreaking autonomous technology development at Automobility LA 2018',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cg9gwn94/version/100012',longdescription='Volvo Cars and Luminar, a leading start-up in the development of core sensing technology for autonomous vehicles, are demonstrating the most advanced LiDAR sensor and perception capabilities to date at this year’s Automobility LA trade show in Los Angeles. \r\n\r\nThe ongoing development of LiDAR technology, which uses pulsed laser signals to detect objects, is a crucial element in creating safe autonomous cars. It allows autonomous cars to navigate safely in complex traffic environments and at higher speeds by providing these cars with reliable long-range perception capabilities. \r\n\r\nTechnology such as LiDAR can help Volvo Cars to make its vision for autonomous travel, as showcased in the Volvo 360c concept earlier this year, a reality. The development of advanced LiDAR technology and perception capabilities is one of many ways in which Volvo Cars and its partners work towards a safe introduction of fully autonomous cars. \r\n\r\nThe new perception capabilities being developed by Luminar in partnership with Volvo Cars make it possible for the system to detect human poses, including individual limbs such as arms and legs – a level of detail not previously possible with this type of sensor. The new technology is also able to detect objects at a range of up to 250 meters, a much farther range than any LiDAR technology currently available. ',
+        duration='149',type='1',tag='volvo, volvo cars, luminar, autonomous technology, automobility la 2018, 2018, automototv, drift, interviews, know, more, fast, speed, wheels, drive, driver, challange, automobile, road, roads, motor',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2019-01-04 14:19:48',shortdescription='Volvo Cars and Luminar, a leading start-up in the development of core sensing technology for autonomous vehicles, are demonstrating the most advanced LiDAR sensor and perception capabilities to date at this year’s Automobility LA trade show in Los Angeles. ',
+        director='',producer='',cast='',crew='',sub_genre='Interview',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_cg9gwn94'
+04/01/2019 08:44:34 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+04/01/2019 08:47:30 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+04/01/2019 14:22:54 | SUCCESS | Save Thumbnail(0_k9outc7w) | By-Geetanjali_ott488 | 
+04/01/2019 14:23:30 | SUCCESS | Save Thumbnail(0_d9dxi0fq) | By-Geetanjali_ott488 | 
+04/01/2019 14:24:09 | SUCCESS | Save Thumbnail(0_ib47oxsd) | By-Geetanjali_ott488 | 
+04/01/2019 14:24:47 | SUCCESS | Save Thumbnail(0_fbm68zrd) | By-Geetanjali_ott488 | 
+04/01/2019 14:25:23 | SUCCESS | Save Thumbnail(0_o33fzqez) | By-Geetanjali_ott488 | 
+04/01/2019 09:17:14 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+04/01/2019 15:25:27 | SUCCESS | Save Thumbnail(0_o86u793k) | By-Geetanjali_ott488 | 
+04/01/2019 15:26:25 | SUCCESS | Save Thumbnail(0_p6ybj806) | By-Geetanjali_ott488 | 
+04/01/2019 15:27:19 | SUCCESS | Save Thumbnail(0_hue94nov) | By-Geetanjali_ott488 | 
+04/01/2019 15:27:56 | SUCCESS | Save Thumbnail(0_tpbjko07) | By-Geetanjali_ott488 | 
+04/01/2019 15:31:11 | SUCCESS | Save Thumbnail(0_4xmagk3i) | By-Geetanjali_ott488 | 
+04/01/2019 15:31:39 | SUCCESS | Save Thumbnail(0_qondo8ju) | By-Geetanjali_ott488 | 
+04/01/2019 10:12:28 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+04/01/2019 10:17:00 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+04/01/2019 10:17:02 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+04/01/2019 16:13:08 | SUCCESS | Save Thumbnail(0_wgnf6zoh) | By-Geetanjali_ott488 | 
+04/01/2019 16:13:44 | SUCCESS | Save Thumbnail(0_y8qqfc7g) | By-Geetanjali_ott488 | 
+04/01/2019 16:14:12 | SUCCESS | Save Thumbnail(0_dbivnia4) | By-Geetanjali_ott488 | 
+04/01/2019 16:14:35 | SUCCESS | Save Thumbnail(0_g17yg7ys) | By-Geetanjali_ott488 | 
+04/01/2019 16:15:12 | SUCCESS | Save Thumbnail(0_o01k7ls6) | By-Geetanjali_ott488 | 
+04/01/2019 16:16:00 | SUCCESS | Save Thumbnail(0_tjp4jczw) | By-Geetanjali_ott488 | 
+04/01/2019 16:16:46 | SUCCESS | Save Thumbnail(0_zu15ij50) | By-Geetanjali_ott488 | 
+04/01/2019 10:47:06 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+04/01/2019 16:17:12 | SUCCESS | Save Thumbnail(0_wuxufn1n) | By-Geetanjali_ott488 | 
+04/01/2019 16:17:36 | SUCCESS | Save Thumbnail(0_8u4ys19j) | By-Geetanjali_ott488 | 
+04/01/2019 16:18:11 | SUCCESS | Save Thumbnail(0_4g2lmoq4) | By-Geetanjali_ott488 | 
+04/01/2019 16:18:38 | SUCCESS | Save Thumbnail(0_vvz95zpx) | By-Geetanjali_ott488 | 
+04/01/2019 16:19:59 | SUCCESS | Save Thumbnail(0_9uba8qqp) | By-Geetanjali_ott488 | 
+04/01/2019 16:20:51 | SUCCESS | Save Thumbnail(0_xhwrddx5) | By-Geetanjali_ott488 | 
+04/01/2019 16:21:04 | SUCCESS | Save Thumbnail(0_u35esmr3) | By-Geetanjali_ott488 | 
+04/01/2019 16:21:46 | SUCCESS | Save Thumbnail(0_p8in2c8q) | By-Geetanjali_ott488 | 
+04/01/2019 16:22:50 | SUCCESS | Save Thumbnail(0_eze41bh3) | By-Geetanjali_ott488 | 
+04/01/2019 16:23:23 | SUCCESS | Save Thumbnail(0_2sc94cjx) | By-Geetanjali_ott488 | 
+04/01/2019 16:23:52 | SUCCESS | Save Thumbnail(0_2ytzvrcp) | By-Geetanjali_ott488 | 
+04/01/2019 16:25:56 | SUCCESS | Save Thumbnail(0_mg5dltxg) | By-Geetanjali_ott488 | 
+04/01/2019 16:28:11 | SUCCESS | Save Thumbnail(0_93f4zz9p) | By-Geetanjali_ott488 | 
+04/01/2019 16:28:42 | SUCCESS | Save Thumbnail(0_fbysgduj) | By-Geetanjali_ott488 | 
+04/01/2019 16:29:18 | SUCCESS | Save Thumbnail(0_txymyjim) | By-Geetanjali_ott488 | 
+04/01/2019 16:29:58 | SUCCESS | Save Thumbnail(0_a8bv0nfh) | By-Geetanjali_ott488 | 
+04/01/2019 16:31:03 | SUCCESS | Save Thumbnail(0_xvjqi2ow) | By-Geetanjali_ott488 | 
+04/01/2019 16:32:23 | SUCCESS | Save Thumbnail(0_yovr6b1q) | By-Geetanjali_ott488 | 
+04/01/2019 16:32:51 | SUCCESS | Save Thumbnail(0_6ksx1mu2) | By-Geetanjali_ott488 | 
+04/01/2019 16:33:14 | SUCCESS | Save Thumbnail(0_p9cnoso5) | By-Geetanjali_ott488 | 
+04/01/2019 16:33:38 | SUCCESS | Save Thumbnail(0_e6m2iir2) | By-Geetanjali_ott488 | 
+04/01/2019 16:34:01 | SUCCESS | Save Thumbnail(0_9f4xtpaf) | By-Geetanjali_ott488 | 
+04/01/2019 16:34:25 | SUCCESS | Save Thumbnail(0_4jgg2i7r) | By-Geetanjali_ott488 | 
+04/01/2019 16:34:51 | SUCCESS | Save Thumbnail(0_19cqo4oh) | By-Geetanjali_ott488 | 
+04/01/2019 16:35:19 | SUCCESS | Save Thumbnail(0_dgwj629f) | By-Geetanjali_ott488 | 
+04/01/2019 16:35:51 | SUCCESS | Save Thumbnail(0_ncrrqmey) | By-Geetanjali_ott488 | 
+04/01/2019 16:36:25 | SUCCESS | Save Thumbnail(0_row34ll9) | By-Geetanjali_ott488 | 
+04/01/2019 16:36:54 | SUCCESS | Save Thumbnail(0_0i249bwb) | By-Geetanjali_ott488 | 
+04/01/2019 16:38:29 | SUCCESS | Save Thumbnail(0_5zzlom3e) | By-Geetanjali_ott488 | 
+04/01/2019 16:38:52 | SUCCESS | Save Thumbnail(0_rgszh2hv) | By-Geetanjali_ott488 | 
+04/01/2019 16:39:20 | SUCCESS | Save Thumbnail(0_kwxzw906) | By-Geetanjali_ott488 | 
+04/01/2019 17:13:19 | SUCCESS | Delete Video entry(0_icv4ows2) | By-Geetanjali_ott488 | 
+04/01/2019 12:17:17 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 

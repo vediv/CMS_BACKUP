@@ -1,0 +1,8 @@
+01/12/2017 10:52:56 | SUCCESS | Update User Detail(Ravi) | By-Test_ott025 | 
+01/12/2017 11:48:41 | SUCCESS | Save New video(0_kgpvsexh) | By-Test_ott025 | 
+01/12/2017 11:49:24 | SUCCESS | Delete Video entry(0_kgpvsexh) | By-Test_ott025 | 
+01/12/2017 11:49:42 | SUCCESS | Save New video(0_2ejnfbhv) | By-Test_ott025 | 
+01/12/2017 11:51:36 | SUCCESS | Delete Video entry(0_2ejnfbhv) | By-Test_ott025 | 
+01/12/2017 11:53:22 | SUCCESS | Plan inactive(planID:p881,Status:inactive) | By-Test_ott025 | 
+01/12/2017 11:53:25 | SUCCESS | Delete Plan (p881) | By-Test_ott025 | delete from plandetail where planID='p881'
+01/12/2017 11:53:39 | SUCCESS | update plan Detail(diamond) | By-Test_ott025 | 

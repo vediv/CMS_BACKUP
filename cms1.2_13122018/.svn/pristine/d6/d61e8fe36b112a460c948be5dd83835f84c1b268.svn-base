@@ -1,0 +1,208 @@
+<?php
+include_once 'corefunction.php';
+$action=$_POST['action']; $subAction=$_POST['subAction'];
+switch($action)
+{
+    case"registerUser":
+    switch($subAction)
+    { 
+        case "currentDay":
+        $currentdate=array(); $Total_registration=array();
+      	 $count ="SELECT COUNT(1) AS Total_registration ,EXTRACT(HOUR FROM added_date) AS Hours 
+         FROM user_registration WHERE added_date > DATE(NOW()) GROUP BY EXTRACT(HOUR FROM added_date);";
+         $fetch1 = db_select($conn,$count);
+         foreach ($fetch1 as $fetch) 
+           {
+             $currentdate[]=$fetch['Hours'];  
+             $Total_registration[]=$fetch['Total_registration']; 
+           }
+        //$hoursImplode = "'".implode("','",$currentdate)."'"; 
+        //$total_registrationImplode=implode(',',$Total_registration);
+        //echo json_encode(array('hours' =>$hoursImplode,'total_registration' =>$total_registrationImplode));
+           print_r($Total_registration);
+        ?> 
+       <script type="text/javascript">
+         $('#container').highcharts({
+                chart: {
+                },
+                type: 'line',
+                xAxis: {
+                    categories: [<?php echo implode(',', $currentdate);?>]
+                },
+                yAxis: {
+                allowDecimals: false,
+                title: {
+                    text: 'User Registration'
+                }
+                },        
+                tooltip: {
+                    formatter: function () 
+                    {
+                        return '<b>' + this.series.name + '</b><br/>' +
+                         '<b>'+'Time: '+'</b>'+this.x + ':00<br/>' +
+                          '<b>'+'Users: '+'</b>'+ this.y;
+                    }
+
+                },             
+                title: {
+                    text: 'Current Record'  
+                },
+                series: [{
+                    name: 'Hours Record',    
+                    data: [<?php echo implode(',',$Total_registration);?>]
+                }]
+               });
+            </script>   
+    <?php break;
+    case "week":
+        $week=array(); $Total_registration=array();
+        $count ="SELECT COUNT(1) AS Total_registration ,EXTRACT(DAY FROM added_date) AS Dates 
+                  FROM user_registration WHERE added_date > DATE(NOW() - INTERVAL 7 DAY) 
+                  GROUP BY EXTRACT(DAY FROM added_date)";
+        $fetch1 = db_select($conn,$count);
+       foreach ($fetch1 as $fetch) 
+	 {
+	     $week[]=$fetch['Dates'];  
+             $Total_registration[]=$fetch['Total_registration'];   
+	 } 
+         
+        ?> 
+       <script type="text/javascript">
+         $('#container').highcharts({
+                chart: {
+                },
+                title: {
+                text: 'Current Record'
+                },
+                xAxis: {
+                    text: 'Week Date',
+                    categories: [<?php echo implode(',', $week);?>]
+                },
+               yAxis: {
+                allowDecimals: false,
+                title: {
+                    text: '<b>User Registration</b>'
+                }
+                },    
+                tooltip: {
+                    formatter: function () 
+                    {
+                        return '<b>' + this.series.name + '</b><br/>' +
+                         '<b>'+'Time: '+'</b>'+this.x + ':00<br/>' +
+                          '<b>'+'Users: '+'</b>'+ this.y;
+                    }
+
+                },             
+                series: [{
+                     name: 'Weekly Record',   
+                    data: [<?php echo implode(',',$Total_registration);?>]
+                }]
+               });
+            </script>   
+        
+  
+   <?php  break;
+    case "month":
+         $Months=array(); $Total_registration=array();
+      	 $count ="SELECT COUNT(1) AS Total_registration,EXTRACT(DAY FROM added_date) AS Dates FROM user_registration 
+                  WHERE (added_date BETWEEN  DATE_FORMAT(NOW() ,'%Y-%m-01') AND NOW() )
+                  GROUP BY EXTRACT(DAY FROM added_date); ";
+          $fetch1 = db_select($conn,$count);
+          foreach ($fetch1 as $fetch) 
+	   {
+		         $Months[]=$fetch['Dates'];  
+ 		        $Total_registration[]=$fetch['Total_registration'];   
+           }
+         
+        ?> 
+       <script type="text/javascript">
+         $('#container').highcharts({
+                chart: {
+                },
+                title: {
+                text: 'Current Record'
+                },
+                xAxis: {
+         	 title: {
+                text: 'Month Date'
+                      },  
+                categories: [<?php echo implode(',', $Months);?>]
+                },
+                yAxis: {
+                allowDecimals: false,
+                title: {
+                    text: '<b>User Registration</b>'
+                }
+                },    
+                tooltip: {
+                   formatter: function () 
+                        {
+                            return '<b>' + this.series.name + '</b><br/>' +
+                             '<b>'+'Date: '+'</b>'+this.x + '<br/>' +
+                              '<b>'+'Users: '+'</b>'+ this.y;
+                        }
+
+                },             
+                series: [{
+                     name: 'Monthly Record', 
+                    data: [<?php echo implode(',',$Total_registration);?>]
+                }]
+               });
+            </script>   
+        
+    
+   <?php  break;
+    case "year":
+    $year=array(); $Total_registration=array();
+      	 $yearQuery ="SELECT COUNT(1) AS Total_registration,EXTRACT(MONTH FROM added_date) AS Months FROM user_registration 
+				  WHERE (added_date BETWEEN  DATE_FORMAT(NOW() ,'%Y-01-01') AND NOW() )
+				  GROUP BY EXTRACT(MONTH FROM added_date)";
+         $fetchYear = db_select($conn,$yearQuery);
+         foreach ($fetchYear as $fetchY) 
+         {   $monthName=$fetchY['Months'];
+             //$monthName = date("M", mktime(0, 0, 0, $fetchY['Months'], 10));
+             $year[]=$monthName;
+             $Total_registration[]=$fetchY['Total_registration'];   
+         }
+         print_r($year);
+        ?> 
+       <script type="text/javascript">
+         $('#container').highcharts({
+                chart: {
+                },
+                title: {
+                text: 'Current Record'
+                },
+                xAxis: {
+         	 title: {
+                text: 'Months'
+                      },  
+                categories: [<?php echo implode(',',$year); //echo  "'".implode("','",$year)."'"; ?>]
+                },
+                yAxis: {
+                allowDecimals: false,
+                title: {
+                    text: '<b>User Registration</b>'
+                }
+                },    
+                tooltip: {
+                   formatter: function () 
+                    {
+                        return '<b>' + this.series.name + '</b><br/>' +
+                         '<b>'+'Month: '+'</b>'+this.x + '<br/>' +
+                          '<b>'+'Users: '+'</b>'+ this.y;
+                    }
+
+                },             
+                series: [{
+                    name: 'Yearly Record',
+                    data: [<?php echo implode(',',$Total_registration);?>]
+                }]
+               });
+            </script>   
+        
+   
+    <?php }
+    break;    
+}
+?>

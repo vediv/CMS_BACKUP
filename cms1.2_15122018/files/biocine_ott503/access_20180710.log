@@ -1,0 +1,47 @@
+10/07/2018 04:36:43 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 04:37:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 04:41:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 04:44:42 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 04:54:38 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 04:55:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 10:27:25 | SUCCESS | update Pay per View(6) | By-Biocine_ott503 | 
+10/07/2018 04:58:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:13:31 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:14:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:17:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:18:43 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:20:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:29:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:30:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:34:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:43:53 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:44:27 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:48:39 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:48:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 05:54:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 11:27:19 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/0EDTVFUN1B1X.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_0EDTVFUN1B1X.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_0EDTVFUN1B1X.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_0EDTVFUN1B1X.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_0EDTVFUN1B1X.jpg',updated_at=NOW() where category_id='305'
+10/07/2018 11:28:35 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/ZCF1TI21VTYB.JPG',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_ZCF1TI21VTYB.JPG',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_ZCF1TI21VTYB.JPG',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_ZCF1TI21VTYB.JPG',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_ZCF1TI21VTYB.JPG',updated_at=NOW() where category_id='307'
+10/07/2018 05:59:35 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 11:47:07 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+10/07/2018 12:21:46 | SUCCESS | update plan Detail(Yearly) | By-Biocine_ott503 | 
+10/07/2018 12:22:27 | SUCCESS | update plan Detail(Half Yearly) | By-Biocine_ott503 | 
+10/07/2018 08:33:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 15:36:10 | SUCCESS | Create New Category(${name}) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '390','294','1','110','${name}','ORIGINALS>${name}','294>390','0','0','${desc}','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+10/07/2018 15:36:31 | SUCCESS | delete Category(390) | By-Biocine_ott503 | DELETE FROM categories where category_id='390'
+10/07/2018 10:23:58 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 10:33:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 11:01:30 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 11:10:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 12:07:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+10/07/2018 17:47:28 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '391','294','1','110','TestName','ORIGINALS>TestName','294>391','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+10/07/2018 18:05:55 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '392','300','1','110','TestName','LIVE>TestName','300>392','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+10/07/2018 18:06:09 | SUCCESS | delete Category(392) | By-Biocine_ott503 | DELETE FROM categories where category_id='392'
+10/07/2018 18:10:33 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '393','300','1','110','TestName','LIVE>TestName','300>393','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories

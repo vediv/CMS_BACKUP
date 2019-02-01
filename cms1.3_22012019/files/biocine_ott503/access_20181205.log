@@ -1,0 +1,34 @@
+05/12/2018 04:34:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 05:25:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 05:37:55 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 07:35:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 09:06:06 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 16:10:54 | SUCCESS | Save New video(0_il10h0l7) | By-Biocine_ott503 | 
+05/12/2018 16:14:11 | SUCCESS | Updtate MetaData(0_il10h0l7) | By-Biocine_ott503 | update entry set name='ASTONHD.MOV',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_il10h0l7/version/100012',longdescription='',
+        duration='19',type='1',tag='',category='ORIGINALS',categoryid='294',
+        updated_at='2018-12-05 16:19:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_il10h0l7'
+05/12/2018 16:14:27 | SUCCESS | Updtate MetaData(0_il10h0l7) | By-Biocine_ott503 | update entry set name='ASTONHD.MOV',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_il10h0l7/version/100012',longdescription='',
+        duration='19',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 16:19:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_il10h0l7'
+05/12/2018 16:14:36 | SUCCESS | Updtate MetaData(0_il10h0l7) | By-Biocine_ott503 | update entry set name='ASTONHD.MOV',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_il10h0l7/version/100012',longdescription='',
+        duration='19',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 16:19:53',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_il10h0l7'
+05/12/2018 16:18:11 | SUCCESS | Delete Video entry(0_il10h0l7) | By-Biocine_ott503 | 
+05/12/2018 16:20:16 | SUCCESS | Save New video(0_jlk6oezy) | By-Biocine_ott503 | 
+05/12/2018 16:21:24 | SUCCESS | Bulk Add Category(0_jlk6oezy,295) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES', categoryid='295' where entryid='0_jlk6oezy' 
+05/12/2018 16:30:32 | SUCCESS | Updtate MetaData(0_jlk6oezy) | By-Biocine_ott503 | update entry set name='Gliding - 3320.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jlk6oezy/version/100022',longdescription='',
+        duration='17',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 16:35:49',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jlk6oezy'
+05/12/2018 16:30:38 | SUCCESS | Delete Video entry(0_jlk6oezy) | By-Biocine_ott503 | 

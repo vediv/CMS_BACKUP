@@ -1,0 +1,9 @@
+05/01/2019 04:21:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/01/2019 06:22:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/01/2019 11:56:14 | SUCCESS | Add New Plan (yearly subs) | By-Biocine_ott503 | 
+05/01/2019 11:56:24 | SUCCESS | Plan active(planID:p059,Status:active) | By-Biocine_ott503 | 
+05/01/2019 11:56:52 | SUCCESS | Add New Subscription Code (AUHVY1CHJ7) | By-Biocine_ott503 | 
+05/01/2019 11:57:14 | SUCCESS | subscription code active(subscription ID:1,Status:active) | By-Biocine_ott503 | 
+05/01/2019 11:58:11 | SUCCESS | subscription code inactive(subscription ID:1,Status:inactive) | By-Biocine_ott503 | 
+05/01/2019 11:58:15 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='1'
+05/01/2019 11:58:44 | SUCCESS | Plan inactive(planID:p059,Status:inactive) | By-Biocine_ott503 | 

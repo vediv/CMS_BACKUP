@@ -1,0 +1,54 @@
+06/06/2018 17:01:16 | SUCCESS | Save Thumbnail(0_xl4xsvb0) | By-Adosphere_ott488 | 
+06/06/2018 17:01:57 | SUCCESS | Save Thumbnail(0_vv9c2zg0) | By-Adosphere_ott488 | 
+06/06/2018 17:07:02 | SUCCESS | Save Thumbnail(0_mtfsghu7) | By-Adosphere_ott488 | 
+06/06/2018 17:08:41 | SUCCESS | Save Thumbnail(0_vhmx6jyf) | By-Adosphere_ott488 | 
+06/06/2018 17:09:45 | SUCCESS | Save Thumbnail(0_p9e08m0m) | By-Adosphere_ott488 | 
+06/06/2018 17:11:57 | SUCCESS | Updtate MetaData(0_sgk86e30) | By-Adosphere_ott488 | update entry set name='Wicked Little Witch',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_sgk86e30/version/100002',longdescription='Watch \'The wicked little Witch\' in Gujarati where Hazel wants to be a witch. She read the books related to the magic But at the end she realize  that bad things or hurt someone is always a bad choice.',
+        duration='287',type='1',tag='kids, cartoon, children, story, moral, little, learning, animation, junior, pot, magic, tales, kid, life, storytelling, bed, sleeping, reciter, types, fairy, cartoons, lesson, wicked, witch, magical, hazel, bedtime, devil, evil, gujarati, gujarat',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-06 17:14:41',shortdescription='Watch \'The wicked little Witch\' in Gujarati where Hazel wants to be a witch.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Gujurati',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_sgk86e30'
+06/06/2018 17:13:44 | SUCCESS | Save Thumbnail(0_790f8o67) | By-Adosphere_ott488 | 
+06/06/2018 17:14:23 | SUCCESS | Save Thumbnail(0_xu256207) | By-Adosphere_ott488 | 
+06/06/2018 17:14:40 | SUCCESS | Save Thumbnail(0_790f8o67) | By-Adosphere_ott488 | 
+06/06/2018 17:20:07 | SUCCESS | Updtate MetaData(0_le7xcirv) | By-Ados_ott488 | update entry set name='Elves And The Shoemaker Tale Marathi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_le7xcirv/version/100002',longdescription='Watch the old traditional fairy tale Eleves and the Shoemaker in Marathi. The cobbler make good tidy shoes and when he sleep the pair gets double. One day cobbler saw two tiny people who make shoes and keep on the counter.',
+        duration='363',type='1',tag='kids, cartoon, children, story, moral, series, little, learning, animation, junior, diary, tales, bedtime, storytelling, marathi, shoemaker, old, traditional, good, tidy, sleep, pair, double, tiny, people, shoe, shoes, cobbler, elves, elf',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-06 17:22:51',shortdescription='Watch the old traditional fairy tale Eleves and the Shoemaker in Marathi.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Marathi',pgrating='G',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_le7xcirv'
+06/06/2018 17:21:49 | SUCCESS | Save Thumbnail(0_kimjyj02) | By-Adosphere_ott488 | 
+06/06/2018 17:22:03 | SUCCESS | Updtate MetaData(0_hv634iuc) | By-Ados_ott488 | update entry set name='Elves And The Shoemaker French',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_hv634iuc/version/100002',longdescription='Watch the old traditional fairy tale Eleves and the Shoemaker in French. The cobbler make good tidy shoes and when he sleep the pair gets double. One day cobbler saw two tiny people who make shoes and keep on the counter.',
+        duration='300',type='1',tag='kids, cartoon, children, story, moral, series, little, learning, animation, junior, diary, tales, bedtime, storytelling, french, shoemaker, traditional, good, tidy, sleep, pair, double, tiny, people, shoes, cobbler, elf, elves',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-06 17:24:47',shortdescription='Watch the old traditional fairy tale Eleves and the Shoemaker in Marathi.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_hv634iuc'
+06/06/2018 17:23:36 | SUCCESS | Save Thumbnail(0_ba7j97ol) | By-Adosphere_ott488 | 
+06/06/2018 17:24:12 | SUCCESS | Save Thumbnail(0_nywu9twi) | By-Adosphere_ott488 | 
+06/06/2018 17:25:32 | SUCCESS | Save Thumbnail(0_ba7j97ol) | By-Adosphere_ott488 | 
+06/06/2018 17:26:04 | SUCCESS | Bulk Add Category(0_jwqvhq5c,220) | By-Adosphere_ott488 | update entry set category='ON DEMAND>KIDS>BEDTIME STORIES', categoryid='220' where entryid='0_jwqvhq5c' 
+06/06/2018 17:26:41 | SUCCESS | Save Thumbnail(0_76zi2rjb) | By-Adosphere_ott488 | 
+06/06/2018 17:27:35 | SUCCESS | Save Thumbnail(0_uh0od7f2) | By-Adosphere_ott488 | 
+06/06/2018 17:28:15 | SUCCESS | Save Thumbnail(0_m1lrn73y) | By-Adosphere_ott488 | 
+06/06/2018 17:28:46 | SUCCESS | Save Thumbnail(0_jwqvhq5c) | By-Adosphere_ott488 | 
+06/06/2018 17:29:29 | SUCCESS | Save Thumbnail(0_jqgvvrf4) | By-Adosphere_ott488 | 
+06/06/2018 17:29:55 | SUCCESS | Save Thumbnail(0_k1gy61bw) | By-Adosphere_ott488 | 
+06/06/2018 17:30:31 | SUCCESS | Save Thumbnail(0_mbg5glqq) | By-Adosphere_ott488 | 
+06/06/2018 17:34:38 | SUCCESS | Save Thumbnail(0_bpgmvzal) | By-Adosphere_ott488 | 
+06/06/2018 17:35:09 | SUCCESS | Save Thumbnail(0_ytjt2hx0) | By-Adosphere_ott488 | 
+06/06/2018 17:35:50 | SUCCESS | Save Thumbnail(0_1ax9337o) | By-Adosphere_ott488 | 
+06/06/2018 17:36:23 | SUCCESS | Save Thumbnail(0_63e3f6hr) | By-Adosphere_ott488 | 
+06/06/2018 17:41:14 | SUCCESS | Save Thumbnail(0_dyc27jv1) | By-Adosphere_ott488 | 
+06/06/2018 17:44:11 | SUCCESS | Save Thumbnail(0_imbllxnd) | By-Adosphere_ott488 | 
+06/06/2018 17:45:27 | SUCCESS | Save Thumbnail(0_igs7t37y) | By-Adosphere_ott488 | 
+06/06/2018 17:50:33 | SUCCESS | Save Thumbnail(0_ekxrplfa) | By-Adosphere_ott488 | 
+06/06/2018 17:52:22 | SUCCESS | Save Thumbnail(0_k0qbv39k) | By-Adosphere_ott488 | 
+06/06/2018 17:53:08 | SUCCESS | Save Thumbnail(0_x5ie4b2m) | By-Adosphere_ott488 | 
+06/06/2018 17:54:01 | SUCCESS | Save Thumbnail(0_xl4xsvb0) | By-Adosphere_ott488 | 
+06/06/2018 17:54:59 | SUCCESS | Save Thumbnail(0_x7fnsyd6) | By-Adosphere_ott488 | 
+06/06/2018 17:58:57 | SUCCESS | Save Thumbnail(0_vv9c2zg0) | By-Adosphere_ott488 | 
+06/06/2018 17:59:33 | SUCCESS | Save Thumbnail(0_qzsj31oy) | By-Adosphere_ott488 | 
+06/06/2018 18:08:52 | SUCCESS | Save Thumbnail(0_wco2n897) | By-Adosphere_ott488 | 
+06/06/2018 18:18:49 | SUCCESS | Save Thumbnail(0_uxtg2rmm) | By-Adosphere_ott488 | 

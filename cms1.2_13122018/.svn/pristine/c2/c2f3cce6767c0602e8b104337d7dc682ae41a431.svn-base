@@ -1,0 +1,56 @@
+20/07/2018 04:41:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 10:13:45 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+20/07/2018 10:36:52 | SUCCESS | Header Menu active(Country Currency:1,Status:1) | By-Biocine_ott503 | 
+20/07/2018 10:36:55 | SUCCESS | Header Menu active(Country Currency:2,Status:1) | By-Biocine_ott503 | 
+20/07/2018 10:37:39 | SUCCESS | Update Subscription Code (5) | By-Biocine_ott503 | 
+20/07/2018 05:07:42 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 10:37:46 | SUCCESS | subscription code active(subscription ID:5,Status:active) | By-Biocine_ott503 | 
+20/07/2018 10:37:50 | SUCCESS | subscription code active(subscription ID:4,Status:active) | By-Biocine_ott503 | 
+20/07/2018 05:30:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 11:11:57 | SUCCESS | Update Ticket Status(close tid=69--by=104) | By-Biocine_ott503 | 
+20/07/2018 11:12:24 | SUCCESS | Update Ticket Status(inprocess tid=68--by=104) | By-Biocine_ott503 | 
+20/07/2018 05:45:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 11:16:00 | SUCCESS | Update Subscription Code (5) | By-Biocine_ott503 | 
+20/07/2018 11:17:17 | SUCCESS | Update Subscription Code (5) | By-Biocine_ott503 | 
+20/07/2018 11:20:15 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+20/07/2018 11:21:43 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+20/07/2018 05:52:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 11:59:12 | SUCCESS | Header Menu inactive(Country Currency:1,Status:0) | By-Biocine_ott503 | 
+20/07/2018 12:01:37 | SUCCESS | Save Access Control(0_0yhkj5ww) | By-Biocine_ott503 | 
+20/07/2018 12:09:07 | SUCCESS | Save Access Control(0_0d40d66y) | By-Biocine_ott503 | 
+20/07/2018 12:17:53 | SUCCESS | Save Age Restriction(0_55bqo6ga,A) | By-Biocine_ott503 | 
+20/07/2018 12:17:59 | SUCCESS | update Content Partner Detail(ms) | By-Biocine_ott503 | 
+20/07/2018 12:19:28 | SUCCESS | Save Age Restriction(0_55bqo6ga,UA) | By-Biocine_ott503 | 
+20/07/2018 12:25:36 | SUCCESS | Save Age Restriction(0_4dgt70k7,A) | By-Biocine_ott503 | 
+20/07/2018 15:49:41 | SUCCESS | Header Menu active(Country Currency:1,Status:1) | By-Biocine_ott503 | 
+20/07/2018 15:49:43 | SUCCESS | Header Menu active(Country Currency:2,Status:1) | By-Biocine_ott503 | 
+20/07/2018 15:51:50 | SUCCESS | Plan inactive(planID:p039,Status:inactive) | By-Biocine_ott503 | 
+20/07/2018 15:51:52 | SUCCESS | Delete Plan (p039) | By-Biocine_ott503 | delete from plandetail where planID='p039'
+20/07/2018 15:51:56 | SUCCESS | Plan inactive(planID:p152,Status:inactive) | By-Biocine_ott503 | 
+20/07/2018 15:52:00 | SUCCESS | Delete Plan (p152) | By-Biocine_ott503 | delete from plandetail where planID='p152'
+20/07/2018 16:15:45 | SUCCESS | Add New Subscription Code (ABCDEF123) | By-Biocine_ott503 | 
+20/07/2018 16:15:49 | SUCCESS | subscription code active(subscription ID:6,Status:active) | By-Biocine_ott503 | 
+20/07/2018 16:17:21 | SUCCESS | Header Menu inactive(HeaderID:43,Status:inactive) | By-Biocine_ott503 | 
+20/07/2018 16:17:25 | SUCCESS | Delete Menu Header (43) | By-Biocine_ott503 | DELETE FROM header_menu WHERE hid='43'
+20/07/2018 16:19:02 | SUCCESS | Update Category(jkjk) | By-Biocine_ott503 | update categories set cat_name='jkjk',description='',tags='',fullname='MUSIC>ORIGINAL>jkjk' where category_id='314'
+20/07/2018 16:34:06 | SUCCESS | Delete Coupon Delete (17) | By-Biocine_ott503 | delete from coupon where coupon_id='17'
+20/07/2018 16:34:09 | SUCCESS | Delete Coupon Delete (10) | By-Biocine_ott503 | delete from coupon where coupon_id='10'
+20/07/2018 16:34:20 | SUCCESS | Coupon inactive(Coupan ID:12,Status:inactive) | By-Biocine_ott503 | 
+20/07/2018 16:34:26 | SUCCESS | Delete Coupon Delete (12) | By-Biocine_ott503 | delete from coupon where coupon_id='12'
+20/07/2018 16:35:09 | SUCCESS | Coupon active(Coupan ID:20,Status:active) | By-Biocine_ott503 | 
+20/07/2018 16:37:20 | SUCCESS | Save Access Control(0_0yhkj5ww) | By-Biocine_ott503 | 
+20/07/2018 16:37:42 | SUCCESS | Save Access Control(0_0yhkj5ww) | By-Biocine_ott503 | 
+20/07/2018 11:41:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 17:21:30 | SUCCESS | Add New Dashboard user (manisha) | By-Biocine_ott503 | 
+20/07/2018 17:21:46 | SUCCESS | Update New Plan Price(p868) | By-Biocine_ott503 | 
+20/07/2018 11:51:57 | SUCCESS | login-(manisha) | By-manisha_ott503 | 
+20/07/2018 17:30:48 | SUCCESS | update Dashboard user(manisha) | By-Biocine_ott503 | 
+20/07/2018 17:32:04 | SUCCESS | Delete Footer Content (1) | By-Biocine_ott503 | DELETE FROM dashbord_footer WHERE f_id='1'
+20/07/2018 17:32:18 | SUCCESS | update Dashboard user(manisha) | By-Biocine_ott503 | 
+20/07/2018 17:32:49 | SUCCESS | update Dashboard user(manisha) | By-Biocine_ott503 | 
+20/07/2018 17:33:36 | SUCCESS | update Dashboard user(manisha) | By-Biocine_ott503 | 
+20/07/2018 13:24:27 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/07/2018 18:55:13 | SUCCESS | Add New Plan (testdemo) | By-Biocine_ott503 | 
+20/07/2018 18:55:46 | SUCCESS | update plan Detail(testdemo1) | By-Biocine_ott503 | 
+20/07/2018 18:56:00 | SUCCESS | Update New Plan Price(p063) | By-Biocine_ott503 | 
+20/07/2018 18:59:48 | SUCCESS | Delete Plan (p063) | By-Biocine_ott503 | delete from plandetail where planID='p063'

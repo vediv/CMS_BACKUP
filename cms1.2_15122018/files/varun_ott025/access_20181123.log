@@ -1,0 +1,14 @@
+23/11/2018 06:41:24 | SUCCESS | Sync Category | By-varun_ott025 | 
+23/11/2018 06:41:30 | SUCCESS | Sync New Category(KIDS) | By-varun_ott025 | 
+23/11/2018 10:39:56 | SUCCESS | Updtate MetaData(0_fi7ne8bz) | By-varun_ott025 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_fi7ne8bz/version/100042',longdescription='',
+        duration='5',type='1',tag='',category='ON DEMAND>ANIMALS,ON DEMAND>AUTOMOBILES>FURY ROAD',categoryid='138,143',
+        updated_at='2018-11-23 10:45:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_fi7ne8bz'
+23/11/2018 10:41:03 | SUCCESS | Updtate MetaData(0_fi7ne8bz) | By-varun_ott025 | update entry set name='SampleVideo_1280x720_1mb.mp4',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_fi7ne8bz/version/100042',longdescription='',
+        duration='5',type='1',tag='',category='ON DEMAND>ANIMALS,ON DEMAND>AUTOMOBILES>FURY ROAD,ON DEMAND>ANIMALS>INDOOR PET',categoryid='138,143,140',
+        updated_at='2018-11-23 10:46:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_fi7ne8bz'

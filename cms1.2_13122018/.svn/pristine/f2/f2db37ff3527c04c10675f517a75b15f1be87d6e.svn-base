@@ -1,0 +1,173 @@
+<?php 
+include_once 'corefunction.php';
+$code=isset($_GET['code'])?$_GET['code']:'';
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+<meta charset="UTF-8">
+<title><?php echo PROJECT_TITLE." | Report";?></title>
+<link href="bootstrap/css/pagingCss.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.box-header {  padding: 4px 10px 0px 10px !important;  }
+.navbar-form .input-group > .form-control {    height: 26px !important; }
+h5 {margin-top: 0px  !important;}
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {height: 26px;margin-left: -1px;padding: 4px;}
+</style>
+<link rel="stylesheet" href="scripts/ace.min.css" class="ace-main-stylesheet" id="main-ace-style" />
+  </head>
+  <body class="skin-blue">
+    <div class="wrapper">
+<?php include_once 'header.php';?>
+   <?php include_once 'lsidebar.php';?>
+<div class="content-wrapper">
+<section class="content-header">
+   <h1>Report</h1>
+    <ol class="breadcrumb">
+      <li><a href="dashboard.php"><i class="fa fa-home" title="Home"></i> Home</a></li>
+      <li class="active">Report</li>
+    </ol>
+</section>
+<section class="content">
+
+          <!-- Default box -->
+          <div class="box">
+            <div class="box-header with-border">
+              <h3 class="box-title"> </h3>
+              <form class="form-horizontal">
+                  <div class="">
+                      <div class="col-sm-6" style="border:0px solid red;">
+                           <div class="form-group">
+                            <label class="col-sm-4 control-label" >Choose the report type</label>
+                            <div class="col-sm-6">
+                                <select name="report_type" id="report_type" class="form-control" onchange="ChooseReport(this.value);">
+                                <option value="">Choose the report type</option>  
+                                <?php if(in_array(27,$otherPermission)) { ?>  
+                                <option value="15dayactive" <?php echo $code=='15dayactive'?'selected':'' ?>>15 Days Active User</option>
+                                <option value="15dayinactive" <?php echo $code=='15dayinactive'?'selected':'' ?>>15 Days Inactive User</option>
+                                <?php } ?>
+                              </select>
+                            </div>
+                          </div>
+                      </div>
+                      <div class="pull-right"><!--Download--></div>
+                  </div>         
+              </form>  
+             </div>
+            <?php
+            $page=isset($_GET['page'])?$_GET['page']:'0';
+            $pagelimit=isset($_GET['pagelimit'])?$_GET['pagelimit']:10;
+            ?>  
+            <div class="box-body">
+             <?php  
+             switch($code)
+             {
+                case "15dayactive":
+                $filter_user=isset($_GET['filter_user'])?$_GET['filter_user']:'';
+                ?>
+                <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h3 class="panel-title"><i class="fa fa-filter"></i> Filter</h3>
+                </div>
+                <div class="panel-body">
+                 <div class="form-inline">   
+                  <div class="form-group">
+                    <!--<label class="control-label" for="input-customer">Customer</label>-->
+                    <input name="filter_customer" value="<?php echo $filter_user; ?>" size="100" placeholder="Search By userid,name,email,last view date" id="input_customer" class="form-control" autocomplete="off" type="text">
+                  </div>
+
+                  <div class="form-group text-right">
+                    <button type="button" id="button-filter" class="btn btn-default"><i class="fa fa-search"></i> Search</button>
+                  </div>
+                </div>
+                </div>
+              </div>
+              <?php 
+               break;
+                case "15dayinactive":
+                $filter_user=isset($_GET['filter_user'])?$_GET['filter_user']:'';
+               ?>
+                <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h3 class="panel-title"><i class="fa fa-filter"></i> Filter</h3>
+                </div>
+                <div class="panel-body">
+                 <div class="form-inline">   
+                  <div class="form-group">
+                    <!--<label class="control-label" for="input-customer">Customer</label>-->
+                    <input name="filter_customer" value="<?php echo $filter_user; ?>" size="100" placeholder="Search By userid,name,email,last view date" id="input_customer" class="form-control" autocomplete="off" type="text">
+                  </div>
+
+                  <div class="form-group text-right">
+                    <button type="button" id="button-filter" class="btn btn-default"><i class="fa fa-search"></i> Search</button>
+                  </div>
+                </div>
+                </div>
+              </div>
+                <?php 
+                break;    
+              } 
+             ?>
+            </div><!-- /.box-body -->
+            <div class="box-footer">
+             <?php
+             
+              switch($code)
+              {
+                case "15dayactive":
+                include_once 'reports/usersReport.php'; 
+                break;
+                case "15dayinactive":
+                include_once 'reports/usersReport.php'; 
+                break;    
+              }
+             ?>
+            </div><!-- /.box-footer-->
+          </div><!-- /.box -->
+
+        </section>
+    
+    
+</div>
+<?php include_once "footer.php"; include_once 'commonJS.php'; ?>
+</div>
+<script type="text/javascript">
+function ChooseReport(actValue)
+{
+    if(actValue==''){ alert("Choose the report type."); return false; }
+    location="report.php?code="+actValue;
+}
+var code="<?php echo $code; ?>";
+$('#button-filter').on('click', function() {
+	var url = '';
+	
+	var filter_customer = $('input[name=\'filter_customer\']').val();
+	
+	if (filter_customer) {
+		url += '&filter_user=' + encodeURIComponent(filter_customer);
+	}
+	
+	/*var filter_date_start = $('input[name=\'filter_date_start\']').val();
+	
+	if (filter_date_start) {
+		url += '&filter_date_start=' + encodeURIComponent(filter_date_start);
+	}
+	
+	var filter_date_end = $('input[name=\'filter_date_end\']').val();
+	
+	if (filter_date_end) {
+		url += '&filter_date_end=' + encodeURIComponent(filter_date_end);
+	}
+	
+	var filter_order_status_id = $('select[name=\'filter_order_status_id\']').val();
+	
+	if (filter_order_status_id != 0) {
+		url += '&filter_order_status_id=' + encodeURIComponent(filter_order_status_id);
+	} */
+	
+	location = 'report.php?code='+code+url;
+});
+</script>
+    
+</body>
+</html>

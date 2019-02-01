@@ -1,0 +1,8 @@
+24/05/2018 09:12:11 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+24/05/2018 15:39:17 | SUCCESS | Save New video(0_re06lra2) | By-PowerSmart_ott182 | 
+24/05/2018 15:44:28 | SUCCESS | Updtate MetaData(0_b9p67ar8) | By-PowerSmart_ott182 | update entry set name='Reel and Real: Part 2 – VIP News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_b9p67ar8/version/100032',longdescription='ರೀಲು ರಿಯಲ್ಲು: ಭಾಗ 2 | Reel and Real: Part 2',
+        duration='438',type='1',tag='reel and real, vip news',category='Reel and Real',categoryid='386',
+        updated_at='2018-05-24 15:47:00',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_b9p67ar8'

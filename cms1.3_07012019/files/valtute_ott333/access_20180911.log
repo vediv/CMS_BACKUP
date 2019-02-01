@@ -1,0 +1,43 @@
+11/09/2018 10:46:18 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/09/2018 16:17:24 | SUCCESS | Add New Header Content(HOME) | By-jeeyaho_ott333 | 
+11/09/2018 16:17:31 | SUCCESS | Header Menu active(HeaderID:51,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:18:36 | SUCCESS | Add New Header Content(MUSIC) | By-jeeyaho_ott333 | 
+11/09/2018 16:18:41 | SUCCESS | Header Menu active(HeaderID:52,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:18:49 | SUCCESS | update Header Content Detail(MUSIC) | By-jeeyaho_ott333 | 
+11/09/2018 16:19:21 | SUCCESS | update Header Content Detail(HOME) | By-jeeyaho_ott333 | 
+11/09/2018 16:19:48 | SUCCESS | update Header Content Detail(MUSIC) | By-jeeyaho_ott333 | 
+11/09/2018 16:20:12 | SUCCESS | Add New Header Content(MOVIES) | By-jeeyaho_ott333 | 
+11/09/2018 16:20:17 | SUCCESS | Header Menu active(HeaderID:53,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:20:39 | SUCCESS | Add New Header Content(DRAMA SERIES) | By-jeeyaho_ott333 | 
+11/09/2018 16:20:49 | SUCCESS | Header Menu active(HeaderID:54,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:21:12 | SUCCESS | Add New Header Content(KIDS) | By-jeeyaho_ott333 | 
+11/09/2018 16:21:23 | SUCCESS | Header Menu active(HeaderID:55,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:21:54 | SUCCESS | Add New Header Content(DEVOTIONAL) | By-jeeyaho_ott333 | 
+11/09/2018 16:22:19 | SUCCESS | Add New Header Content(LIFESTYLE) | By-jeeyaho_ott333 | 
+11/09/2018 16:22:26 | SUCCESS | Header Menu active(HeaderID:56,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:22:29 | SUCCESS | Header Menu active(HeaderID:57,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 10:52:55 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/09/2018 16:35:08 | SUCCESS | Header Menu inactive(HeaderID:57,Status:inactive) | By-jeeyaho_ott333 | 
+11/09/2018 16:35:10 | SUCCESS | Header Menu inactive(HeaderID:56,Status:inactive) | By-jeeyaho_ott333 | 
+11/09/2018 16:35:12 | SUCCESS | Header Menu inactive(HeaderID:55,Status:inactive) | By-jeeyaho_ott333 | 
+11/09/2018 16:35:14 | SUCCESS | Header Menu inactive(HeaderID:54,Status:inactive) | By-jeeyaho_ott333 | 
+11/09/2018 16:35:19 | SUCCESS | Header Menu inactive(HeaderID:53,Status:inactive) | By-jeeyaho_ott333 | 
+11/09/2018 16:35:22 | SUCCESS | Header Menu inactive(HeaderID:52,Status:inactive) | By-jeeyaho_ott333 | 
+11/09/2018 16:47:27 | SUCCESS | Delete Menu Header (57) | By-jeeyaho_ott333 | DELETE FROM header_menu WHERE hid='57'
+11/09/2018 16:47:29 | SUCCESS | Delete Menu Header (56) | By-jeeyaho_ott333 | DELETE FROM header_menu WHERE hid='56'
+11/09/2018 16:47:31 | SUCCESS | Delete Menu Header (55) | By-jeeyaho_ott333 | DELETE FROM header_menu WHERE hid='55'
+11/09/2018 16:47:32 | SUCCESS | Delete Menu Header (54) | By-jeeyaho_ott333 | DELETE FROM header_menu WHERE hid='54'
+11/09/2018 16:47:38 | SUCCESS | Delete Menu Header (53) | By-jeeyaho_ott333 | DELETE FROM header_menu WHERE hid='53'
+11/09/2018 16:47:40 | SUCCESS | Delete Menu Header (52) | By-jeeyaho_ott333 | DELETE FROM header_menu WHERE hid='52'
+11/09/2018 16:47:47 | SUCCESS | Add New Header Content(Profile) | By-jeeyaho_ott333 | 
+11/09/2018 16:47:55 | SUCCESS | Header Menu active(HeaderID:58,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:48:27 | SUCCESS | Add New Header Content(CONTACT US) | By-jeeyaho_ott333 | 
+11/09/2018 16:48:31 | SUCCESS | Header Menu active(HeaderID:59,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:48:41 | SUCCESS | Add New Header Content(FAQ) | By-jeeyaho_ott333 | 
+11/09/2018 16:49:10 | SUCCESS | Add New Header Content(ABOUT US) | By-jeeyaho_ott333 | 
+11/09/2018 16:49:20 | SUCCESS | Header Menu active(HeaderID:60,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 16:49:23 | SUCCESS | Header Menu active(HeaderID:61,Status:active) | By-jeeyaho_ott333 | 
+11/09/2018 12:05:32 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/09/2018 17:39:43 | SUCCESS | update Header Content Detail(CONTACT US) | By-jeeyaho_ott333 | 
+11/09/2018 17:40:25 | SUCCESS | update Header Content Detail(FAQ) | By-jeeyaho_ott333 | 
+11/09/2018 12:11:23 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

@@ -1,0 +1,146 @@
+27/04/2018 09:05:47 | SUCCESS | login-(five) | By-five_ott503 | 
+27/04/2018 09:06:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/04/2018 09:36:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/04/2018 15:10:26 | SUCCESS | Save New video(0_4dgt70k7) | By-Biocine_ott503 | 
+27/04/2018 15:12:14 | SUCCESS | Updtate MetaData(0_4dgt70k7) | By-Biocine_ott503 | update entry set name='Capoeira | Self Defence',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dgt70k7/version/100002',longdescription='Capoeria sample video',
+        duration='179',type='1',tag='capoeira, self, defence, karate, guide, martial, art',category='',categoryid='',
+        updated_at='2018-04-27 15:14:24',shortdescription='Capoeria sample video',
+        director='',producer='',cast='',crew='',sub_genre='Culture',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_4dgt70k7'
+27/04/2018 15:12:52 | SUCCESS | Updtate MetaData(0_4dgt70k7) | By-Biocine_ott503 | update entry set name='Capoeira | Self Defence',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dgt70k7/version/100002',longdescription='Capoeria sample video',
+        duration='179',type='1',tag='capoeira, self, defence, karate, guide, martial, art',category='KIDS,ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='312,295,297,299,303,305,307,310,315,317,319',
+        updated_at='2018-04-27 15:15:02',shortdescription='Capoeria sample video',
+        director='',producer='',cast='',crew='',sub_genre='Culture',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_4dgt70k7'
+27/04/2018 15:20:21 | ERROR-SQL | Lost connection to MySQL server during query | By-Biocine_ott503 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_va5swgpw','Heavy Machinery','http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_va5swgpw/version/0','Watch the heavy equipment video which is specially designed for construction work.','1','heavy, machinery, construction, work, equipment, vehicle, automobile, tools, machine, crane','1','0','2018-04-27 15:22:31','active','104')
+27/04/2018 15:23:49 | SUCCESS | Updtate MetaData(0_va5swgpw) | By-Biocine_ott503 | update entry set name='Heavy Machinery',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_va5swgpw/version/100002',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machinery, construction, work, equipment, vehicle, automobile, tools, machine, crane',category='',categoryid='',
+        updated_at='2018-04-27 15:25:59',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_va5swgpw'
+27/04/2018 15:26:10 | SUCCESS | Save New video(0_f3n9xf82) | By-Biocine_ott503 | 
+27/04/2018 15:33:31 | ERROR-SQL | Lost connection to MySQL server during query | By-Biocine_ott503 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_mcz8ttqu','Tears of Steel | Science Fiction','http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_mcz8ttqu/version/0','Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.','1','tears, steel, science, fiction, scientists, short, film, amsterdam, army, robots, robot, refugee, movies, english','1','0','2018-04-27 15:35:41','active','104')
+27/04/2018 10:05:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/04/2018 15:38:12 | SUCCESS | Save New video(0_v6n3lzd3) | By-Biocine_ott503 | 
+27/04/2018 15:38:58 | SUCCESS | Updtate MetaData(0_mcz8ttqu) | By-Biocine_ott503 | update entry set name='Tears of Steel | Science Fiction',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_mcz8ttqu/version/100002',longdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.',
+        duration='734',type='1',tag='tears, steel, science, fiction, scientists, short, film, amsterdam, army, robots, robot, refugee, movies, english',category='',categoryid='',
+        updated_at='2018-04-27 15:41:08',shortdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.',
+        director='',producer='',cast='',crew='',sub_genre='Sci-Fi',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_mcz8ttqu'
+27/04/2018 15:42:09 | SUCCESS | Save New video(0_4wc2nq2m) | By-Biocine_ott503 | 
+27/04/2018 15:42:44 | SUCCESS | Updtate MetaData(0_v6n3lzd3) | By-Biocine_ott503 | update entry set name='High society Street view',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_v6n3lzd3/version/100002',longdescription='Watch the traditional third season Autumn where deciduous trees lose their leaves.',
+        duration='17',type='1',tag='high, society, street, season, autumn, trees, leaves, roads, bike, road, car, visit places, view, site, scene, scenary',category='',categoryid='',
+        updated_at='2018-04-27 15:44:54',shortdescription='Watch the traditional third season Autumn where deciduous trees lose their leaves.',
+        director='',producer='',cast='',crew='',sub_genre='Social',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_v6n3lzd3'
+27/04/2018 15:43:21 | SUCCESS | Updtate MetaData(0_4wc2nq2m) | By-Biocine_ott503 | update entry set name='Indoor Fury Cute Kitten ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4wc2nq2m/version/100002',longdescription='Watch the video of cute indoor fury pet kitten playing with the toy.',
+        duration='13',type='1',tag='indoor, fury, cute, kitten, cat, pets, play, toy, mammal, cute pets, animlas, fluffy',category='',categoryid='',
+        updated_at='2018-04-27 15:45:31',shortdescription='Watch the video of cute indoor fury pet kitten playing with the toy.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_4wc2nq2m'
+27/04/2018 15:46:31 | SUCCESS | Save New video(0_9xhypl5v) | By-Biocine_ott503 | 
+27/04/2018 15:53:18 | ERROR-SQL | Lost connection to MySQL server during query | By-Biocine_ott503 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_p0e3tmud','Cosmos Laundromat | Animation','http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0e3tmud/version/0','The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.\r\n','1','cosmos, laundromat, animation, salesman, quirky, movie, film, films, short, english, fate, suicide, island, love, berry, salemsan, action, drama, joy, popular, latest, free, picture, blender','1','0','2018-04-27 15:55:27','active','104')
+27/04/2018 15:58:09 | SUCCESS | Save New video(0_55bqo6ga) | By-Biocine_ott503 | 
+27/04/2018 15:59:22 | SUCCESS | Updtate MetaData(0_p0e3tmud) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0e3tmud/version/100002',longdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.\r\n',
+        duration='730',type='1',tag='cosmos, laundromat, animation, salesman, quirky, movie, film, films, short, english, fate, suicide, island, love, berry, salemsan, action, drama, joy, popular, latest, free, picture, blender',category='',categoryid='',
+        updated_at='2018-04-27 16:01:32',shortdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_p0e3tmud'
+27/04/2018 16:04:15 | SUCCESS | Save New video(0_qjdvro47) | By-Biocine_ott503 | 
+27/04/2018 16:05:20 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100002',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='',categoryid='',
+        updated_at='2018-04-27 16:07:30',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_55bqo6ga'
+27/04/2018 16:06:10 | SUCCESS | Updtate MetaData(0_qjdvro47) | By-Biocine_ott503 | update entry set name='Dancing moves and music beats',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qjdvro47/version/100002',longdescription='Watch the enjoyment with friends a street dance.',
+        duration='60',type='1',tag='dancing, moves, music, beats, street, dance, enjoy, couple, melody, move, fun, musi, sound, song, music beats, group dancing',category='',categoryid='',
+        updated_at='2018-04-27 16:08:20',shortdescription='Watch the enjoyment with friends a street dance.',
+        director='',producer='',cast='',crew='',sub_genre='Lifestyle',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_qjdvro47'
+27/04/2018 16:07:24 | SUCCESS | Save Thumbnail(0_qjdvro47) | By-Biocine_ott503 | 
+27/04/2018 16:08:07 | SUCCESS | Save Thumbnail(0_55bqo6ga) | By-Biocine_ott503 | 
+27/04/2018 16:08:51 | SUCCESS | Save Thumbnail(0_p0e3tmud) | By-Biocine_ott503 | 
+27/04/2018 16:09:55 | SUCCESS | Save Thumbnail(0_9xhypl5v) | By-Biocine_ott503 | 
+27/04/2018 16:10:11 | SUCCESS | Updtate MetaData(0_9xhypl5v) | By-Biocine_ott503 | update entry set name='Flying beautiful creature - Robin',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9xhypl5v/version/100012',longdescription='Watch Robin bird beautiful creature.',
+        duration='8',type='1',tag='flying, beautiful, creature, robin, bird, chirrup, chirruping, nature living, nature, rare, species, fly',category='',categoryid='',
+        updated_at='2018-04-27 16:12:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9xhypl5v'
+27/04/2018 16:10:48 | SUCCESS | Save Thumbnail(0_4wc2nq2m) | By-Biocine_ott503 | 
+27/04/2018 16:11:40 | SUCCESS | Save Thumbnail(0_v6n3lzd3) | By-Biocine_ott503 | 
+27/04/2018 16:12:18 | SUCCESS | Save Thumbnail(0_mcz8ttqu) | By-Biocine_ott503 | 
+27/04/2018 16:13:07 | SUCCESS | Save Thumbnail(0_f3n9xf82) | By-Biocine_ott503 | 
+27/04/2018 16:13:42 | SUCCESS | Save Thumbnail(0_va5swgpw) | By-Biocine_ott503 | 
+27/04/2018 16:14:26 | SUCCESS | Save Thumbnail(0_4dgt70k7) | By-Biocine_ott503 | 
+27/04/2018 16:16:04 | SUCCESS | Bulk Add Category(0_qjdvro47,0_p0e3tmud,0_4wc2nq2m,0_mcz8ttqu,0_va5swgpw,312,313,296,298,302,304,305,307,314,315,317,319) | By-Biocine_ott503 | update entry set category='KIDS,BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>ACTION,MUSIC>ORIGINAL>POP MUSIC,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK', categoryid='312,313,296,298,302,304,305,307,314,315,317,319' where entryid='0_va5swgpw' 
+27/04/2018 16:18:50 | SUCCESS | Bulk Add Category(0_55bqo6ga,0_9xhypl5v,0_v6n3lzd3,0_f3n9xf82,312,313,295,296,298,302,304,306,310,315,316,317,318) | By-Biocine_ott503 | update entry set category='KIDS,BAZAAR,ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>COMEDY,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>CLASSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>HIP HOP', categoryid='312,313,295,296,298,302,304,306,310,315,316,317,318' where entryid='0_f3n9xf82' 
+27/04/2018 17:18:21 | SUCCESS | Add New Slider Image(C:\fakepath\banner8.jpg) | By-Biocine_ott503 | 
+27/04/2018 17:18:33 | SUCCESS | update Slider Detail(0_va5swgpw,'') | By-Biocine_ott503 | 
+27/04/2018 17:18:38 | SUCCESS | Slider image active(SliderID:5,Status:active) | By-Biocine_ott503 | 
+27/04/2018 17:19:56 | SUCCESS | Add New Slider Image(C:\fakepath\banner67.jpg) | By-Biocine_ott503 | 
+27/04/2018 17:20:07 | SUCCESS | Slider image active(SliderID:6,Status:active) | By-Biocine_ott503 | 
+27/04/2018 12:20:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/04/2018 17:53:25 | SUCCESS | Updtate MetaData(0_txywk6wi) | By-Biocine_ott503 | update entry set name='OMG.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_txywk6wi/version/100022',longdescription='long desc',
+        duration='10',type='1',tag='white rabbit, yes',category='ORIGINALS,ORIGINALS>FOOD,MOVIES>THRILLER',categoryid='294,296,303',
+        updated_at='2018-04-27 17:55:35',shortdescription='short',
+        director='dir',producer='producer',cast='cast',crew='crew',sub_genre='sub',
+        language='lag',pgrating='pg',video_status='inactive',puser_id='113',custom_data='{"actor":"ajay","actress":"kareen","music dir":"pritam","singer":"arjit","female singer":"kanika"}'
+        where entryid='0_txywk6wi'
+27/04/2018 17:54:35 | SUCCESS | Save Access Control(0_txywk6wi) | By-Biocine_ott503 | 
+27/04/2018 17:55:16 | SUCCESS | Save currency_data(0_txywk6wi) | By-Biocine_ott503 | 
+27/04/2018 12:26:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/04/2018 17:57:57 | SUCCESS | Updtate MetaData(0_qjdvro47) | By-Biocine_ott503 | update entry set name='Dancing moves and music beats',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qjdvro47/version/100012',longdescription='Watch the enjoyment with friends a street dance.',
+        duration='60',type='1',tag='dancing, moves, music, beats, street, dance, enjoy, couple, melody, move, fun, musi, sound, song, music beats, group dancing',category='MOVIES>ROMANTIC,MOVIES>ACTION,BAZAAR,MUSIC>ORIGINAL>POP MUSIC,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK,MOVIES>HORROR,MOVIES>CLASSIC,KIDS',categoryid='304,307,313,314,315,317,319,305,302,312',
+        updated_at='2018-04-27 18:00:08',shortdescription='Watch the enjoyment with friends a street dance.',
+        director='',producer='',cast='',crew='',sub_genre='Lifestyle',
+        language='',pgrating='U',video_status='active',puser_id='104',custom_data=''
+        where entryid='0_qjdvro47'
+27/04/2018 17:58:26 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='KIDS,BAZAAR,ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>COMEDY,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>CLASSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>HIP HOP',categoryid='312,313,295,296,298,302,304,306,310,315,316,317,318',
+        updated_at='2018-04-27 16:20:45',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',puser_id='104',custom_data=''
+        where entryid='0_55bqo6ga'
+27/04/2018 17:59:45 | SUCCESS | Updtate MetaData(0_txywk6wi) | By-Biocine_ott503 | update entry set name='OMG.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_txywk6wi/version/100022',longdescription='long desc',
+        duration='10',type='1',tag='white rabbit, yes',category='ORIGINALS,ORIGINALS>FOOD,MOVIES>THRILLER',categoryid='294,296,303',
+        updated_at='2018-04-27 17:55:35',shortdescription='short',
+        director='dir',producer='producer',cast='cast',crew='crew',sub_genre='sub',
+        language='lag',pgrating='pg',video_status='inactive',puser_id='113',custom_data='{"actor":"ajay","actress":"kareen","music dir":"pritam","singer":"arjit","female singer":"kanika"}'
+        where entryid='0_txywk6wi'
+27/04/2018 18:00:41 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='KIDS',categoryid='312',
+        updated_at='2018-04-27 18:02:51',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',puser_id='104',custom_data=''
+        where entryid='0_55bqo6ga'
+27/04/2018 18:01:19 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='KIDS',categoryid='312',
+        updated_at='2018-04-27 18:02:51',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',puser_id='104',custom_data=''
+        where entryid='0_55bqo6ga'
+27/04/2018 18:03:54 | SUCCESS | Updtate MetaData(0_txywk6wi) | By-Biocine_ott503 | update entry set name='OMG.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_txywk6wi/version/100022',longdescription='long desc',
+        duration='10',type='1',tag='white rabbit, yes',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS',categoryid='295,297',
+        updated_at='2018-04-27 18:06:04',shortdescription='short',
+        director='dir',producer='producer',cast='cast',crew='crew',sub_genre='sub',
+        language='lag',pgrating='pg',video_status='inactive',puser_id='113',custom_data='{"actor":"ajay","actress":"kareen","music dir":"pritam","singer":"arjit","female singer":"kanika"}'
+        where entryid='0_txywk6wi'
+27/04/2018 18:04:17 | SUCCESS | Updtate MetaData(0_txywk6wi) | By-Biocine_ott503 | update entry set name='OMG.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_txywk6wi/version/100022',longdescription='long desc',
+        duration='10',type='1',tag='white rabbit, yes',category='',categoryid='',
+        updated_at='2018-04-27 18:06:27',shortdescription='short',
+        director='dir',producer='producer',cast='cast',crew='crew',sub_genre='sub',
+        language='lag',pgrating='pg',video_status='inactive',puser_id='113',custom_data='{"actor":"ajay","actress":"kareen","music dir":"pritam","singer":"arjit","female singer":"kanika"}'
+        where entryid='0_txywk6wi'

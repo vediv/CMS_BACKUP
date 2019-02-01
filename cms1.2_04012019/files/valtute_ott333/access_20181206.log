@@ -1,0 +1,11 @@
+06/12/2018 03:42:12 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+06/12/2018 07:13:05 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+06/12/2018 09:16:09 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+06/12/2018 14:57:30 | SUCCESS | Save Access Control(0_19nqyhwm) | By-jeeyaho_ott333 | 
+06/12/2018 15:02:42 | SUCCESS | Bulk Add Category(0_120ejsmq,0_f72501m3,0_utg6r3wu,0_bv1ynbbh,436) | By-jeeyaho_ott333 | update entry set category='LIFESTYLE>YOGA', categoryid='436' where entryid='0_bv1ynbbh' 
+06/12/2018 15:11:05 | SUCCESS | Create New Category(NEWS2) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '540','539','1','113','NEWS2','NEWS1>NEWS2','539>540','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+06/12/2018 15:18:20 | SUCCESS | Bulk Add Category(0_3ocvvman,0_3vc4svlh,0_5m4o0gca,0_32yujq9m,488) | By-jeeyaho_ott333 | update entry set category='MUSIC>REGIONAL>BHOJPURI', categoryid='488' where entryid='0_32yujq9m' 
+06/12/2018 15:48:49 | SUCCESS | Header Menu active(HeaderID:67,Status:active) | By-jeeyaho_ott333 | 
+06/12/2018 15:49:09 | SUCCESS | Header Menu inactive(HeaderID:67,Status:inactive) | By-jeeyaho_ott333 | 
+06/12/2018 16:24:25 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

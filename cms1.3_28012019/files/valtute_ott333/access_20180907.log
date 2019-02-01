@@ -1,0 +1,3 @@
+07/09/2018 06:38:41 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+07/09/2018 12:09:26 | SUCCESS | Bulk Add Category(0_svgs1amt,0_f3anpj2d,0_5pbrb0kb,0_wu2bw6bi,436,437,438,439,440,441,442) | By-jeeyaho_ott333 | update entry set category='LIFESTYLE>BEAUTY,LIFESTYLE>YOGA,LIFESTYLE>HEALTH,LIFESTYLE>DIET,LIFESTYLE>FOOD,LIFESTYLE>FASHION,LIFESTYLE>FITNESS', categoryid='439,436,437,438,440,441,442' where entryid='0_wu2bw6bi' 
+07/09/2018 08:44:21 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

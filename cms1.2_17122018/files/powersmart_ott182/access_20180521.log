@@ -1,0 +1,7 @@
+21/05/2018 10:39:53 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+21/05/2018 05:37:22 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+21/05/2018 06:57:24 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+21/05/2018 12:29:19 | SUCCESS | Update Category(Politics) | By-PowerSmart_ott182 | update categories set cat_name='Politics',description='Latest Politics News',tags='politics,politicians,karnataka politics,elections,voting,vote,india elections,congress party,bjp,bj party,jds,tamilnadu politics',fullname='Politics' where category_id='376'
+21/05/2018 12:29:40 | SUCCESS | Update Category(Politics) | By-PowerSmart_ott182 | update categories set cat_name='Politics',description='Latest Politics News',tags='politics,politicians,karnataka politics,elections,voting,vote,india elections,congress party,bjp,bj party,jds,tamilnadu politics',fullname='Politics' where category_id='376'
+21/05/2018 12:32:04 | SUCCESS | update Header Content Detail(Politics) | By-PowerSmart_ott182 | 
+21/05/2018 12:32:51 | SUCCESS | update Header Content Detail(News) | By-PowerSmart_ott182 | 

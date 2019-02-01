@@ -1,0 +1,106 @@
+02/06/2018 04:02:20 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 04:21:20 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 05:07:09 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 05:09:34 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 11:06:18 | SUCCESS | Add New HomeSettingTag(BABA) | By-Adosphere_ott488 | 
+02/06/2018 11:06:35 | SUCCESS | Delete HomeSettingTag (23) | By-Adosphere_ott488 | delete from home_title_tag where tags_id='23'
+02/06/2018 11:08:11 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+02/06/2018 11:08:19 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+02/06/2018 11:19:17 | SUCCESS | Add New Plan (556) | By-Adosphere_ott488 | 
+02/06/2018 11:20:03 | SUCCESS | update plan Detail(556) | By-Adosphere_ott488 | 
+02/06/2018 11:36:22 | SUCCESS | Home Setting inactive(HomeID:22,Status:inactive) | By-Adosphere_ott488 | 
+02/06/2018 06:07:31 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 11:45:14 | SUCCESS | Add New HomeSettingTag(madhavi _283) | By-Adosphere_ott488 | 
+02/06/2018 11:45:24 | SUCCESS | Delete HomeSettingTag (24) | By-Adosphere_ott488 | delete from home_title_tag where tags_id='24'
+02/06/2018 12:15:46 | SUCCESS | update plan Detail(PAY PLAN) | By-Adosphere_ott488 | 
+02/06/2018 12:19:32 | SUCCESS | Add New Slider Image(C:\fakepath\ishqshava2.jpg) | By-Adosphere_ott488 | 
+02/06/2018 12:31:56 | SUCCESS | Add New Content Partner(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 12:32:14 | SUCCESS | update Content Partner Detail(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 12:32:42 | SUCCESS | Delete Content Partner (14) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='14'
+02/06/2018 07:11:39 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+02/06/2018 07:12:00 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 07:12:53 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+02/06/2018 07:13:09 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+02/06/2018 07:14:17 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 07:16:43 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 07:17:05 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 12:50:39 | SUCCESS | update Dashboard user(Geetanjali) | By-Adosphere_ott488 | 
+02/06/2018 12:51:17 | SUCCESS | update Dashboard user(Ravindra) | By-Adosphere_ott488 | 
+02/06/2018 07:21:45 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+02/06/2018 07:24:29 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 07:33:49 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+02/06/2018 07:52:54 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+02/06/2018 07:54:20 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 08:40:55 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+02/06/2018 08:58:40 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+02/06/2018 09:07:29 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/06/2018 14:52:39 | SUCCESS | Updtate MetaData(0_kiy1ju7y) | By-Adosphere_ott488 | update entry set name='Fireworks | Celebration',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_kiy1ju7y/version/100022',longdescription='',
+        duration='28',type='1',tag='fire, work, cracker, cb2018',category='ON DEMAND>CELEB INTERVIEWS>UP - CLOSE - HOLLYWOOD,ON DEMAND>CELEB GOSSIP>HUSH HUSH HOLLYWOOD',categoryid='235,238',
+        updated_at='2018-06-02 14:55:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_kiy1ju7y'
+02/06/2018 14:57:44 | SUCCESS | Updtate MetaData(0_mcxyvc7q) | By-Adosphere_ott488 | update entry set name='Exercise - Jason Jhonson - Mountain Climbers',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mcxyvc7q/version/100002',longdescription='Jason Jhonson tutorial for basic exercise of mount climbers after running for 30 seconds.',
+        duration='50',type='1',tag='jason, jhonson, byond, fitness, expert, tips, exercises, basic, mount, climbers, 30, seconds, in, out, after, running, finomnal, body, arms, back, abs, workout, tutorial, muscle, footwork, foot, skips, side, suffels, karaoke, shuttle, run, warm, upmountain, rock, bt2018',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-02 15:00:24',shortdescription='Jason Jhonson tutorial for basic exercise of mount climbers after running for 30 seconds.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_mcxyvc7q'
+02/06/2018 14:58:58 | SUCCESS | Updtate MetaData(0_nlx5lp27) | By-Adosphere_ott488 | update entry set name='Womens Faux Hawk on Curly Hair',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nlx5lp27/version/100002',longdescription='Watch the real class of how to cut curly hair and make it short and stylish.',
+        duration='891',type='1',tag='matt, beck, hair, cut, heavy, short, long, stylish, look, bang, tutorial, trendy, scissors, tips, right, way, curley, smooth, volume, different, easy, shoterside, longerside, tricks, thick, sections, ironhair, razer, twisted, overdirect, cutting, technique, vibra, straight, iron, blow, dryer, bt2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-02 15:01:38',shortdescription='Watch the real class of how to cut curly hair and make it short and stylish.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_nlx5lp27'
+02/06/2018 15:01:29 | SUCCESS | Updtate MetaData(0_r0ls3mpn) | By-Adosphere_ott488 | update entry set name='Flying beautiful creature bird Robi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_r0ls3mpn/version/100012',longdescription='Watch Robin bird beautiful creature.',
+        duration='8',type='1',tag='robin, bird, beautiful, robin bird, nature, nature living, nature life, rare birds, bird living, natural creature, creature, flying, fly bird, flying creature, aw2018, hs2018',category='ON DEMAND>ANIMALS>TINY FLY',categoryid='199',
+        updated_at='2018-06-02 15:04:09',shortdescription='Watch Robin bird beautiful creature.',
+        director='',producer='',cast='',crew='',sub_genre='Birds',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_r0ls3mpn'
+02/06/2018 15:05:16 | SUCCESS | Add New Slider Image(C:\fakepath\palatterahero.jpg) | By-Adosphere_ott488 | 
+02/06/2018 15:06:35 | SUCCESS | Delete slider Image (100) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='100'
+02/06/2018 15:06:39 | SUCCESS | Delete slider Image (99) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='99'
+02/06/2018 15:07:06 | SUCCESS | Add New Slider Image(C:\fakepath\soorajdoobahai1.jpg) | By-Adosphere_ott488 | 
+02/06/2018 15:14:21 | SUCCESS | Updtate MetaData(0_j0gg7boh) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 28 - Is It Yours',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_j0gg7boh/version/100002',longdescription='The Kids Animation Takat the dog episode 28 - Takat walks around in park and see what happens .',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 28, peekaboo, yours, bt2018',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-02 15:17:02',shortdescription='The Kids Animation Takat the dog episode 28 - Takat walks around in park and see what happens .',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_j0gg7boh'
+02/06/2018 15:17:46 | SUCCESS | Updtate MetaData(0_apwk10hv) | By-Adosphere_ott488 | update entry set name='Dancing moves and music beats',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_apwk10hv/version/100012',longdescription='Watch the enjoyment with friends a street dance.\r\n',
+        duration='60',type='1',tag='dance, move, melody, couple, friend, couple dance, street, enjoy, fun, street dance, beats, music, music beats, friend group dance, ls2018, ap2018',category='ON DEMAND>DANCE>WARM UPS',categoryid='211',
+        updated_at='2018-06-02 15:20:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_apwk10hv'
+02/06/2018 15:25:32 | SUCCESS | Updtate MetaData(0_rxnrdv11) | By-Adosphere_ott488 | update entry set name='Exercise - Jason Beach pull up',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rxnrdv11/version/100002',longdescription='Jason Jhonson tutorial for basic exercise of beach pull up for arms abs and legs.',
+        duration='57',type='1',tag='jason, jhonson, byond, fitness, expert, tips, exercises, basic, mount, climbers, 30, seconds, in, out, after, running, finomnal, body, arms, back, abs, workout, tutorial, muscle, footwork, foot, skips, side, suffels, karaoke, shuttle, run, race, ls2018',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-02 15:28:12',shortdescription='Jason Jhonson tutorial for basic exercise of beach pull up for arms abs and legs.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_rxnrdv11'
+02/06/2018 15:27:25 | SUCCESS | Updtate MetaData(0_tv5wgx8j) | By-Adosphere_ott488 | update entry set name='How to make sweet boondi- Angoori Boondi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tv5wgx8j/version/100002',longdescription='Let us try how to make sweet boondi- angoori boondi which is simple & easy method to cook.',
+        duration='418',type='1',tag='boondi ki recipe, boondi laddu recipe, boondi recipe, sweets recipes in hindi, sweet boondi recipe, urad dal sweet boondi recipe, meethi boondi, boondi ke laddu, angoori boondi, how to make sweet boondi at home, home made boondi recipe, shaheen kitchen, chef shaheen khan kitchen, shaheen khan, cookery show, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, chinese soup recipes, home made reciepe, cooking, at home recipe, cookery, angoori bondi, dessert, boondi sweet, ep2018',category='ON DEMAND>COOKING>CULINARY',categoryid='287',
+        updated_at='2018-06-02 15:30:05',shortdescription='Let us try how to make sweet boondi- angoori boondi- simple easy method',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Dessert',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_tv5wgx8j'
+02/06/2018 15:30:33 | SUCCESS | Delete Video entry(0_cmy1zl2a) | By-Adosphere_ott488 | 
+02/06/2018 15:30:34 | SUCCESS | Delete Video entry(0_aqkbjxk1) | By-Adosphere_ott488 | 
+02/06/2018 15:30:35 | SUCCESS | Delete Video entry(0_wimrlwkr) | By-Adosphere_ott488 | 
+02/06/2018 15:30:37 | SUCCESS | Delete Video entry(0_ie13sjt0) | By-Adosphere_ott488 | 
+02/06/2018 15:30:38 | SUCCESS | Delete Video entry(0_xi6r2vq3) | By-Adosphere_ott488 | 
+02/06/2018 15:30:40 | SUCCESS | Delete Video entry(0_6d4ruvhs) | By-Adosphere_ott488 | 
+02/06/2018 15:30:41 | SUCCESS | Delete Video entry(0_x8sm6tdt) | By-Adosphere_ott488 | 
+02/06/2018 15:30:43 | SUCCESS | Delete Video entry(0_gk3cb6un) | By-Adosphere_ott488 | 
+02/06/2018 15:30:44 | SUCCESS | Delete Video entry(0_rrczm2jl) | By-Adosphere_ott488 | 
+02/06/2018 15:30:45 | SUCCESS | Delete Video entry(0_j4muf5m6) | By-Adosphere_ott488 | 
+02/06/2018 15:32:18 | SUCCESS | Delete Video entry(0_13qyw4xf) | By-Adosphere_ott488 | 
+02/06/2018 16:40:31 | SUCCESS | Add New HomeSettingTag(a_u4384) | By-Adosphere_ott488 | 
+02/06/2018 16:40:39 | SUCCESS | Delete HomeSettingTag (25) | By-Adosphere_ott488 | delete from home_title_tag where tags_id='25'
+02/06/2018 17:40:38 | SUCCESS | Save Bulk Plan(0_l5qsbalw,0_ns3fwsft,0_ery3fhc8,0) | By-Adosphere_ott488 | update entry set ispremium='0',type='1',status='2' where entryid='0_ery3fhc8'
+02/06/2018 17:41:26 | SUCCESS | Bulk Add Category(0_kkt42phy,0_lvchswgr,0_qeex7dlv,0_ocu51bec,0_qbm9j07x,195,197) | By-Adosphere_ott488 | update entry set category='ON DEMAND>AUTOMOBILE>DRIFT,ON DEMAND>AUTOMOBILE>WRENCH', categoryid='195,197' where entryid='0_qbm9j07x' 
+02/06/2018 17:50:13 | SUCCESS | Bulk Add Category(0_8vkci37b,0_s32u8h1r,0_6n15siqe,209,212) | By-Adosphere_ott488 | update entry set category='ON DEMAND>EXTREME SPORTS>BEYOND,ON DEMAND>EXTREME SPORTS>CONTEMPORARY', categoryid='209,212' where entryid='0_6n15siqe' 
+02/06/2018 17:50:33 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+02/06/2018 12:47:14 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

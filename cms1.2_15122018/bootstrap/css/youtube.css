@@ -1,0 +1,31 @@
+.custom-table{width:100%;}
+.full-width{width:100%;}
+.redBorder{border: 1px solid red;}
+.bg-liteGray{background: #EEEEEE; margin-bottom: 10px;}
+.custom-table td{padding:5px;}
+.playlist-list li{padding: 5px;vertical-align: baseline;padding-left: 10px;background: #EEEEEE; border-bottom: 1px solid #fff;font-size: 13px; text-transform: uppercase;cursor: pointer;color: #000;}
+.playlist-list li:hover,.active-playlist{color: red!important;background: #e0dede!important;}
+.playlist-list li div.row{margin-top:5px;}
+.substr{ font-size: 10px;overflow: hidden;text-overflow:ellipsis;height:25px;padding: 0;}
+#getPlaylist,#getPlaylistVideo,.basket{max-height: 400px;min-height: 150px;overflow-y: auto;overflow-x: hidden;}
+#getPlaylistVideo ol{margin: 0px; padding: 0px;}
+#getPlaylist ol{padding: 0px;margin: 0px; margin-left: 25px;}
+.border-bottom{border-bottom: 1px solid #269ABC;padding-bottom:  5px;}
+.playlist-list  label {display:block; margin-bottom: 0px; font-weight: normal;cursor: pointer;}
+.listNone{list-style: none;}
+.border-top{border-top:1px solid #EEEEEE;}
+.basket{ margin-bottom: 5px;}
+.basket .btn{margin: 5px;}
+div#actionBtns{margin-left: 0px!important;border: 1px solid #EEEEEE;padding-top: 4px;}
+#basketData img{border: 1px solid #EEEEEE;margin: 0px;padding: 0px;}
+#basketData>div{position: relative;float: left;margin-bottom: 10px; margin-left: 5px;}
+#basketData>div:hover .removBasketData{display: inline-block;}
+.removBasketData{color: gray;position: absolute;display: none;top:-13px;right:0;cursor: pointer;font-size: 18px;}
+.removBasketData:hover{color: red;}
+
+select[name='category']{font-size: 12px;background: #FFF;border: 1px solid #EEEEEE;padding:4px;width: 100%;margin-bottom: 2px;text-transform: capitalize;}
+select[name='category']:focus{border: 1px solid red!important;}
+select[name='category'] option{padding:1px 5px 1px 5px; font-weight: bold;color: #000;font-weight: normal;}
+select[name='category'] optgroup{padding-left: 10px;font-weight: normal;}
+optgroup.sub{border-bottom: 1px solid #00ACD6;color: #00ACD6;font-weight:600!important;}
+optgroup.sub_sub{padding-left: 20px!important;color: #00ACD6;}

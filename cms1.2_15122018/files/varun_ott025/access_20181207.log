@@ -1,0 +1,27 @@
+07/12/2018 09:11:44 | SUCCESS | delete Category(417) | By-varun_ott025 | update categories set status='3' where category_id='417'
+07/12/2018 09:15:25 | SUCCESS | delete Category(144) | By-varun_ott025 | update categories set status='3' where category_id='144'
+07/12/2018 09:17:40 | SUCCESS | delete Category(407) | By-varun_ott025 | update categories set status='3' where category_id='408' and parent_id='407'
+07/12/2018 09:18:49 | SUCCESS | delete Category(407) | By-varun_ott025 | update categories set status='3' where category_id='408' and parent_id='407'
+07/12/2018 09:20:03 | SUCCESS | delete Category(407) | By-varun_ott025 | update categories set status='3' where category_id='408' and parent_id='407'
+07/12/2018 09:57:47 | SUCCESS | delete Category(417) | By-varun_ott025 | update categories set status='3' where category_id='417'
+07/12/2018 10:01:47 | SUCCESS | delete Category(410) | By-varun_ott025 | update categories set status='3' where category_id='410'
+07/12/2018 10:02:28 | SUCCESS | delete Category(143) | By-varun_ott025 | update categories set status='3' where category_id='143'
+07/12/2018 10:05:08 | SUCCESS | delete Category(139) | By-varun_ott025 | update categories set status='3' where category_id='139'
+07/12/2018 10:08:23 | SUCCESS | delete Category(144) | By-varun_ott025 | update categories set status='3' where category_id='144'
+07/12/2018 10:10:28 | SUCCESS | delete Category(142) | By-varun_ott025 | update categories set status='3',priority='0' where category_id='142'
+07/12/2018 10:11:30 | SUCCESS | delete Category(418) | By-varun_ott025 | update categories set status='3',priority='0' where category_id='418'
+07/12/2018 10:31:01 | SUCCESS | Updtate MetaData(0_r9r2mhzy) | By-varun_ott025 | update entry set name='Butterfly video',thumbnail='http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_r9r2mhzy/version/100002',longdescription='test video',
+        duration='9',type='1',tag='test, video, butterly',category='ON DEMAND>ANIMALS>CUTE ANIMALS,ON DEMAND>ANIMALS>INDOOR PET',categoryid='139,140',
+        updated_at='2018-12-07 10:36:20',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='nature',
+        language='English',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_r9r2mhzy'
+07/12/2018 10:37:37 | SUCCESS | delete Category(141) | By-varun_ott025 | 
+07/12/2018 10:38:30 | SUCCESS | delete Category(141) | By-varun_ott025 | 
+07/12/2018 10:38:46 | SUCCESS | delete Category(141) | By-varun_ott025 | 
+07/12/2018 10:39:30 | SUCCESS | delete Category(408) | By-varun_ott025 | 
+07/12/2018 10:40:19 | SUCCESS | delete Category(408) | By-varun_ott025 | 
+07/12/2018 10:44:37 | SUCCESS | delete Category(409) | By-varun_ott025 | update categories set status='3',priority='0' where category_id='409'
+07/12/2018 10:46:33 | SUCCESS | delete Category(408) | By-varun_ott025 | 
+07/12/2018 10:57:11 | SUCCESS | delete Category(408) | By-varun_ott025 | 
+07/12/2018 11:00:54 | SUCCESS | Sync Category | By-varun_ott025 | 

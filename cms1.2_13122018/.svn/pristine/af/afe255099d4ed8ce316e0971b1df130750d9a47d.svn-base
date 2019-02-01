@@ -1,0 +1,15 @@
+26/07/2018 09:59:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/07/2018 15:29:26 | SUCCESS | Delete HomeSettingTag (20) | By-Biocine_ott503 | delete from home_title_tag where tags_id='20'
+26/07/2018 15:29:42 | SUCCESS | Delete HomeSettingTag (13) | By-Biocine_ott503 | delete from home_title_tag where tags_id='13'
+26/07/2018 15:30:05 | SUCCESS | Delete HomeSettingTag (19) | By-Biocine_ott503 | delete from home_title_tag where tags_id='19'
+26/07/2018 15:30:58 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+26/07/2018 15:38:19 | SUCCESS | Delete HomeSettingTag (17) | By-Biocine_ott503 | delete from home_title_tag where tags_id='17'
+26/07/2018 15:41:34 | SUCCESS | Update Coupon (24) | By-Biocine_ott503 | update coupon set name='MSSSMSMSMSMMS',code='4P5TFAOU69',type='P',discount='32434343434.0000',date_start='2018-07-21 14:21:38',
+      date_end='2018-08-21 14:21:38',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='24'
+26/07/2018 15:42:04 | SUCCESS | Update Coupon (13) | By-Biocine_ott503 | update coupon set name='NEWWW',code='1W1W1W',type='P',discount='50.0000',date_start='2018-07-12 16:00:17',
+      date_end='2018-08-12 16:00:17',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='13'
+26/07/2018 15:42:32 | SUCCESS | Update Coupon (13) | By-Biocine_ott503 | update coupon set name='NEWWW',code='1W1W1W',type='P',discount='50.0000',date_start='2018-07-12 16:00:17',
+      date_end='2018-08-12 16:00:17',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='13'
+26/07/2018 11:35:13 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/07/2018 17:05:38 | SUCCESS | Save New video(0_u4ejkasa) | By-Biocine_ott503 | 
+26/07/2018 17:32:59 | SUCCESS | Bulk Add Category(0_ibikoacz,0_jhw3kief,0_k8wo5hue,0_u4ejkasa,295) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES', categoryid='295' where entryid='0_u4ejkasa' 

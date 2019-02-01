@@ -1,0 +1,21 @@
+04/07/2018 04:49:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/07/2018 10:35:20 | SUCCESS | update Content Partner Detail(biocinene) | By-Biocine_ott503 | 
+04/07/2018 10:54:18 | SUCCESS | Add New Content Partner(abcd ) | By-Biocine_ott503 | 
+04/07/2018 05:32:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/07/2018 12:09:34 | SUCCESS | update Content Partner Detail(biiioocinnee dcdcdcd1212) | By-Biocine_ott503 | 
+04/07/2018 12:19:43 | SUCCESS | Delete Content Partner (3) | By-Biocine_ott503 | DELETE FROM content_partner WHERE contentpartnerid='3'
+04/07/2018 12:20:51 | SUCCESS | Add New Content Partner(bioooooo) | By-Biocine_ott503 | 
+04/07/2018 12:21:11 | SUCCESS | Delete Content Partner (7) | By-Biocine_ott503 | DELETE FROM content_partner WHERE contentpartnerid='7'
+04/07/2018 12:31:37 | SUCCESS | Add New Plan (10 days) | By-Biocine_ott503 | 
+04/07/2018 12:32:27 | SUCCESS | Add New Plan (2 days) | By-Biocine_ott503 | 
+04/07/2018 12:48:41 | SUCCESS | update plan Detail(10 days) | By-Biocine_ott503 | 
+04/07/2018 12:57:21 | SUCCESS | Update New Plan Price(p775) | By-Biocine_ott503 | 
+04/07/2018 13:01:40 | SUCCESS | update plan Detail(10 days) | By-Biocine_ott503 | 
+04/07/2018 14:18:28 | SUCCESS | Update New Plan Price(p950) | By-Biocine_ott503 | 
+04/07/2018 09:32:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/07/2018 10:35:34 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/07/2018 16:18:33 | SUCCESS | Add New Dashboard user (CDCD) | By-Biocine_ott503 | 
+04/07/2018 16:37:56 | SUCCESS | Add New Dashboard user (bio ) | By-Biocine_ott503 | 
+04/07/2018 16:45:33 | SUCCESS | Add New Dashboard user (AB) | By-Biocine_ott503 | 
+04/07/2018 12:28:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/07/2018 18:01:11 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 

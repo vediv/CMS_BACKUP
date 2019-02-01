@@ -1,0 +1,14 @@
+03/12/2018 10:17:50 | SUCCESS | login-(Planetcast) | By-Planetcast_ott417 | 
+03/12/2018 15:49:52 | ERROR-SQL | update plan Detail Fail(Monthly) | By-Planetcast_ott417 | update plandetail set planName='Monthly',pduration='30',pdescription='',
+             planuniquename='p',plan_update_date=Now(),currency='',plan_used_for='p' where planID='p943'
+03/12/2018 15:49:57 | ERROR-SQL | update plan Detail Fail(Monthly) | By-Planetcast_ott417 | update plandetail set planName='Monthly',pduration='30',pdescription='',
+             planuniquename='p',plan_update_date=Now(),currency='',plan_used_for='p' where planID='p943'
+03/12/2018 15:50:03 | SUCCESS | Plan inactive(planID:p943,Status:inactive) | By-Planetcast_ott417 | 
+03/12/2018 15:50:05 | SUCCESS | Plan inactive(planID:p778,Status:inactive) | By-Planetcast_ott417 | 
+03/12/2018 15:50:07 | SUCCESS | Plan inactive(planID:p797,Status:inactive) | By-Planetcast_ott417 | 
+03/12/2018 15:50:09 | SUCCESS | Plan inactive(planID:p542,Status:inactive) | By-Planetcast_ott417 | 
+03/12/2018 15:50:19 | ERROR-SQL | plan not Created(Monthly) | By-Planetcast_ott417 | insert into plandetail(planID,planName,pValue,pduration,pdescription,plan_added_date,plan_update_date,plan_created_by,planuniquename,currency,plan_used_for)
+        values('p783','Monthly','','30','',NOW(),NOW(),'90','p','','p')
+03/12/2018 15:50:32 | ERROR-SQL | plan not Created(Monthly) | By-Planetcast_ott417 | insert into plandetail(planID,planName,pValue,pduration,pdescription,plan_added_date,plan_update_date,plan_created_by,planuniquename,currency,plan_used_for)
+        values('p751','Monthly','','30','Monthly plan',NOW(),NOW(),'90','p','','p')
+03/12/2018 11:06:41 | SUCCESS | login-(Planetcast) | By-Planetcast_ott417 | 

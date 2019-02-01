@@ -1,0 +1,85 @@
+05/07/2018 04:20:48 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+05/07/2018 04:24:32 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+05/07/2018 09:57:02 | SUCCESS | Slider image inactive(SliderID:107,Status:inactive) | By-Geetanjali_ott488 | 
+05/07/2018 09:57:05 | SUCCESS | Slider image inactive(SliderID:109,Status:inactive) | By-Geetanjali_ott488 | 
+05/07/2018 09:57:09 | SUCCESS | Slider image inactive(SliderID:108,Status:inactive) | By-Geetanjali_ott488 | 
+05/07/2018 09:57:16 | SUCCESS | Slider image inactive(SliderID:110,Status:inactive) | By-Geetanjali_ott488 | 
+05/07/2018 09:57:20 | SUCCESS | Slider image active(SliderID:110,Status:active) | By-Geetanjali_ott488 | 
+05/07/2018 09:57:30 | SUCCESS | Slider image inactive(SliderID:111,Status:inactive) | By-Geetanjali_ott488 | 
+05/07/2018 09:57:32 | SUCCESS | Slider image inactive(SliderID:112,Status:inactive) | By-Geetanjali_ott488 | 
+05/07/2018 04:41:18 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+05/07/2018 10:35:24 | SUCCESS | update Slider Detail(0_nl2hem5c,'') | By-Adosphere_ott488 | 
+05/07/2018 10:35:34 | SUCCESS | update Slider Detail(0_nl2hem5c,'') | By-Adosphere_ott488 | 
+05/07/2018 05:22:23 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+05/07/2018 10:55:14 | SUCCESS | Updtate MetaData(0_5ejbgc6o) | By-Adosphere_ott488 | update entry set name='Anavakkari |Shilpa Shetty, Upendra | Hit Movie',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5ejbgc6o/version/100002',longdescription='Watch full length drama movie in Tamil language Anavakkari and starring Shilpa Shetty, Upendra.',
+        duration='9352',type='1',tag='tamil, tollywood, comedy, movies, south, indian, movie, full, length, 90s, cinema, interesting, classic, anavakkari, anna, vakkari, shilpa, shetty, upender, upendra, hit, superhit, south hits, shilpa movie, shilpa kundra, bollywood actress, kundra, bollywood, aanavakkari, rajendra, babu, sabish, vikesh, upethira, kutti, radhika, soornakka, sumitra, guru, kiran, sri, muthappan, upindra',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-07-05 10:58:23',shortdescription='Watch full length drama movie in Tamil language Anavakkari and starring Shilpa Shetty, Upendra.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_5ejbgc6o'
+05/07/2018 11:35:05 | SUCCESS | Delete slider Image (107) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='107'
+05/07/2018 11:35:17 | SUCCESS | Delete slider Image (109) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='109'
+05/07/2018 11:35:20 | SUCCESS | Delete slider Image (108) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='108'
+05/07/2018 11:35:24 | SUCCESS | Delete slider Image (111) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='111'
+05/07/2018 11:35:27 | SUCCESS | Delete slider Image (112) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='112'
+05/07/2018 11:35:45 | SUCCESS | Slider image active(SliderID:89,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 11:36:53 | SUCCESS | Add New Slider Image(C:\fakepath\3.jpg) | By-Adosphere_ott488 | 
+05/07/2018 11:37:35 | SUCCESS | Add New Slider Image(C:\fakepath\2.jpg) | By-Adosphere_ott488 | 
+05/07/2018 11:37:44 | SUCCESS | Slider image active(SliderID:114,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 11:37:46 | SUCCESS | Slider image active(SliderID:113,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 11:39:12 | SUCCESS | Add New Slider Image(C:\fakepath\5.jpg) | By-Adosphere_ott488 | 
+05/07/2018 11:39:23 | SUCCESS | Slider image active(SliderID:115,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 11:41:24 | SUCCESS | Add New Slider Image(C:\fakepath\4.jpg) | By-Adosphere_ott488 | 
+05/07/2018 11:41:32 | SUCCESS | Slider image active(SliderID:116,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 11:41:55 | SUCCESS | Add New Slider Image(C:\fakepath\1.jpg) | By-Adosphere_ott488 | 
+05/07/2018 11:42:05 | SUCCESS | Slider image active(SliderID:117,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 11:42:35 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+05/07/2018 11:43:45 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+05/07/2018 11:45:26 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+05/07/2018 11:47:11 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+05/07/2018 11:50:39 | SUCCESS | update Slider Detail(0_2g3mj6dr,'') | By-Adosphere_ott488 | 
+05/07/2018 11:50:50 | SUCCESS | update Slider Detail(0_2g3mj6dr,'') | By-Adosphere_ott488 | 
+05/07/2018 11:51:04 | SUCCESS | update Slider Detail(0_nl2hem5c,'') | By-Adosphere_ott488 | 
+05/07/2018 11:51:22 | SUCCESS | update Slider Detail(0_a5a4gg4c,'') | By-Adosphere_ott488 | 
+05/07/2018 11:51:28 | SUCCESS | update Slider Detail(0_8hqyp1mi,'') | By-Adosphere_ott488 | 
+05/07/2018 12:13:36 | SUCCESS | Save Content Viewer Rating(0_2y40u6lr,PG13) | By-Geetanjali_ott488 | 
+05/07/2018 12:15:22 | SUCCESS | Updtate MetaData(0_yjev85pn) | By-Adosphere_ott488 | update entry set name='Ring around the rose',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_yjev85pn/version/100012',longdescription='Watch the new version of Ring around the roses nursery rhyme and sing along with the video.',
+        duration='68',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, ring, ringa, rose, nursery, english, rhyme, subtitles, poems, roses, garden, purple, turtle',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-05 12:18:31',shortdescription='Watch the new version of Ring around the roses nursery rhyme and sing along with the video.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_yjev85pn'
+05/07/2018 12:16:28 | SUCCESS | update Slider Detail(0_2y40u6lr,'') | By-Geetanjali_ott488 | 
+05/07/2018 12:16:33 | SUCCESS | Slider image active(SliderID:91,Status:active) | By-Geetanjali_ott488 | 
+05/07/2018 12:19:58 | SUCCESS | Slider image inactive(SliderID:114,Status:inactive) | By-Adosphere_ott488 | 
+05/07/2018 12:20:24 | SUCCESS | Add New Slider Image(C:\fakepath\2 .jpg) | By-Adosphere_ott488 | 
+05/07/2018 12:20:36 | SUCCESS | Slider image active(SliderID:118,Status:active) | By-Adosphere_ott488 | 
+05/07/2018 12:20:46 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+05/07/2018 12:21:22 | SUCCESS | Delete slider Image (114) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='114'
+05/07/2018 12:25:04 | SUCCESS | Updtate MetaData(0_lzi3u5ou) | By-Adosphere_ott488 | update entry set name='Teddy Bear Nursery Rhyme',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lzi3u5ou/version/100012',longdescription='Watch the video and make kid sing - dance along with the Nursery Rhyme of Teddy Bear.',
+        duration='57',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, teddy, bear, english, nursery, rhyme, poem, poems, soft, toy, purple, turtle, school',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-05 12:28:12',shortdescription='Watch the video and make kid sing - dance along with the Nursery Rhyme of Teddy Bear.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_lzi3u5ou'
+05/07/2018 08:54:17 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+05/07/2018 14:25:06 | SUCCESS | Delete Video entry(0_uc30a6hj) | By-Adosphere_ott488 | 
+05/07/2018 14:27:06 | SUCCESS | Updtate MetaData(0_nyqefqa6) | By-Adosphere_ott488 | update entry set name='Rig a Jig Jig  Popular Rhyme Subtitle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nyqefqa6/version/100012',longdescription='Watch the video Rig a jig Jig a popular nursery rhyme , kids will enjoy dance and sing along with the video.',
+        duration='68',type='1',tag='kids, kahaniya, cartoon, children, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, rig, jig, popular, english, rhyme, subtitle, rhyming, poems, purple, turtle',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-05 14:30:14',shortdescription='Watch the video Rig a jig Jig a popular nursery rhyme , kids will enjoy dance and sing along with the video.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_nyqefqa6'
+05/07/2018 14:32:48 | SUCCESS | Updtate MetaData(0_ghchjw0c) | By-Adosphere_ott488 | update entry set name='IF YOU ARE HAPPY | TRADITIONAL NURSERY RHYME',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ghchjw0c/version/100012',longdescription='Watch \' If you are happy \' the traditional nursery rhyme and sing along with the video.',
+        duration='58',type='1',tag='kids, english, rhyme, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, happy, traditional, nursery, poems, purple, turtle',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-05 14:35:56',shortdescription=' Watch \' If you are happy \' the traditional nursery rhyme and sing along with the video. ',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_ghchjw0c'
+05/07/2018 09:36:06 | SUCCESS | login-(Ados) | By-Ados_ott488 | 
+05/07/2018 15:16:56 | SUCCESS | Save Thumbnail(0_acjm3u9o) | By-Adosphere_ott488 | 
+05/07/2018 15:21:49 | SUCCESS | Save Thumbnail(0_acjm3u9o) | By-Adosphere_ott488 | 
+05/07/2018 16:56:48 | SUCCESS | update plan Detail(Yearly) | By-Adosphere_ott488 | 
+05/07/2018 12:15:37 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+05/07/2018 17:45:55 | SUCCESS | Slider image inactive(SliderID:118,Status:inactive) | By-Adosphere_ott488 | 
+05/07/2018 17:46:24 | SUCCESS | Add New Slider Image(C:\fakepath\23.jpg) | By-Adosphere_ott488 | 

@@ -1,0 +1,119 @@
+30/11/2018 00:55:06 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/11/2018 06:49:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+30/11/2018 17:23:42 | SUCCESS | Save New video(0_bhkwpgyy) | By-Biocine_ott503 | 
+30/11/2018 18:01:59 | SUCCESS | Add New Header Content(AWARDS) | By-Biocine_ott503 | 
+30/11/2018 18:02:28 | SUCCESS | update Header Content Detail(AWARDS) | By-Biocine_ott503 | 
+30/11/2018 18:02:37 | SUCCESS | Header Menu active(HeaderID:45,Status:active) | By-Biocine_ott503 | 
+30/11/2018 18:06:14 | SUCCESS | update Header Content Detail(AWARDS) | By-Biocine_ott503 | 
+30/11/2018 18:22:06 | SUCCESS | Save New video(0_3c5xsvuv) | By-Biocine_ott503 | 
+30/11/2018 18:27:35 | SUCCESS | Save New video(0_iggaynip) | By-Biocine_ott503 | 
+30/11/2018 18:52:47 | SUCCESS | Save New video(0_bz5frrfs) | By-Biocine_ott503 | 
+30/11/2018 21:33:08 | SUCCESS | Save Thumbnail(0_1bow4w30) | By-Biocine_ott503 | 
+30/11/2018 21:34:21 | SUCCESS | Save Thumbnail(0_amdeyhq0) | By-Biocine_ott503 | 
+30/11/2018 21:35:04 | SUCCESS | Updtate MetaData(0_1bow4w30) | By-Biocine_ott503 | update entry set name='Ujantali',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1bow4w30/version/100012',longdescription='',
+        duration='1622',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 21:40:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1bow4w30'
+30/11/2018 21:35:27 | SUCCESS | Updtate MetaData(0_amdeyhq0) | By-Biocine_ott503 | update entry set name='The Waltz',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_amdeyhq0/version/100012',longdescription='',
+        duration='568',type='1',tag='',category='',categoryid='',
+        updated_at='2018-11-30 21:40:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_amdeyhq0'
+30/11/2018 21:36:06 | SUCCESS | Updtate MetaData(0_055hp94v) | By-Biocine_ott503 | update entry set name=' Fucking Drama',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_055hp94v/version/100002',longdescription='',
+        duration='1023',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 21:41:20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_055hp94v'
+30/11/2018 21:37:04 | SUCCESS | Save Thumbnail(0_055hp94v) | By-Biocine_ott503 | 
+30/11/2018 21:37:28 | SUCCESS | Updtate MetaData(0_1czofhok) | By-Biocine_ott503 | update entry set name='DASTKHAT',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1czofhok/version/100002',longdescription='',
+        duration='360',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 21:42:42',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1czofhok'
+30/11/2018 21:37:56 | SUCCESS | Save Thumbnail(0_1czofhok) | By-Biocine_ott503 | 
+30/11/2018 21:38:27 | SUCCESS | Updtate MetaData(0_04cxzf3x) | By-Biocine_ott503 | update entry set name='SATYADAR COACHING',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_04cxzf3x/version/100002',longdescription='',
+        duration='1500',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 21:43:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_04cxzf3x'
+30/11/2018 21:42:19 | SUCCESS | Save Thumbnail(0_04cxzf3x) | By-Biocine_ott503 | 
+30/11/2018 21:44:12 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100002',longdescription='',
+        duration='1478',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 21:49:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xjue41pa'
+30/11/2018 21:45:04 | SUCCESS | Save Thumbnail(0_xjue41pa) | By-Biocine_ott503 | 
+30/11/2018 21:45:50 | SUCCESS | Updtate MetaData(0_62clf92u) | By-Biocine_ott503 | update entry set name=' KHEER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_62clf92u/version/100002',longdescription='',
+        duration='295',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 21:51:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_62clf92u'
+30/11/2018 22:19:53 | SUCCESS | Save Thumbnail(0_62clf92u) | By-Biocine_ott503 | 
+30/11/2018 22:20:30 | SUCCESS | Updtate MetaData(0_82hq1sf3) | By-Biocine_ott503 | update entry set name='BAASHIWALA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_82hq1sf3/version/100002',longdescription='',
+        duration='1764',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:25:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_82hq1sf3'
+30/11/2018 22:20:48 | SUCCESS | Updtate MetaData(0_82hq1sf3) | By-Biocine_ott503 | update entry set name='BAANSHIWALA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_82hq1sf3/version/100002',longdescription='',
+        duration='1764',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:26:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_82hq1sf3'
+30/11/2018 22:21:29 | SUCCESS | Save Thumbnail(0_82hq1sf3) | By-Biocine_ott503 | 
+30/11/2018 22:26:32 | SUCCESS | Updtate MetaData(0_6280y8r5) | By-Biocine_ott503 | update entry set name='Falling Again',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_6280y8r5/version/100002',longdescription='',
+        duration='330',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:31:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6280y8r5'
+30/11/2018 22:27:14 | SUCCESS | Save Thumbnail(0_6280y8r5) | By-Biocine_ott503 | 
+30/11/2018 22:28:14 | SUCCESS | Updtate MetaData(0_xrtd80uz) | By-Biocine_ott503 | update entry set name='MR BEEJA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xrtd80uz/version/100002',longdescription='',
+        duration='584',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:33:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xrtd80uz'
+30/11/2018 22:28:36 | SUCCESS | Updtate MetaData(0_6280y8r5) | By-Biocine_ott503 | update entry set name='FALLING AGAIN',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_6280y8r5/version/100012',longdescription='',
+        duration='330',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:33:49',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6280y8r5'
+30/11/2018 22:29:54 | SUCCESS | Save Thumbnail(0_xrtd80uz) | By-Biocine_ott503 | 
+30/11/2018 22:30:22 | SUCCESS | Updtate MetaData(0_dj4uj6rn) | By-Biocine_ott503 | update entry set name='Selfisshhhh',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dj4uj6rn/version/100002',longdescription='',
+        duration='1114',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:35:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dj4uj6rn'
+30/11/2018 22:31:52 | SUCCESS | Save Thumbnail(0_dj4uj6rn) | By-Biocine_ott503 | 
+30/11/2018 22:32:23 | SUCCESS | Updtate MetaData(0_dj4uj6rn) | By-Biocine_ott503 | update entry set name='SELF-ISSHHH',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dj4uj6rn/version/100012',longdescription='',
+        duration='1114',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-11-30 22:37:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dj4uj6rn'
+30/11/2018 23:38:27 | SUCCESS | Save Thumbnail(0_g55edpj9) | By-Biocine_ott503 | 
+30/11/2018 23:39:32 | SUCCESS | Updtate MetaData(0_g55edpj9) | By-Biocine_ott503 | update entry set name='Abhijan| Shock Studio',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_g55edpj9/version/100012',longdescription='',
+        duration='328',type='1',tag='',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-11-30 23:44:45',shortdescription='',
+        director='Jiit Chakraborty',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_g55edpj9'
+30/11/2018 23:47:07 | SUCCESS | Updtate MetaData(0_1wuopqpg) | By-Biocine_ott503 | update entry set name='BOHUDINER | SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1wuopqpg/version/100002',longdescription='',
+        duration='252',type='1',tag='',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-11-30 23:52:21',shortdescription='',
+        director='JIIT CHAKRABORTY',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1wuopqpg'
+30/11/2018 23:47:29 | SUCCESS | Save Thumbnail(0_1wuopqpg) | By-Biocine_ott503 | 

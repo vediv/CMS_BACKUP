@@ -1,0 +1,6 @@
+16/10/2018 04:41:04 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/10/2018 10:40:34 | SUCCESS | Update Category(LIVE) | By-jeeyaho_ott333 | update categories set cat_name='LIVE',description='',tags='',fullname='LIVE' where category_id='505'
+16/10/2018 05:56:32 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+16/10/2018 11:49:41 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+16/10/2018 12:43:12 | SUCCESS | Update Category(COMEDY) | By-jeeyaho_ott333 | update categories set cat_name='COMEDY',description='',tags='',fullname='MOVIES>ENGLISH>COMEDY' where category_id='501'
+16/10/2018 13:54:49 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 

@@ -1,0 +1,10 @@
+10/09/2018 05:33:01 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+10/09/2018 11:04:09 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+10/09/2018 12:24:03 | SUCCESS | Updtate MetaData(0_svgs1amt) | By-jeeyaho_ott333 | update entry set name='Yoga Aasan for healthy life',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_svgs1amt/version/100012',longdescription='Know how to get fit body with morning yoga aasan.',
+        duration='94',type='1',tag='yoga, health, tips, healthy, digestion, hindi, fitness, body, weight, loss, morning, walk, diet, fit',category='MUSIC,MUSIC>REGIONAL,MUSIC>REGIONAL>BHOJPURI,LIFESTYLE,LIFESTYLE>YOGA,LIFESTYLE>DIET,LIFESTYLE>HEALTH,LIFESTYLE>BEAUTY,LIFESTYLE>FOOD,LIFESTYLE>FASHION,LIFESTYLE>FITNESS',categoryid='486,487,488,435,436,438,437,439,440,441,442',
+        updated_at='2018-09-10 12:28:07',shortdescription='Know how to get fit body with morning yoga aasan.',
+        director='',producer='',cast='',crew='',sub_genre='Fitness',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_svgs1amt'
+10/09/2018 12:26:21 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 
+10/09/2018 12:26:54 | SUCCESS | Sync Category | By-jeeyaho_ott333 | 

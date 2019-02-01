@@ -1,0 +1,149 @@
+08/06/2018 04:36:47 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+08/06/2018 04:47:51 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+08/06/2018 11:32:58 | SUCCESS | Updtate MetaData(0_ft85lzf6) | By-Adosphere_ott488 | update entry set name='Antardwand | Ankit Jaiswal',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ft85lzf6/version/100002',longdescription='Watch social - drama short film  \'Antardwand\' which is directed by Ankit Jaiswal.',
+        duration='903',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, cinema, interesting, latest, classic, motivate, regional, antardwand, ankit, jaiswal, antar',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-06-08 11:35:44',shortdescription='Watch social - drama short film  \'Antardwand\' which is directed by Ankit Jaiswal.',
+        director='Ankit Jaiswal',producer='',cast='',crew='',sub_genre='Social',
+        language='Hindi',pgrating='NC16',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_ft85lzf6'
+08/06/2018 12:40:05 | SUCCESS | Save Thumbnail(0_fkj3zq9i) | By-Adosphere_ott488 | 
+08/06/2018 12:51:06 | SUCCESS | Updtate MetaData(0_uemmz493) | By-Adosphere_ott488 | update entry set name='Social Media and its connectivity',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_uemmz493/version/100002',longdescription='To enjoy the leisure of technology people are busy with the social applications and its feature to stay connected with the world.\r\n',
+        duration='20',type='1',tag='social, media, connect, connectivity, application, facebook, twitter, google, mobile, phone, cell, cellphone, mobile apps, videos, test',category='ON DEMAND>INFOTAINMENT>AMAZING WORLD',categoryid='204',
+        updated_at='2018-06-08 12:53:52',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_uemmz493'
+08/06/2018 12:51:32 | SUCCESS | Updtate MetaData(0_v4o4yike) | By-Adosphere_ott488 | update entry set name='Cute Animal Squirrel on tree',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_v4o4yike/version/100002',longdescription='Watch the video of cute tiny animal Squirrel eating on tree.',
+        duration='25',type='1',tag='aw2017, tree, green, forest, animal, squirrel, peanut, walnut, squirrel eating, cute, cute animal, little, little animal, tiny animal, aw2018, test',category='ON DEMAND>ANIMALS>CUTE ANIMALS,ON DEMAND>ANIMALS>INDOOR PET',categoryid='189,198',
+        updated_at='2018-06-08 12:54:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_v4o4yike'
+08/06/2018 12:52:00 | SUCCESS | Updtate MetaData(0_qeex7dlv) | By-Adosphere_ott488 | update entry set name='High quality Street view',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qeex7dlv/version/100012',longdescription='Watch the traditional third season Autumn where deciduous trees lose their leaves.\r\n',
+        duration='17',type='1',tag='ep2017, tree, leaf, leaves, autumn, street, car, road, bike, third season, trees leaf, lose leaf, street view, street life, places, amazed, visit places, info places, site view, test',category='ON DEMAND>AUTOMOBILE>DRIFT,ON DEMAND>AUTOMOBILE>WRENCH',categoryid='195,197',
+        updated_at='2018-06-08 12:54:46',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_qeex7dlv'
+08/06/2018 12:52:24 | SUCCESS | Updtate MetaData(0_xbtnvr6x) | By-Adosphere_ott488 | update entry set name='Riders Stunt | Bike Sport',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xbtnvr6x/version/100012',longdescription='Watch breathe taking bike riders stunt sport.\r\n',
+        duration='10',type='1',tag='ap2017, led, crosscart, led bike, led lights, lighting automobiles, automobiles, amazing creation, automobile creation, technology, racing snow, racing stunt, stunt, automobile stunt, speed of led, led speed, bike, bike stunt, bike stunt snow, snow bike stunt, stunt freaks team, led car design, led bike design, stunt freaks, stunt finish line, bike stunt finish line, bike finish line, tron races, latest stunt strapped, strapped stunt, strapped bike stunt, light bike, iconic sci fi, bikes, bike stunts, bike fly, wheelies, bike board, bike rider, rider, stunts, bike sports, bike ride, ls2018, test',category='ON DEMAND>EXTREME SPORTS>NO LIMIT',categoryid='208',
+        updated_at='2018-06-08 12:55:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_xbtnvr6x'
+08/06/2018 12:53:05 | SUCCESS | Updtate MetaData(0_m9dqx58k) | By-Adosphere_ott488 | update entry set name='Tears of Steel | Science Fiction',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_m9dqx58k/version/100012',longdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges \r\nin Amsterdam to stop army robots who threatens the planet.',
+        duration='734',type='1',tag='english, short, film, movie, movies, tear, steel, science, fiction, soldiers, refuge, ian, hubert, ton, roosendaal, army, robots, derek, de, lint, films, sci, fi, amsterdam, soldier, scientist, planet, hasselbaink, test',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        updated_at='2018-06-08 12:55:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_m9dqx58k'
+08/06/2018 12:53:33 | SUCCESS | Updtate MetaData(0_349rdhty) | By-Adosphere_ott488 | update entry set name='Ancient Monumental Triumphal Arch ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_349rdhty/version/100012',longdescription='Watch ancient monument structure which consist of two massive piers connected by an arch.\r\n',
+        duration='14',type='1',tag='ep2017, monument, arch, ancient, ancient places, titus, buildings structures, triumphal, arched, rome, monuments, ep2018, test',category='ON DEMAND>INFOTAINMENT>AMAZING PLACES',categoryid='205',
+        updated_at='2018-06-08 12:56:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_349rdhty'
+08/06/2018 12:53:48 | SUCCESS | Updtate MetaData(0_cgnd5nbq) | By-Adosphere_ott488 | update entry set name='Nature \'s beauty Water ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cgnd5nbq/version/100002',longdescription='Watch Nature\'s beauty water.\r\n',
+        duration='10',type='1',tag='water, narure, resources, natural resources, rock, waterfall, river, sound water, water sound, test',category='ON DEMAND>INFOTAINMENT>NATURE',categoryid='201',
+        updated_at='2018-06-08 12:56:34',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_cgnd5nbq'
+08/06/2018 12:54:16 | SUCCESS | Updtate MetaData(0_gnih94d2) | By-Adosphere_ott488 | update entry set name='Natural Waterfall',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gnih94d2/version/100012',longdescription='Watch the most powerful  huge waterfall in Iceland i.e Dettifoss which runoff the color of water as greyish white.\r\n',
+        duration='28',type='1',tag='natural, waterfall, ocean sea, view, water view, falls, white, greyish white, huge waterfall, tarmac road, water, liquid, water life, depth, amazing falls, calm videos, waterfalls, amazing world video, test',category='ON DEMAND>INFOTAINMENT>NATURE',categoryid='201',
+        updated_at='2018-06-08 12:57:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_gnih94d2'
+08/06/2018 12:54:41 | SUCCESS | Updtate MetaData(0_ery3fhc8) | By-Adosphere_ott488 | update entry set name='Nature site scenes - Waterfall ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ery3fhc8/version/100012',longdescription='Watch nature site scenes and its beauty.',
+        duration='10',type='1',tag='waterfalls, septh, amazing falls, calm videos, water, amazing world video, destination, places, water places, site scenes, view site, site, test',category='ON DEMAND>INFOTAINMENT>NATURE',categoryid='201',
+        updated_at='2018-06-08 12:57:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_ery3fhc8'
+08/06/2018 12:56:51 | SUCCESS | Updtate MetaData(0_lvchswgr) | By-Adosphere_ott488 | update entry set name='Wedding melodious diary',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lvchswgr/version/100012',longdescription='Watch wedding diary of a couple.\r\n',
+        duration='14',type='1',tag='groom, wedding video, wedding diary, story, wedding story, couple videos, amazing wedding, amazing world video, test',category='ON DEMAND>AUTOMOBILE>DRIFT,ON DEMAND>AUTOMOBILE>WRENCH',categoryid='195,197',
+        updated_at='2018-06-08 12:59:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_lvchswgr'
+08/06/2018 12:57:09 | SUCCESS | Updtate MetaData(0_kkt42phy) | By-Adosphere_ott488 | update entry set name='Winter season with snow ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_kkt42phy/version/100012',longdescription='Watch winter season view with full snow around the ground and take leisure to view the snowy weather.',
+        duration='15',type='1',tag='winter, season, street videos, snow, snowfall, winter videos, car, truck, winter snow, weather, test',category='ON DEMAND>AUTOMOBILE>DRIFT,ON DEMAND>AUTOMOBILE>WRENCH',categoryid='195,197',
+        updated_at='2018-06-08 12:59:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_kkt42phy'
+08/06/2018 12:57:23 | SUCCESS | Updtate MetaData(0_kfwqxesv) | By-Adosphere_ott488 | update entry set name='Black Bear in the forest',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_kfwqxesv/version/100012',longdescription='Watch Black Bear roaming in the forest.',
+        duration='28',type='1',tag='animal, black, bear, wild, life, wildlife, amazing world, animals, bear life, brown bear close view, bear wild, forest video, brown bear, wild life, living, dangerous, dangerous animal, wild zone, wild life photography, aw2018, test',category='ON DEMAND>ANIMALS>ANIMAL WORLD',categoryid='203',
+        updated_at='2018-06-08 13:00:09',shortdescription='Watch Black Bear roaming in the forest.',
+        director='',producer='',cast='',crew='',sub_genre='Animal',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_kfwqxesv'
+08/06/2018 12:57:37 | SUCCESS | Updtate MetaData(0_5e0hufhk) | By-Adosphere_ott488 | update entry set name='Beautiful coloured wings of Butterf',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5e0hufhk/version/100012',longdescription='Watch the beautiful sensitive insect with brightly colorful wings of butterfly.',
+        duration='9',type='1',tag='butterfly, beautiful, colors, colorful, insects, butter, fly, amazing, amazing world, nature, natural, nature view, color, senstive, senstive insects, wings, colorfull wings, arthopoda, catterpiller, polymorpic, lay eggs, moth, moth butterflies, flying, flies, test',category='ON DEMAND>ANIMALS>TINY FLY',categoryid='199',
+        updated_at='2018-06-08 13:00:22',shortdescription='Watch the beautiful sensitive insect with brightly colorful wings of butterfly.',
+        director='',producer='',cast='',crew='',sub_genre='Insects',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_5e0hufhk'
+08/06/2018 12:57:56 | SUCCESS | Updtate MetaData(0_dxh5pm1d) | By-Adosphere_ott488 | update entry set name='Sensitive Beautiful and Colorful Bu',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_dxh5pm1d/version/100012',longdescription='Watch the beautiful sensitive insect with brightly colorful wings of butterfly.',
+        duration='41',type='1',tag='butterfly, beautiful, colors, colorful, insects, butter, fly, amazing, amazing world, nature, natural, nature view, color, senstive, senstive insects, wings, colorfull wings, arthopoda, catterpiller, polymorpic, lay eggs, moth, moth butterflies, flying, flies, test',category='ON DEMAND>ANIMALS>TINY FLY',categoryid='199',
+        updated_at='2018-06-08 13:00:41',shortdescription='Watch the beautiful sensitive insect with brightly colorful wings of butterfly.',
+        director='',producer='',cast='',crew='',sub_genre='Insects',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_dxh5pm1d'
+08/06/2018 12:58:11 | SUCCESS | Updtate MetaData(0_fk8y0n51) | By-Adosphere_ott488 | update entry set name='Smashing Speed of Car Racing',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fk8y0n51/version/100012',longdescription='Watch the car racing with smashing high speed and stunt.',
+        duration='38',type='1',tag='cars, bikes, rides, driving, racing, fast, speed, luxury, smooth, safety measure, road, car lover, bikers, street view, street, auto, auto tech, ap2018, test',category='ON DEMAND>AUTOMOBILE>LUXURY CARS',categoryid='206',
+        updated_at='2018-06-08 13:00:57',shortdescription='Watch the car racing with smashing high speed and stunt.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_fk8y0n51'
+08/06/2018 12:58:28 | SUCCESS | Updtate MetaData(0_qjjskxgs) | By-Adosphere_ott488 | update entry set name='Smooth speed of cars - Street view ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qjjskxgs/version/100012',longdescription='Watch the street view of road where people drive under the safety measures in a smooth manner.',
+        duration='60',type='1',tag='cars, bikes, rides, driving, racing, fast, speed, luxury, smooth, safety measure, road, car lover, bikers, street view, street, auto, auto tech, ap2018, test',category='ON DEMAND>AUTOMOBILE>LUXURY CARS',categoryid='206',
+        updated_at='2018-06-08 13:01:14',shortdescription='Watch the street view of road where people drive under the safety measures in a smooth manner.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_qjjskxgs'
+08/06/2018 13:02:23 | SUCCESS | Updtate MetaData(0_s32u8h1r) | By-Adosphere_ott488 | update entry set name='Motorcycle Street stunts by trained',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_s32u8h1r/version/100012',longdescription='Watch the Motorcycle bike riding video by trained bikers.',
+        duration='13',type='1',tag='motor, cycle, motorcycle, cars, bikes, rides, driving, racing, fast, speed, luxury, smooth, safety measure, road, car lover, bikers, street view, street, auto, auto tech, ls2018, test',category='ON DEMAND>EXTREME SPORTS>BEYOND,ON DEMAND>EXTREME SPORTS>CONTEMPORARY',categoryid='209,212',
+        updated_at='2018-06-08 13:05:09',shortdescription='Watch the Motorcycle bike riding video by trained bikers.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_s32u8h1r'
+08/06/2018 13:02:50 | SUCCESS | Updtate MetaData(0_8vkci37b) | By-Adosphere_ott488 | update entry set name='Beautiful town in Serbia',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8vkci37b/version/100012',longdescription='Watch the beautiful view and municipality which is the part of Urban city Novi sad.',
+        duration='28',type='1',tag='places to visit, visit places, greenery, greenary, fortress, municipality, coat of rams, serbia, serbian, town serbia, petrovaradin, petrovard, urban city, stone age, place, places, amazed places, water, site scene, sceneary view, ep2018, test',category='ON DEMAND>EXTREME SPORTS>BEYOND,ON DEMAND>EXTREME SPORTS>CONTEMPORARY',categoryid='209,212',
+        updated_at='2018-06-08 13:05:36',shortdescription='Watch the beautiful view and municipality which is the part of Urban city Novi sad.',
+        director='',producer='',cast='',crew='',sub_genre='Amazing Places',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_8vkci37b'
+08/06/2018 13:03:10 | SUCCESS | Updtate MetaData(0_mqhzkjtb) | By-Adosphere_ott488 | update entry set name='Cute Little Puppy Playing',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mqhzkjtb/version/100012',longdescription='Watch the soothing surrounding of beach where little puppy is playing in sand.',
+        duration='15',type='1',tag='cat, kitten, mammal, cute, pet, dogs, cute pet, indoor pets, animals, fury, fury animal, fury pets, playing, cute moment, puppy, test',category='ON DEMAND>ANIMALS>CUTE ANIMALS,ON DEMAND>ANIMALS>INDOOR PET',categoryid='189,198',
+        updated_at='2018-06-08 13:05:56',shortdescription='Watch the soothing surrounding of beach where little puppy is playing in sand.',
+        director='',producer='',cast='',crew='',sub_genre='Pets',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_mqhzkjtb'
+08/06/2018 13:04:44 | SUCCESS | Updtate MetaData(0_ccedku3u) | By-Adosphere_ott488 | update entry set name='Underwater adventurous sport - Scub',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ccedku3u/version/100012',longdescription='Watch amazing adventurous underwater extreme sport scuba diving.',
+        duration='7',type='1',tag='under sea, marine undersea, marine park, natural reefs, undersea life, water living, silent evolition, aquatic life, human undersea, atlantic ocean, near atlantic ocean museum, marine biomass, amazingnews, amazing stort, ocean, test',category='ON DEMAND>INFOTAINMENT>AMAZING WORLD',categoryid='204',
+        updated_at='2018-06-08 13:07:29',shortdescription='Watch amazing adventurous underwater extreme sport scuba diving.',
+        director='',producer='',cast='',crew='',sub_genre='Underwater Diving',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_ccedku3u'
+08/06/2018 13:05:11 | SUCCESS | Updtate MetaData(0_ns3fwsft) | By-Adosphere_ott488 | update entry set name='Loud sound of Fireworks ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ns3fwsft/version/100012',longdescription='Watch the festival of lights with crackers and enjoy the celebration.',
+        duration='28',type='1',tag='cracker, crackers, firework, lightening, sound, light, sky, burn, loud, bomb, shine, fire, test',category='ON DEMAND>INFOTAINMENT>AMAZING WORLD',categoryid='204',
+        updated_at='2018-06-08 13:07:57',shortdescription='Watch the festival of lights with crackers and enjoy the celebration.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_ns3fwsft'
+08/06/2018 13:05:32 | SUCCESS | Updtate MetaData(0_l5qsbalw) | By-Adosphere_ott488 | update entry set name='Glass Half | Animation',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_l5qsbalw/version/100012',longdescription='Watch a animated short cartoon film on two amateur art critics meet in a gallery.',
+        duration='193',type='1',tag='glass, half, blender, animated, animation, cartoon, short, movie, flim, fun, amateur, art, critic, test',category='ON DEMAND>INFOTAINMENT>HERITAGE',categoryid='202',
+        updated_at='2018-06-08 13:08:17',shortdescription='Watch a animated short cartoon film on two amateur art critics meet in a gallery.',
+        director='',producer='',cast='',crew='',sub_genre='Animated',
+        language='',pgrating='U',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_l5qsbalw'
+08/06/2018 13:11:21 | SUCCESS | Save Thumbnail(0_k258jmrv) | By-Adosphere_ott488 | 
+08/06/2018 13:12:25 | SUCCESS | Save Thumbnail(0_sblgplz9) | By-Adosphere_ott488 | 
+08/06/2018 13:12:48 | SUCCESS | Save Thumbnail(0_jctcr9jv) | By-Adosphere_ott488 | 
+08/06/2018 13:13:08 | SUCCESS | Save Thumbnail(0_bx5gu1rx) | By-Adosphere_ott488 | 
+08/06/2018 13:13:44 | SUCCESS | Save Thumbnail(0_uangqrxs) | By-Adosphere_ott488 | 
+08/06/2018 13:56:39 | SUCCESS | Save Thumbnail(0_xzk82yvb) | By-Adosphere_ott488 | 
+08/06/2018 13:57:21 | SUCCESS | Save Thumbnail(0_vymktlhn) | By-Adosphere_ott488 | 
+08/06/2018 14:05:22 | SUCCESS | Save Thumbnail(0_xzk82yvb) | By-Adosphere_ott488 | 

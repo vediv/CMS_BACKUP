@@ -1,0 +1,141 @@
+22/06/2018 04:21:42 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+22/06/2018 04:44:06 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+22/06/2018 10:40:51 | SUCCESS | Updtate MetaData(0_2y40u6lr) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_2y40u6lr','Paradox Full length Movie','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_2y40u6lr/version/100002','Paradox is a full length English movie which sends you a social message and is directed by Tarun Raj.','3752','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, paradox, parado, region, para, english, tarun, raj','MOVIES>FULL MOVIES>ENGLISH','231','2','2018-06-21 15:39:46','Paradox is a full length English movie which sends you a social message and is directed by Tarun Raj.','','',
+         '','','Social,Drama','English','','inactive','','')
+22/06/2018 10:41:23 | SUCCESS | Save Content Partner(0_2y40u6lr,) | By-Adosphere_ott488 | 
+22/06/2018 10:51:34 | SUCCESS | Updtate MetaData(0_uip5lcdi) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_uip5lcdi','Dharmathin Thalaivan','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_uip5lcdi/version/100002','Watch this box office declared superhit Tamil drama movie which is directed by S.P.Muthuraman starring Rajinikanth,Prabhu,Kushboo .','8478','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, rajinikanth, prabhu ganesan, charlie, nassar, captain raju, kushboo, suhasini, muthuraman, dhandayuthapani, dharmathin, thalaivan, dharmath, cine, region, muthuram, raman, khusboo, ganeshan, rajini, thalaiva','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:39:48','Watch this box office declared superhit Tamil drama movie which is directed by S.P.Muthuraman starring Rajinikanth,Prabhu,Kushboo','S.P.Muthuraman','C.Dhandayuthapani',
+         'Rajinikanth,Prabhu Ganesan,Charlie,','','Drama','','','inactive','','')
+22/06/2018 10:53:00 | SUCCESS | Save Content Partner(0_uip5lcdi,) | By-Adosphere_ott488 | 
+22/06/2018 11:00:13 | SUCCESS | Updtate MetaData(0_x0vznt8t) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_x0vznt8t','Meendum Savithri','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_x0vznt8t/version/100002','Watch this Tamil drama film which is based on a middle class family and is directed by Visu','8436','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, meendum, savithri, visu, meendu, savitri','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:39:51','Watch this Tamil drama film which is based on a middle class family and is directed by Visu','Visu','B.Nagi Reddy',
+         'Revathi,Saranya Ponvannan,Nizhalgal','','Drama','Tamil','','inactive','','')
+22/06/2018 11:00:58 | SUCCESS | Save Content Partner(0_x0vznt8t,) | By-Adosphere_ott488 | 
+22/06/2018 11:02:33 | SUCCESS | Updtate MetaData(0_axe4be59) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_axe4be59','Nadodi Mannan','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_axe4be59/version/100002','Watch 1985 Nadodi Mannan musical drama movie which is directed by M.G.Ramachandran.','12029','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, nadodi, mannan, m.g.ramachandran, ramachandran, rama, chandran, chandra, ram, romance, region, drama','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:39:52','Watch 1985 Nadodi Mannan musical drama movie which is directed by M.G.Ramachandran.','M.G.Ramachandran','',
+         '','','Drama','Tamil','','inactive','','')
+22/06/2018 11:04:24 | SUCCESS | Save Content Partner(0_axe4be59,) | By-Adosphere_ott488 | 
+22/06/2018 11:05:49 | SUCCESS | Updtate MetaData(0_gdh9usuw) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_gdh9usuw','Delhi Mappillai','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gdh9usuw/version/100002','Watch full length drama movie in Tamil language and is directed by Devan.','8540','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, delhi, mappillai, mapila, devan, deva, diva, dilli','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:39:53','Watch full length drama movie in Tamil language and is directed by Devan.','Devan','',
+         'Ravichandra, Rajasri','','Drama','Tamil','','inactive','','')
+22/06/2018 11:08:27 | SUCCESS | Updtate MetaData(0_of6asfwo) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_of6asfwo','Irulum Oliyum','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_of6asfwo/version/100002','Watch full length drama movie in Tamil and the movie is directed by S R Puttanna.','8491','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, irulum, oliyum, olium, irulu, irullum, puttanna, putta, irlum, olum, olyam','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:39:55','Watch full length drama movie in Tamil and the movie is directed by S R Puttanna.','S R Puttanna','G.S.Mani',
+         'AVM Rajan, Muthuraman, Vanisri','','Drama','Tamil','','inactive','','')
+22/06/2018 05:39:01 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+22/06/2018 11:09:32 | SUCCESS | Save Content Partner(0_of6asfwo,) | By-Adosphere_ott488 | 
+22/06/2018 11:11:50 | SUCCESS | Updtate MetaData(0_adl2lmyq) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_adl2lmyq','Mannan','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_adl2lmyq/version/100002','The story of movie Mannan , where Krishnan\'s boss Shanti is very dominating woman and Krishnan defines her many times. She manipulates his paralyses mother and marries him and seek for a situation to control him.','9224','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, mannan, manna','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:39:56','The story of movie Mannan , where Krishnan\'s boss Shanti is very dominating woman and Krishnan defines her many times.','P.Vasu','Prabhu',
+         'Rajinikanth,Vijayashanti,Kushboo','','Romantic,Drama','Tamil','','inactive','','')
+22/06/2018 11:13:38 | SUCCESS | Save Content Partner(0_adl2lmyq,) | By-Adosphere_ott488 | 
+22/06/2018 12:02:29 | SUCCESS | Save Content Partner(0_027muce5,) | By-Adosphere_ott488 | 
+22/06/2018 12:36:09 | SUCCESS | Updtate MetaData(0_ho76lkkw) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_ho76lkkw','Manchi Manushulu','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ho76lkkw/version/100002','Watch this movie which is based on exclusively Indian video Guru and is directed by V B Rajendra Prasad','7914','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, sobhan, babu, manjula, rajendra, prasad, manchi, manushulu, manshi, mansi, manush, rajender, interest','MOVIES>FULL MOVIES>TELUGU','229','2','2018-06-21 15:39:59','Watch this movie which is based on exclusively Indian video Guru and is directed by V B Rajendra Prasad','V.B Rajendra Prasad','V.B Rajendra Prasad',
+         'Sobhan Babu,Manjula,Anjali','','Drama','Telugu','','inactive','','')
+22/06/2018 12:49:06 | SUCCESS | Save Content Partner(0_ho76lkkw,) | By-Adosphere_ott488 | 
+22/06/2018 12:50:18 | SUCCESS | Updtate MetaData(0_f0i5vmr8) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_f0i5vmr8','Maro Maya Bazar','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_f0i5vmr8/version/100002','Watch this movie which is directed by C.S.Rao and acted by Chandra Mohan, Rajya Lakshmi.','8016','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, chandra, mohan, rajya, lakshmi, nutan, prasad, maro, maya, bazar, bazzar, rajaya, laxmi','MOVIES>FULL MOVIES>TELUGU','229','2','2018-06-21 15:40:00','Watch this movie which is directed by C.S.Rao and acted by Chandra Mohan, Rajya Lakshmi.','C.S.Rao','Chintala Mallesh Goud',
+         'Chandra Mohan, Rajya Lakshmi','','Drama','Telugu','','inactive','','')
+22/06/2018 12:50:54 | SUCCESS | Save Content Partner(0_f0i5vmr8,) | By-Adosphere_ott488 | 
+22/06/2018 08:34:50 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+22/06/2018 14:05:50 | SUCCESS | Save Content Partner(0_mowlloga,) | By-Adosphere_ott488 | 
+22/06/2018 14:11:15 | SUCCESS | Updtate MetaData(0_hnp728xg) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_hnp728xg','Vadhu Varulu','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_hnp728xg/version/100002','Watch this classic Tollywood movie which is acted by Chandra Mohan, Giri Babu, Manju Bhargavi and directed by N.D.Vijaya Babu.','8599','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, chandra, mohan, giri, babu, manju, bhargavi, vadhu, varulu, region','MOVIES>FULL MOVIES>TELUGU','229','2','2018-06-21 15:40:06','Watch this classic Tollywood movie which is acted by Chandra Mohan, Giri Babu, Manju Bhargavi and directed by N.D.Vijaya Babu.','N.D.Vijaya Babu','D.Venugopal',
+         '','','Drama','Telugu','','inactive','','')
+22/06/2018 14:12:47 | SUCCESS | Updtate MetaData(0_bgqiw9he) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_bgqiw9he','The city Action','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_bgqiw9he/version/100002','Watch The City Telugu movie starring Suresh Gopi,Urvashi, Lalu Alex.','8502','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, city, suresh, gopi, urvashi, lalu, alex, surish, lallu','MOVIES>FULL MOVIES>TELUGU','229','2','2018-06-21 15:40:07','Watch The City Telugu movie starring Suresh Gopi,Urvashi, Lalu Alex.','I.V.Shashi','Lavanya ',
+         'Suresh Gopi,Urvashi, Lalu Alex','','Action,Drama','Telugu','','inactive','','')
+22/06/2018 14:17:01 | SUCCESS | Updtate MetaData(0_wewf9l4n) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_wewf9l4n','Enga Ooru Kavakkaran','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wewf9l4n/version/100002','Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.','7767','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, ramarajan, gouthami, m.n.nambiar, t.p.gajendran, enga, ooru, kavakkaran, gajendran','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:40:10','Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.','T.P.Gajendran','Kalyani Murugan',
+         'Ramarajan,Gouthami,M.N.Nambiar,T.P.','','Drama','Tamil','','inactive','','')
+22/06/2018 14:17:26 | SUCCESS | Updtate MetaData(0_wewf9l4n) | By-Adosphere_ott488 | update entry set name='Enga Ooru Kavakkaran',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wewf9l4n/version/100002',longdescription='Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.',
+        duration='7767',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, ramarajan, gouthami, m.n.nambiar, t.p.gajendran, enga, ooru, kavakkaran, gajendran',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-06-22 14:20:24',shortdescription='Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.',
+        director='T.P.Gajendran',producer='Kalyani Murugan',cast='Ramarajan,Gouthami,M.N.Nambiar',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_wewf9l4n'
+22/06/2018 14:17:41 | SUCCESS | Save Content Partner(0_wewf9l4n,) | By-Adosphere_ott488 | 
+22/06/2018 14:18:57 | SUCCESS | Updtate MetaData(0_t75bs2yv) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_t75bs2yv','Kan Simittum Neram','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_t75bs2yv/version/100002','Watch this thriller film which is directed by Kalaivanan Kannadasan starring with Karthik,Ambika,R.Sarathkumar','8184','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, karthik, ambika, r.sarathkumar, kan, simittum, neram, v.s.narasimman, kartik','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:40:12','Watch this thriller film which is directed by Kalaivanan Kannadasan starring with Karthik,Ambika,R.Sarathkumar','V.S.Narasimman','R.Sarathkumar,M.Santhanam',
+         'Karthik,Ambika,R.Sarathkumar','','Thriller ','Tamil','','inactive','','')
+22/06/2018 14:19:43 | SUCCESS | Save Content Partner(0_t75bs2yv,) | By-Adosphere_ott488 | 
+22/06/2018 14:32:57 | SUCCESS | Updtate MetaData(0_lvtq10zu) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_lvtq10zu','Mounam Kalaigirathu','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lvtq10zu/version/100002','Watch this Tamil Indian feature film which is a triangular love story starring Jeevitha,Anand Babu,Jayashree,Vijayakumar,Suresh and Chinni Jayanth','8180','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, suresh, jeevitha, anand babu, jayashree, vijayakumar, chinni, jayanth, mounam, kalaigirathu, kundrai, vaendan, karikalan','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:40:15','Watch this Tamil Indian feature film which is a triangular love story starring Jeevitha,Anand Babu,Jayashree,Vijayakumar,Suresh and Chinni.','Kundrai Vaendan Karikalan','Devaraj',
+         'Suresh,Jeevitha,Anand Babu','','Drama','Tamil','','inactive','','')
+22/06/2018 14:33:48 | SUCCESS | Save Content Partner(0_lvtq10zu,) | By-Adosphere_ott488 | 
+22/06/2018 14:37:44 | SUCCESS | Updtate MetaData(0_ahaqql7t) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_ahaqql7t','Veera','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ahaqql7t/version/100002','Rajinikanth falls in love with a girl who teach him about music.On one day, huge cyclone destroyed girl\'s house and Rajinikanth believe that girl is dead.He goes to the city and marry another woman but his first love is still alive.','9707','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, veera','MOVIES>FULL MOVIES>TAMIL','228','2','2018-06-21 15:40:39','Rajinikanth falls in love with a girl who teach him about music.','Suresh Krissna','Meena Panchu Arunachalam',
+         'Rajinikanth,Meena,Roja,Senthil','','','','','inactive','','')
+22/06/2018 14:38:15 | SUCCESS | Delete Video entry(0_y6kugxbp) | By-Adosphere_ott488 | 
+22/06/2018 14:38:45 | SUCCESS | Updtate MetaData(0_ahaqql7t) | By-Adosphere_ott488 | update entry set name='Veera',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ahaqql7t/version/100002',longdescription='Rajinikanth falls in love with a girl who teach him about music.On one day, huge cyclone destroyed girl\'s house and Rajinikanth believe that girl is dead.He goes to the city and marry another woman but his first love is still alive.',
+        duration='9707',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, veera',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-06-22 14:41:42',shortdescription='Rajinikanth falls in love with a girl who teach him about music.',
+        director='Suresh Krissna',producer='Meena Panchu Arunachalam',cast='Rajinikanth,Meena,Roja,Senthil',crew='',sub_genre='Action',
+        language='Tamil',pgrating='',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_ahaqql7t'
+22/06/2018 14:40:33 | SUCCESS | Save Content Partner(0_ahaqql7t,) | By-Adosphere_ott488 | 
+22/06/2018 15:11:17 | SUCCESS | Updtate MetaData(0_vo3q24bp) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_vo3q24bp','Kulambadikal Drama','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vo3q24bp/version/100002','Watch Full Length Malayalam Movie Kulambadikal which release in 1986 and directed by Crossbelt Mani.','5695','1',
+        'mallu, films, malayalam, latest, movies, new, mollywood, stories, short, subtitle, social, message, emotional, cheri, viswanath, jagathy, sreekumar, ashwathy, ratheesh, menaka, kulambadikal, romantic, romance, action, 1986, crossbelt, mani','MOVIES>FULL MOVIES>MALAYALAM','226','2','2018-06-21 15:40:40','Watch Full Length Malayalam Movie Kulambadikal which release in 1986 and directed by Crossbelt Mani.','Crossbelt Mani','',
+         '','','Drama','Malayalam','','inactive','','')
+22/06/2018 15:11:42 | SUCCESS | Save Content Partner(0_vo3q24bp,) | By-Adosphere_ott488 | 
+22/06/2018 15:14:30 | SUCCESS | Updtate MetaData(0_j59c2zgm) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_j59c2zgm','Mahanayak','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_j59c2zgm/version/100002','Watch full length Oriya movie Mahanayak which is release in 2007 and directed by Debu Pattnaik,Sudhanshu Sahu.','10192','1',
+        'movie, full, length, action, classic, cinema, moviezone, zone, oriya, family, drama, movietone, anubhav, mohanty, koyel, mallick, rahul, dev, debu, pattnaik, sudhanshu, sahu, harsh, vardhan, harsha, lal, 2007, remake, ranam, gopichand, baisi, pahache, kheliba, mina, chaitan, jal','MOVIES>FULL MOVIES>ORIYA','227','2','2018-06-21 15:40:40','Watch full length Oriya movie Mahanayak which is release in 2007 and directed by Debu Pattnaik,Sudhanshu Sahu.','Debu Pattnaik,Sudhanshu Sahu','',
+         '','','Drama','Oriya','','inactive','','')
+22/06/2018 15:14:52 | SUCCESS | Save Content Partner(0_j59c2zgm,) | By-Adosphere_ott488 | 
+22/06/2018 16:00:57 | SUCCESS | Delete Video entry(0_jawiu8ha) | By-Adosphere_ott488 | 
+22/06/2018 16:00:59 | SUCCESS | Delete Video entry(0_ooq8v6id) | By-Adosphere_ott488 | 
+22/06/2018 16:20:29 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+22/06/2018 10:57:31 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+22/06/2018 12:40:43 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+22/06/2018 18:11:28 | SUCCESS | Save Content Viewer Rating(0_cix4xnv3,G) | By-Adosphere_ott488 | 

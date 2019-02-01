@@ -1,0 +1,36 @@
+08/08/2018 04:40:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/08/2018 05:05:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/08/2018 05:11:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/08/2018 10:41:20 | SUCCESS | Add New coupon (6FHWSMZUO3) | By-Biocine_ott503 | 
+08/08/2018 10:41:24 | SUCCESS | Coupon active(Coupan ID:51,Status:active) | By-Biocine_ott503 | 
+08/08/2018 06:13:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/08/2018 14:15:38 | SUCCESS | Updtate MetaData(0_3ze6ayaw) | By-Biocine_ott503 | update entry set name='2-Heavy Machinery',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_3ze6ayaw/version/100002',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machine, machinery, world, famous, techno, auto, technology, automobile, vehicle, builder, building, construction, tool, construct, work',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,BAZAAR',categoryid='295,297,313',
+        updated_at='2018-08-08 14:19:15',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='Biocine,Biocine',producer='NULL',cast='Planetcast,biocine,test',crew='NULL',sub_genre='Automobile',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3ze6ayaw'
+08/08/2018 08:55:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/08/2018 14:31:27 | SUCCESS | Save Access Control(0_1esi2h87) | By-Biocine_ott503 | 
+08/08/2018 14:33:47 | SUCCESS | Save Access Control(0_1esi2h87) | By-Biocine_ott503 | 
+08/08/2018 14:37:08 | SUCCESS | Updtate MetaData(0_0d40d66y) | By-Biocine_ott503 | update entry set name='Glass Half | Animation3333333333333',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0d40d66y/version/100012',longdescription='Watch a animated short cartoon film on two amateur art critics meet in a gallery.',
+        duration='193',type='1',tag='glass, half, animation, cartoon, film, short',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='295,296,297,298,299,310,311,313',
+        updated_at='2018-08-08 14:40:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0d40d66y'
+08/08/2018 14:38:13 | SUCCESS | Updtate MetaData(0_0d40d66y) | By-Biocine_ott503 | update entry set name='Glass Half | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0d40d66y/version/100012',longdescription='Watch a animated short cartoon film on two amateur art critics meet in a gallery.',
+        duration='193',type='1',tag='glass, half, animation, cartoon, film, short',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='295,296,297,298,299,310,311,313',
+        updated_at='2018-08-08 14:41:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0d40d66y'
+08/08/2018 14:39:02 | SUCCESS | Updtate MetaData(0_46bkt3xf) | By-Biocine_ott503 | update entry set name='Sintel OFFICIAL FULL MOVIE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_46bkt3xf/version/100032',longdescription='Watch animation movie - Sintel.',
+        duration='888',type='1',tag='sintel, official, full, movie, animation',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,BAZAAR',categoryid='295,297,313',
+        updated_at='2018-08-08 14:42:39',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_46bkt3xf'
+08/08/2018 09:39:39 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+08/08/2018 16:42:25 | SUCCESS | Save currency_data(0_4wc2nq2m) | By-Biocine_ott503 | 
+08/08/2018 16:55:14 | SUCCESS | Save currency_data(0_4wc2nq2m) | By-Biocine_ott503 | 

@@ -1,0 +1,16 @@
+02/11/2018 05:05:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/11/2018 12:09:22 | SUCCESS | Add New Subscription Code (SS12334) | By-Biocine_ott503 | 
+02/11/2018 12:09:25 | SUCCESS | subscription code active(subscription ID:39,Status:active) | By-Biocine_ott503 | 
+02/11/2018 12:18:19 | SUCCESS | Add New Subscription Code (PW12821) | By-Biocine_ott503 | 
+02/11/2018 12:18:22 | SUCCESS | subscription code active(subscription ID:40,Status:active) | By-Biocine_ott503 | 
+02/11/2018 06:56:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/11/2018 12:27:27 | SUCCESS | Add New Subscription Code (TES1234) | By-Biocine_ott503 | 
+02/11/2018 12:27:30 | SUCCESS | subscription code active(subscription ID:41,Status:active) | By-Biocine_ott503 | 
+02/11/2018 15:34:51 | SUCCESS | Add New coupon (P21223) | By-Biocine_ott503 | 
+02/11/2018 15:34:54 | SUCCESS | Coupon active(Coupan ID:64,Status:active) | By-Biocine_ott503 | 
+02/11/2018 16:33:07 | SUCCESS | Update Coupon (64) | By-Biocine_ott503 | update coupon set name='q111',code='P21223',type='P',discount='2.0000',date_start='2018-11-02 15:34:07',
+      date_end='2018-12-10 15:34:07',uses_total='8',uses_customer='1',updated_at=NOW() where coupon_id='64'
+02/11/2018 16:33:43 | SUCCESS | Update Coupon (64) | By-Biocine_ott503 | update coupon set name='q111',code='P21223',type='P',discount='2.0000',date_start='2018-11-02 15:34:07',
+      date_end='2018-12-10 15:34:07',uses_total='8',uses_customer='3',updated_at=NOW() where coupon_id='64'
+02/11/2018 17:17:44 | SUCCESS | Save currency_data(0_kjx1jm5d) | By-Biocine_ott503 | 
+02/11/2018 17:51:35 | SUCCESS | update plan Detail(half yearly) | By-Biocine_ott503 | 

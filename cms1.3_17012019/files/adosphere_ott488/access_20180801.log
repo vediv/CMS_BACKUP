@@ -1,0 +1,43 @@
+01/08/2018 09:06:24 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/08/2018 14:37:12 | SUCCESS | Updtate MetaData(0_wewf9l4n) | By-Adosphere_ott488 | update entry set name='Enga Ooru Kavalkaran',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wewf9l4n/version/100002',longdescription='Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.',
+        duration='7767',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, ramarajan, gouthami, m.n.nambiar, t.p.gajendran, enga, ooru, gajendran, kavalkaran',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-08-01 14:40:43',shortdescription='Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.',
+        director='T.P.Gajendran',producer='Kalyani Murugan',cast='Ramarajan,Gouthami,M.N.Nambiar',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wewf9l4n'
+01/08/2018 14:37:53 | SUCCESS | Save Thumbnail(0_wewf9l4n) | By-Adosphere_ott488 | 
+01/08/2018 14:48:40 | SUCCESS | Updtate MetaData(0_6dy5tnjj) | By-Adosphere_ott488 | update entry set name='Oru Kai Parpom',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6dy5tnjj/version/100012',longdescription='Watch Oru Kai Oosai Tamil film which is written and directed by K. Bhagyaraj. The film story is all about lost love and sacrifice.',
+        duration='7534',type='1',tag='oru, kai, action, superhit, movie, movies, tamil, film, tollywood, south, indian, full, length, cinema, comedy, drama, picture, bhagyaraj, ashwini, soundar, bhagya, raja, raj, comic, osai, films, love, sacrifice, ashwin, future',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-08-01 14:52:11',shortdescription='Watch Oru Kai Oosai Tamil film which is written and directed by K. Bhagyaraj. The film story is all about lost love and sacrifice.',
+        director='S. P. Muthuraman',producer='Visu',cast='Karthik,Radha,Visu, and Manorama',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='active',custom_data=''
+        where entryid='0_6dy5tnjj'
+01/08/2018 14:49:36 | SUCCESS | Updtate MetaData(0_6dy5tnjj) | By-Adosphere_ott488 | update entry set name='Oru Kai Parpom',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6dy5tnjj/version/100012',longdescription='Watch Oru Kai Oosai Tamil film which is written and directed by K. Bhagyaraj. The film story is all about lost love and sacrifice.',
+        duration='7534',type='1',tag='oru, kai, action, superhit, movie, movies, tamil, film, tollywood, south, indian, full, length, cinema, comedy, drama, picture, bhagyaraj, ashwini, soundar, bhagya, raja, raj, comic, osai, films, love, sacrifice, ashwin, future, parpom',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-08-01 14:53:07',shortdescription='Watch Oru Kai Oosai Tamil film which is written and directed by K. Bhagyaraj. The film story is all about lost love and sacrifice.',
+        director='S. P. Muthuraman',producer='Visu',cast='Karthik,Radha,Visu, and Manorama',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='active',custom_data=''
+        where entryid='0_6dy5tnjj'
+01/08/2018 14:51:11 | SUCCESS | Save Thumbnail(0_lcjl2i46) | By-Adosphere_ott488 | 
+01/08/2018 14:58:28 | SUCCESS | Updtate MetaData(0_nja23114) | By-Adosphere_ott488 | update entry set name='Thalli Tandrulu',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nja23114/version/100012',longdescription='Watch the Romantic Drama Telugu Full Movie Talli Tandrulu which release in1991 and directed by Tatineni Rama Rao.',
+        duration='7720',type='1',tag='telugu, tollywood, comedy, south, indian, full, length, 90s, cinema, interesting, classic, drama, action, movie, zone, yoddha, romance, romantic, tatineni, rama, rao, subba, paruchuri, nandamuri, balakrishna, vijayashanti, chakravarthy, talli, tandrulu',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-08-01 15:02:00',shortdescription='Watch the Romantic Drama Telugu Full Movie Talli Tandrulu which release in1991 and directed by Tatineni Rama Rao',
+        director='Tatineni Rama Rao',producer='A. V. Subbarao',cast='Nandamuri Balakrishna, Vijayashanti',crew='NULL',sub_genre='NULL',
+        language='Telugu',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_nja23114'
+01/08/2018 14:59:52 | SUCCESS | Updtate MetaData(0_nja23114) | By-Adosphere_ott488 | update entry set name='Thalli Tandrulu',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nja23114/version/100012',longdescription='Watch the Romantic Drama Telugu Full Movie Talli Tandrulu which release in1991 and directed by Tatineni Rama Rao.',
+        duration='7720',type='1',tag='telugu, tollywood, comedy, south, indian, full, length, 90s, cinema, interesting, classic, drama, action, movie, zone, yoddha, romance, romantic, tatineni, rama, rao, subba, paruchuri, nandamuri, balakrishna, vijayashanti, chakravarthy, tandrulu, talli',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-08-01 15:03:23',shortdescription='Watch the Romantic Drama Telugu Full Movie Talli Tandrulu which release in1991 and directed by Tatineni Rama Rao',
+        director='Tatineni Rama Rao',producer='A. V. Subbarao',cast='Nandamuri Balakrishna, Vijayashanti',crew='NULL',sub_genre='NULL',
+        language='Telugu',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_nja23114'
+01/08/2018 15:00:08 | SUCCESS | Updtate MetaData(0_nja23114) | By-Adosphere_ott488 | update entry set name='Talli Tandrulu',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nja23114/version/100012',longdescription='Watch the Romantic Drama Telugu Full Movie Talli Tandrulu which release in1991 and directed by Tatineni Rama Rao.',
+        duration='7720',type='1',tag='telugu, tollywood, comedy, south, indian, full, length, 90s, cinema, interesting, classic, drama, action, movie, zone, yoddha, romance, romantic, tatineni, rama, rao, subba, paruchuri, nandamuri, balakrishna, vijayashanti, chakravarthy, tandrulu, talli',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-08-01 15:03:39',shortdescription='Watch the Romantic Drama Telugu Full Movie Talli Tandrulu which release in1991 and directed by Tatineni Rama Rao',
+        director='Tatineni Rama Rao',producer='A. V. Subbarao',cast='Nandamuri Balakrishna, Vijayashanti',crew='NULL',sub_genre='NULL',
+        language='Telugu',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_nja23114'
+01/08/2018 10:21:16 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/08/2018 10:25:47 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/08/2018 11:43:09 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/08/2018 11:57:45 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

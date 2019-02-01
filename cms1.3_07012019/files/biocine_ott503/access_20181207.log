@@ -1,0 +1,103 @@
+07/12/2018 02:26:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 03:25:30 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 06:20:59 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 08:14:51 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 14:11:06 | SUCCESS | Save Thumbnail(0_jbicylog) | By-Biocine_ott503 | 
+07/12/2018 14:51:36 | SUCCESS | Updtate MetaData(0_v054ov82) | By-Biocine_ott503 | update entry set name='DARIYE ACHO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_v054ov82/version/100032',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Dariye Acho/Main Bari Bari\" sung by Ashmani Kundu & Deepabali Dutta only on Jeeo Guru Apps.\r\n\r\nSong: Dariye Acho/Main Bari Bari\r\nSingers: Ashmani Kundu & Deepabali Dutta\r\nType: Traditional Bandish & Tagore Song\r\nRag: Yaman\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nGuiter: Tirthankar\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nPiano: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='355',type='1',tag='shock studio, dariye acho, rabindra sangeet, fusion song, jeeo, guru, tagore sang, classical music',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-07 14:56:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali | Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_v054ov82'
+07/12/2018 14:57:38 | SUCCESS | Updtate MetaData(0_1u822ei4) | By-Biocine_ott503 | update entry set name='SAWARA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1u822ei4/version/100032',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, the song \"SAWARA\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\n\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nType: Bengali Modern Song\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='315',type='1',tag='sawara, bhajan song, shock studio, hindi song, jeeoguru, classical music, indian music, fusion music',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-07 15:02:57',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='HINDI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1u822ei4'
+07/12/2018 15:13:42 | SUCCESS | Updtate MetaData(0_jbicylog) | By-Biocine_ott503 | update entry set name='Suzette',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jbicylog/version/100012',longdescription='Here we present new short film Suzette (Hindi). \r\n\r\nStarring : Swagata Mukherjee, Praiti Biswas, Siddhartha Banerjee, Nasif Akhter and others.. \r\nD.O.P- Smriti \r\nProduction Designer: Kousick Mondal\r\nProduction Controller: Ranjit Pamji \r\nTechnical  Assistance: TELECINE \r\nPRODUCED BY : CINETUBE DIGITAL \r\nSTORY & DIRECTED BY: RISHI MUKHERJEE ',
+        duration='1127',type='1',tag='suzette, hindi movie, indian short film, latest short film, hit short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 15:19:00',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jbicylog'
+07/12/2018 15:14:32 | SUCCESS | Updtate MetaData(0_jbicylog) | By-Biocine_ott503 | update entry set name='Suzette',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jbicylog/version/100012',longdescription='Here we present Hindi short film \"SUZETTE\".\r\n\r\nStarring : Swagata Mukherjee, Praiti Biswas, Siddhartha Banerjee, Nasif Akhter and others.. \r\nD.O.P- Smriti \r\nProduction Designer: Kousick Mondal\r\nProduction Controller: Ranjit Pamji \r\nTechnical  Assistance: TELECINE \r\nPRODUCED BY : CINETUBE DIGITAL \r\nSTORY & DIRECTED BY: RISHI MUKHERJEE ',
+        duration='1127',type='1',tag='suzette, hindi movie, indian short film, latest short film, hit short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 15:19:50',shortdescription='',
+        director='',producer='Cinetube Digital',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jbicylog'
+07/12/2018 15:15:20 | SUCCESS | Updtate MetaData(0_jbicylog) | By-Biocine_ott503 | update entry set name='Suzette',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jbicylog/version/100012',longdescription='Here we present Hindi short film \"SUZETTE\".\r\n\r\nStarring : Swagata Mukherjee, Praiti Biswas, Siddhartha Banerjee, Nasif Akhter and others.. \r\nD.O.P- Smriti \r\nProduction Designer: Kousick Mondal\r\nProduction Controller: Ranjit Pamji \r\nTechnical  Assistance: TELECINE \r\nPRODUCED BY : CINETUBE DIGITAL \r\nSTORY & DIRECTED BY: RISHI MUKHERJEE ',
+        duration='1127',type='1',tag='suzette, hindi movie, indian short film, latest short film, hit short film, hindi short film, best short film, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 15:20:38',shortdescription='',
+        director='',producer='Cinetube Digital',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jbicylog'
+07/12/2018 15:15:29 | SUCCESS | Save Content Partner(0_jbicylog,) | By-Biocine_ott503 | 
+07/12/2018 15:16:34 | SUCCESS | Updtate MetaData(0_fn1h74l7) | By-Biocine_ott503 | update entry set name='SUZETTE | TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_fn1h74l7/version/100012',longdescription='Here we present Hindi short film \"SUZETTE\".\r\n\r\nStarring : Swagata Mukherjee, Praiti Biswas, Siddhartha Banerjee, Nasif Akhter and others.. \r\nD.O.P- Smriti \r\nProduction Designer: Kousick Mondal\r\nProduction Controller: Ranjit Pamji \r\nTechnical  Assistance: TELECINE \r\nPRODUCED BY : CINETUBE DIGITAL \r\nSTORY & DIRECTED BY: RISHI MUKHERJEE ',
+        duration='84',type='1',tag='suzette, hindi, short film, indian short film, best short film, hit short film, real story, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 15:21:52',shortdescription='',
+        director='',producer='Cinetube Digital',cast='',crew='',sub_genre='DRAMA',
+        language='HINDI',pgrating='',video_status='active',custom_data=''
+        where entryid='0_fn1h74l7'
+07/12/2018 15:26:21 | SUCCESS | Updtate MetaData(0_z5ko76z5) | By-Biocine_ott503 | update entry set name='RONG TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z5ko76z5/version/100012',longdescription='Here we presenting new bengali short Film trailer \" RONG\". Cast By Kaushik, Rituparna & Kajal..Produce By CINETUBE DIGITAL..Directed By Rana Sen.\r\n-----------------------------------------------------------\r\nFILM: RONG (রং)\r\nCAST: KOUSHIK DAS,RITUPARNA DEY,KAJAL BANERJEE \r\nSTORY & SCRIPT: GAUTAM BHATTACHARIYA \r\nASSITANT DOP & LIGHT: BARUN DUTTA BANIK \r\nDOP:SMRITI & AMLAN \r\nEDIT: SMRITI\r\nASSITANT EDITOR: MILAN \r\nPRODUCTION MANAGER: BAPI KANJILAL\r\nPRODUCTION DESIGNER: KOUSICK MONDAL\r\nPRODUCTION CONTROLLER: RANJIT PANJI\r\nTECHNICAL ASSISTANCE: TELECINE \r\nPRODUCED BY: CINETUBE DIGITAL \r\nASSOCIATED DIRECTOR: SABYASACHI MANDAL\r\nDIRECTED BY: RANA SEN',
+        duration='106',type='1',tag='rong, bengali short film, koushik das, rituparna dey, rana sen, short film, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 15:31:39',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z5ko76z5'
+07/12/2018 10:54:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 16:37:08 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+07/12/2018 16:37:43 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+07/12/2018 11:10:11 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 16:46:35 | SUCCESS | Save Thumbnail(0_a83jguz9) | By-Biocine_ott503 | 
+07/12/2018 16:56:39 | SUCCESS | Add New Header Content(LIVE) | By-Biocine_ott503 | 
+07/12/2018 16:57:34 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/12/2018 17:03:48 | SUCCESS | update Header Content Detail(LIVE) | By-Biocine_ott503 | 
+07/12/2018 17:40:07 | SUCCESS | Save Thumbnail(0_a83jguz9) | By-Biocine_ott503 | 
+07/12/2018 17:54:23 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/12/2018 17:54:36 | SUCCESS | Header Menu active(HeaderID:47,Status:active) | By-Biocine_ott503 | 
+07/12/2018 18:05:45 | SUCCESS | Updtate MetaData(0_bev86jtq) | By-Biocine_ott503 | update entry set name='SALESMAN ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_bev86jtq/version/100032',longdescription='Here we present a bengali short film  \"Salesman\".\r\nThe Story of a Man Who Married his Lover against the wish of his Parents,One day he shocked his Life when he discovered the secret of his Wife,He decide to take avenge his heartbreak with his Wife.\r\n\r\nFilm: Salesman\r\n\r\nCast: Imon, Shaan, Sourav, Aishik \r\n\r\nScript & Dialouge: Aishik & Pradip\r\n\r\nScript Asst. : Ananya Karmakar\r\n\r\nMusic, Lyrics & Vocal: Nachiketa\r\n\r\nD.O.P: Chyan Karmakar\r\n\r\nCamera Eqipment: Prasenjit Chandra\r\n\r\nDubbing, Foley & Ambience: Promix Studio\r\n\r\nEditor: Gourab Dutta\r\n\r\nColorist: Gourab Dutta\r\n\r\nAsst. Director: Pradip Sarkar, Aishik Bannerjee, Argha, Ananya Karmakar\r\n\r\nProduce By: A Bleu Hertz Entertainment\r\n\r\nPresent By: Purple Theatre\r\n\r\nDirected By: Gourab Dutta',
+        duration='1113',type='1',tag='salesman, short film, indian short film, latest short film, santanu, shaan, purple, hot indian movie',category='BAZAAR',categoryid='313',
+        updated_at='2018-12-07 18:11:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_bev86jtq'
+07/12/2018 18:05:50 | SUCCESS | Updtate MetaData(0_nwjz9d25) | By-Biocine_ott503 | update entry set name='SALESMAN TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_nwjz9d25/version/100012',longdescription='Here we present a bengali short film trailer \"Salesman\".\r\nThe Story of a Man Who Married his Lover against the wish of his Parents,One day he shocked his Life when he discovered the secret of his Wife,He decide to take avenge his heartbreak with his Wife.\r\n\r\nFilm: Salesman\r\n\r\nCast: Imon, Shaan, Sourav, Aishik \r\n\r\nScript & Dialouge: Aishik & Pradip\r\n\r\nScript Asst. : Ananya Karmakar\r\n\r\nMusic, Lyrics & Vocal: Nachiketa\r\n\r\nD.O.P: Chyan Karmakar\r\n\r\nCamera Eqipment: Prasenjit Chandra\r\n\r\nDubbing, Foley & Ambience: Promix Studio\r\n\r\nEditor: Gourab Dutta\r\n\r\nColorist: Gourab Dutta\r\n\r\nAsst. Director: Pradip Sarkar, Aishik Bannerjee, Argha, Ananya Karmakar\r\n\r\nProduce By: A Bleu Hertz Entertainment\r\n\r\nPresent By: Purple Theatre\r\n\r\nDirected By: Gourab Dutta',
+        duration='84',type='1',tag='salesman, bengali short film, hit short film, romantic short film, santanu mandal, jeeoguru, indian short film, gourab dutta',category='BAZAAR',categoryid='313',
+        updated_at='2018-12-07 18:11:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_nwjz9d25'
+07/12/2018 18:10:32 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/12/2018 18:12:30 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/12/2018 18:12:59 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/12/2018 12:49:38 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 19:02:23 | SUCCESS | Save Thumbnail(0_7r4tqcxe) | By-Biocine_ott503 | 
+07/12/2018 20:34:57 | SUCCESS | Updtate MetaData(0_uure7wap) | By-Biocine_ott503 | update entry set name='PASSION ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_uure7wap/version/100032',longdescription='Here we present New Bengali Short Film \"Passion\"..Featuring with Nigel, Arita, Diyatri, Atanu and others..Produce By Cinetube Digital..Concept & Direction by Ani Ray..\r\n----------------------------------------------------------\r\nFilm: Passion (প্যাশন)\r\nFeaturing: Nigel Akkara, Arita Pal, Diyatri, Atanu Banerjee and others\r\nScript & Dialogue - Pavel Midya\r\nD.O.P- Goutam Das\r\nEdit & Sound Design : Milan\r\nChief Asst. Director: Bibhas Bera\r\nGraphics: Ramkrishna\r\nColorist: Smriti\r\nCreative Director: Sabyasachi Mandal\r\nProduce By: Cinetube Digital\r\nConcept & Direction : Ani Ray',
+        duration='2479',type='1',tag='passion, short film, bengali, new short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 20:40:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uure7wap'
+07/12/2018 20:41:02 | SUCCESS | Updtate MetaData(0_7r4tqcxe) | By-Biocine_ott503 | update entry set name='Passion Final Song.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r4tqcxe/version/100012',longdescription='Here we present a song \'Tomar Aakash Jure\' from Bengali Short Film \"Passion\"..Featuring with Nigel, Arita, Diyatri, Atanu and others..Produce By Cinetube Digital..Concept & Direction by Ani Ray..\r\n-----------------------------------------------------Film: Passion (প্যাশন)\r\n\r\nSong: Tomar Aakash Jure\r\n\r\nFeaturing: Nigel Akkara, Arita Pal, Diyatri, Atanu Banerjee and others\r\n\r\nScript & Dialogue - Pavel Midya\r\n\r\nD.O.P- Goutam Das\r\n\r\nEdit & Sound Design : Milan\r\n\r\nChief Asst. Director: Bibhas Bera\r\n\r\nGraphics: Ramkrishna\r\n\r\nColorist: Smriti\r\n\r\nCreative Director: Sabyasachi Mandal\r\n\r\nProduce By: Cinetube Digital\r\n\r\nConcept & Direction : Ani Ray',
+        duration='192',type='1',tag='passion, song, tomar aaksh jure, romantic, bengali, love song, bengali hit song, short film, indian short film, music video',category='MUSIC>FILM',categoryid='311',
+        updated_at='2018-12-07 20:46:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7r4tqcxe'
+07/12/2018 20:41:16 | SUCCESS | Save Content Partner(0_7r4tqcxe,) | By-Biocine_ott503 | 
+07/12/2018 23:07:03 | SUCCESS | Updtate MetaData(0_uure7wap) | By-Biocine_ott503 | update entry set name='PASSION ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_uure7wap/version/100032',longdescription='Here we present New Bengali Short Film \"Passion\"..Featuring with Nigel, Arita, Diyatri, Atanu and others..Produce By Cinetube Digital..Concept & Direction by Ani Ray..\r\n----------------------------------------------------------\r\nFilm: Passion (প্যাশন)\r\nFeaturing: Nigel Akkara, Arita Pal, Diyatri, Atanu Banerjee and others\r\nScript & Dialogue - Pavel Midya\r\nD.O.P- Goutam Das\r\nEdit & Sound Design : Milan\r\nChief Asst. Director: Bibhas Bera\r\nGraphics: Ramkrishna\r\nColorist: Smriti\r\nCreative Director: Sabyasachi Mandal\r\nProduce By: Cinetube Digital\r\nConcept & Direction : Ani Ray',
+        duration='2479',type='1',tag='passion, short film, bengali, new short film, nigel, jeeoguru, best short film, hir short film, hot short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 23:12:22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uure7wap'
+07/12/2018 23:16:22 | SUCCESS | Updtate MetaData(0_xid2xyje) | By-Biocine_ott503 | update entry set name='PASSION TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xid2xyje/version/100012',longdescription='Here we present New Bengali Short Film \"Passion\"..Featuring with Nigel, Arita, Diyatri, Atanu and others..Produce By Cinetube Digital..Concept & Direction by Ani Ray..\r\n----------------------------------------------------------\r\nFilm: Passion (প্যাশন)\r\nFeaturing: Nigel Akkara, Arita Pal, Diyatri, Atanu Banerjee and others\r\nScript & Dialogue - Pavel Midya\r\nD.O.P- Goutam Das\r\nEdit & Sound Design : Milan\r\nChief Asst. Director: Bibhas Bera\r\nGraphics: Ramkrishna\r\nColorist: Smriti\r\nCreative Director: Sabyasachi Mandal\r\nProduce By: Cinetube Digital\r\nConcept & Direction : Ani Ray',
+        duration='130',type='1',tag='passion, short film, benhali, jeeoguru, nigel, indian short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-07 23:21:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xid2xyje'
+07/12/2018 19:04:31 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/12/2018 19:07:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

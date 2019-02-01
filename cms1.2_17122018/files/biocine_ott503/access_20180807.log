@@ -1,0 +1,195 @@
+07/08/2018 03:54:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 04:43:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 04:43:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 10:13:35 | SUCCESS | Delete Coupon Delete (40) | By-Biocine_ott503 | delete from coupon where coupon_id='40'
+07/08/2018 10:13:38 | SUCCESS | Delete Coupon Delete (41) | By-Biocine_ott503 | delete from coupon where coupon_id='41'
+07/08/2018 10:29:09 | SUCCESS | Update Ticket Status(inprocess tid=144--by=104) | By-Biocine_ott503 | 
+07/08/2018 10:29:13 | SUCCESS | Update Ticket Status(pending tid=144--by=104) | By-Biocine_ott503 | 
+07/08/2018 10:29:17 | SUCCESS | Update Ticket Status(close tid=144--by=104) | By-Biocine_ott503 | 
+07/08/2018 10:29:24 | SUCCESS | Update Ticket Status(pending tid=144--by=104) | By-Biocine_ott503 | 
+07/08/2018 10:30:06 | SUCCESS | Updtate MetaData(0_esm2o2rr) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_esm2o2rr/version/100062',longdescription='Watch first look of Devdas .',
+        duration='104',type='1',tag='devdas, dev, das',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='296,298,310,311,313',
+        updated_at='2018-08-07 10:33:42',shortdescription='Watch first look of Devdas .',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_esm2o2rr'
+07/08/2018 05:11:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 05:21:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 10:51:46 | SUCCESS | Save Thumbnail(0_u7rblx2w) | By-Biocine_ott503 | 
+07/08/2018 05:28:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 10:58:26 | SUCCESS | Add New coupon (VWDHGBF40F) | By-Biocine_ott503 | 
+07/08/2018 10:58:31 | SUCCESS | Coupon active(Coupan ID:50,Status:active) | By-Biocine_ott503 | 
+07/08/2018 10:59:10 | SUCCESS | Update Coupon (50) | By-Biocine_ott503 | update coupon set name='ESTTT',code='ATTR123',type='P',discount='4.0000',date_start='2018-08-07 10:57:17',
+      date_end='2018-09-01 10:57:17',uses_total='2',uses_customer='2',updated_at=NOW() where coupon_id='50'
+07/08/2018 11:03:38 | SUCCESS | Add New Dashboard user (ASASASVDVDDVDVDVDVDVDVDVDVDVD) | By-Biocine_ott503 | 
+07/08/2018 05:53:25 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 11:28:41 | SUCCESS | Save New video(0_eh08r5ph) | By-Biocine_ott503 | 
+07/08/2018 06:00:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 06:02:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 06:05:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 06:08:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 11:41:31 | SUCCESS | Save New video(0_dlqfysvb) | By-Biocine_ott503 | 
+07/08/2018 12:27:00 | SUCCESS | update plan Detail(Quarter) | By-Biocine_ott503 | 
+07/08/2018 12:27:09 | SUCCESS | update plan Detail(Quarter) | By-Biocine_ott503 | 
+07/08/2018 12:27:17 | SUCCESS | update plan Detail(Half Yearly) | By-Biocine_ott503 | 
+07/08/2018 12:27:24 | SUCCESS | update plan Detail(Yearly) | By-Biocine_ott503 | 
+07/08/2018 12:27:30 | SUCCESS | update plan Detail(Yearly) | By-Biocine_ott503 | 
+07/08/2018 12:43:48 | SUCCESS | Save New video(0_y27y0tpl) | By-Biocine_ott503 | 
+07/08/2018 12:45:59 | SUCCESS | Save New video(0_46bkt3xf) | By-Biocine_ott503 | 
+07/08/2018 12:47:11 | SUCCESS | Save New video(0_am29malg) | By-Biocine_ott503 | 
+07/08/2018 14:02:42 | SUCCESS | Save Thumbnail(0_y27y0tpl) | By-Biocine_ott503 | 
+07/08/2018 14:03:14 | SUCCESS | Save Thumbnail(0_46bkt3xf) | By-Biocine_ott503 | 
+07/08/2018 14:03:33 | SUCCESS | Save Thumbnail(0_am29malg) | By-Biocine_ott503 | 
+07/08/2018 14:04:07 | SUCCESS | Bulk Add Category(0_1esi2h87,0_vfxczxc5,0_am29malg,0_y27y0tpl,296,299,302,312) | By-Biocine_ott503 | update entry set category='ORIGINALS>FOOD,ORIGINALS>MUSIC,MOVIES>CLASSIC,KIDS', categoryid='296,299,302,312' where entryid='0_y27y0tpl' 
+07/08/2018 14:04:41 | SUCCESS | Bulk Add Category(0_3ze6ayaw,0_wc2ip7eh,0_46bkt3xf,295,297,303,313) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,MOVIES>THRILLER,BAZAAR', categoryid='295,297,303,313' where entryid='0_46bkt3xf' 
+07/08/2018 14:14:24 | SUCCESS | Save Thumbnail(0_wc2ip7eh) | By-Biocine_ott503 | 
+07/08/2018 14:14:58 | SUCCESS | Save Thumbnail(0_wc2ip7eh) | By-Biocine_ott503 | 
+07/08/2018 14:15:20 | SUCCESS | Save Thumbnail(0_wc2ip7eh) | By-Biocine_ott503 | 
+07/08/2018 14:40:38 | SUCCESS | Save New video(0_3naq8n1m) | By-Biocine_ott503 | 
+07/08/2018 14:43:06 | SUCCESS | Updtate MetaData(0_3naq8n1m) | By-Biocine_ott503 | update entry set name='Passion Song Teaser',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_3naq8n1m/version/100022',longdescription='Watch the new teaser song of Passion .',
+        duration='70',type='1',tag='passion, song, teaser',category='ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='299,310',
+        updated_at='2018-08-07 14:46:43',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_3naq8n1m'
+07/08/2018 14:43:50 | SUCCESS | Save Thumbnail(0_3naq8n1m) | By-Biocine_ott503 | 
+07/08/2018 15:11:50 | SUCCESS | Save Thumbnail(0_am29malg) | By-Biocine_ott503 | 
+07/08/2018 15:17:29 | SUCCESS | Updtate MetaData(0_1esi2h87) | By-Biocine_ott503 | update entry set name='1-Nature site-Waterfall',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1esi2h87/version/100002',longdescription='Watch Nature\'s beauty waterfalls.',
+        duration='21',type='1',tag='water, nature, resources, rock, waterfall, never, water resources, river, sound water, ocean, sea, falls, amazing, natural calamities, site, scenes, beauty, world, places, view, sceneary, water bodies, natures, natural',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,MOVIES>CLASSIC,KIDS',categoryid='296,299,302,312',
+        updated_at='2018-08-07 15:21:05',shortdescription='Watch Nature\'s beauty waterfalls.',
+        director='NULL',producer='advff',cast='edrfrr',crew='CSV upload',sub_genre='Nature',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1esi2h87'
+07/08/2018 15:17:38 | SUCCESS | Updtate MetaData(0_3ze6ayaw) | By-Biocine_ott503 | update entry set name='2-Heavy Machinery',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_3ze6ayaw/version/100002',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machine, machinery, world, famous, techno, auto, technology, automobile, vehicle, builder, building, construction, tool, construct, work',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,MOVIES>THRILLER,BAZAAR',categoryid='295,297,303,313',
+        updated_at='2018-08-07 15:21:15',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='Biocine,Biocine',producer='NULL',cast='Planetcast,biocine,test',crew='NULL',sub_genre='Automobile',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3ze6ayaw'
+07/08/2018 15:17:49 | SUCCESS | Updtate MetaData(0_vfxczxc5) | By-Biocine_ott503 | update entry set name='3-Smashing Race Car',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vfxczxc5/version/100002',longdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        duration='38',type='1',tag='car, race, racing, auto, automobile, fore, wheel, wheeler, bikes, ride, auto tech, technology, biker, bike, street, car lover, road, trainer, safety measure, high, speed, stunt, luxury, smoothdriving, drive',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,MOVIES>CLASSIC,KIDS',categoryid='296,299,302,312',
+        updated_at='2018-08-07 15:21:25',shortdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        director='Test',producer='ww',cast='Testing',crew='Biocine CSV',sub_genre='Automobile',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vfxczxc5'
+07/08/2018 15:17:58 | SUCCESS | Updtate MetaData(0_wc2ip7eh) | By-Biocine_ott503 | update entry set name='4-Fitness tips for beginners',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_wc2ip7eh/version/100032',longdescription='This video is for fitness freak who can the basic technique for beginners.',
+        duration='719',type='1',tag='test, video, fitness, health, freak, fit, healthy',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,MOVIES>THRILLER,BAZAAR',categoryid='295,297,303,313',
+        updated_at='2018-08-07 15:21:34',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='Health',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wc2ip7eh'
+07/08/2018 15:19:01 | SUCCESS | Updtate MetaData(0_am29malg) | By-Biocine_ott503 | update entry set name='Andy And His Accordion',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_am29malg/version/100042',longdescription='',
+        duration='309',type='1',tag='',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,MOVIES>CLASSIC,KIDS',categoryid='296,299,302,312',
+        updated_at='2018-08-07 15:22:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_am29malg'
+07/08/2018 15:32:11 | SUCCESS | Updtate MetaData(0_1esi2h87) | By-Biocine_ott503 | update entry set name='1-Nature site-Waterfall',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1esi2h87/version/100002',longdescription='Watch Nature\'s beauty waterfalls.',
+        duration='21',type='1',tag='water, nature, resources, rock, waterfall, never, water resources, river, sound water, ocean, sea, falls, amazing, natural calamities, site, scenes, beauty, world, places, view, sceneary, water bodies, natures, natural',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,KIDS',categoryid='296,299,312',
+        updated_at='2018-08-07 15:35:48',shortdescription='Watch Nature\'s beauty waterfalls.',
+        director='NULL',producer='advff',cast='edrfrr',crew='CSV upload',sub_genre='Nature',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1esi2h87'
+07/08/2018 15:32:20 | SUCCESS | Updtate MetaData(0_vfxczxc5) | By-Biocine_ott503 | update entry set name='3-Smashing Race Car',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vfxczxc5/version/100002',longdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        duration='38',type='1',tag='car, race, racing, auto, automobile, fore, wheel, wheeler, bikes, ride, auto tech, technology, biker, bike, street, car lover, road, trainer, safety measure, high, speed, stunt, luxury, smoothdriving, drive',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,KIDS',categoryid='296,299,312',
+        updated_at='2018-08-07 15:35:56',shortdescription='Watch the car racing with smashing high speed and stunt. The car stunt has taken place in the absence of trainer.Don\'t try it without any trainer or guidance',
+        director='Test',producer='ww',cast='Testing',crew='Biocine CSV',sub_genre='Automobile',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vfxczxc5'
+07/08/2018 15:32:29 | SUCCESS | Updtate MetaData(0_wc2ip7eh) | By-Biocine_ott503 | update entry set name='4-Fitness tips for beginners',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_wc2ip7eh/version/100032',longdescription='This video is for fitness freak who can the basic technique for beginners.',
+        duration='719',type='1',tag='test, video, fitness, health, freak, fit, healthy',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,BAZAAR',categoryid='295,297,313',
+        updated_at='2018-08-07 15:36:05',shortdescription='test',
+        director='x,z,y',producer='x,z,y',cast='x',crew='NULL',sub_genre='Health',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wc2ip7eh'
+07/08/2018 15:32:42 | SUCCESS | Updtate MetaData(0_am29malg) | By-Biocine_ott503 | update entry set name='Andy And His Accordion',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_am29malg/version/100042',longdescription='',
+        duration='309',type='1',tag='',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,KIDS',categoryid='296,299,312',
+        updated_at='2018-08-07 15:36:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_am29malg'
+07/08/2018 15:32:54 | SUCCESS | Updtate MetaData(0_46bkt3xf) | By-Biocine_ott503 | update entry set name='Sintel OFFICIAL FULL MOVIE (2010)',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_46bkt3xf/version/100032',longdescription='Watch animation movie - Sintel.',
+        duration='888',type='1',tag='sintel, official, full, movie, animation',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,BAZAAR',categoryid='295,297,313',
+        updated_at='2018-08-07 15:36:31',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_46bkt3xf'
+07/08/2018 15:33:07 | SUCCESS | Updtate MetaData(0_y27y0tpl) | By-Biocine_ott503 | update entry set name='Elephants Dream',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_y27y0tpl/version/100032',longdescription='Watch animated short film Elephants Dream.',
+        duration='653',type='1',tag='elephants, dream, animation',category='ORIGINALS>FOOD,ORIGINALS>MUSIC,KIDS',categoryid='296,299,312',
+        updated_at='2018-08-07 15:36:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_y27y0tpl'
+07/08/2018 10:25:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 15:56:48 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/08/2018 16:09:27 | SUCCESS | Save Access Control(0_1qvhrjaj) | By-Biocine_ott503 | 
+07/08/2018 16:09:55 | SUCCESS | Save Access Control(0_9zzp56a1) | By-Biocine_ott503 | 
+07/08/2018 16:33:29 | SUCCESS | Update Ticket Status(close tid=70--by=104) | By-Biocine_ott503 | 
+07/08/2018 16:34:16 | SUCCESS | Update Ticket Status(inprocess tid=71--by=104) | By-Biocine_ott503 | 
+07/08/2018 16:35:02 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+07/08/2018 17:02:23 | SUCCESS | Save New video(0_lrcircnp) | By-Biocine_ott503 | 
+07/08/2018 17:03:08 | SUCCESS | Save New video(0_idy50m1p) | By-Biocine_ott503 | 
+07/08/2018 11:35:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+07/08/2018 17:05:46 | SUCCESS | Save New video(0_8dxg78t2) | By-Biocine_ott503 | 
+07/08/2018 17:11:41 | SUCCESS | Save New video(0_4qai3uug) | By-Biocine_ott503 | 
+07/08/2018 17:12:24 | SUCCESS | Save New video(0_c6em6ub2) | By-Biocine_ott503 | 
+07/08/2018 17:17:52 | SUCCESS | Save New video(0_kjx1jm5d) | By-Biocine_ott503 | 
+07/08/2018 17:18:33 | SUCCESS | Save New video(0_aflb8k3x) | By-Biocine_ott503 | 
+07/08/2018 17:21:03 | SUCCESS | Updtate MetaData(0_lrcircnp) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lrcircnp/version/100022',longdescription='Watch first look of Devdas .',
+        duration='102',type='1',tag='devdas, dev, promo, first, look',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='296,298,310,311,313',
+        updated_at='2018-08-07 17:24:39',shortdescription='Watch first look of Devdas .',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lrcircnp'
+07/08/2018 17:21:43 | SUCCESS | Save Thumbnail(0_lrcircnp) | By-Biocine_ott503 | 
+07/08/2018 17:23:23 | SUCCESS | Updtate MetaData(0_idy50m1p) | By-Biocine_ott503 | update entry set name='ELO SHE NATION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_idy50m1p/version/100022',longdescription='Watch ELO SHE NATION PROMO video.',
+        duration='116',type='1',tag='elo, she nation, promo',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>OTHERS,KIDS',categoryid='295,297,299,314,312',
+        updated_at='2018-08-07 17:26:59',shortdescription='Watch ELO SHE NATION PROMO video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_idy50m1p'
+07/08/2018 17:23:52 | SUCCESS | Save Thumbnail(0_idy50m1p) | By-Biocine_ott503 | 
+07/08/2018 17:25:27 | SUCCESS | Updtate MetaData(0_8dxg78t2) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_8dxg78t2/version/100022',longdescription='Watch first look of Infection Short film .',
+        duration='126',type='1',tag='infection, promo, short film, first look',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,KIDS,MUSIC>ORIGINAL>OTHERS',categoryid='295,297,299,312,314',
+        updated_at='2018-08-07 17:29:04',shortdescription='Watch first look of Infection Short film .',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_8dxg78t2'
+07/08/2018 17:26:11 | SUCCESS | Save Thumbnail(0_8dxg78t2) | By-Biocine_ott503 | 
+07/08/2018 17:26:58 | SUCCESS | Updtate MetaData(0_4qai3uug) | By-Biocine_ott503 | update entry set name='Passion Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qai3uug/version/100022',longdescription='Watch Passion Promo video',
+        duration='157',type='1',tag='passion, promo',category='ORIGINALS>WEB SERIES,BAZAAR',categoryid='295,313',
+        updated_at='2018-08-07 17:30:34',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4qai3uug'
+07/08/2018 17:27:15 | SUCCESS | Save Thumbnail(0_4qai3uug) | By-Biocine_ott503 | 
+07/08/2018 17:28:21 | SUCCESS | Updtate MetaData(0_c6em6ub2) | By-Biocine_ott503 | update entry set name='RONG | Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_c6em6ub2/version/100022',longdescription='Watch Rong promo video.',
+        duration='125',type='1',tag='rong, promo',category='ORIGINALS>GOSSIPS,ORIGINALS>MUSIC',categoryid='298,299',
+        updated_at='2018-08-07 17:31:57',shortdescription='Watch Rong promo video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_c6em6ub2'
+07/08/2018 17:29:20 | SUCCESS | Save Thumbnail(0_c6em6ub2) | By-Biocine_ott503 | 
+07/08/2018 17:31:48 | SUCCESS | Updtate MetaData(0_kjx1jm5d) | By-Biocine_ott503 | update entry set name='STATUS Trailer Final',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_kjx1jm5d/version/100022',longdescription='Watch Status Trailer .',
+        duration='97',type='1',tag='status, trailer, first look',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>OTHERS,KIDS',categoryid='295,297,299,314,312',
+        updated_at='2018-08-07 17:35:24',shortdescription='Watch Status Trailer .',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_kjx1jm5d'
+07/08/2018 17:32:04 | SUCCESS | Save Thumbnail(0_kjx1jm5d) | By-Biocine_ott503 | 
+07/08/2018 17:32:57 | SUCCESS | Updtate MetaData(0_aflb8k3x) | By-Biocine_ott503 | update entry set name='SUZETTE Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_aflb8k3x/version/100022',longdescription='Watch Suzette Promo video.',
+        duration='98',type='1',tag='suzette, promo',category='',categoryid='',
+        updated_at='2018-08-07 17:36:33',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_aflb8k3x'
+07/08/2018 17:33:10 | SUCCESS | Save Thumbnail(0_aflb8k3x) | By-Biocine_ott503 | 
+07/08/2018 17:34:09 | SUCCESS | Delete Video entry(0_4btqecc0) | By-Biocine_ott503 | 
+07/08/2018 17:34:10 | SUCCESS | Delete Video entry(0_dcj5shgn) | By-Biocine_ott503 | 
+07/08/2018 17:34:10 | SUCCESS | Delete Video entry(0_6xyp6du1) | By-Biocine_ott503 | 
+07/08/2018 17:34:11 | SUCCESS | Delete Video entry(0_oi6yx1f3) | By-Biocine_ott503 | 
+07/08/2018 17:34:12 | SUCCESS | Delete Video entry(0_1qvhrjaj) | By-Biocine_ott503 | 
+07/08/2018 17:34:13 | SUCCESS | Delete Video entry(0_xo9hpen2) | By-Biocine_ott503 | 
+07/08/2018 17:34:13 | SUCCESS | Delete Video entry(0_esm2o2rr) | By-Biocine_ott503 | 
+07/08/2018 17:34:46 | SUCCESS | Delete Video entry(0_5h6rhfdo) | By-Biocine_ott503 | 
+07/08/2018 17:34:47 | SUCCESS | Delete Video entry(0_hrg6oeme) | By-Biocine_ott503 | 

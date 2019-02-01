@@ -1,0 +1,15 @@
+11/11/2018 07:07:55 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/11/2018 12:51:21 | SUCCESS | Save New video(0_pkge4ikg) | By-Biocine_ott503 | 
+11/11/2018 12:55:03 | SUCCESS | Delete Video entry(0_q81ibpcl) | By-Biocine_ott503 | 
+11/11/2018 12:55:19 | SUCCESS | Delete Video entry(0_r895g16d) | By-Biocine_ott503 | 
+11/11/2018 12:59:47 | SUCCESS | Updtate MetaData(0_pkge4ikg) | By-Biocine_ott503 | update entry set name='Echhe | Nachiketa Chakraborty',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_pkge4ikg/version/100002',longdescription='Presenting a Bengali Modern Song ‘Echhe’ by Nachiketa Chakraborty...\r\nThis Song is based on the eternal desire of a father to love & protect his daughter from outer world. For a father such times of togetherness are the most precious gifts in his life proving the love, affection & bonding between them.\r\n--------------------------------------------------------------------\r\nSong\r\nEchhe\r\n\r\nSinger\r\nNachiketa Chakraborty\r\n\r\nMusic & Lyrics\r\nNachiketa Chakraborty\r\n\r\nAlbum\r\nAay Deke Jay\r\n\r\nMusic Label\r\nPowerchord\r\n\r\nDOP\r\nSabyasachi Mandal\r\n\r\nEdit\r\nNarayan Rana\r\n\r\nVideo Director\r\nRoopal & Soumyajit\r\n\r\nAn Initiative by\r\nBIOCINE\r\n\r\nStreaming only on JEEOGURU apps',
+        duration='212',type='1',tag='song, bengali, nachiketa, new, hit song, latest, best of nachiketa',category='ORIGINALS>MUSIC',categoryid='299',
+        updated_at='2018-11-11 13:04:44',shortdescription='This Song is based on the eternal desire of a father to love & protect his daughter from outer world',
+        director='Roopal & Soumyajit',producer='',cast='Nachiketa Chakraborty, Dhansiri',crew='',sub_genre='Music',
+        language='Bengali',pgrating='U/A',video_status='active',custom_data='{"DOP":"Sabyasachi Mandal","Music _ Lyrics":"Nachiketa Chakraborty"}'
+        where entryid='0_pkge4ikg'
+11/11/2018 13:00:42 | SUCCESS | Save Thumbnail(0_pkge4ikg) | By-Biocine_ott503 | 
+11/11/2018 13:00:52 | SUCCESS | Save Access Control(0_pkge4ikg) | By-Biocine_ott503 | 
+11/11/2018 13:01:07 | SUCCESS | Save Plan(0_pkge4ikg,0) | By-Biocine_ott503 | 
+11/11/2018 13:01:14 | SUCCESS | Save Age Restriction(0_pkge4ikg,UA) | By-Biocine_ott503 | 
+11/11/2018 13:28:20 | SUCCESS | Save New video(0_naxmi8fi) | By-Biocine_ott503 | 

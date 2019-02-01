@@ -1,0 +1,112 @@
+12/05/2018 07:22:28 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+12/05/2018 13:49:08 | SUCCESS | Updtate MetaData(0_mgpjh287) | By-PowerSmart_ott182 | update entry set name='Business News from around the World',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mgpjh287/version/100032',longdescription='Business news you should never miss. ',
+        duration='336',type='1',tag='business, business news, business latest, business updates',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-12 13:51:30',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_mgpjh287'
+12/05/2018 13:49:28 | SUCCESS | Updtate MetaData(0_yyrdffti) | By-PowerSmart_ott182 | update entry set name='Business News from around the World',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_yyrdffti/version/100032',longdescription='Business news you should never miss. ',
+        duration='429',type='1',tag='business, business news, business latest, business updates',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-12 13:51:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_yyrdffti'
+12/05/2018 13:49:59 | SUCCESS | Updtate MetaData(0_nir58xkn) | By-PowerSmart_ott182 | update entry set name='Business News from around the World',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_nir58xkn/version/100032',longdescription='Business news you should never miss. ',
+        duration='308',type='1',tag='business, business news, business latest, business updates',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-12 13:52:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_nir58xkn'
+12/05/2018 13:50:34 | SUCCESS | Updtate MetaData(0_5nd68e3o) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5nd68e3o/version/100032',longdescription='Get every world news here. ',
+        duration='214',type='1',tag='world news, world, international news, international updates, international',category='BUSINESS',categoryid='327',
+        updated_at='2018-05-12 13:52:57',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_5nd68e3o'
+12/05/2018 13:50:59 | SUCCESS | Updtate MetaData(0_5nd68e3o) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5nd68e3o/version/100032',longdescription='Get every world news here. ',
+        duration='214',type='1',tag='world news, world, international news, international updates, international',category='WORLD',categoryid='324',
+        updated_at='2018-05-12 13:53:22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_5nd68e3o'
+12/05/2018 13:51:15 | SUCCESS | Updtate MetaData(0_itol7gdk) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_itol7gdk/version/100032',longdescription='Get every world news here. ',
+        duration='187',type='1',tag='world news, world, international news, international updates, international',category='WORLD',categoryid='324',
+        updated_at='2018-05-12 13:53:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_itol7gdk'
+12/05/2018 13:51:29 | SUCCESS | Updtate MetaData(0_edivvh63) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_edivvh63/version/100032',longdescription='Get every world news here. ',
+        duration='165',type='1',tag='world news, world, international news, international updates, international',category='WORLD',categoryid='324',
+        updated_at='2018-05-12 13:53:51',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_edivvh63'
+12/05/2018 13:51:43 | SUCCESS | Updtate MetaData(0_m3gsywyq) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_m3gsywyq/version/100032',longdescription='Get every world news here. ',
+        duration='137',type='1',tag='world news, world, international news, international updates, international',category='WORLD',categoryid='324',
+        updated_at='2018-05-12 13:54:05',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_m3gsywyq'
+12/05/2018 13:52:42 | SUCCESS | Updtate MetaData(0_4ixclobm) | By-PowerSmart_ott182 | update entry set name='World News Quick Updates',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_4ixclobm/version/100032',longdescription='Get every world news here. ',
+        duration='127',type='1',tag='world news, world, international news, international updates, international',category='WORLD',categoryid='324',
+        updated_at='2018-05-12 13:55:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_4ixclobm'
+12/05/2018 15:23:16 | SUCCESS | Save New video(0_49c5ker4) | By-PowerSmart_ott182 | 
+12/05/2018 15:26:06 | SUCCESS | Updtate MetaData(0_49c5ker4) | By-PowerSmart_ott182 | update entry set name='ವಾರ್ಡ್ ನಂಬರ್ 191ರ ಮತಯಂತ್ರದಲ್ಲಿ ದೋಷ,',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_49c5ker4/version/100002',longdescription='ಕರ್ನಾಟಕ ಚುನಾವಣಾ ಸುದ್ದಿ: ವಾರ್ಡ್ ನಂಬರ್ ರ ಮತಯಂತ್ರದಲ್ಲಿ ದೋಷ, ಶಿವಾಜಿನಗರ ಕ್ಷೇತ್ರದ ಮತಗಟ್ಟೆಯಲ್ಲಿ ಘಟನೆ',
+        duration='195',type='1',tag='shivajinagar, shivajinagar voting machine, shivajinagar voting machine fail, voting machine fail, voting machine, vip news, karnataka elections',category='',categoryid='',
+        updated_at='2018-05-12 15:28:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_49c5ker4'
+12/05/2018 15:37:15 | SUCCESS | Updtate MetaData(0_49c5ker4) | By-PowerSmart_ott182 | update entry set name='ವಾರ್ಡ್ ನಂಬರ್ 191ರ ಮತಯಂತ್ರದಲ್ಲಿ ದೋಷ,',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_49c5ker4/version/100022',longdescription='ಕರ್ನಾಟಕ ಚುನಾವಣಾ ಸುದ್ದಿ: ವಾರ್ಡ್ ನಂಬರ್ ರ ಮತಯಂತ್ರದಲ್ಲಿ ದೋಷ, ಶಿವಾಜಿನಗರ ಕ್ಷೇತ್ರದ ಮತಗಟ್ಟೆಯಲ್ಲಿ ಘಟನೆ',
+        duration='195',type='1',tag='shivajinagar, shivajinagar voting machine, shivajinagar voting machine fail, voting machine fail, voting machine, vip news, karnataka elections',category='Politics',categoryid='376',
+        updated_at='2018-05-12 15:39:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_49c5ker4'
+12/05/2018 15:38:20 | SUCCESS | Add New Header Content(Politics) | By-PowerSmart_ott182 | 
+12/05/2018 15:38:27 | SUCCESS | Header Menu active(HeaderID:57,Status:active) | By-PowerSmart_ott182 | 
+12/05/2018 15:38:52 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+12/05/2018 15:48:38 | SUCCESS | Save New video(0_w08682zh) | By-PowerSmart_ott182 | 
+12/05/2018 16:15:58 | SUCCESS | Updtate MetaData(0_w08682zh) | By-PowerSmart_ott182 | update entry set name='ಮತದಾನ ಮಾಡಿದ ನವ ವಿವಾಹಿತೆ: ಬಾಗಲಕೋಟೆ ನ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_w08682zh/version/100022',longdescription='ಬಾಗಲಕೋಟೆ ನಗರ ದಲ್ಲಿ ಮತದಾನ ಮಾಡಿದ ನವ ವಿವಾಹಿತೆ',
+        duration='113',type='1',tag='newly-weds, cast vote, newly-weds cast vote, karnataka elections',category='Politics',categoryid='376',
+        updated_at='2018-05-12 16:18:20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_w08682zh'
+12/05/2018 16:19:18 | SUCCESS | Save New video(0_mafuz3ys) | By-PowerSmart_ott182 | 
+12/05/2018 16:22:49 | SUCCESS | Updtate MetaData(0_mafuz3ys) | By-PowerSmart_ott182 | update entry set name='ಚಿತ್ರದುರ್ಗದಲ್ಲಿ ಮತದಾನದ ವೇಳೆ ಚುನಾವಣಾ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_mafuz3ys/version/100032',longdescription='ಚಿತ್ರದುರ್ಗದಲ್ಲಿ ಮತದಾನದ ವೇಳೆ ಚುನಾವಣಾಧಿಕಾರಿಗಳಿಂದ ಅಕ್ರಮ ಆರೋಪ\r\nಸೆಕ್ಟರ್ ಅದಿಕಾರಿ ಅಹ್ಮದ್ ವಿರುದ್ಧ ಆರೋಪ ಮಾಡುತ್ತಿರುವ ತಿಪ್ಪಾರೆಡ್ಡಿ.\r\n',
+        duration='75',type='1',tag='election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-12 16:25:11',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_mafuz3ys'
+12/05/2018 16:27:22 | SUCCESS | Save New video(0_kmttzwh8) | By-PowerSmart_ott182 | 
+12/05/2018 16:33:15 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+12/05/2018 16:33:27 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+12/05/2018 16:43:47 | SUCCESS | Save New video(0_khgoq80g) | By-PowerSmart_ott182 | 
+12/05/2018 16:49:09 | SUCCESS | Updtate MetaData(0_khgoq80g) | By-PowerSmart_ott182 | update entry set name='ಈ ಹೊತ್ತಿನ ಕರ್ನಾಟಕ ಚುನಾವಣಾ ವಿಶೇಷ ಸುದ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_khgoq80g/version/100032',longdescription='ಈ ಹೊತ್ತಿನ ಕರ್ನಾಟಕ ಚುನಾವಣಾ ವಿಶೇಷ ಸುದ್ದಿಗಳು | Latest Karnataka Election News',
+        duration='65',type='1',tag='election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-12 16:51:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_khgoq80g'
+12/05/2018 16:49:23 | SUCCESS | Updtate MetaData(0_kmttzwh8) | By-PowerSmart_ott182 | update entry set name='ಜೆಡಿಎಸ್ ಯುವನಾಯಕ ನಿಖಿಲ್ ಕುಮಾರಸ್ವಾಮಿ ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_kmttzwh8/version/100032',longdescription='ಜೆಡಿಎಸ್ ಯುವನಾಯಕ ನಿಖಿಲ್ ಕುಮಾರಸ್ವಾಮಿ  | Nikhil Gowda casts vote',
+        duration='131',type='1',tag='nikhil gowda, nikhil gowda casts vote, election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-12 16:51:46',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_kmttzwh8'
+12/05/2018 17:09:05 | SUCCESS | Save New video(0_m4b2oc5k) | By-PowerSmart_ott182 | 
+12/05/2018 11:39:54 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+12/05/2018 17:22:29 | SUCCESS | Save New video(0_mdh6lwee) | By-PowerSmart_ott182 | 
+12/05/2018 17:22:58 | SUCCESS | Save New video(0_m75v6aqf) | By-PowerSmart_ott182 | 
+12/05/2018 17:46:57 | SUCCESS | Save New video(0_3mls7brl) | By-PowerSmart_ott182 | 
+12/05/2018 17:58:21 | SUCCESS | Updtate MetaData(0_3mls7brl) | By-PowerSmart_ott182 | update entry set name='ಮನೆಯೊಳಗೆ ಕಾಂಗ್ರೆಸ್ ರವರಿಂದ ಹಣ ಹಂಚಿಕೆ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_3mls7brl/version/100022',longdescription='ಮನೆಯೊಳಗೆ ಕಾಂಗ್ರೆಸ್ ರವರಿಂದ ಹಣ ಹಂಚಿಕೆ | Congress distributes money inside a house',
+        duration='350',type='1',tag='cast your vote, vote, election, karnataka elections, vip news, karnataka politics',category='Politics',categoryid='376',
+        updated_at='2018-05-12 18:00:43',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_3mls7brl'

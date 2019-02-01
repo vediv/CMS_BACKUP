@@ -1,0 +1,20 @@
+25/09/2018 05:24:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 05:49:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 05:54:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 07:31:06 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 14:35:57 | SUCCESS | Add New coupon (BDD123) | By-Biocine_ott503 | 
+25/09/2018 14:36:00 | SUCCESS | Coupon active(Coupan ID:55,Status:active) | By-Biocine_ott503 | 
+25/09/2018 10:30:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 16:00:33 | SUCCESS | Update Coupon (55) | By-Biocine_ott503 | update coupon set name='abcd123',code='BDD123',type='P',discount='40.0000',date_start='2018-09-25 14:35:07',
+      date_end='2018-10-01 14:35:07',uses_total='3',uses_customer='2',updated_at=NOW() where coupon_id='55'
+25/09/2018 16:02:13 | SUCCESS | Add New coupon (WQWQ123) | By-Biocine_ott503 | 
+25/09/2018 16:02:16 | SUCCESS | Coupon active(Coupan ID:56,Status:active) | By-Biocine_ott503 | 
+25/09/2018 10:45:52 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 16:26:50 | SUCCESS | Update Subscription Code (15) | By-Biocine_ott503 | 
+25/09/2018 17:14:57 | SUCCESS | Update Coupon (57) | By-Biocine_ott503 | update coupon set name='AS',code='I36E6GWBOU',type='P',discount='0.0000',date_start='2018-09-25 17:07:55',
+      date_end='2018-10-25 17:07:55',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='57'
+25/09/2018 17:15:25 | SUCCESS | Update Coupon (57) | By-Biocine_ott503 | update coupon set name='AS',code='QQQ111',type='P',discount='0.0000',date_start='2018-09-25 17:07:55',
+      date_end='2018-10-25 17:07:55',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='57'
+25/09/2018 11:50:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/09/2018 17:21:46 | SUCCESS | Add New Subscription Code (Q123Q) | By-Biocine_ott503 | 
+25/09/2018 17:21:53 | SUCCESS | subscription code active(subscription ID:18,Status:active) | By-Biocine_ott503 | 

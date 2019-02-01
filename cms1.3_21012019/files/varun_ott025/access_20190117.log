@@ -1,0 +1,4 @@
+17/01/2019 11:18:10 | SUCCESS | Update Category(SEASON 2) | By-varun_ott025 | update categories set cat_name='SEASON 2',description='',tags='',fullname='ORIGINAL>WEB SERIES>SERIES 1>SEASON 2' where category_id='548'
+17/01/2019 11:19:49 | SUCCESS | Update Category(SEASON 2) | By-varun_ott025 | update categories set cat_name='SEASON 2',description='',tags='',fullname='ORIGINAL>WEB SERIES>SERIES 1>SEASON 2' where category_id='548'
+17/01/2019 11:24:58 | SUCCESS | Update Category(SEASON 2) | By-varun_ott025 | update categories set cat_name='SEASON 2',description='',tags='',fullname='ORIGINAL>WEB SERIES>SERIES 1>SEASON 2',short_name='season2' where category_id='548'
+17/01/2019 11:27:26 | SUCCESS | delete Category(561) | By-varun_ott025 | update categories set status='3',priority='0' where category_id='561'

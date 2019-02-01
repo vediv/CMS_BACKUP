@@ -1,0 +1,45 @@
+05/05/2018 04:53:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/05/2018 05:17:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/05/2018 05:36:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/05/2018 06:39:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/05/2018 12:11:53 | SUCCESS | update Header Content Detail(HOME) | By-Biocine_ott503 | 
+05/05/2018 12:12:22 | SUCCESS | update Header Content Detail(ORIGINALS) | By-Biocine_ott503 | 
+05/05/2018 12:12:50 | SUCCESS | update Header Content Detail(LIVE) | By-Biocine_ott503 | 
+05/05/2018 12:13:50 | SUCCESS | update Header Content Detail(MOVIES) | By-Biocine_ott503 | 
+05/05/2018 12:14:20 | SUCCESS | update Header Content Detail(MUSIC) | By-Biocine_ott503 | 
+05/05/2018 12:14:47 | SUCCESS | update Header Content Detail(KIDS) | By-Biocine_ott503 | 
+05/05/2018 12:15:13 | SUCCESS | update Header Content Detail(BAZAAR) | By-Biocine_ott503 | 
+05/05/2018 12:15:45 | SUCCESS | update Header Content Detail(HOME) | By-Biocine_ott503 | 
+05/05/2018 12:16:42 | SUCCESS | update Header Content Detail(Profile) | By-Biocine_ott503 | 
+05/05/2018 12:17:23 | SUCCESS | update Header Content Detail(Watchlist) | By-Biocine_ott503 | 
+05/05/2018 12:17:59 | SUCCESS | update Header Content Detail(Plan) | By-Biocine_ott503 | 
+05/05/2018 12:18:28 | SUCCESS | update Header Content Detail(Wallet) | By-Biocine_ott503 | 
+05/05/2018 12:18:54 | SUCCESS | update Header Content Detail(CONTACT US) | By-Biocine_ott503 | 
+05/05/2018 12:19:20 | SUCCESS | update Header Content Detail(FAQ) | By-Biocine_ott503 | 
+05/05/2018 12:50:22 | SUCCESS | Save New video(0_jx0torr1) | By-Biocine_ott503 | 
+05/05/2018 13:12:41 | SUCCESS | Save New video(0_wfsmou6w) | By-Biocine_ott503 | 
+05/05/2018 13:23:14 | SUCCESS | Save New video(0_iu728zkl) | By-Biocine_ott503 | 
+05/05/2018 13:33:14 | SUCCESS | Save New video(0_ihza7ox9) | By-Biocine_ott503 | 
+05/05/2018 13:38:01 | SUCCESS | Save New video(0_kgyx1fq7) | By-Biocine_ott503 | 
+05/05/2018 13:46:47 | SUCCESS | Save New video(0_oc59xpfg) | By-Biocine_ott503 | 
+05/05/2018 13:57:53 | SUCCESS | Save New video(0_o0chchs6) | By-Biocine_ott503 | 
+05/05/2018 14:26:46 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+05/05/2018 14:26:50 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+05/05/2018 14:26:59 | SUCCESS | Sync New Category(ON DEMAND) | By-Biocine_ott503 | 
+05/05/2018 14:27:07 | SUCCESS | Sync New Category(KIDS) | By-Biocine_ott503 | 
+05/05/2018 14:27:11 | SUCCESS | Sync New Category(LEARNING) | By-Biocine_ott503 | 
+05/05/2018 14:27:15 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+05/05/2018 14:28:09 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+05/05/2018 16:08:33 | SUCCESS | Delete Video entry(0_kos430y7) | By-Biocine_ott503 | 
+05/05/2018 16:08:35 | SUCCESS | Delete Video entry(0_r3m1v6zq) | By-Biocine_ott503 | 
+05/05/2018 16:30:39 | ERROR-SQL | Lost connection to MySQL server during query | By-Biocine_ott503 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_9nyp9hqx','Edebits Ep18 - Antartic on Rocks','http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9nyp9hqx/version/0','Mr. Jack, a successful businessman, arrives at the base to show Julia and Nil his project Antarctic on the Rocks to make ice cubes for drinks out of the ice of Antarctica.He reassures the scientific team that this will not cause any damage to the natural environment,not knowing about Lou and Morgans evil plans','1','kids, cartoon, edebit, episode, 18, ep, series, learning, little, kid, yr, 22, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, luo, morgan, antartc, antartica, environment','1','0','2018-05-05 16:32:55','active','104')
+05/05/2018 11:18:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/05/2018 17:31:05 | SUCCESS | Updtate MetaData(0_9nyp9hqx) | By-Biocine_ott503 | update entry set name='Edebits Ep18 - Antartic on Rocks',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9nyp9hqx/version/100032',longdescription='Mr. Jack, a successful businessman, arrives at the base to show Julia and Nil his project Antarctic on the Rocks to make ice cubes for drinks out of the ice of Antarctica.He reassures the scientific team that this will not cause any damage to the natural environment,not knowing about Lou and Morgans evil plans',
+        duration='1547',type='1',tag='kids, cartoon, edebit, episode, 18, ep, series, learning, little, kid, yr, 22, children, story, animation, zone, junior, telling, listen, stories, bet, arts, gov, net, org, com, luo, morgan, antartc, antartica, environment',category='ON DEMAND>KIDS>LEARNING',categoryid='356',
+        updated_at='2018-05-05 17:33:21',shortdescription='Mr. Jack, a successful businessman, arrives at the base to show Julia and Nil his project Antarctic on the Rocks to make ice cubes',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='English',pgrating='U',video_status='active',puser_id='104',custom_data=''
+        where entryid='0_9nyp9hqx'
+05/05/2018 17:31:35 | SUCCESS | Save Thumbnail(0_9nyp9hqx) | By-Biocine_ott503 | 
+05/05/2018 17:36:07 | SUCCESS | Sync Category | By-Biocine_ott503 | 

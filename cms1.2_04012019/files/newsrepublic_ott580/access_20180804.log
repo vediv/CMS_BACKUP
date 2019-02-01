@@ -1,0 +1,133 @@
+04/08/2018 07:23:14 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 07:34:01 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 07:54:35 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 08:04:44 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 13:35:12 | SUCCESS | Save New video(0_w4e4zqm8) | By-NewsRepublic_ott580 | 
+04/08/2018 13:35:23 | SUCCESS | Save New video(0_gb3jf3vv) | By-NewsRepublic_ott580 | 
+04/08/2018 13:35:36 | SUCCESS | Save New video(0_fzb2vhz0) | By-NewsRepublic_ott580 | 
+04/08/2018 13:35:50 | SUCCESS | Save New video(0_9j7rpu13) | By-NewsRepublic_ott580 | 
+04/08/2018 13:36:01 | SUCCESS | Save New video(0_pvchps4i) | By-NewsRepublic_ott580 | 
+04/08/2018 13:36:16 | SUCCESS | Save New video(0_z8uwu1wf) | By-NewsRepublic_ott580 | 
+04/08/2018 13:36:32 | SUCCESS | Save New video(0_woo7zyqv) | By-NewsRepublic_ott580 | 
+04/08/2018 13:36:42 | SUCCESS | Save New video(0_u5jbjyua) | By-NewsRepublic_ott580 | 
+04/08/2018 13:36:56 | SUCCESS | Save New video(0_bouxcj7g) | By-NewsRepublic_ott580 | 
+04/08/2018 13:37:08 | SUCCESS | Save New video(0_l60j0yje) | By-NewsRepublic_ott580 | 
+04/08/2018 13:37:21 | SUCCESS | Save New video(0_4ool6fbm) | By-NewsRepublic_ott580 | 
+04/08/2018 09:12:45 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 09:27:25 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 09:38:49 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 15:09:21 | SUCCESS | Save New video(0_vt17lfk2) | By-NewsRepublic_ott580 | 
+04/08/2018 15:12:05 | SUCCESS | Save New video(0_9ua609dz) | By-NewsRepublic_ott580 | 
+04/08/2018 15:24:19 | SUCCESS | Save New video(0_kghat8cr) | By-NewsRepublic_ott580 | 
+04/08/2018 09:59:22 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 15:30:20 | SUCCESS | Add New Slider Image(C:\fakepath\baneer6.jpg) | By-NewsRepublic_ott580 | 
+04/08/2018 15:30:43 | SUCCESS | Delete slider Image (1) | By-NewsRepublic_ott580 | delete from slider_image_detail where img_id='1'
+04/08/2018 15:31:39 | SUCCESS | Add New Slider Image(C:\fakepath\baneer6.jpg) | By-NewsRepublic_ott580 | 
+04/08/2018 15:45:25 | SUCCESS | Add New Slider Image(C:\fakepath\baneer6.jpg) | By-NewsRepublic_ott580 | 
+04/08/2018 15:47:07 | SUCCESS | Create New Category(LATEST NEWS) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '424','423','1','112','LATEST NEWS','BREAKING NEWS>LATEST NEWS','423>424','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+04/08/2018 15:47:33 | SUCCESS | Create New Category(TOP STORIES) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '425','423','1','112','TOP STORIES','BREAKING NEWS>TOP STORIES','423>425','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+04/08/2018 15:48:06 | SUCCESS | Create New Category(SPORTS) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '427','426','1','112','SPORTS','WORLD NEWS>SPORTS','426>427','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+04/08/2018 15:48:23 | SUCCESS | Create New Category(BUSINESS) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '428','426','1','112','BUSINESS','WORLD NEWS>BUSINESS','426>428','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+04/08/2018 15:49:01 | SUCCESS | Create New Category(POLITICAL) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '429','426','1','112','POLITICAL','WORLD NEWS>POLITICAL','426>429','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+04/08/2018 15:49:14 | SUCCESS | Delete Video entry(0_kghat8cr) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:15 | SUCCESS | Delete Video entry(0_9ua609dz) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:17 | SUCCESS | Delete Video entry(0_vt17lfk2) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:18 | SUCCESS | Delete Video entry(0_4ool6fbm) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:20 | SUCCESS | Delete Video entry(0_l60j0yje) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:21 | SUCCESS | Delete Video entry(0_bouxcj7g) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:23 | SUCCESS | Delete Video entry(0_u5jbjyua) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:24 | SUCCESS | Delete Video entry(0_woo7zyqv) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:25 | SUCCESS | Delete Video entry(0_z8uwu1wf) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:27 | SUCCESS | Delete Video entry(0_pvchps4i) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:39 | SUCCESS | Delete Video entry(0_9j7rpu13) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:41 | SUCCESS | Delete Video entry(0_fzb2vhz0) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:42 | SUCCESS | Delete Video entry(0_gb3jf3vv) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:43 | SUCCESS | Delete Video entry(0_w4e4zqm8) | By-NewsRepublic_ott580 | 
+04/08/2018 15:49:55 | SUCCESS | Delete slider Image (3) | By-NewsRepublic_ott580 | delete from slider_image_detail where img_id='3'
+04/08/2018 15:49:57 | SUCCESS | Delete slider Image (2) | By-NewsRepublic_ott580 | delete from slider_image_detail where img_id='2'
+04/08/2018 15:51:15 | SUCCESS | Save New video(0_slsemrbj) | By-NewsRepublic_ott580 | 
+04/08/2018 15:51:29 | SUCCESS | Save New video(0_y48o7o2o) | By-NewsRepublic_ott580 | 
+04/08/2018 15:51:44 | SUCCESS | Save New video(0_ooq1hwrk) | By-NewsRepublic_ott580 | 
+04/08/2018 15:52:07 | SUCCESS | Save New video(0_sxfjdl3c) | By-NewsRepublic_ott580 | 
+04/08/2018 15:52:16 | SUCCESS | Save New video(0_jp5urktr) | By-NewsRepublic_ott580 | 
+04/08/2018 15:52:26 | SUCCESS | Save New video(0_4yxfi4l3) | By-NewsRepublic_ott580 | 
+04/08/2018 15:53:18 | SUCCESS | Save Thumbnail(0_slsemrbj) | By-NewsRepublic_ott580 | 
+04/08/2018 15:55:20 | SUCCESS | Save New video(0_b5g7us5l) | By-NewsRepublic_ott580 | 
+04/08/2018 15:55:30 | SUCCESS | Save New video(0_d2e167se) | By-NewsRepublic_ott580 | 
+04/08/2018 15:55:44 | SUCCESS | Save New video(0_tws872v0) | By-NewsRepublic_ott580 | 
+04/08/2018 15:56:12 | SUCCESS | Save New video(0_x3yrhi0c) | By-NewsRepublic_ott580 | 
+04/08/2018 15:56:19 | SUCCESS | Save New video(0_dnwi1uhf) | By-NewsRepublic_ott580 | 
+04/08/2018 15:57:56 | SUCCESS | Add New Header Content(BREAKING NEWS) | By-NewsRepublic_ott580 | 
+04/08/2018 15:58:03 | SUCCESS | Add New Header Content(WORLD NEWS) | By-NewsRepublic_ott580 | 
+04/08/2018 15:58:07 | SUCCESS | Header Menu active(HeaderID:44,Status:active) | By-NewsRepublic_ott580 | 
+04/08/2018 15:58:09 | SUCCESS | Header Menu active(HeaderID:45,Status:active) | By-NewsRepublic_ott580 | 
+04/08/2018 10:38:56 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 16:10:59 | SUCCESS | Bulk Add Category(0_ooq1hwrk,0_slsemrbj,424) | By-NewsRepublic_ott580 | update entry set category='BREAKING NEWS>LATEST NEWS', categoryid='424' where entryid='0_slsemrbj' 
+04/08/2018 16:11:16 | SUCCESS | Bulk Add Category(0_sxfjdl3c,0_y48o7o2o,429) | By-NewsRepublic_ott580 | update entry set category='WORLD NEWS>POLITICAL', categoryid='429' where entryid='0_y48o7o2o' 
+04/08/2018 16:11:36 | SUCCESS | Bulk Add Category(0_b5g7us5l,0_jp5urktr,425) | By-NewsRepublic_ott580 | update entry set category='BREAKING NEWS>TOP STORIES', categoryid='425' where entryid='0_jp5urktr' 
+04/08/2018 16:11:51 | SUCCESS | Bulk Add Category(0_d2e167se,0_4yxfi4l3,427) | By-NewsRepublic_ott580 | update entry set category='WORLD NEWS>SPORTS', categoryid='427' where entryid='0_4yxfi4l3' 
+04/08/2018 16:12:09 | SUCCESS | Bulk Add Category(0_dnwi1uhf,0_tws872v0,428) | By-NewsRepublic_ott580 | update entry set category='WORLD NEWS>BUSINESS', categoryid='428' where entryid='0_tws872v0' 
+04/08/2018 16:12:19 | SUCCESS | Bulk Add Category(0_x3yrhi0c,424) | By-NewsRepublic_ott580 | update entry set category='BREAKING NEWS>LATEST NEWS', categoryid='424' where entryid='0_x3yrhi0c' 
+04/08/2018 10:58:28 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 16:54:00 | SUCCESS | Updtate MetaData(0_slsemrbj) | By-NewsRepublic_ott580 | update entry set name='Morning start with some crispy News',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_slsemrbj/version/100012',longdescription='Newspaper can cover wide variety of section to capture multiple fields such as political,social,technology,economic,weather forecasts , art & science and some useful articles.\r\n\r\nThis is the traditional of reading news which is usually on cheap,low-grade paper called newsprint.',
+        duration='15',type='1',tag='news, morning, newspaper, crispy, reading, raed, national, state, international, report, reporter, test, latest',category='BREAKING NEWS>LATEST NEWS',categoryid='424',
+        updated_at='2018-08-04 16:57:33',shortdescription='Newspaper is the medium to grab news related to state,nation and international.',
+        director='',producer='',cast='',crew='',sub_genre='Editors choice',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_slsemrbj'
+04/08/2018 16:55:30 | SUCCESS | Save Thumbnail(0_slsemrbj) | By-NewsRepublic_ott580 | 
+04/08/2018 16:57:36 | SUCCESS | Updtate MetaData(0_y48o7o2o) | By-NewsRepublic_ott580 | update entry set name='Catch live and latest news on your ',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_y48o7o2o/version/100002',longdescription='You can catch live news feed, latest updates on your devices while you are traveling.\r\nWe all know that technology is accelerating and the people are getting active to read latest news feed.\r\nIn mobile reading , it is manageable in crowded area to read and carry out the device .',
+        duration='8',type='1',tag='android, ios, application, mobile, device, news, reading, report, reporting, reporter, latest, updates',category='WORLD NEWS>POLITICAL',categoryid='429',
+        updated_at='2018-08-04 17:01:09',shortdescription='You can catch live news feed, latest updates on your devices while you are traveling.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_y48o7o2o'
+04/08/2018 16:59:37 | SUCCESS | Updtate MetaData(0_ooq1hwrk) | By-NewsRepublic_ott580 | update entry set name='Brisk Skipping is a healthy start',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_ooq1hwrk/version/100002',longdescription='Those who are health conscious will always keep in mind about a healthy start of a day through skipping,\r\njogging,weight lifting and so.',
+        duration='9',type='1',tag='skipping, rope, health, healthy, workout, diet, news, feed, updates, report, reporting, reporter',category='BREAKING NEWS>LATEST NEWS',categoryid='424',
+        updated_at='2018-08-04 17:03:10',shortdescription='Those who are health conscious will always keep in mind about a healthy start of a day through skipping,',
+        director='',producer='',cast='',crew='',sub_genre='Health',
+        language='',pgrating='PG-13',video_status='active',custom_data=''
+        where entryid='0_ooq1hwrk'
+04/08/2018 17:02:26 | SUCCESS | Save Thumbnail(0_ooq1hwrk) | By-NewsRepublic_ott580 | 
+04/08/2018 17:03:52 | SUCCESS | Updtate MetaData(0_sxfjdl3c) | By-NewsRepublic_ott580 | update entry set name='News typing speed on system',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_sxfjdl3c/version/100002',longdescription='Watch the typing speed of a news writer.',
+        duration='8',type='1',tag='news, update, keyboard, writing, speed, typing, writer, feed, report, reporting, reporter',category='WORLD NEWS>POLITICAL',categoryid='429',
+        updated_at='2018-08-04 17:07:26',shortdescription='Watch the typing speed of a news writer.',
+        director='',producer='',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_sxfjdl3c'
+04/08/2018 17:07:31 | SUCCESS | Save Thumbnail(0_sxfjdl3c) | By-NewsRepublic_ott580 | 
+04/08/2018 17:09:15 | SUCCESS | Updtate MetaData(0_jp5urktr) | By-NewsRepublic_ott580 | update entry set name='Car new featured and design model',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_jp5urktr/version/100002',longdescription='Watch new model/design of car which is out with some new & amazing features.\r\nA car or automobile is a wheeled motor vehicle used for transportation. Most definitions of car say they run primarily on roads, seat one to seven people, have four tires, and mainly transport people rather than goods.',
+        duration='7',type='1',tag='car, auto, automobile, feature, design, model, designing, vehicle, wheel, wheeler, cars, sport, luxury',category='BREAKING NEWS>TOP STORIES',categoryid='425',
+        updated_at='2018-08-04 17:12:49',shortdescription='Watch new model/design of car which is out with some new & amazing features.',
+        director='',producer='',cast='',crew='',sub_genre='Automobiles',
+        language='',pgrating='PG13',video_status='active',custom_data=''
+        where entryid='0_jp5urktr'
+04/08/2018 17:11:58 | SUCCESS | Save Thumbnail(0_jp5urktr) | By-NewsRepublic_ott580 | 
+04/08/2018 17:13:11 | SUCCESS | Updtate MetaData(0_4yxfi4l3) | By-NewsRepublic_ott580 | update entry set name='News all around the world',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_4yxfi4l3/version/100002',longdescription='Watch all latest global news with the help of digital world where you can receive all information & happenning of every country.\r\nGlobally we can connect with other countries easily as well and particularly it is a good medium to stay connected with the world.\r\nGlobal news helps you to gain knowledge.',
+        duration='10',type='1',tag='globe, global, news, feed, updates, report, reporting, reporter, latest, world, international, tv, national, state',category='WORLD NEWS>SPORTS',categoryid='427',
+        updated_at='2018-08-04 17:16:44',shortdescription='Watch all latest global news with the help of digital world where you can receive all information & happenning of every country.',
+        director='',producer='',cast='',crew='',sub_genre='International News',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_4yxfi4l3'
+04/08/2018 17:14:01 | SUCCESS | Save Thumbnail(0_4yxfi4l3) | By-NewsRepublic_ott580 | 
+04/08/2018 17:14:38 | SUCCESS | Save Thumbnail(0_4yxfi4l3) | By-NewsRepublic_ott580 | 
+04/08/2018 17:21:12 | SUCCESS | Updtate MetaData(0_b5g7us5l) | By-NewsRepublic_ott580 | update entry set name='Fireworks | crackers',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_b5g7us5l/version/100002',longdescription='Watch celebration with fireworks .',
+        duration='30',type='1',tag='fire, fireworks, cracker, crackers, test',category='BREAKING NEWS>TOP STORIES',categoryid='425',
+        updated_at='2018-08-04 17:24:46',shortdescription='Watch celebration with fireworks .',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_b5g7us5l'
+04/08/2018 17:21:47 | SUCCESS | Save Thumbnail(0_b5g7us5l) | By-NewsRepublic_ott580 | 
+04/08/2018 12:10:20 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+04/08/2018 17:42:55 | SUCCESS | Updtate MetaData(0_d2e167se) | By-NewsRepublic_ott580 | update entry set name='News all around the globe',thumbnail='http://ott.planetcast.in/p/112/sp/11200/thumbnail/entry_id/0_d2e167se/version/100002',longdescription='Globally we can connect with other countries easily as well and particularly it is a good medium to stay connected with the world.',
+        duration='6',type='1',tag='globe, global, news, feed, updates, report, reporting, reporter, latest, world, international, tv, national, state',category='WORLD NEWS>SPORTS',categoryid='427',
+        updated_at='2018-08-04 17:46:28',shortdescription='Globally we can connect with other countries easily as well and particularly it is a good medium to stay connected with the world.',
+        director='',producer='',cast='',crew='',sub_genre='Global',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_d2e167se'
+04/08/2018 17:44:11 | SUCCESS | Save Thumbnail(0_d2e167se) | By-NewsRepublic_ott580 | 

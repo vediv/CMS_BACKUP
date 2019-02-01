@@ -1,0 +1,11 @@
+31/10/2017 15:28:23 | SUCCESS | Save New video(0_5a2gd7fw) | By-Test_ott025 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status)
+   values('0_5a2gd7fw','Wildlife.wmv','http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_5a2gd7fw/version/0','d','1','','1','0','2017-10-31','inactive')
+31/10/2017 15:29:40 | SUCCESS | Save New video(0_a7tib5vh) | By-Test_ott025 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status)
+   values('0_a7tib5vh','VA000000..jpg','http://ott.planetcast.in/p/101/sp/10100/thumbnail/entry_id/0_a7tib5vh/version/100002','','1','','2','0','2017-10-31','inactive')
+31/10/2017 15:47:43 | SUCCESS | update Slider Detail(kkkkk0001,'ttttt') | By-varun_ott025 | 
+31/10/2017 16:16:40 | SUCCESS | update Slider Detail(lkklllllll,'') | By-Test_ott025 | 
+31/10/2017 16:17:01 | SUCCESS | update Slider Detail(lkklllllll,'') | By-Test_ott025 | 
+31/10/2017 16:43:19 | SUCCESS | update Slider Detail(,'') | By-Test_ott025 | 
+31/10/2017 16:43:33 | SUCCESS | update Slider Detail(,'') | By-Test_ott025 | 
+31/10/2017 17:07:33 | SUCCESS | update Slider Detail(hkjhkjhkjhkj,'abc') | By-Test_ott025 | 
+31/10/2017 17:25:39 | SUCCESS | update Slider Detail(test,'') | By-Test_ott025 | 

@@ -1,0 +1,37 @@
+20/08/2018 05:00:27 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+20/08/2018 10:30:51 | SUCCESS | Save New video(0_tvy0joou) | By-Ravindra_ott488 | 
+20/08/2018 10:31:05 | SUCCESS | Delete Video entry(0_z4biqys8) | By-Ravindra_ott488 | 
+20/08/2018 10:34:00 | SUCCESS | Save New video(0_b7ncg5vp) | By-Ravindra_ott488 | 
+20/08/2018 10:36:33 | SUCCESS | Save New video(0_fytcm6qq) | By-Ravindra_ott488 | 
+20/08/2018 05:44:01 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/08/2018 06:16:18 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+20/08/2018 06:17:38 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/08/2018 11:57:22 | SUCCESS | Updtate MetaData(0_8c6lrzls) | By-Ravindra_ott488 | update entry set name='Edrive@VANs Mercedes Benz eVito',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8c6lrzls/version/100002',longdescription='The new eVito is at home primarily in urban delivery traffic. However, its range and load capacity also meet the demands of tradespeople and service technicians.',
+        duration='167',type='1',tag='mercedes-benz, mercedes-benz vans, vans, edrive@vans, hamburg, commercial vehicles, mercedes-benz evito, evito, preview, automototv',category='ON DEMAND>AUTOMOBILE>FURY ROAD',categoryid='196',
+        updated_at='2018-08-20 12:01:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_8c6lrzls'
+20/08/2018 11:59:57 | SUCCESS | Updtate MetaData(0_b7ncg5vp) | By-Ravindra_ott488 | update entry set name='MICHELIN Track Connect Event',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_b7ncg5vp/version/100002',longdescription='MICHELIN Track Connect, the first fully networked solution for car tires, has been awarded the 2018 Creative Prize at Tire Cologne, the tire and wheel trade fair.',
+        duration='84',type='1',tag='michelin, michelin track connect, event, car tires, tires, race track, automototv',category='ON DEMAND>AUTOMOBILE>RACING',categoryid='197',
+        updated_at='2018-08-20 12:03:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_b7ncg5vp'
+20/08/2018 12:07:48 | SUCCESS | Updtate MetaData(0_laypiokc) | By-Ravindra_ott488 | update entry set name='Cupra E racer-First time driving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_laypiokc/version/100002',longdescription='CUPRA has taken the e-Racer to a race track in Zagreb (Croatia) to test-drive the integration of the electric battery pack with the rest of the vehicle for the first time. Every electrical, electronic, battery, cooling and propulsion system had previously been tested individually.',
+        duration='121',type='1',tag='cupra, cupra e-racer, e-racer, driving, driven for the first time, first time, zagreb, race track, automototv',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2018-08-20 12:11:35',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_laypiokc'
+20/08/2018 12:11:32 | SUCCESS | Updtate MetaData(0_fytcm6qq) | By-Ravindra_ott488 | update entry set name='The new Opel Mokka X Preview',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fytcm6qq/version/100002',longdescription='Opel Mokka X may be small in size (only 4.28 meters short) but the sub-compact SUV is definitely big in popularity.',
+        duration='144',type='1',tag='opel, opel mokka x, mokka x, opel mokka, new opel mokka x, preview, suv, sub-compact suv, automototv',category='ON DEMAND>AUTOMOBILE>FURY ROAD',categoryid='196',
+        updated_at='2018-08-20 12:15:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fytcm6qq'
+20/08/2018 12:31:33 | SUCCESS | Save Thumbnail(0_laypiokc) | By-Ravindra_ott488 | 
+20/08/2018 12:36:30 | SUCCESS | Save Thumbnail(0_fytcm6qq) | By-Ravindra_ott488 | 
+20/08/2018 12:37:01 | SUCCESS | Save Thumbnail(0_8r63sbyb) | By-Ravindra_ott488 | 
+20/08/2018 09:15:57 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/08/2018 16:11:00 | SUCCESS | Bulk Add ContentPartner(Array,172) | By-Adosphere_ott488 | 

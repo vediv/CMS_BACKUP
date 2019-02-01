@@ -1,0 +1,33 @@
+12/12/2018 04:20:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 05:22:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 05:22:59 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 05:56:10 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 06:15:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 06:43:04 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 09:48:10 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 10:07:25 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 10:30:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/12/2018 16:01:39 | SUCCESS | Updtate MetaData(0_5j92r1ol) | By-Biocine_ott503 | update entry set name='EP-2 MIsme beng ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5j92r1ol/version/100022',longdescription='Watch second episodes .... ',
+        duration='690',type='1',tag='misme, beng, ep2, video',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-12 16:07:02',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5j92r1ol'
+12/12/2018 16:06:14 | SUCCESS | Updtate MetaData(0_lwwze555) | By-Biocine_ott503 | update entry set name='Natural Waterfall',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lwwze555/version/100032',longdescription='Watch the most powerful  huge waterfall in Iceland i.e Dettifoss which runoff the color of water as grayish white.',
+        duration='10',type='1',tag='natural, waterfall, dettifoss, nature',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS',categoryid='295,296,297,298,299,309,310,312',
+        updated_at='2018-12-12 16:11:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lwwze555'
+12/12/2018 16:06:46 | SUCCESS | Updtate MetaData(0_qg6sivel) | By-Biocine_ott503 | update entry set name='Nature site scenes',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qg6sivel/version/100012',longdescription='Watch nature site scenes and its beauty.',
+        duration='28',type='1',tag='waterfall, water, nature, site, scene',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='295,296,297,298,309,310',
+        updated_at='2018-12-12 16:12:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_qg6sivel'
+12/12/2018 16:07:49 | SUCCESS | Updtate MetaData(0_5xn6a2wo) | By-Biocine_ott503 | update entry set name='Luxury Car | Mercedes | Rain',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5xn6a2wo/version/100022',longdescription='Watch the luxurious and expensive car Mercedes driving in rain will entertain most of the car lovers.',
+        duration='12',type='1',tag='luxury, car, mercedes, rain, automobile, vehicle, race, speed',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS',categoryid='296,298,309,310,311,312',
+        updated_at='2018-12-12 16:13:12',shortdescription='Watch the luxurious and expensive car Mercedes driving in rain will entertain most of the car lovers.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='inactive',custom_data=''
+        where entryid='0_5xn6a2wo'

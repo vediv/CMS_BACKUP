@@ -1,0 +1,31 @@
+14/11/2018 08:22:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+14/11/2018 14:12:22 | SUCCESS | Update Category(KIDS 1) | By-Biocine_ott503 | update categories set cat_name='KIDS 1',description='',tags='0_4dgt70k7',fullname='KIDS 1' where category_id='312'
+14/11/2018 14:12:37 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+14/11/2018 14:13:34 | SUCCESS | Update Category(KIDS) | By-Biocine_ott503 | update categories set cat_name='KIDS',description='',tags='0_4dgt70k7',fullname='KIDS' where category_id='312'
+14/11/2018 10:50:38 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+14/11/2018 10:55:36 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+14/11/2018 16:26:39 | SUCCESS | Save New video(0_5z3fjwm2) | By-Biocine_ott503 | 
+14/11/2018 16:35:34 | SUCCESS | Save New video(0_kmd4ctt9) | By-Biocine_ott503 | 
+14/11/2018 11:06:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+14/11/2018 16:39:14 | SUCCESS | Updtate MetaData(0_5z3fjwm2) | By-Biocine_ott503 | update entry set name='Sample test video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5z3fjwm2/version/100002',longdescription='',
+        duration='30',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-14 16:44:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5z3fjwm2'
+14/11/2018 16:40:41 | SUCCESS | Delete Video entry(0_naxmi8fi) | By-Biocine_ott503 | 
+14/11/2018 17:02:06 | SUCCESS | Save New video(0_opcsecn7) | By-Biocine_ott503 | 
+14/11/2018 17:03:26 | SUCCESS | Updtate MetaData(0_opcsecn7) | By-Biocine_ott503 | update entry set name='Test Video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_opcsecn7/version/100002',longdescription='Watch Test video.',
+        duration='38',type='1',tag='test, video',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-14 17:08:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_opcsecn7'
+14/11/2018 17:03:37 | SUCCESS | Updtate MetaData(0_opcsecn7) | By-Biocine_ott503 | update entry set name='Test Video',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_opcsecn7/version/100002',longdescription='Watch Test video.',
+        duration='38',type='1',tag='test, video',category='ORIGINALS>WEB SERIES,ORIGINALS>GOSSIPS,MOVIES>THRILLER',categoryid='295,298,303',
+        updated_at='2018-11-14 17:08:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_opcsecn7'
+14/11/2018 17:03:48 | SUCCESS | Save Age Restriction(0_opcsecn7,A) | By-Biocine_ott503 | 
+14/11/2018 11:34:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

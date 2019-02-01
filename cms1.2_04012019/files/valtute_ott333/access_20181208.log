@@ -1,0 +1,249 @@
+08/12/2018 06:45:29 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+08/12/2018 07:14:42 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+08/12/2018 12:47:17 | SUCCESS | Updtate MetaData(0_3ocvvman) | By-jeeyaho_ott333 | update entry set name=' JeeyaHo Banaras 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_3ocvvman/version/100022',longdescription=' Jeeya Ho Banaras 2018',
+        duration='99',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, banaras 2018, jeeya ho 2018, amrapali dubey, amrapali, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:52:37',shortdescription='Jeeya Ho Banaras Live Show 2018',
+        director='',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri- Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3ocvvman'
+08/12/2018 12:47:52 | SUCCESS | Updtate MetaData(0_3vc4svlh) | By-jeeyaho_ott333 | update entry set name='Gopal Rai in JeeyaHo 7',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_3vc4svlh/version/100022',longdescription='Gopal Rai in jeeyaho 7',
+        duration='462',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan bhaiya, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:53:11',shortdescription='JeeyaHo Banaras 2018 with Gopal Rai',
+        director='',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3vc4svlh'
+08/12/2018 12:48:25 | SUCCESS | Updtate MetaData(0_5m4o0gca) | By-jeeyaho_ott333 | update entry set name='Gopal Rai in jeeyaho 6',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5m4o0gca/version/100022',longdescription='Gopal Rai in jeeyaho ',
+        duration='567',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:53:44',shortdescription='',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5m4o0gca'
+08/12/2018 12:48:57 | SUCCESS | Updtate MetaData(0_32yujq9m) | By-jeeyaho_ott333 | update entry set name='Gopal Rai in jeeyaho 4',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_32yujq9m/version/100022',longdescription='Gopal Rai in jeeyaho ',
+        duration='510',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:54:16',shortdescription='',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri, Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_32yujq9m'
+08/12/2018 12:49:30 | SUCCESS | Updtate MetaData(0_2b6vd6nl) | By-jeeyaho_ott333 | update entry set name='Jeeya Ho Mein Chayi Masti',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_2b6vd6nl/version/100022',longdescription='Kiske Machaya Dhoom JeeyaHo Banaras mein',
+        duration='201',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:54:49',shortdescription='',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Pawan Singh, Amrapali Dubey, Subhi ',crew='',sub_genre='',
+        language='Bhojpuri and HIndi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2b6vd6nl'
+08/12/2018 12:49:59 | SUCCESS | Updtate MetaData(0_t1kkcgrm) | By-jeeyaho_ott333 | update entry set name='JeeyaHo mein Kisne Dikhaya Dum',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t1kkcgrm/version/100022',longdescription='JeeyaHo Banaras mein kaun raha kiske Aagey.',
+        duration='757',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan, pawan bhaiya, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:55:19',shortdescription='',
+        director='Valtute Media Pvt Ltd.',producer='Valtute Media Pvt Ltd ',cast='',crew='',sub_genre='',
+        language='Bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_t1kkcgrm'
+08/12/2018 12:50:43 | SUCCESS | Updtate MetaData(0_i8tc6nbz) | By-jeeyaho_ott333 | update entry set name='JeeyaHo mein hue yeh Kiske Deewane',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_i8tc6nbz/version/100022',longdescription='JeeyaHo Banaras 2018, mein Gopal Rai hue Kiske Deewane. ',
+        duration='24',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan, pawan bhaiya, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:56:02',shortdescription='JeeyaHo mein Deewane Hue Pagal',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_i8tc6nbz'
+08/12/2018 12:51:10 | SUCCESS | Updtate MetaData(0_uaojw87a) | By-jeeyaho_ott333 | update entry set name='Kaun Jhooma Gopal Rai ke Gaane par',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_uaojw87a/version/100022',longdescription='JeeyaHo Banaras 2018 mein kaun pagalon ke tarah jhooma aur naacha.',
+        duration='484',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan, pawan bhaiya, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:56:30',shortdescription='Kaun Jhooma JeeyaHo Banaras mein Gopal Rai ke gaane par',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uaojw87a'
+08/12/2018 12:51:54 | SUCCESS | Updtate MetaData(0_t3bomnoy) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey ka Jalwaa JeeyaHo mei',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t3bomnoy/version/100022',longdescription='Mohini Pandey hui Magan JeeyaHo Banaras 2018 mein aur Koi na Rok paya iss Jazbaat ko',
+        duration='214',type='1',tag='mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan, pawan bhaiya, gopal rai, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:57:13',shortdescription='Mohini Pandey ne Bharaa Josh Jeeyaho mein',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri, Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_t3bomnoy'
+08/12/2018 12:52:25 | SUCCESS | Updtate MetaData(0_zgzex4lu) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey Dikhi Alag Andaz mein',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zgzex4lu/version/100022',longdescription='JeeyaHo Banaras 2018 mein Mohini Pandey ek Naye Andaz.......',
+        duration='391',type='1',tag='mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan, pawan bhaiya, gopal rai, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:57:44',shortdescription='Mohini Pandey in jeeyaho ',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_zgzex4lu'
+08/12/2018 12:53:05 | SUCCESS | Updtate MetaData(0_z14mynr1) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey Ne Aur Kisko Nachaya',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_z14mynr1/version/100022',longdescription='Mohini Pandey  Ke Gaane par Dikhaya Josh do aur gaane se aur do aur gaane par, jab toda stage ko.',
+        duration='114',type='1',tag='mohini pandey, pawan singh, ritesh pandey, jeeyaho, pawan, pawan bhaiya, gopal rai, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:58:24',shortdescription='Mohini Pandey Ne Nachaya kin Haseenaye',
+        director='Valtute Media Pvt',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri, HIndi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_z14mynr1'
+08/12/2018 12:53:44 | SUCCESS | Updtate MetaData(0_w36yj3to) | By-jeeyaho_ott333 | update entry set name='Mohini Ka Jaado Chal Gaya JeeyaHo ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_w36yj3to/version/100022',longdescription='Mohini ka Jaado JeeyaHo Banaras 2018 mein chal gaya aur logo ko deewana kar gaya.',
+        duration='300',type='1',tag='mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho, pawan, pawan bhaiya, gopal rai, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:59:04',shortdescription='Mohini Ka Jaadoo Chal Gaya JeeyaHo Banaras mein',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri, Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_w36yj3to'
+08/12/2018 12:54:03 | SUCCESS | Updtate MetaData(0_ckpvlbnj) | By-jeeyaho_ott333 | update entry set name='Mohini Mann Mohini',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ckpvlbnj/version/100022',longdescription='Mohini Ka Kaunsa Jaddo logo ko Ghayal Kar gaya.',
+        duration='208',type='1',tag='mohini pandey, pawan singh, ritesh pandey, jeeyaho, dj, pawan, pawan bhaiya, gopal rai, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:59:23',shortdescription='Mohini Mann Mohini , JeeyaHo Banaras 2018',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='',crew='',sub_genre='',
+        language='Bhojpuri- Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ckpvlbnj'
+08/12/2018 12:54:30 | SUCCESS | Updtate MetaData(0_zunctgu8) | By-jeeyaho_ott333 | update entry set name='Mohini Ne Jataya Pyaar, JeeyaHo',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zunctgu8/version/100022',longdescription='Mohini Pandey ne Kisse Jataya Pyaar JeeyaHo Banaras 20018 mein.',
+        duration='162',type='1',tag='jeeyaho, pawan singh, ritesh pandey, mohini pandey, amarpali dubey, pawan, pawan bhaiya, gopal rai, jeeya ho 2018, jeeyaho banaras 2018, banaras show 2018, bhojpuri musical 2018, bhojpuri  live event 2018, amrapali dubey, subhi sharma, stage show banaras, stage live banaras 2018',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 12:59:49',shortdescription='Mohini Pandey ka Pyaar JeeyaHo Banaras 2018 mein',
+        director='Valtute Media Pvt',producer='Valtute Media Pvt',cast='',crew='',sub_genre='',
+        language='Bhojpuri - Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_zunctgu8'
+08/12/2018 07:47:11 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+08/12/2018 09:26:55 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+08/12/2018 15:00:22 | SUCCESS | Save New video(0_p5daih7i) | By-jeeyaho_ott333 | 
+08/12/2018 15:01:40 | SUCCESS | Save New video(0_0tnn7qzd) | By-jeeyaho_ott333 | 
+08/12/2018 15:06:55 | SUCCESS | Save New video(0_hbdeub0w) | By-jeeyaho_ott333 | 
+08/12/2018 15:07:52 | SUCCESS | Delete Video entry(0_hbdeub0w) | By-jeeyaho_ott333 | 
+08/12/2018 15:14:36 | SUCCESS | Save New video(0_qdtnasam) | By-jeeyaho_ott333 | 
+08/12/2018 15:18:31 | SUCCESS | Save New video(0_7a6vc0et) | By-jeeyaho_ott333 | 
+08/12/2018 15:25:08 | SUCCESS | Save New video(0_zmkcewl8) | By-jeeyaho_ott333 | 
+08/12/2018 15:27:52 | SUCCESS | Save New video(0_dpmc7zoj) | By-jeeyaho_ott333 | 
+08/12/2018 15:29:44 | SUCCESS | Save New video(0_k0efhrf6) | By-jeeyaho_ott333 | 
+08/12/2018 15:32:24 | SUCCESS | Save New video(0_t98wxn68) | By-jeeyaho_ott333 | 
+08/12/2018 15:36:03 | SUCCESS | Save New video(0_t0vslld1) | By-jeeyaho_ott333 | 
+08/12/2018 15:38:43 | SUCCESS | Save New video(0_7ytj6ohc) | By-jeeyaho_ott333 | 
+08/12/2018 15:42:57 | SUCCESS | Save New video(0_hmuoke55) | By-jeeyaho_ott333 | 
+08/12/2018 15:44:38 | SUCCESS | Save New video(0_m7gki464) | By-jeeyaho_ott333 | 
+08/12/2018 15:48:16 | SUCCESS | Save New video(0_ziam42i7) | By-jeeyaho_ott333 | 
+08/12/2018 15:51:52 | SUCCESS | Save New video(0_ixevdgtg) | By-jeeyaho_ott333 | 
+08/12/2018 15:56:10 | SUCCESS | Save New video(0_wy9qjc2d) | By-jeeyaho_ott333 | 
+08/12/2018 15:58:22 | SUCCESS | Updtate MetaData(0_p5daih7i) | By-jeeyaho_ott333 | update entry set name='A Manju Re',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_p5daih7i/version/100022',longdescription='A Manju Re Nagpuri Beautiful Song',
+        duration='249',type='1',tag='khoda song, jeeyaho, aman music, dj song, nagpuri',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:03:41',shortdescription='',
+        director='',producer='aman music',cast='',crew='',sub_genre='',
+        language='nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_p5daih7i'
+08/12/2018 15:58:35 | SUCCESS | Updtate MetaData(0_p5daih7i) | By-jeeyaho_ott333 | update entry set name='A Manju Re',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_p5daih7i/version/100022',longdescription='A Manju Re Nagpuri Beautiful Song',
+        duration='249',type='1',tag='khoda song, jeeyaho, aman music, dj song, nagpuri',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:03:54',shortdescription='',
+        director='',producer='aman music',cast='',crew='',sub_genre='',
+        language='nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_p5daih7i'
+08/12/2018 15:59:30 | SUCCESS | Updtate MetaData(0_0tnn7qzd) | By-jeeyaho_ott333 | update entry set name='A Phoolo Chal Chal Re',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_0tnn7qzd/version/100022',longdescription='A Phoolo Chal Chal Re',
+        duration='289',type='1',tag='aman music, jeeyaho, nagpuri, dj song',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:04:50',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0tnn7qzd'
+08/12/2018 16:00:03 | SUCCESS | Updtate MetaData(0_qdtnasam) | By-jeeyaho_ott333 | update entry set name='A Re Mor Raushani',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_qdtnasam/version/100022',longdescription='A Re Mor Raushani',
+        duration='345',type='1',tag='nagpuri song, jeeyaho, dj song, aman music',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:05:22',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_qdtnasam'
+08/12/2018 16:00:36 | SUCCESS | Updtate MetaData(0_7a6vc0et) | By-jeeyaho_ott333 | update entry set name='A Sona',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7a6vc0et/version/100022',longdescription='A Sona Nagpuri Superhit Song',
+        duration='363',type='1',tag='aman music, jeeyaho, dj song, nagpuri',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:05:56',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7a6vc0et'
+08/12/2018 16:01:23 | SUCCESS | Updtate MetaData(0_zmkcewl8) | By-jeeyaho_ott333 | update entry set name='A Soni toke chawona',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zmkcewl8/version/100012',longdescription='A Soni toke chawona Superhit nagpuri song',
+        duration='241',type='1',tag='nagpuri song, aman music, dj, jeeyaho',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:06:42',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zmkcewl8'
+08/12/2018 16:02:05 | SUCCESS | Updtate MetaData(0_dpmc7zoj) | By-jeeyaho_ott333 | update entry set name='Aalu Bodi Superhit Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_dpmc7zoj/version/100022',longdescription='Aalu Bodi Superhit Song',
+        duration='235',type='1',tag='nagpuri song, jeeyaho, aman music, dj song',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:07:24',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dpmc7zoj'
+08/12/2018 16:02:44 | SUCCESS | Updtate MetaData(0_k0efhrf6) | By-jeeyaho_ott333 | update entry set name='Ae Re Goriya ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_k0efhrf6/version/100012',longdescription='Ae Re Goriya 2018 song',
+        duration='322',type='1',tag='aman music, jeeyaho, dj song, nagpuri',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 16:08:04',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_k0efhrf6'
+08/12/2018 17:01:01 | SUCCESS | Save New video(0_pkl5yq6n) | By-jeeyaho_ott333 | 
+08/12/2018 17:01:56 | SUCCESS | Updtate MetaData(0_t98wxn68) | By-jeeyaho_ott333 | update entry set name='Amarpali Re SuperHit Nagpuri Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t98wxn68/version/100022',longdescription='Amarpali Re SuperHit Nagpuri Song',
+        duration='274',type='1',tag='amarpali, aman music, dj song, nagpuri, jeeyaho',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:07:15',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_t98wxn68'
+08/12/2018 17:02:38 | SUCCESS | Updtate MetaData(0_7ytj6ohc) | By-jeeyaho_ott333 | update entry set name='Badi Muskil Superhit Nagpuri Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7ytj6ohc/version/100022',longdescription='Badi Muskil Superhit Nagpuri Song',
+        duration='270',type='1',tag='nagpuri song, dj, jeeyaho, aman music',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:07:58',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7ytj6ohc'
+08/12/2018 17:03:08 | SUCCESS | Updtate MetaData(0_hmuoke55) | By-jeeyaho_ott333 | update entry set name='Bar Bar Dekho 2018 Superhit Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hmuoke55/version/100022',longdescription='Bar Bar Dekho 2018 Superhit Song',
+        duration='230',type='1',tag='jeeyaho, aman music, nagpuri song, dj',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:08:27',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hmuoke55'
+08/12/2018 17:03:56 | SUCCESS | Updtate MetaData(0_m7gki464) | By-jeeyaho_ott333 | update entry set name='Barsat Ke Mousam Me Nagpuri Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_m7gki464/version/100012',longdescription='Barsat Ke Mousam Me Nagpuri Song',
+        duration='234',type='1',tag='dj, nagpuri song, jeeyaho, aman music',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:09:15',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_m7gki464'
+08/12/2018 17:04:27 | SUCCESS | Updtate MetaData(0_ziam42i7) | By-jeeyaho_ott333 | update entry set name='Bewafa Chori By Shaan Shnkar',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ziam42i7/version/100022',longdescription='Bewafa Chori By Shaan Shnkar',
+        duration='255',type='1',tag='nagpuri song, aman music, jeeyaho, dj',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:09:47',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ziam42i7'
+08/12/2018 17:05:02 | SUCCESS | Updtate MetaData(0_ixevdgtg) | By-jeeyaho_ott333 | update entry set name='Bhingal Jawani 2018 Superhit Song',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ixevdgtg/version/100022',longdescription='Bhingal Jawani 2018 Superhit Song',
+        duration='241',type='1',tag='aman music, dj, nagpuri song, music',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:10:21',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ixevdgtg'
+08/12/2018 17:21:11 | SUCCESS | Save New video(0_wfi2i7m4) | By-jeeyaho_ott333 | 
+08/12/2018 17:21:50 | SUCCESS | Updtate MetaData(0_t0vslld1) | By-jeeyaho_ott333 | update entry set name='Angna Me Damakacha',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t0vslld1/version/100022',longdescription='Angna Me Damakacha',
+        duration='320',type='1',tag='nagpuri song, jeeyaho, aman music, dj',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:27:10',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_t0vslld1'
+08/12/2018 17:22:21 | SUCCESS | Updtate MetaData(0_wy9qjc2d) | By-jeeyaho_ott333 | update entry set name='Chal Guairam Karam Khale',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wy9qjc2d/version/100022',longdescription='Chal Guairam Karam Khale',
+        duration='481',type='1',tag='nagpuri song, jeeyaho, aman music, dj',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-08 17:27:40',shortdescription='',
+        director='',producer='Aman Music',cast='',crew='',sub_genre='',
+        language='Nagpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wy9qjc2d'
+08/12/2018 17:29:01 | SUCCESS | Save New video(0_pcaorkny) | By-jeeyaho_ott333 | 
+08/12/2018 17:35:51 | SUCCESS | Save New video(0_kx3n5zsq) | By-jeeyaho_ott333 | 
+08/12/2018 18:00:47 | SUCCESS | Save New video(0_b1yuwpy3) | By-jeeyaho_ott333 | 
+08/12/2018 18:06:10 | SUCCESS | Save New video(0_n3rrxzbm) | By-jeeyaho_ott333 | 
+08/12/2018 18:10:58 | SUCCESS | Save New video(0_pkfsmtbn) | By-jeeyaho_ott333 | 
+08/12/2018 18:21:38 | SUCCESS | Save New video(0_5zgqq8tm) | By-jeeyaho_ott333 | 
+08/12/2018 18:24:22 | SUCCESS | Updtate MetaData(0_pkl5yq6n) | By-jeeyaho_ott333 | update entry set name='Adho Mukho svanasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_pkl5yq6n/version/100022',longdescription='Adho Mukhosvanasana Yoga-3',
+        duration='161',type='1',tag='yoga, jeeyaho, health tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-08 18:29:41',shortdescription='',
+        director='',producer='valtute media',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_pkl5yq6n'
+08/12/2018 18:29:57 | SUCCESS | Save Thumbnail(0_pkl5yq6n) | By-jeeyaho_ott333 | 
+08/12/2018 18:30:35 | SUCCESS | Updtate MetaData(0_wfi2i7m4) | By-jeeyaho_ott333 | update entry set name='Aedhanavasna',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wfi2i7m4/version/100022',longdescription='Aedhanavasna ',
+        duration='161',type='1',tag='yoga, health tips, jeeyaho',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-08 18:35:55',shortdescription='',
+        director='',producer='valtute media',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wfi2i7m4'
+08/12/2018 18:31:46 | SUCCESS | Save Thumbnail(0_wfi2i7m4) | By-jeeyaho_ott333 | 
+08/12/2018 18:32:32 | SUCCESS | Updtate MetaData(0_pcaorkny) | By-jeeyaho_ott333 | update entry set name='Ardha Matsyendrasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_pcaorkny/version/100022',longdescription='Ardha Matsyendrasana ',
+        duration='161',type='1',tag='jeeyaho, yoga, health tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-08 18:37:52',shortdescription='',
+        director='',producer='valtute media',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_pcaorkny'
+08/12/2018 18:33:26 | SUCCESS | Save Thumbnail(0_pcaorkny) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:21 | SUCCESS | Delete Video entry(0_pkl5yq6n) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:29 | SUCCESS | Delete Video entry(0_wfi2i7m4) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:36 | SUCCESS | Delete Video entry(0_pcaorkny) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:42 | SUCCESS | Delete Video entry(0_kx3n5zsq) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:47 | SUCCESS | Delete Video entry(0_b1yuwpy3) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:52 | SUCCESS | Delete Video entry(0_n3rrxzbm) | By-jeeyaho_ott333 | 
+08/12/2018 18:35:58 | SUCCESS | Delete Video entry(0_pkfsmtbn) | By-jeeyaho_ott333 | 
+08/12/2018 18:36:03 | SUCCESS | Delete Video entry(0_5zgqq8tm) | By-jeeyaho_ott333 | 
+08/12/2018 15:41:02 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+08/12/2018 21:13:28 | SUCCESS | Save New video(0_5g7m7d00) | By-jeeyaho_ott333 | 
+08/12/2018 21:16:12 | SUCCESS | Updtate MetaData(0_5g7m7d00) | By-jeeyaho_ott333 | update entry set name='Dadri Mela',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5g7m7d00/version/100022',longdescription='dadri mela ',
+        duration='28',type='1',tag='dadri mela, ajay, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-08 21:21:32',shortdescription='',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5g7m7d00'
+08/12/2018 21:22:01 | SUCCESS | Save Thumbnail(0_5g7m7d00) | By-jeeyaho_ott333 | 
+08/12/2018 21:25:05 | SUCCESS | Add New Slider Image(C:\fakepath\2000@1ooo kavya sammelan.jpeg) | By-jeeyaho_ott333 | 
+08/12/2018 21:26:18 | SUCCESS | Delete slider Image (19) | By-jeeyaho_ott333 | delete from slider_image_detail where img_id='19'

@@ -1,0 +1,203 @@
+27/07/2018 04:04:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 09:38:09 | SUCCESS | Add New coupon (7GKJKXFF43) | By-Biocine_ott503 | 
+27/07/2018 09:39:16 | SUCCESS | Update Coupon (32) | By-Biocine_ott503 | update coupon set name='s',code='7GKJKXFF43',type='P',discount='18.0000',date_start='2018-07-27 09:37:55',
+      date_end='2018-08-27 09:37:55',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='32'
+27/07/2018 09:39:32 | SUCCESS | Update Coupon (31) | By-Biocine_ott503 | update coupon set name='SONA',code='T37TEQH18T',type='P',discount='10.0000',date_start='2018-07-24 15:20:31',
+      date_end='2018-08-24 15:20:31',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='31'
+27/07/2018 09:46:57 | SUCCESS | update HomeSettingTag Detail(Recommended) | By-Biocine_ott503 | 
+27/07/2018 04:29:19 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+27/07/2018 04:31:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 10:02:07 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+27/07/2018 10:02:18 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+27/07/2018 10:02:28 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+27/07/2018 10:12:41 | SUCCESS | Update Coupon (31) | By-Biocine_ott503 | update coupon set name='SONA',code='T37TEQH18T',type='P',discount='10.0000',date_start='2018-07-25 15:20:31',
+      date_end='2018-08-24 15:20:31',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='31'
+27/07/2018 10:13:14 | SUCCESS | Update Coupon (28) | By-Biocine_ott503 | update coupon set name=' ',code='1E0IR61P4L',type='P',discount='4.0000',date_start='2016-09-18 15:38:15',
+      date_end='2018-08-21 15:38:15',uses_total='1',uses_customer='1',updated_at=NOW() where coupon_id='28'
+27/07/2018 10:34:01 | SUCCESS | Add New Dashboard user (TEST) | By-Biocine_ott503 | 
+27/07/2018 10:34:59 | SUCCESS | Add New Dashboard user (test) | By-Biocine_ott503 | 
+27/07/2018 10:38:44 | SUCCESS | Add New Dashboard user (testttt) | By-Biocine_ott503 | 
+27/07/2018 11:19:00 | SUCCESS | Add New coupon (REMJ6Q2BMK) | By-Biocine_ott503 | 
+27/07/2018 11:21:36 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+27/07/2018 11:21:54 | SUCCESS | update Content Partner Detail(BIOCINEE) | By-Biocine_ott503 | 
+27/07/2018 11:21:59 | SUCCESS | update Content Partner Detail(Madhavi) | By-Biocine_ott503 | 
+27/07/2018 11:22:05 | SUCCESS | update Content Partner Detail(Madhavi) | By-Biocine_ott503 | 
+27/07/2018 11:43:24 | SUCCESS | Add New Subscription Code (3IR5UIKIEB) | By-Biocine_ott503 | 
+27/07/2018 12:05:19 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+27/07/2018 12:05:27 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+27/07/2018 06:37:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 06:40:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 07:07:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 07:08:34 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 12:40:51 | SUCCESS | Bulk Add Category(0_ibikoacz,0_jhw3kief,0_k8wo5hue,0_u4ejkasa,302,303,305,307,306,304) | By-Biocine_ott503 | update entry set category='MOVIES>CLASSIC,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MOVIES>COMEDY,MOVIES>ROMANTIC', categoryid='302,303,305,307,306,304' where entryid='0_u4ejkasa' 
+27/07/2018 12:41:14 | SUCCESS | Save Thumbnail(0_u4ejkasa) | By-Biocine_ott503 | 
+27/07/2018 12:41:30 | SUCCESS | Save Thumbnail(0_k8wo5hue) | By-Biocine_ott503 | 
+27/07/2018 12:41:45 | SUCCESS | Save Thumbnail(0_jhw3kief) | By-Biocine_ott503 | 
+27/07/2018 12:42:00 | SUCCESS | Save Thumbnail(0_ibikoacz) | By-Biocine_ott503 | 
+27/07/2018 12:42:56 | SUCCESS | Updtate MetaData(0_l4el6h6n) | By-Biocine_ott503 | update entry set name='Caminandes 2',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l4el6h6n/version/100042',longdescription='Watch test Caminandes 2 animated video.',
+        duration='146',type='1',tag='test, cami, caminandes',category='ORIGINALS>WEB SERIES,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='295,310',
+        updated_at='2018-07-27 12:46:23',shortdescription='Watch test Caminandes 2 animated video.',
+        director='Jeeoguru',producer='Biocine',cast='Planetcast',crew='ABCD',sub_genre='Animation',
+        language='English',pgrating='U/A',video_status='inactive',custom_data='{"Production Company":"TEST","Singer":"Testing","Composer":"XYZ","Lyricist":"Planet","Creater":"Planet12"}'
+        where entryid='0_l4el6h6n'
+27/07/2018 12:43:16 | SUCCESS | Updtate MetaData(0_l75wl3gn) | By-Biocine_ott503 | update entry set name='Bike Riding',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l75wl3gn/version/100022',longdescription='test video',
+        duration='13',type='1',tag='test, video, car, automobile, vehicle, classic',category='MUSIC,MUSIC>FILM,BAZAAR',categoryid='308,311,313',
+        updated_at='2018-07-27 12:46:43',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_l75wl3gn'
+27/07/2018 12:43:50 | SUCCESS | Updtate MetaData(0_4dgt70k7) | By-Biocine_ott503 | update entry set name='Capoeira | Self Defence',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dgt70k7/version/100012',longdescription='Capoeria sample video',
+        duration='179',type='1',tag='capoeira, self, defence, karate, guide, martial, art',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS',categoryid='295,296,297,298,299,310,312',
+        updated_at='2018-07-27 12:47:18',shortdescription='Capoeria sample video',
+        director='Test',producer='Biocine',cast='Planetcast',crew='Test 22',sub_genre='Culture',
+        language='',pgrating='U',video_status='active',custom_data='{"Music Director":"Shankar Ehsaan Loy","Production Company":"Dharma Productions","Singer":"Arijit Singh","Composer":"TEST","Lyricist":"Testing"}'
+        where entryid='0_4dgt70k7'
+27/07/2018 12:44:13 | SUCCESS | Updtate MetaData(0_4wc2nq2m) | By-Biocine_ott503 | update entry set name='Indoor Fury Cute Kitten ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4wc2nq2m/version/100012',longdescription='Watch the video of cute indoor fury pet kitten playing with the toy.',
+        duration='13',type='1',tag='indoor, fury, cute, kitten, cat, pets, play, toy, mammal, cute pets, animlas, fluffy, testinghome',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,KIDS,BAZAAR',categoryid='295,296,297,298,299,312,313',
+        updated_at='2018-07-27 12:47:40',shortdescription='Watch the video of cute indoor fury pet kitten playing with the toy.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_4wc2nq2m'
+27/07/2018 12:44:31 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,KIDS',categoryid='295,296,298,312',
+        updated_at='2018-07-27 12:47:59',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='Biocine',producer='Palnetcast',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data='{"Singer":"Shankar Mahadevan","Lyricist":"Javed Akhtar","Cinematography":"Test","Composer":"Planetcast","Music":"Test"}'
+        where entryid='0_55bqo6ga'
+27/07/2018 12:44:59 | SUCCESS | Updtate MetaData(0_9xhypl5v) | By-Biocine_ott503 | update entry set name='Flying beautiful creature - Robin',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9xhypl5v/version/100012',longdescription='Watch Robin bird beautiful creature.',
+        duration='8',type='1',tag='flying, beautiful, creature, robin, bird, chirrup, chirruping, nature living, nature, rare, species, fly',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS,BAZAAR',categoryid='295,296,298,310,311,312,313',
+        updated_at='2018-07-27 12:48:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9xhypl5v'
+27/07/2018 12:45:27 | SUCCESS | Updtate MetaData(0_f3n9xf82) | By-Biocine_ott503 | update entry set name='Cute Animal Squirrel on tree',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_f3n9xf82/version/100012',longdescription='Watch the video of cute tiny animal Squirrel eating on tree.',
+        duration='25',type='1',tag='cute, animal, squirrel, tree, tiny, small, nature',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS,BAZAAR',categoryid='295,296,297,298,299,310,312,313',
+        updated_at='2018-07-27 12:48:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_f3n9xf82'
+27/07/2018 12:45:53 | SUCCESS | Updtate MetaData(0_mcz8ttqu) | By-Biocine_ott503 | update entry set name='Tears of Steel | Science Fiction',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_mcz8ttqu/version/100012',longdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.',
+        duration='734',type='1',tag='tears, steel, science, fiction, scientists, short, film, amsterdam, army, robots, robot, refugee, movies, english',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,KIDS,MUSIC>ORIGINAL>POP MUSIC',categoryid='295,296,297,298,299,312,314',
+        updated_at='2018-07-27 12:49:20',shortdescription='Watch the science fiction short film, where a group of scientists and soldiers take refuges in Amsterdam to stop army robots who threatens the planet.',
+        director='',producer='',cast='',crew='',sub_genre='Sci-Fi',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_mcz8ttqu'
+27/07/2018 12:46:13 | SUCCESS | Updtate MetaData(0_p0e3tmud) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0e3tmud/version/100012',longdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.\r\n',
+        duration='730',type='1',tag='cosmos, laundromat, animation, salesman, quirky, movie, film, films, short, english, fate, suicide, island, love, berry, salemsan, action, drama, joy, popular, latest, free, picture, blender',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>FILM,KIDS,BAZAAR,MUSIC>ORIGINAL>POP MUSIC',categoryid='296,298,311,312,313,314',
+        updated_at='2018-07-27 12:49:40',shortdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_p0e3tmud'
+27/07/2018 12:46:33 | SUCCESS | Updtate MetaData(0_qjdvro47) | By-Biocine_ott503 | update entry set name='Dancing moves and music beats',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qjdvro47/version/100012',longdescription='Watch the enjoyment with friends a street dance.',
+        duration='60',type='1',tag='dancing, moves, music, beats, street, dance, enjoy, couple, melody, move, fun, musi, sound, song, music beats, group dancing',category='ORIGINALS>FOOD,MUSIC>FILM,KIDS,BAZAAR',categoryid='296,311,312,313',
+        updated_at='2018-07-27 12:50:00',shortdescription='Watch the enjoyment with friends a street dance.',
+        director='',producer='',cast='',crew='',sub_genre='Lifestyle',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_qjdvro47'
+27/07/2018 12:46:57 | SUCCESS | Updtate MetaData(0_v6n3lzd3) | By-Biocine_ott503 | update entry set name='High society Street view',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_v6n3lzd3/version/100012',longdescription='Watch the traditional third season Autumn where deciduous trees lose their leaves.',
+        duration='17',type='1',tag='high, society, street, season, autumn, trees, leaves, roads, bike, road, car, visit places, view, site, scene, scenary',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS',categoryid='295,296,297,298,310,312',
+        updated_at='2018-07-27 12:50:24',shortdescription='Watch the traditional third season Autumn where deciduous trees lose their leaves.',
+        director='',producer='',cast='',crew='',sub_genre='Social',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_v6n3lzd3'
+27/07/2018 12:47:37 | SUCCESS | Updtate MetaData(0_18io2eaa) | By-Biocine_ott503 | update entry set name='Sintel Short Animated movie',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_18io2eaa/version/100022',longdescription='Watch Sintel Short animated Film.',
+        duration='888',type='1',tag='sintel, movie, film, short, animation, animated',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM',categoryid='295,296,297,298,299,310,311',
+        updated_at='2018-07-27 12:51:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_18io2eaa'
+27/07/2018 12:47:57 | SUCCESS | Updtate MetaData(0_56l1nh8v) | By-Biocine_ott503 | update entry set name='Festival Celebrations | Crackers',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_56l1nh8v/version/100032',longdescription='Watch festival celebrated with crackers.',
+        duration='18',type='1',tag='festival, cracker, celebration, celebrate',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL',categoryid='295,296,297,299,309',
+        updated_at='2018-07-27 12:51:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"actor":"ajay devgan","music dir":"pritam"}'
+        where entryid='0_56l1nh8v'
+27/07/2018 12:48:15 | SUCCESS | Updtate MetaData(0_0d40d66y) | By-Biocine_ott503 | update entry set name='Glass Half | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0d40d66y/version/100012',longdescription='Watch a animated short cartoon film on two amateur art critics meet in a gallery.',
+        duration='193',type='1',tag='glass, half, animation, cartoon, film, short',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='295,296,297,298,299,310,311,313',
+        updated_at='2018-07-27 12:51:42',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0d40d66y'
+27/07/2018 12:48:34 | SUCCESS | Updtate MetaData(0_5xn6a2wo) | By-Biocine_ott503 | update entry set name='Luxury Car | Mercedes | Rain',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5xn6a2wo/version/100022',longdescription='Watch the luxurious and expensive car Mercedes driving in rain will entertain most of the car lovers.',
+        duration='12',type='1',tag='luxury, car, mercedes, rain, automobile, vehicle, race, speed',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS',categoryid='296,298,309,310,311,312',
+        updated_at='2018-07-27 12:52:01',shortdescription='Watch the luxurious and expensive car Mercedes driving in rain will entertain most of the car lovers.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_5xn6a2wo'
+27/07/2018 12:49:14 | SUCCESS | Updtate MetaData(0_7qz418ie) | By-Biocine_ott503 | update entry set name='Motorcycle Street stunts',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7qz418ie/version/100012',longdescription='Watch the Motorcycle bike riding video by trained bikers.',
+        duration='13',type='1',tag='motorcycle, street, stunts, bike, automobile, ride, speed',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS',categoryid='295,296,297,298,299,310,311,312',
+        updated_at='2018-07-27 12:52:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7qz418ie'
+27/07/2018 12:49:36 | SUCCESS | Updtate MetaData(0_d4zjkcz7) | By-Biocine_ott503 | update entry set name='Loud sound of Fireworks ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_d4zjkcz7/version/100022',longdescription='Watch the festival of lights with crackers and enjoy the celebration.',
+        duration='28',type='1',tag='loud, sound, fireworks, cracker, light, celebration, festival',category='ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>FILM,KIDS,BAZAAR',categoryid='296,297,298,299,311,312,313',
+        updated_at='2018-07-27 12:53:03',shortdescription='Watch the festival of lights with crackers and enjoy the celebration.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_d4zjkcz7'
+27/07/2018 12:49:59 | SUCCESS | Updtate MetaData(0_gf4v15r7) | By-Biocine_ott503 | update entry set name='Smooth speed of cars - Street view',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gf4v15r7/version/100012',longdescription='Watch the street view of road where people drive under the safety measures in a smooth manner.',
+        duration='60',type='1',tag='speed, cars, street, speedy, vehicle, automobile',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>FILM,KIDS,BAZAAR,MUSIC>ORIGINAL>POP MUSIC',categoryid='296,298,311,312,313,314',
+        updated_at='2018-07-27 12:53:26',shortdescription='Watch the street view of road where people drive under the safety measures in a smooth manner.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_gf4v15r7'
+27/07/2018 12:50:26 | SUCCESS | Updtate MetaData(0_lwwze555) | By-Biocine_ott503 | update entry set name='Natural Waterfall',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lwwze555/version/100032',longdescription='Watch the most powerful  huge waterfall in Iceland i.e Dettifoss which runoff the color of water as grayish white.',
+        duration='10',type='1',tag='natural, waterfall, dettifoss, nature',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS',categoryid='295,296,297,298,299,309,310,312',
+        updated_at='2018-07-27 12:53:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_lwwze555'
+27/07/2018 12:50:48 | SUCCESS | Updtate MetaData(0_qg6sivel) | By-Biocine_ott503 | update entry set name='Nature site scenes - Waterfall1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qg6sivel/version/100012',longdescription='Watch nature site scenes and its beauty.',
+        duration='28',type='1',tag='waterfall, water, nature, site, scene',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='295,296,297,298,309,310',
+        updated_at='2018-07-27 12:54:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_qg6sivel'
+27/07/2018 12:51:22 | SUCCESS | Updtate MetaData(0_ub07agth) | By-Biocine_ott503 | update entry set name='Black Bear in the forest',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ub07agth/version/100012',longdescription='Watch Black Bear roaming in the forest.',
+        duration='28',type='1',tag='black, bear, animal, test',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,KIDS',categoryid='295,297,299,310,311,312',
+        updated_at='2018-07-27 12:54:49',shortdescription='Watch Black Bear roaming in the forest.',
+        director='',producer='',cast='',crew='',sub_genre='Nature',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_ub07agth'
+27/07/2018 12:51:39 | SUCCESS | Updtate MetaData(0_ux31yq4c) | By-Biocine_ott503 | update entry set name='Butterfly | Cute Animal',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ux31yq4c/version/100012',longdescription='Watch tiny creature i.e butterfly.',
+        duration='9',type='1',tag='butterfly, cute, animal, nature',category='ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM',categoryid='297,299,310,311',
+        updated_at='2018-07-27 12:55:06',shortdescription='Watch tiny creature i.e butterfly.',
+        director='',producer='',cast='',crew='',sub_genre='Nature',
+        language='Non-Dialogue',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_ux31yq4c'
+27/07/2018 12:51:59 | SUCCESS | Updtate MetaData(0_vwcyrmth) | By-Biocine_ott503 | update entry set name='Ancient Holy ancient Church1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vwcyrmth/version/100072',longdescription='Watch ancient holy ancient church.',
+        duration='14',type='1',tag='triumphal, arch, ancient, holy, places',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS',categoryid='295,296,297,298,299,310,312',
+        updated_at='2018-07-27 12:55:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vwcyrmth'
+27/07/2018 12:53:21 | SUCCESS | Save Thumbnail(0_u4ejkasa) | By-Biocine_ott503 | 
+27/07/2018 12:54:04 | SUCCESS | Updtate MetaData(0_u4ejkasa) | By-Biocine_ott503 | update entry set name='Sample Video for test',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_u4ejkasa/version/100052',longdescription='',
+        duration='5',type='1',tag='test, sample, bunny, bear, bugs',category='MOVIES>CLASSIC,MOVIES>THRILLER,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>COMEDY,MOVIES>ACTION',categoryid='302,303,304,305,306,307',
+        updated_at='2018-07-27 12:57:31',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_u4ejkasa'
+27/07/2018 07:25:53 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 12:56:53 | SUCCESS | Save Thumbnail(0_6mhwpmrk) | By-Biocine_ott503 | 
+27/07/2018 12:57:17 | SUCCESS | Save currency_data(0_6mhwpmrk) | By-Biocine_ott503 | 
+27/07/2018 12:59:04 | SUCCESS | Save Thumbnail(0_k8wo5hue) | By-Biocine_ott503 | 
+27/07/2018 12:59:24 | SUCCESS | Save Thumbnail(0_ibikoacz) | By-Biocine_ott503 | 
+27/07/2018 07:30:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 07:32:06 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 09:11:58 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 10:32:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+27/07/2018 16:02:49 | SUCCESS | Updtate MetaData(0_4dgt70k7) | By-Biocine_ott503 | update entry set name='Capoeira | Self Defence',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dgt70k7/version/100012',longdescription='Capoeria sample video',
+        duration='179',type='1',tag='capoeira, self, defence, karate, guide, martial, art',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS,MUSIC>ORIGINAL>POP MUSIC',categoryid='295,296,297,298,299,310,312,314',
+        updated_at='2018-07-27 16:06:17',shortdescription='Capoeria sample video',
+        director='Test',producer='Biocine',cast='Planetcast',crew='Test 22',sub_genre='Culture',
+        language='',pgrating='U',video_status='active',custom_data='{"Music Director":"Shankar Ehsaan Loy","Production Company":"Dharma Productions","Singer":"Arijit Singh","Composer":"TEST","Lyricist":"Testing"}'
+        where entryid='0_4dgt70k7'
+27/07/2018 16:03:02 | SUCCESS | Updtate MetaData(0_f3n9xf82) | By-Biocine_ott503 | update entry set name='Cute Animal Squirrel on tree',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_f3n9xf82/version/100012',longdescription='Watch the video of cute tiny animal Squirrel eating on tree.',
+        duration='25',type='1',tag='cute, animal, squirrel, tree, tiny, small, nature',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS,BAZAAR,MUSIC>ORIGINAL>POP MUSIC',categoryid='295,296,297,298,299,310,312,313,314',
+        updated_at='2018-07-27 16:06:29',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_f3n9xf82'
+27/07/2018 10:33:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

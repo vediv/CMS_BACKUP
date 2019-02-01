@@ -1,0 +1,15 @@
+31/03/2018 14:31:14 | SUCCESS | Header Menu active(HeaderID:16,Status:active) | By-varun_ott025 | 
+31/03/2018 14:31:17 | SUCCESS | Header Menu inactive(HeaderID:16,Status:inactive) | By-varun_ott025 | 
+31/03/2018 14:31:19 | SUCCESS | Header Menu inactive(HeaderID:13,Status:inactive) | By-varun_ott025 | 
+31/03/2018 14:31:20 | SUCCESS | Header Menu inactive(HeaderID:15,Status:inactive) | By-varun_ott025 | 
+31/03/2018 14:31:22 | SUCCESS | Header Menu inactive(HeaderID:14,Status:inactive) | By-varun_ott025 | 
+31/03/2018 14:31:26 | SUCCESS | Delete Menu Header (14) | By-varun_ott025 | DELETE FROM header_menu WHERE hid='14'
+31/03/2018 14:31:28 | SUCCESS | Delete Menu Header (16) | By-varun_ott025 | DELETE FROM header_menu WHERE hid='16'
+31/03/2018 14:31:29 | SUCCESS | Delete Menu Header (15) | By-varun_ott025 | DELETE FROM header_menu WHERE hid='15'
+31/03/2018 14:31:32 | SUCCESS | Delete Menu Header (13) | By-varun_ott025 | DELETE FROM header_menu WHERE hid='13'
+31/03/2018 14:31:37 | SUCCESS | Add New Header Content(HOME) | By-varun_ott025 | 
+31/03/2018 14:31:42 | SUCCESS | Add New Header Content(ON DEMAND) | By-varun_ott025 | 
+31/03/2018 14:53:46 | SUCCESS | Header Menu active(HeaderID:18,Status:active) | By-varun_ott025 | 
+31/03/2018 14:56:45 | SUCCESS | Header Menu inactive(HeaderID:18,Status:inactive) | By-varun_ott025 | 
+31/03/2018 15:04:07 | SUCCESS | Header Menu active(HeaderID:18,Status:active) | By-varun_ott025 | 
+31/03/2018 15:05:09 | SUCCESS | Add New Slider Image() | By-varun_ott025 | 

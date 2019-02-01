@@ -1,0 +1,117 @@
+13/12/2017 10:24:35 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 10:24:43 | SUCCESS | Slider image active(SliderID:185,Status:active) | By-varun_ott025 | 
+13/12/2017 10:36:01 | SUCCESS | Create New Category(TESTNEW) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '157','149','1','101','TESTNEW','test>TESTNEW','149>157','0','0','test','test',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+13/12/2017 10:37:22 | SUCCESS | Update Category(TESTNEW1) | By-varun_ott025 | update categories set cat_name='TESTNEW1',description='test',tags='test',fullname='test>TESTNEW1' where category_id='157'
+13/12/2017 10:38:10 | SUCCESS | delete Category(157) | By-varun_ott025 | DELETE FROM categories where category_id='157'
+13/12/2017 10:39:38 | SUCCESS | Slider image inactive(SliderID:185,Status:inactive) | By-varun_ott025 | 
+13/12/2017 10:39:40 | SUCCESS | Delete slider Image (185) | By-varun_ott025 | delete from slider_image_detail where img_id='185'
+13/12/2017 10:45:18 | SUCCESS | Save New video(0_u2vmtn0c) | By-varun_ott025 | 
+13/12/2017 10:45:34 | SUCCESS | Delete Video entry(0_u2vmtn0c) | By-varun_ott025 | 
+13/12/2017 10:46:05 | SUCCESS | Save New video(0_ovuyx5yp) | By-varun_ott025 | 
+13/12/2017 10:54:27 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 10:54:41 | SUCCESS | Slider image active(SliderID:186,Status:active) | By-varun_ott025 | 
+13/12/2017 10:55:19 | SUCCESS | Slider image inactive(SliderID:186,Status:inactive) | By-varun_ott025 | 
+13/12/2017 10:57:22 | SUCCESS | update Slider Detail(0_7t64txgh,'') | By-varun_ott025 | 
+13/12/2017 10:58:39 | SUCCESS | update Slider Detail(0_4g8rpybw,'') | By-varun_ott025 | 
+13/12/2017 10:58:51 | SUCCESS | update Slider Detail(0_4g8rpybw,'') | By-varun_ott025 | 
+13/12/2017 10:59:40 | SUCCESS | update Slider Detail(,'') | By-varun_ott025 | 
+13/12/2017 10:59:57 | SUCCESS | update Slider Detail(,'') | By-varun_ott025 | 
+13/12/2017 11:00:59 | SUCCESS | Slider image active(SliderID:182,Status:active) | By-varun_ott025 | 
+13/12/2017 11:04:09 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 11:04:35 | SUCCESS | update Slider Detail(0_q4k1cbrc,'') | By-varun_ott025 | 
+13/12/2017 11:04:48 | SUCCESS | update Slider Detail(0_q4k1cbrc,'') | By-varun_ott025 | 
+13/12/2017 11:04:55 | SUCCESS | update Slider Detail(0_q4k1cbrc,'') | By-varun_ott025 | 
+13/12/2017 11:06:31 | SUCCESS | update Slider Detail(,'                                                            @@@@@@@@@@@@@______________+++++++++++++++++++++++++++!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#                @______________+++++++++++++++++++++') | By-varun_ott025 | 
+13/12/2017 11:06:40 | SUCCESS | Slider image active(SliderID:187,Status:active) | By-varun_ott025 | 
+13/12/2017 11:08:17 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 11:21:06 | SUCCESS | Create New Category(YY) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '158','148','1','101','YY','LIVE TV>YY','148>158','0','0','','',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+13/12/2017 11:25:00 | SUCCESS | Create New Category(rrrrr) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '159','137','1','101','rrrrr','ON DEMAND>rrrrr','137>159','0','0','008o9uoooooooooooooooooooooo','bh',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+13/12/2017 11:26:20 | SUCCESS | Create New Category(555) | By-varun_ott025 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '160','145','1','101','555','MOVIES>555','145>160','0','0','55555','55555',NOW(),Now(),'86',ifnull(max(priority),0)+1,'0' from categories
+13/12/2017 11:28:37 | SUCCESS | Update Category(TT) | By-varun_ott025 | update categories set cat_name='TT',description='k\n\n\n\n\n',tags='',fullname='TT' where category_id='161'
+13/12/2017 11:28:51 | SUCCESS | delete Category(158) | By-varun_ott025 | DELETE FROM categories where category_id='158'
+13/12/2017 11:29:02 | SUCCESS | delete Category(161) | By-varun_ott025 | DELETE FROM categories where category_id='161'
+13/12/2017 11:29:08 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:14 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:18 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:18 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:18 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:18 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:21 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:29:24 | SUCCESS | Update Category(555) | By-varun_ott025 | update categories set cat_name='555',description='55555',tags='55555',fullname='MOVIES>555' where category_id='160'
+13/12/2017 11:32:30 | SUCCESS | delete Category(159) | By-varun_ott025 | DELETE FROM categories where category_id='159'
+13/12/2017 11:32:34 | SUCCESS | delete Category(160) | By-varun_ott025 | DELETE FROM categories where category_id='160'
+13/12/2017 11:34:48 | SUCCESS | save Category thumb | By-varun_ott025 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cmsplanetcast.planetcast.in',t_original_url='/varun/data/varun_ott025/upload_thumb/9DTZ4Y93KVWP.jpeg',
+t_small_url='/varun/data/varun_ott025/upload_thumb/320_9DTZ4Y93KVWP.jpeg',t_mediam_url='/varun/data/varun_ott025/upload_thumb/380_9DTZ4Y93KVWP.jpeg',t_large_url='/varun/data/varun_ott025/upload_thumb/480_9DTZ4Y93KVWP.jpeg',
+t_custom_url='/varun/data/varun_ott025/upload_thumb/720_9DTZ4Y93KVWP.jpeg',updated_at=NOW() where category_id='142'
+13/12/2017 11:35:31 | SUCCESS | Update Category(DRIFT111) | By-varun_ott025 | update categories set cat_name='DRIFT111',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT111' where category_id='142'
+13/12/2017 11:35:39 | SUCCESS | Update Category(DRIFT) | By-varun_ott025 | update categories set cat_name='DRIFT',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT' where category_id='142'
+13/12/2017 11:35:46 | SUCCESS | Update Category(DRIFT) | By-varun_ott025 | update categories set cat_name='DRIFT',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT' where category_id='142'
+13/12/2017 11:36:03 | SUCCESS | Update Category(DRIFT898) | By-varun_ott025 | update categories set cat_name='DRIFT898',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT898' where category_id='142'
+13/12/2017 11:36:08 | SUCCESS | Update Category(DRIFT898) | By-varun_ott025 | update categories set cat_name='DRIFT898',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT898' where category_id='142'
+13/12/2017 11:36:31 | SUCCESS | Update Category(DRIFT) | By-varun_ott025 | update categories set cat_name='DRIFT',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT' where category_id='142'
+13/12/2017 11:36:32 | SUCCESS | Update Category(DRIFT) | By-varun_ott025 | update categories set cat_name='DRIFT',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>DRIFT' where category_id='142'
+13/12/2017 12:02:25 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:08:19 | SUCCESS | update Slider Detail(,'') | By-varun_ott025 | 
+13/12/2017 12:08:55 | SUCCESS | update Slider Detail(,'') | By-varun_ott025 | 
+13/12/2017 12:09:14 | SUCCESS | update Slider Detail(,'') | By-varun_ott025 | 
+13/12/2017 12:09:26 | SUCCESS | update Slider Detail(0_q4k1cbrc,'0_q4k1cbrc') | By-varun_ott025 | 
+13/12/2017 12:12:30 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:12:52 | SUCCESS | Add New Slider Image(C:\fakepath\BDV2967-SeanChuma.jpg) | By-Test_ott025 | 
+13/12/2017 12:13:11 | SUCCESS | Delete slider Image (189) | By-varun_ott025 | delete from slider_image_detail where img_id='189'
+13/12/2017 12:13:15 | SUCCESS | Delete slider Image (188) | By-varun_ott025 | delete from slider_image_detail where img_id='188'
+13/12/2017 12:13:21 | SUCCESS | Delete slider Image (186) | By-varun_ott025 | delete from slider_image_detail where img_id='186'
+13/12/2017 12:13:42 | SUCCESS | Add New Slider Image(C:\fakepath\ishqshava2.jpg) | By-Test_ott025 | 
+13/12/2017 12:13:46 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:13:55 | SUCCESS | Delete slider Image (192) | By-varun_ott025 | delete from slider_image_detail where img_id='192'
+13/12/2017 12:14:14 | SUCCESS | Slider image inactive(SliderID:187,Status:inactive) | By-varun_ott025 | 
+13/12/2017 12:14:21 | SUCCESS | Delete slider Image (187) | By-varun_ott025 | delete from slider_image_detail where img_id='187'
+13/12/2017 12:16:35 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:16:49 | SUCCESS | Delete slider Image (191) | By-varun_ott025 | delete from slider_image_detail where img_id='191'
+13/12/2017 12:17:00 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+13/12/2017 12:17:26 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:18:04 | SUCCESS | Delete slider Image (194) | By-varun_ott025 | delete from slider_image_detail where img_id='194'
+13/12/2017 12:18:27 | SUCCESS | Delete slider Image (190) | By-varun_ott025 | delete from slider_image_detail where img_id='190'
+13/12/2017 12:22:45 | SUCCESS | Delete slider Image (183) | By-varun_ott025 | delete from slider_image_detail where img_id='183'
+13/12/2017 12:37:31 | SUCCESS | Add New Content Partner(sklkkdjfjsjdsdjsdjsdsdsdsdkjsj) | By-Test_ott025 | 
+13/12/2017 12:37:57 | SUCCESS | Add New Content Partner(aassssssssssssssssssssssssssss) | By-Test_ott025 | 
+13/12/2017 12:46:25 | SUCCESS | update Header Content Detail() | By-Test_ott025 | 
+13/12/2017 12:46:42 | SUCCESS | update Header Content Detail() | By-Test_ott025 | 
+13/12/2017 12:46:57 | SUCCESS | update Header Content Detail() | By-Test_ott025 | 
+13/12/2017 12:47:14 | SUCCESS | update Header Content Detail() | By-Test_ott025 | 
+13/12/2017 12:48:19 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 12:48:27 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 12:48:36 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 12:49:57 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:50:20 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:50:45 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:51:10 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:51:30 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 12:51:38 | SUCCESS | Slider image inactive(SliderID:182,Status:inactive) | By-varun_ott025 | 
+13/12/2017 12:51:43 | SUCCESS | Delete slider Image (182) | By-varun_ott025 | delete from slider_image_detail where img_id='182'
+13/12/2017 12:51:46 | SUCCESS | Delete slider Image (199) | By-varun_ott025 | delete from slider_image_detail where img_id='199'
+13/12/2017 12:52:15 | SUCCESS | Delete slider Image (195) | By-varun_ott025 | delete from slider_image_detail where img_id='195'
+13/12/2017 12:54:03 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 12:56:33 | SUCCESS | Delete slider Image (197) | By-varun_ott025 | delete from slider_image_detail where img_id='197'
+13/12/2017 13:02:31 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 13:04:11 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 13:04:21 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 13:04:34 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 13:04:51 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 13:05:06 | SUCCESS | Slider image active(SliderID:200,Status:active) | By-varun_ott025 | 
+13/12/2017 13:05:09 | SUCCESS | Slider image inactive(SliderID:200,Status:inactive) | By-varun_ott025 | 
+13/12/2017 13:05:11 | SUCCESS | Delete slider Image (200) | By-varun_ott025 | delete from slider_image_detail where img_id='200'
+13/12/2017 13:05:35 | SUCCESS | Delete slider Image (198) | By-varun_ott025 | delete from slider_image_detail where img_id='198'
+13/12/2017 13:05:56 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 13:06:06 | SUCCESS | Slider priority Set | By-varun_ott025 | 
+13/12/2017 13:06:20 | SUCCESS | Delete slider Image (184) | By-varun_ott025 | delete from slider_image_detail where img_id='184'
+13/12/2017 13:06:46 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 13:07:06 | SUCCESS | Add New Slider Image(poster.jpeg) | By-varun_ott025 | 
+13/12/2017 13:07:16 | SUCCESS | Slider image active(SliderID:193,Status:active) | By-varun_ott025 | 
+13/12/2017 13:07:24 | SUCCESS | Slider image inactive(SliderID:193,Status:inactive) | By-varun_ott025 | 
+13/12/2017 13:07:27 | SUCCESS | Delete slider Image (193) | By-varun_ott025 | delete from slider_image_detail where img_id='193'
+13/12/2017 13:07:41 | SUCCESS | Delete slider Image (196) | By-varun_ott025 | delete from slider_image_detail where img_id='196'
+13/12/2017 13:07:44 | SUCCESS | Delete slider Image (201) | By-varun_ott025 | delete from slider_image_detail where img_id='201'

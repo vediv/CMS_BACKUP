@@ -1,0 +1,36 @@
+11/06/2018 04:13:51 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+11/06/2018 09:46:20 | SUCCESS | Updtate MetaData(0_6hul3dyb) | By-Adosphere_ott488 | update entry set name='Teen Machhliyan Animated Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6hul3dyb/version/100002',longdescription='Watch Teen Machhliyan moral Story in Bengali language. This is the story of three fishes who lived in a lake. To know more watch the video.',
+        duration='215',type='1',tag='kids, cartoon, children, story, moral, little, kid, learning, animation, junior, tales, bengali, bedtime, storytelling, sleeping, reciters, fisherman, fairy, cartoons, fish, punchtantra, teen, serendipity, friend, fishes, catcher, machhli, machhliyan, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-11 09:49:08',shortdescription='Watch Teen Machhlia moral Story in bengali language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Panchatantra',
+        language='Bengali',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_6hul3dyb'
+11/06/2018 09:52:14 | SUCCESS | Bulk Add Category(0_g6ngagd4,0_xzk82yvb,0_vymktlhn,0_cix4xnv3,0_fkj3zq9i,0_pssn2l0w,0_04zva8m9,0_242sydwv,0_arwqiovi,0_bokvbkup,0_ghchjw0c,0_qmmfhf7y,0_vwy9dn1j,0_rdte3bik,221) | By-Adosphere_ott488 | update entry set category='ON DEMAND>KIDS>NURSERY RHYMES', categoryid='221' where entryid='0_rdte3bik' 
+11/06/2018 10:26:20 | SUCCESS | Updtate MetaData(0_mgdv2yjr) | By-Adosphere_ott488 | update entry set name='3 Little Kitten',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mgdv2yjr/version/100012',longdescription='Watch most popular Little Kitten they lost their mittens with English subtitles.',
+        duration='96',type='1',tag='kids, kahaniya, cartoon, children, little, kid, 4yr, 8yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, kitten, nursery, rhyme, subtitles, poems, english, lullabies, purple, turtle',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-06-11 10:29:08',shortdescription='Watch most popular Little Kitten they lost their mittens with English subtitles.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_mgdv2yjr'
+11/06/2018 06:42:29 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+11/06/2018 17:44:13 | SUCCESS | Updtate MetaData(0_n78dun4u) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_n78dun4u','Raktha Sindhuram','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_n78dun4u/version/100002','Watch this Telugu movie which is based on action drama . The dual role acted by Chiranjeevi, Radha, Kaikala and directed is by Kodanda Rami Reddy A.','8998','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, chiranjeevi, radha, kaikala, kodanda, rami, reddy','MOVIES>FULL MOVIES>TELUGU','229','2','2018-06-08 15:35:15','Watch this Telugu movie which is based on action drama . The dual role acted by Chiranjeevi, Radha, Kaikala and directed is by Kodanda Rami Reddy A.','Kodanda Rami Reddy A','A.Sesha Ratnam',
+         'Chiranjeevi, Radha','','Action, Drama','Telugu','','inactive','','')
+11/06/2018 17:45:33 | SUCCESS | Updtate MetaData(0_n78dun4u) | By-Adosphere_ott488 | update entry set name='Raktha Sindhuram',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_n78dun4u/version/100002',longdescription='Watch this Telugu movie which is based on action drama . The dual role acted by Chiranjeevi, Radha, Kaikala and directed is by Kodanda Rami Reddy A.',
+        duration='8998',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, chiranjeevi, radha, kaikala, kodanda, rami, reddy',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-06-11 17:48:21',shortdescription='Watch this Telugu movie which is based on action drama . The dual role acted by Chiranjeevi, Radha, Kaikala and directed is by Kodanda Rami Reddy A.',
+        director='Kodanda Rami Reddy A',producer='A.Sesha Ratnam',cast='Chiranjeevi, Radha',crew='',sub_genre='Action, Drama',
+        language='Telugu',pgrating='',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_n78dun4u'
+11/06/2018 17:47:05 | SUCCESS | Save Thumbnail(0_xwxajp8c) | By-Adosphere_ott488 | 
+11/06/2018 17:47:39 | SUCCESS | Save Thumbnail(0_dsa7m5ag) | By-Adosphere_ott488 | 
+11/06/2018 17:48:13 | SUCCESS | Save Thumbnail(0_gbcymkwt) | By-Adosphere_ott488 | 
+11/06/2018 17:50:59 | SUCCESS | Updtate MetaData(0_77nnmiec) | By-Adosphere_ott488 | update entry set name='Bob Haircut With A Razor',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_77nnmiec/version/100012',longdescription='Watch this video to know about Bob latest and popular,right hair style with a razor, salon education and much more..',
+        duration='59',type='1',tag='bob, haircut, with, razor, salon, education, curly, perfect, latest, popular, hairstyles, really, stylish, ideas, guy, headshape',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-11 17:53:47',shortdescription='Watch this video to know about Bob latest and popular,right hair style with a razor, salon education and much more..',
+        director='',producer='',cast='',crew='',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_77nnmiec'

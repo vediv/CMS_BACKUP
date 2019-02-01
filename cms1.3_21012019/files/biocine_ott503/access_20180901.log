@@ -1,0 +1,12 @@
+01/09/2018 06:23:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/09/2018 12:00:45 | SUCCESS | Update Coupon (53) | By-Biocine_ott503 | update coupon set name='wwqq',code='XYZ123',type='P',discount='90.0000',date_start='2018-09-01 11:56:13',
+      date_end='2018-09-30 11:56:13',uses_total='1',uses_customer='10',updated_at=NOW() where coupon_id='53'
+01/09/2018 12:03:10 | SUCCESS | Update Coupon (53) | By-Biocine_ott503 | update coupon set name='wwqq',code='XYZ123',type='P',discount='90.0000',date_start='2018-09-01 11:56:13',
+      date_end='2018-09-30 11:56:13',uses_total='2',uses_customer='10',updated_at=NOW() where coupon_id='53'
+01/09/2018 06:37:04 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/09/2018 12:07:25 | SUCCESS | Update Coupon (53) | By-Biocine_ott503 | update coupon set name='wwqq',code='XYZ123',type='P',discount='90.0000',date_start='2018-09-01 11:56:13',
+      date_end='2018-09-30 11:56:13',uses_total='',uses_customer='10',updated_at=NOW() where coupon_id='53'
+01/09/2018 12:08:25 | SUCCESS | Update Coupon (53) | By-Biocine_ott503 | update coupon set name='wwqq',code='XYZ123',type='P',discount='90.0000',date_start='2018-09-01 11:56:13',
+      date_end='2018-09-30 11:56:13',uses_total='2',uses_customer='10',updated_at=NOW() where coupon_id='53'
+01/09/2018 06:51:31 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/09/2018 12:22:07 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 

@@ -1,0 +1,23 @@
+02/07/2018 04:13:28 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+02/07/2018 05:13:37 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/07/2018 05:38:52 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/07/2018 08:31:35 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/07/2018 15:15:08 | SUCCESS | Updtate MetaData(0_9a3a7ck5) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_9a3a7ck5','Doctor Cine Actor','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_9a3a7ck5/version/100002','Watch Doctor Cine Actor full movie which is acted by Krishna Ghattamaneni, Jayasudha,Kavitha and directed by Vijaya Nirmala.','9280','1',
+        'full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, vijaya, nirmala, krishna, ghattamaneni, jayasudha, kavitha, doctor, cine, actor, 1982, jaya, sudha, kavita, ghatta, amaneni','MOVIES>FULL MOVIES>TELUGU','229','2','2018-07-02 13:21:05','Watch Doctor Cine Actor full movie which is acted by Krishna Ghattamaneni, Jayasudha,Kavitha and directed by Vijaya Nirmala.','Vijaya Nirmala','K.R.Narasimhulu,Sri',
+         '','','Comedy,Drama','Telugu','','inactive','','')
+02/07/2018 15:16:59 | SUCCESS | Updtate MetaData(0_5ejbgc6o) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_5ejbgc6o','Anavakkari |Shilpa Shetty, Upendra | Hit Movie','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5ejbgc6o/version/0','Watch full length drama movie in Tamil language Anavakkari and starring Shilpa Shetty, Upendra.','9352','1',
+        'tamil, tollywood, comedy, movies, south, indian, movie, full, length, 90s, cinema, interesting, classic, anavakkari, anna, vakkari, shilpa, shetty, upender, upendra, hit, superhit, south hits, shilpa movie, shilpa kundra, bollywood actress, kundra, bollywood, aanavakkari, rajendra, babu, sabish, vikesh, upethira, kutti, radhika, soornakka, sumitra, guru, kiran, sri, muthappan, upindra','MOVIES>FULL MOVIES>TAMIL','228','2','2018-07-02 13:21:07','Watch full length drama movie in Tamil language Anavakkari and starring Shilpa Shetty, Upendra.','','',
+         '','','Drama','Tamil','','inactive','','')
+02/07/2018 16:48:47 | SUCCESS | Save Thumbnail(0_i9kdhfyz) | By-Adosphere_ott488 | 
+02/07/2018 16:50:37 | SUCCESS | Save Thumbnail(0_tat6spev) | By-Adosphere_ott488 | 
+02/07/2018 16:51:23 | SUCCESS | Save Thumbnail(0_l23hvywb) | By-Adosphere_ott488 | 
+02/07/2018 17:17:31 | SUCCESS | Bulk Add Content Viewer(Array,NC16) | By-Geetanjali_ott488 | 
+02/07/2018 17:20:16 | SUCCESS | Bulk Add Content Viewer(Array,NC16) | By-Geetanjali_ott488 | 
+02/07/2018 17:21:01 | SUCCESS | Bulk Add Content Viewer(Array,PG13) | By-Geetanjali_ott488 | 
+02/07/2018 17:21:54 | SUCCESS | Bulk Add Content Viewer(Array,NC16) | By-Geetanjali_ott488 | 

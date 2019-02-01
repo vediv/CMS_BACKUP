@@ -1,0 +1,182 @@
+17/05/2018 05:45:59 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+17/05/2018 05:46:31 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+17/05/2018 11:18:58 | SUCCESS | Save New video(0_weryxyln) | By-PowerSmart_ott182 | 
+17/05/2018 11:20:36 | SUCCESS | Updtate MetaData(0_weryxyln) | By-PowerSmart_ott182 | update entry set name='ಗುರುವಾರದ ಬೆಳಗಿನ ಮುಖ್ಯಾಂಶಗಳು ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_weryxyln/version/100032',longdescription='ಗುರುವಾರದ ಬೆಳಗಿನ ಮುಖ್ಯಾಂಶಗಳು @ 11 am - ವಿಐಪಿ ನ್ಯೂಸ್ | Thursday Morning Headlines @ 11 am - VIP News ',
+        duration='54',type='1',tag='karnataka politics, yeddyurappa, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 11:23:02',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_weryxyln'
+17/05/2018 15:11:14 | SUCCESS | Save New video(0_50d4i57j) | By-PowerSmart_ott182 | 
+17/05/2018 15:12:04 | SUCCESS | Delete Video entry(0_50d4i57j) | By-PowerSmart_ott182 | 
+17/05/2018 15:23:02 | SUCCESS | Save New video(0_z8gra73y) | By-PowerSmart_ott182 | 
+17/05/2018 15:31:05 | SUCCESS | Updtate MetaData(0_z8gra73y) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 pm - Part 1',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_z8gra73y/version/100012',longdescription='Breaking News from Karnataka ',
+        duration='507',type='1',tag='karnataka elections, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 15:33:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_z8gra73y'
+17/05/2018 15:31:13 | SUCCESS | Save New video(0_d8kjontq) | By-PowerSmart_ott182 | 
+17/05/2018 15:40:11 | SUCCESS | Save New video(0_60pvg81c) | By-PowerSmart_ott182 | 
+17/05/2018 15:40:26 | SUCCESS | Updtate MetaData(0_z8gra73y) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 1',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_z8gra73y/version/100032',longdescription='Breaking News from Karnataka ',
+        duration='507',type='1',tag='karnataka elections, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 15:42:52',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_z8gra73y'
+17/05/2018 15:40:43 | SUCCESS | Updtate MetaData(0_d8kjontq) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 2',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_d8kjontq/version/100012',longdescription='Breaking News from Karnataka ',
+        duration='570',type='1',tag='karnataka elections, karnataka polictics, vip news',category='',categoryid='',
+        updated_at='2018-05-17 15:43:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_d8kjontq'
+17/05/2018 15:41:00 | SUCCESS | Updtate MetaData(0_d8kjontq) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 2',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_d8kjontq/version/100012',longdescription='Breaking News from Karnataka ',
+        duration='570',type='1',tag='karnataka elections, karnataka polictics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 15:43:27',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_d8kjontq'
+17/05/2018 15:46:06 | SUCCESS | Save New video(0_w9zii65y) | By-PowerSmart_ott182 | 
+17/05/2018 15:46:28 | SUCCESS | Updtate MetaData(0_60pvg81c) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 pm - Part 3',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_60pvg81c/version/100002',longdescription='Breaking News from Karnataka ',
+        duration='584',type='1',tag='karnataka elections, karnataka polictics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 15:48:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_60pvg81c'
+17/05/2018 15:47:56 | SUCCESS | Updtate MetaData(0_60pvg81c) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 3',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_60pvg81c/version/100002',longdescription='Breaking News from Karnataka ',
+        duration='584',type='1',tag='karnataka elections, karnataka polictics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 15:50:23',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_60pvg81c'
+17/05/2018 15:52:23 | SUCCESS | Save New video(0_xdznlys1) | By-PowerSmart_ott182 | 
+17/05/2018 16:22:56 | SUCCESS | Save New video(0_31amcijo) | By-PowerSmart_ott182 | 
+17/05/2018 16:29:48 | SUCCESS | Updtate MetaData(0_w9zii65y) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 12.30 pm - Part 1',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_w9zii65y/version/100032',longdescription='Karnataka Elections Breaking News ',
+        duration='424',type='1',tag='karnataka latest, karnataka politics, vip news',category='',categoryid='',
+        updated_at='2018-05-17 16:32:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_w9zii65y'
+17/05/2018 16:30:23 | SUCCESS | Updtate MetaData(0_31amcijo) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 4',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_31amcijo/version/100002',longdescription='Breaking News from Karnataka ',
+        duration='638',type='1',tag='karnataka elections, karnataka polictics, vip news',category='',categoryid='',
+        updated_at='2018-05-17 16:32:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_31amcijo'
+17/05/2018 16:42:02 | SUCCESS | Save New video(0_j5ks38m7) | By-PowerSmart_ott182 | 
+17/05/2018 16:42:58 | SUCCESS | Save New video(0_bax44ez0) | By-PowerSmart_ott182 | 
+17/05/2018 16:43:25 | SUCCESS | Updtate MetaData(0_w9zii65y) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 12.30 pm - Part 1',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_w9zii65y/version/100032',longdescription='Karnataka Elections Breaking News ',
+        duration='424',type='1',tag='karnataka latest, karnataka politics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 16:45:51',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_w9zii65y'
+17/05/2018 16:43:44 | SUCCESS | Updtate MetaData(0_xdznlys1) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 12.30 pm - Part 2',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_xdznlys1/version/100032',longdescription='Karnataka Elections Breaking News ',
+        duration='424',type='1',tag='karnataka latest, karnataka politics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 16:46:11',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_xdznlys1'
+17/05/2018 16:44:00 | SUCCESS | Updtate MetaData(0_31amcijo) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 4',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_31amcijo/version/100022',longdescription='Breaking News from Karnataka ',
+        duration='638',type='1',tag='karnataka elections, karnataka polictics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 16:46:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_31amcijo'
+17/05/2018 17:14:38 | SUCCESS | Updtate MetaData(0_j5ks38m7) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 5',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_j5ks38m7/version/100032',longdescription='Breaking News from Karnataka ',
+        duration='638',type='1',tag='karnataka elections, karnataka polictics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 17:17:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_j5ks38m7'
+17/05/2018 17:15:10 | SUCCESS | Updtate MetaData(0_bax44ez0) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 12.30 pm - Part 3',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_bax44ez0/version/100032',longdescription='Karnataka Elections Breaking News ',
+        duration='424',type='1',tag='karnataka latest, karnataka politics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 17:17:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_bax44ez0'
+17/05/2018 17:56:38 | SUCCESS | Save New video(0_fw7he0lx) | By-PowerSmart_ott182 | 
+17/05/2018 18:07:13 | SUCCESS | Updtate MetaData(0_z8gra73y) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 1',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_z8gra73y/version/100032',longdescription='Breaking News from Karnataka ',
+        duration='507',type='1',tag='karnataka elections, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 18:09:39',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_z8gra73y'
+17/05/2018 18:07:51 | SUCCESS | Updtate MetaData(0_fw7he0lx) | By-PowerSmart_ott182 | update entry set name='May 17, 2018 - 11 am - Part 6',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_fw7he0lx/version/100012',longdescription='Breaking News from Karnataka ',
+        duration='638',type='1',tag='karnataka elections, karnataka polictics, vip news',category='News',categoryid='378',
+        updated_at='2018-05-17 18:10:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_fw7he0lx'
+17/05/2018 18:08:15 | SUCCESS | Updtate MetaData(0_pga3s2lp) | By-PowerSmart_ott182 | update entry set name='Latest Technology News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_pga3s2lp/version/100032',longdescription='Technology news to let you be in the know',
+        duration='203',type='1',tag='technology, technology news, technology latest',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-17 18:10:42',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_pga3s2lp'
+17/05/2018 18:09:44 | SUCCESS | Updtate MetaData(0_tqj2xuip) | By-PowerSmart_ott182 | update entry set name='Latest Technology News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_tqj2xuip/version/100032',longdescription='Technology news to let you be in the know',
+        duration='301',type='1',tag='technology, technology news, technology latest',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-17 18:12:11',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_tqj2xuip'
+17/05/2018 18:10:05 | SUCCESS | Updtate MetaData(0_cdmbnvkr) | By-PowerSmart_ott182 | update entry set name='Latest Technology News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_cdmbnvkr/version/100032',longdescription='Technology news to let you be in the know',
+        duration='303',type='1',tag='technology, technology news, technology latest',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-17 18:12:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_cdmbnvkr'
+17/05/2018 18:10:23 | SUCCESS | Updtate MetaData(0_nee1a012) | By-PowerSmart_ott182 | update entry set name='Latest Technology News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_nee1a012/version/100032',longdescription='Technology news to let you be in the know',
+        duration='214',type='1',tag='technology, technology news, technology latest',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-17 18:12:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_nee1a012'
+17/05/2018 18:10:42 | SUCCESS | Updtate MetaData(0_5trbtjoc) | By-PowerSmart_ott182 | update entry set name='Latest Technology News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5trbtjoc/version/100032',longdescription='Technology news to let you be in the know',
+        duration='146',type='1',tag='technology, technology news, technology latest',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-17 18:13:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_5trbtjoc'
+17/05/2018 18:11:00 | SUCCESS | Updtate MetaData(0_4bukk472) | By-PowerSmart_ott182 | update entry set name='Latest Technology News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_4bukk472/version/100032',longdescription='Technology news to let you be in the know',
+        duration='148',type='1',tag='technology, technology news, technology latest',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-17 18:13:27',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_4bukk472'
+17/05/2018 18:11:35 | SUCCESS | Updtate MetaData(0_ha6sqvg8) | By-PowerSmart_ott182 | update entry set name='Sports News Updates ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_ha6sqvg8/version/100032',longdescription='Every sports news for the sports-lover in You',
+        duration='297',type='1',tag='sports, cricket, basketball, hockey, badminton',category='SPORTS',categoryid='326',
+        updated_at='2018-05-17 18:14:02',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_ha6sqvg8'
+17/05/2018 18:11:58 | SUCCESS | Updtate MetaData(0_yhpaerg7) | By-PowerSmart_ott182 | update entry set name='Sports News Updates ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_yhpaerg7/version/100032',longdescription='Every sports news for the sports-lover in You',
+        duration='242',type='1',tag='sports, cricket, basketball, hockey, badminton',category='SPORTS',categoryid='326',
+        updated_at='2018-05-17 18:14:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_yhpaerg7'
+17/05/2018 18:15:29 | SUCCESS | Updtate MetaData(0_rew1039x) | By-PowerSmart_ott182 | update entry set name='Sports News Updates ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_rew1039x/version/100032',longdescription='Every sports news for the sports-lover in You',
+        duration='236',type='1',tag='sports, cricket, basketball, hockey, badminton',category='SPORTS',categoryid='326',
+        updated_at='2018-05-17 18:17:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_rew1039x'
+17/05/2018 18:22:47 | SUCCESS | Updtate MetaData(0_xkgki1yz) | By-PowerSmart_ott182 | update entry set name='Sports News Updates ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_xkgki1yz/version/100032',longdescription='Every sports news for the sports-lover in You',
+        duration='154',type='1',tag='sports, cricket, basketball, hockey, badminton',category='SPORTS',categoryid='326',
+        updated_at='2018-05-17 18:25:13',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_xkgki1yz'
+17/05/2018 18:23:23 | SUCCESS | Updtate MetaData(0_htouftyf) | By-PowerSmart_ott182 | update entry set name='Sports News Updates ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_htouftyf/version/100032',longdescription='Every sports news for the sports-lover in You',
+        duration='209',type='1',tag='sports, cricket, basketball, hockey, badminton',category='SPORTS',categoryid='326',
+        updated_at='2018-05-17 18:25:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_htouftyf'
+17/05/2018 18:23:49 | SUCCESS | Updtate MetaData(0_wmwuf6ny) | By-PowerSmart_ott182 | update entry set name='Lifestyle News for You',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_wmwuf6ny/version/100032',longdescription='Lifestyle news for you to follow and change your life for good',
+        duration='269',type='1',tag='lifestyle, lifestyle news',category='LIFESTYLE',categoryid='330',
+        updated_at='2018-05-17 18:26:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_wmwuf6ny'

@@ -1,0 +1,32 @@
+19/05/2018 10:05:37 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+19/05/2018 05:35:35 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+19/05/2018 11:06:56 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+19/05/2018 11:45:10 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+19/05/2018 12:06:09 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+19/05/2018 12:27:01 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+19/05/2018 12:32:37 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+19/05/2018 07:36:13 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+19/05/2018 13:31:28 | SUCCESS | Save New video(0_6236q2hk) | By-PowerSmart_ott182 | 
+19/05/2018 13:38:11 | SUCCESS | Delete Video entry(0_cbvzkoc5) | By-PowerSmart_ott182 | 
+19/05/2018 13:38:41 | SUCCESS | Updtate MetaData(0_6236q2hk) | By-PowerSmart_ott182 | update entry set name='Midday Headlines - May 19, 2018',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6236q2hk/version/100032',longdescription='Breaking News at the Moment',
+        duration='65',type='1',tag='karnataka elections, karnataka politics, vip news',category='Politics',categoryid='376',
+        updated_at='2018-05-19 13:41:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6236q2hk'
+19/05/2018 13:41:57 | SUCCESS | delete Category(379) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='379'
+19/05/2018 13:44:41 | SUCCESS | Updtate MetaData(0_4mi2uzwp) | By-PowerSmart_ott182 | update entry set name='The Story of BJP - Part 2 ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_4mi2uzwp/version/100032',longdescription='ದಿ ಸ್ಟೋರಿ ಆಫ್ ಬಿಜೆಪಿ – ವಿಐಪಿ ನ್ಯೂಸ್',
+        duration='524',type='1',tag='bjp, the history of bjp, the story of bjp, vip news',category='The Story of BJP',categoryid='380',
+        updated_at='2018-05-19 13:47:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_4mi2uzwp'
+19/05/2018 13:44:56 | SUCCESS | Updtate MetaData(0_5l1gb91s) | By-PowerSmart_ott182 | update entry set name='The Story of BJP - Part 1 ',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5l1gb91s/version/100032',longdescription='ದಿ ಸ್ಟೋರಿ ಆಫ್ ಬಿಜೆಪಿ – ವಿಐಪಿ ನ್ಯೂಸ್',
+        duration='450',type='1',tag='bjp, the history of bjp, the story of bjp, vip news',category='The Story of BJP',categoryid='380',
+        updated_at='2018-05-19 13:47:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_5l1gb91s'
+19/05/2018 08:44:59 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+19/05/2018 09:33:17 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+19/05/2018 15:30:57 | SUCCESS | Save New video(0_lidrueqk) | By-PowerSmart_ott182 | 

@@ -1,0 +1,43 @@
+09/11/2017 11:55:35 | SUCCESS | Home Setting priority Set | By-Test_ott025 | 
+09/11/2017 11:55:45 | SUCCESS | Home Setting priority Set | By-Test_ott025 | 
+09/11/2017 11:55:54 | SUCCESS | Home Setting active(HomeID:14,Status:active) | By-Test_ott025 | 
+09/11/2017 11:55:59 | SUCCESS | Home Setting active(HomeID:11,Status:active) | By-Test_ott025 | 
+09/11/2017 11:57:03 | SUCCESS | Home Setting priority Set | By-Test_ott025 | 
+09/11/2017 11:57:32 | SUCCESS | Add New HomeSettingTag(sfgs) | By-Test_ott025 | 
+09/11/2017 11:57:54 | SUCCESS | Home Setting priority Set | By-Test_ott025 | 
+09/11/2017 11:57:57 | SUCCESS | Home Setting inactive(HomeID:14,Status:inactive) | By-Test_ott025 | 
+09/11/2017 11:58:00 | SUCCESS | Home Setting inactive(HomeID:9,Status:inactive) | By-Test_ott025 | 
+09/11/2017 11:58:04 | SUCCESS | Home Setting inactive(HomeID:7,Status:inactive) | By-Test_ott025 | 
+09/11/2017 11:58:07 | SUCCESS | Home Setting inactive(HomeID:11,Status:inactive) | By-Test_ott025 | 
+09/11/2017 11:58:10 | SUCCESS | Home Setting active(HomeID:9,Status:active) | By-Test_ott025 | 
+09/11/2017 11:58:43 | SUCCESS | Home Setting priority Set | By-Test_ott025 | 
+09/11/2017 11:59:50 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+09/11/2017 12:06:20 | ERROR-SQL | Add New Slider Image(C:\fakepath\Purple's Birthday Party.jpg) | By-Test_ott025 | 
+09/11/2017 12:06:53 | ERROR-SQL | Add New Slider Image(C:\fakepath\Purple's Birthday Party.jpg) | By-Test_ott025 | 
+09/11/2017 12:07:24 | SUCCESS | Add New Slider Image(C:\fakepath\header5.jpg) | By-Test_ott025 | 
+09/11/2017 12:07:32 | SUCCESS | Slider image active(SliderID:180,Status:active) | By-Test_ott025 | 
+09/11/2017 12:08:19 | SUCCESS | Slider priority Set | By-Test_ott025 | 
+09/11/2017 12:31:21 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+09/11/2017 12:31:41 | SUCCESS | Plan inactive(planID:p385,Status:inactive) | By-Test_ott025 | 
+09/11/2017 12:31:43 | SUCCESS | Delete Plan (p385) | By-Test_ott025 | delete from plandetail where planID='p385'
+09/11/2017 12:41:14 | SUCCESS | update plan Detail(jjjjhhjhjhhjhjh) | By-Test_ott025 | 
+09/11/2017 12:41:36 | SUCCESS | update plan Detail(0) | By-Test_ott025 | 
+09/11/2017 12:41:57 | SUCCESS | update plan Detail(jjjjhhjhjhhjhjh) | By-Test_ott025 | 
+09/11/2017 12:42:25 | SUCCESS | Plan active(planID:p256,Status:active) | By-Test_ott025 | 
+09/11/2017 12:42:33 | SUCCESS | update plan Detail(jjjjhhjhjhhjhjh) | By-Test_ott025 | 
+09/11/2017 12:44:46 | SUCCESS | update plan Detail(1212121212) | By-Test_ott025 | 
+09/11/2017 12:45:02 | SUCCESS | update plan Detail(086868jhkkhlllg) | By-Test_ott025 | 
+09/11/2017 12:45:26 | SUCCESS | Plan active(planID:p349,Status:active) | By-Test_ott025 | 
+09/11/2017 12:45:39 | SUCCESS | update plan Detail(001888) | By-Test_ott025 | 
+09/11/2017 12:46:35 | SUCCESS | update plan Detail(7) | By-Test_ott025 | 
+09/11/2017 12:48:24 | SUCCESS | update plan Detail(Free1) | By-Test_ott025 | 
+09/11/2017 12:50:28 | SUCCESS | update plan Detail(88) | By-Test_ott025 | 
+09/11/2017 12:51:02 | SUCCESS | update plan Detail(01) | By-Test_ott025 | 
+09/11/2017 12:51:41 | SUCCESS | update plan Detail(31 	01 	01 da01) | By-Test_ott025 | 
+09/11/2017 12:52:02 | SUCCESS | update plan Detail(TESTING 1245677) | By-Test_ott025 | 
+09/11/2017 12:52:17 | SUCCESS | update plan Detail(TESTING 1245677) | By-Test_ott025 | 
+09/11/2017 12:55:07 | SUCCESS | Plan active(planID:p332,Status:active) | By-Test_ott025 | 
+09/11/2017 12:55:10 | SUCCESS | Plan active(planID:p280,Status:active) | By-Test_ott025 | 
+09/11/2017 12:56:50 | SUCCESS | update plan Detail(2) | By-Test_ott025 | 
+09/11/2017 14:21:36 | SUCCESS | Delete Plan (p645) | By-Test_ott025 | delete from plandetail where planID='p645'
+09/11/2017 15:04:44 | SUCCESS | Add New HomeSettingTag(aa) | By-Test_ott025 | 

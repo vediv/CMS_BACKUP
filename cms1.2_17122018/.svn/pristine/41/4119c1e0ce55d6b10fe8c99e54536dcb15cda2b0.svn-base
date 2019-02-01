@@ -1,0 +1,45 @@
+14/05/2018 04:20:02 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 04:35:30 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 04:48:58 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 10:26:40 | SUCCESS | Update Category(LIFESTYLE) | By-PowerSmart_ott182 | update categories set cat_name='LIFESTYLE',description='',tags='',fullname='LIFESTYLE' where category_id='330'
+14/05/2018 11:44:05 | SUCCESS | Updtate MetaData(0_8ddmp74d) | By-PowerSmart_ott182 | update entry set name='From Sandalwood to Hollywood',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_8ddmp74d/version/100042',longdescription='We know the importance of Entertainment and hence we are here to give you some. Later news of Music, Films, etc., at the earliest.',
+        duration='1134',type='1',tag='sandalwood, bollywood, hollywood, kannada films, ts',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-14 11:46:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='',custom_data=''
+        where entryid='0_8ddmp74d'
+14/05/2018 11:45:56 | SUCCESS | Updtate MetaData(0_5709gn6j) | By-PowerSmart_ott182 | update entry set name='Lifestyle news for you to help your',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5709gn6j/version/100042',longdescription='Trust us, your lifestyle is going to get  better day-by-day after you make checking out this section, part of your lifestyle!',
+        duration='1213',type='1',tag='lifestyle, lifestyle updates, lifestyle news, lifestyle latest',category='WORLD,INDIA,SPORTS,BUSINESS,ENTERTAINMENT,TECHNOLOGY,LIFESTYLE',categoryid='324,325,326,327,328,329,330',
+        updated_at='2018-05-14 11:48:20',shortdescription='',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_5709gn6j'
+14/05/2018 11:46:19 | SUCCESS | Updtate MetaData(0_dy34qrzm) | By-PowerSmart_ott182 | update entry set name='Top news updates in India everyday',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_dy34qrzm/version/100042',longdescription='India is a country which is developing rapidly and also, makes news every now and then. We let you know every news India makes!',
+        duration='1029',type='1',tag='news in india, india news updates, india latest, india, bon voyage',category='INDIA',categoryid='325',
+        updated_at='2018-05-14 11:48:43',shortdescription='',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_dy34qrzm'
+14/05/2018 11:46:41 | SUCCESS | Updtate MetaData(0_y73ialbo) | By-PowerSmart_ott182 | update entry set name='One-stop for the entire world\'s hot',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_y73ialbo/version/100042',longdescription='Now it\'s easy to know everything about what\'s happening in the entire world with our app!',
+        duration='1102',type='1',tag='world news, international news, world',category='WORLD,LIFESTYLE',categoryid='324,330',
+        updated_at='2018-05-14 11:49:05',shortdescription='',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_y73ialbo'
+14/05/2018 11:47:02 | SUCCESS | Updtate MetaData(0_0hueoxhr) | By-PowerSmart_ott182 | update entry set name='Sports News a Sports fanatic can\'t',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_0hueoxhr/version/100042',longdescription='Whatever your favorite game, get every news right here.',
+        duration='1518',type='1',tag='sports, cricket, players, ts2018',category='SPORTS',categoryid='326',
+        updated_at='2018-05-14 11:49:26',shortdescription='',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_0hueoxhr'
+14/05/2018 07:52:06 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 07:59:31 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 13:33:47 | SUCCESS | update Header Content Detail(Politics) | By-PowerSmart_ott182 | 
+14/05/2018 13:37:35 | SUCCESS | update Header Content Detail(Politics) | By-PowerSmart_ott182 | 
+14/05/2018 15:26:26 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+14/05/2018 10:05:23 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 10:43:51 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 16:42:59 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+14/05/2018 16:50:21 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+14/05/2018 12:35:12 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+14/05/2018 18:37:25 | SUCCESS | Save New video(0_6l2b8k4c) | By-PowerSmart_ott182 | 

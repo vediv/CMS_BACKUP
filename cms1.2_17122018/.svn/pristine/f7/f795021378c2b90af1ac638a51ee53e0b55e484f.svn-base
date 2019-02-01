@@ -1,0 +1,13 @@
+24/09/2018 04:50:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/09/2018 06:21:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/09/2018 11:52:49 | SUCCESS | Update Coupon (54) | By-Biocine_ott503 | update coupon set name='ABCDE',code='ABCR12',type='P',discount='1.0000',date_start='2018-09-18 12:38:02',
+      date_end='2018-10-01 12:38:02',uses_total='2',uses_customer='1',updated_at=NOW() where coupon_id='54'
+24/09/2018 11:53:10 | SUCCESS | Update Coupon (54) | By-Biocine_ott503 | update coupon set name='ABCDE',code='ABCR12',type='P',discount='1.0000',date_start='2018-09-18 12:38:02',
+      date_end='2018-10-01 12:38:02',uses_total='2',uses_customer='2',updated_at=NOW() where coupon_id='54'
+24/09/2018 11:53:33 | SUCCESS | Update Coupon (54) | By-Biocine_ott503 | update coupon set name='ABCDE',code='ABCR12',type='P',discount='1.0000',date_start='2018-09-18 12:38:02',
+      date_end='2018-10-01 12:38:02',uses_total='1',uses_customer='2',updated_at=NOW() where coupon_id='54'
+24/09/2018 12:06:16 | SUCCESS | Update Coupon (54) | By-Biocine_ott503 | update coupon set name='ABCDE',code='ABCR12',type='P',discount='1.0000',date_start='2018-09-18 12:38:02',
+      date_end='2018-10-01 12:38:02',uses_total='2',uses_customer='2',updated_at=NOW() where coupon_id='54'
+24/09/2018 16:31:05 | SUCCESS | update plan Detail(yearly) | By-Biocine_ott503 | 
+24/09/2018 12:18:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/09/2018 17:54:38 | SUCCESS | delete Category(300) | By-Biocine_ott503 | DELETE FROM categories where category_id='300'

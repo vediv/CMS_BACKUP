@@ -1,0 +1,97 @@
+26/04/2018 04:58:30 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/04/2018 05:05:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/04/2018 11:23:19 | SUCCESS | Add New Dashboard user (ms) | By-Biocine_ott503 | 
+26/04/2018 05:55:02 | SUCCESS | login-(ms) | By-ms_ott503 | 
+26/04/2018 05:55:36 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/04/2018 05:57:38 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/04/2018 05:58:05 | SUCCESS | login-(ms) | By-ms_ott503 | 
+26/04/2018 11:29:01 | SUCCESS | update Dashboard user(ms) | By-Biocine_ott503 | 
+26/04/2018 11:29:37 | SUCCESS | update Dashboard user(ms) | By-Biocine_ott503 | 
+26/04/2018 11:39:01 | SUCCESS | update Dashboard user(ms) | By-Biocine_ott503 | 
+26/04/2018 11:43:55 | SUCCESS | Add New Dashboard user (contentid) | By-Biocine_ott503 | 
+26/04/2018 11:59:04 | SUCCESS | Add New Dashboard user (ab) | By-Biocine_ott503 | 
+26/04/2018 06:37:11 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/04/2018 12:12:50 | SUCCESS | Add New Dashboard user (ms) | By-Biocine_ott503 | 
+26/04/2018 12:20:05 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"a":"a"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 12:20:57 | SUCCESS | Add New Dashboard user (five) | By-Biocine_ott503 | 
+26/04/2018 06:51:19 | SUCCESS | login-(five) | By-five_ott503 | 
+26/04/2018 06:56:58 | SUCCESS | login-(five) | By-five_ott503 | 
+26/04/2018 06:58:07 | SUCCESS | login-(five) | By-five_ott503 | 
+26/04/2018 06:58:48 | SUCCESS | login-(five) | By-five_ott503 | 
+26/04/2018 12:30:35 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+26/04/2018 12:30:52 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+26/04/2018 12:33:01 | SUCCESS | Save New video(0_txywk6wi) | By-five_ott503 | 
+26/04/2018 12:35:18 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"a":"a"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 12:37:05 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+26/04/2018 12:37:06 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"a":"a","aaaa":"aaaaa"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 12:40:55 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"a":"a","aaaa":"aaaaa","zxxxxxxxxxx":"aaaaaaa"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 12:43:10 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"sx":"ssxdsxds","sdsd":"asx","sxdsasxxd":"sxxdasxsxs","saxasxasx":"sxsxd"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 12:43:57 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"song ":"a","song":"a","sxdsasxxd":"sxxdasxsxs","saxasxasx":"sxsxd"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 12:45:21 | SUCCESS | Updtate MetaData(0_jkedbxyf) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animated Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jkedbxyf/version/100012',longdescription='Watch Cosmos Laundromat animated short film. ',
+        duration='730',type='1',tag='cosmos, laundromat, animation, animated, film',category='BAZAAR,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>FILM,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='313,296,298,303,305,307,311,315,317,319',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"a":"a"}'
+        where entryid='0_jkedbxyf'
+26/04/2018 07:18:59 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+26/04/2018 12:50:03 | SUCCESS | Save Thumbnail(0_jkedbxyf) | By-Biocine_ott503 | 
+26/04/2018 14:48:28 | SUCCESS | Updtate MetaData(0_56l1nh8v) | By-Biocine_ott503 | update entry set name='Festival Celebrations | Crackers',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_56l1nh8v/version/100012',longdescription='Watch festival celebrated with crackers.',
+        duration='18',type='1',tag='festival, cracker, celebration, celebrate',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>MUSIC,MOVIES>CLASSIC,MOVIES>THRILLER,MOVIES>ROMANTIC,MOVIES>COMEDY,MUSIC>ORIGINAL,MUSIC>ORIGINAL>POP MUSIC,MUSIC>FILM>CLASSIC,MUSIC>FILM>HIP HOP',categoryid='295,296,299,302,303,304,306,309,314,316,318',
+        updated_at='2018-04-26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"actor":"ajay devgan","music dir":"pritam"}'
+        where entryid='0_56l1nh8v'
+26/04/2018 14:56:31 | SUCCESS | Add New Dashboard user (bbc) | By-Biocine_ott503 | 
+26/04/2018 14:57:22 | SUCCESS | Add New Dashboard user (add) | By-Biocine_ott503 | 
+26/04/2018 14:57:54 | SUCCESS | Add New Dashboard user (plus) | By-Biocine_ott503 | 
+26/04/2018 14:59:00 | SUCCESS | Add New Dashboard user (maqm) | By-Biocine_ott503 | 
+26/04/2018 15:02:51 | SUCCESS | Add New Dashboard user (liv) | By-Biocine_ott503 | 
+26/04/2018 15:05:02 | SUCCESS | update Dashboard user(mam) | By-Biocine_ott503 | 
+26/04/2018 15:14:11 | SUCCESS | Save Thumbnail(0_jkedbxyf) | By-Biocine_ott503 | 
+26/04/2018 15:18:12 | SUCCESS | Save Thumbnail(0_txywk6wi) | By-Biocine_ott503 | 
+26/04/2018 15:18:35 | SUCCESS | Save Thumbnail(0_txywk6wi) | By-Biocine_ott503 | 
+26/04/2018 15:22:56 | SUCCESS | Register User inactive(UserID:103,Status:inactive) | By-Biocine_ott503 | 
+26/04/2018 15:23:01 | SUCCESS | Register User active(UserID:103,Status:active) | By-Biocine_ott503 | 
+26/04/2018 15:55:09 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+26/04/2018 17:14:39 | SUCCESS | Updtate MetaData(0_txywk6wi) | By-Biocine_ott503 | update entry set name='OMG.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_txywk6wi/version/100022',longdescription='',
+        duration='10',type='1',tag='white rabbit',category='',categoryid='',
+        updated_at='2018-04-26 17:16:48',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_txywk6wi'
+26/04/2018 17:15:08 | SUCCESS | Updtate MetaData(0_txywk6wi) | By-Biocine_ott503 | update entry set name='OMG.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_txywk6wi/version/100022',longdescription='',
+        duration='10',type='1',tag='white rabbit',category='',categoryid='',
+        updated_at='2018-04-26 17:17:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_txywk6wi'

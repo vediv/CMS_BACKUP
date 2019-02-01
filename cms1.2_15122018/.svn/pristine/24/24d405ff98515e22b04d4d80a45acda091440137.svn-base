@@ -1,0 +1,92 @@
+05/05/2018 04:50:10 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 04:50:57 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 10:24:58 | SUCCESS | Register User inactive(UserID:176,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 10:25:04 | SUCCESS | Register User active(UserID:176,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 10:46:59 | SUCCESS | Updtate MetaData(0_g8j122yj) | By-PowerSmart_ott182 | update entry set name='Luxury Cars - Mercedes',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_g8j122yj/version/100012',longdescription='Watch luxury cars with new and latest features. ',
+        duration='12',type='1',tag='luxury, car, cars, automobile, wheeler, vehicle, mercedes, auto, india, techonolgy',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-05 10:49:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_g8j122yj'
+05/05/2018 10:49:32 | SUCCESS | Updtate MetaData(0_uuo23bu9) | By-PowerSmart_ott182 | update entry set name='Fireworks | Celebration | Light',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_uuo23bu9/version/100012',longdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        duration='28',type='1',tag='firewrk, cracker, light, brightness, celebration, celebrate, news, feed, buzz, report, ts2018',category='WORLD,SPORTS,ENTERTAINMENT,LIFESTYLE,AUTOPORTAL,HEALTH,INDIA',categoryid='324,326,328,330,331,332,325',
+        updated_at='2018-05-05 10:51:48',shortdescription='Watch sky full of colorful fireworks and brightness in sky.',
+        director='',producer='',cast='',crew='',sub_genre='Entertainment',
+        language='',pgrating='U',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_uuo23bu9'
+05/05/2018 05:21:49 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 05:21:56 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 11:00:51 | SUCCESS | Create New Category(PMSL) | By-PowerSmart_ott182 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '350','343','1','111','PMSL','PMSL>PMSL','343>350','0','0','same parent and child category name','tag1 tag2',NOW(),Now(),'107',ifnull(max(priority),0)+1,'0' from categories
+05/05/2018 05:32:14 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 05:35:28 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 11:13:10 | SUCCESS | Create New Category(PMSL) | By-PowerSmart_ott182 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '351','350','2','111','PMSL','PMSL>PMSL>PMSL','343>350>351','0','0','','',NOW(),Now(),'107',ifnull(max(priority),0)+1,'0' from categories
+05/05/2018 06:07:04 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 11:53:47 | SUCCESS | Updtate MetaData(0_g8j122yj) | By-PowerSmart_ott182 | update entry set name='Luxury Cars - Mercedes',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_g8j122yj/version/100012',longdescription='Watch luxury cars with new and latest features. ',
+        duration='12',type='1',tag='luxury, car, cars, automobile, wheeler, vehicle, mercedes, auto, india, techonolgy, technology',category='TECHNOLOGY',categoryid='329',
+        updated_at='2018-05-05 11:56:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_g8j122yj'
+05/05/2018 06:28:47 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 12:06:44 | SUCCESS | Home Setting priority Set | By-PowerSmart_ott182 | 
+05/05/2018 12:18:55 | SUCCESS | Save Thumbnail(0_zfbbzhdq) | By-PowerSmart_ott182 | 
+05/05/2018 12:33:54 | SUCCESS | Add New Footer Content(@VIPNEWS) | By-PowerSmart_ott182 | 
+05/05/2018 08:36:24 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 14:31:17 | SUCCESS | Updtate MetaData(0_h7n3goki) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_h7n3goki','Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_h7n3goki/version/100002','Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realise to capture anyone is not a good thing. Turtle made all the burtterflies rescue out of the jar.','136','1',
+        '','SCIENCE','333','2','2018-05-05 14:30:19','','','',
+         '','','','','','active','','')
+05/05/2018 09:02:29 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 14:34:45 | SUCCESS | Updtate MetaData(0_ma1f17ni) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_ma1f17ni','Sandcastle  Kids Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_ma1f17ni/version/100002','Watch \'Purple Turtle - And the Sandcastle\' kids story where all friends go on beach where they are all preparing sand castle and decorating it with shells. The competition was very tough but watch the video about who win the sandcastle price.','117','1',
+        '','LIFESTYLE','330','2','2018-05-05 14:30:20','','','',
+         '','','','','','active','','')
+05/05/2018 14:45:10 | SUCCESS | Updtate MetaData(0_yocjjb3l) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_yocjjb3l','Sandcastle  Kids Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_yocjjb3l/version/100002','animation story','117','1',
+        '','INDIA','325','2','2018-05-05 14:39:17','','','',
+         '','','','','','active','','')
+05/05/2018 14:45:27 | SUCCESS | Updtate MetaData(0_pduzi2tn) | By-PowerSmart_ott182 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_pduzi2tn','Animation Story','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_pduzi2tn/version/100002','animation story','136','1',
+        '','PMSL','343','2','2018-05-05 14:39:16','','','',
+         '','','','','','inactive','','')
+05/05/2018 15:01:46 | SUCCESS | Register User inactive(UserID:173,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:01:48 | SUCCESS | Register User inactive(UserID:174,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:01:51 | SUCCESS | Register User inactive(UserID:175,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:01:54 | SUCCESS | Register User inactive(UserID:176,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:01:57 | SUCCESS | Register User inactive(UserID:177,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:02:05 | SUCCESS | Register User active(UserID:177,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:02:21 | SUCCESS | Register User active(UserID:176,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:02:24 | SUCCESS | Register User active(UserID:175,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:02:28 | SUCCESS | Register User active(UserID:174,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:02:37 | SUCCESS | Register User active(UserID:173,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:58:50 | SUCCESS | Home Setting inactive(HomeID:3,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:58:53 | SUCCESS | Home Setting active(HomeID:3,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:59:49 | SUCCESS | Register User inactive(UserID:145,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:59:52 | SUCCESS | Register User active(UserID:145,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 15:59:54 | SUCCESS | Register User inactive(UserID:150,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 15:59:58 | SUCCESS | Register User active(UserID:150,Status:active) | By-PowerSmart_ott182 | 
+05/05/2018 10:31:29 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 16:07:16 | SUCCESS | Bulk Add Category(0_yocjjb3l,324,326) | By-PowerSmart_ott182 | update entry set category='WORLD,SPORTS', categoryid='324,326' where entryid='0_yocjjb3l' 
+05/05/2018 16:07:42 | SUCCESS | Bulk Add Category(0_yocjjb3l,326) | By-PowerSmart_ott182 | update entry set category='SPORTS', categoryid='326' where entryid='0_yocjjb3l' 
+05/05/2018 10:59:37 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 11:12:39 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 16:50:26 | SUCCESS | Register User inactive(UserID:146,Status:inactive) | By-PowerSmart_ott182 | 
+05/05/2018 16:56:18 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+05/05/2018 17:37:38 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+05/05/2018 17:37:48 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+05/05/2018 17:40:37 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+05/05/2018 17:47:26 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+05/05/2018 17:49:36 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+05/05/2018 12:21:29 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+05/05/2018 18:06:16 | SUCCESS | Sync New Category(KIDS) | By-PowerSmart_ott182 | 
+05/05/2018 18:06:21 | SUCCESS | Sync New Category(LEARNING) | By-PowerSmart_ott182 | 

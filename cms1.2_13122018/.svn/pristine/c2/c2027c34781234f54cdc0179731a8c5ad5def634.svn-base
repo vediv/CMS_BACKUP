@@ -1,0 +1,204 @@
+<?php
+include_once 'corefunction.php';
+$id=$_REQUEST['id'];
+$query1 = "SELECT par_id,name,email,menu_permission,operation_permission FROM publisher where par_id='$id' ";
+$value = db_select($conn,$query1);
+$par_id=$value[0]['par_id'];   $username=$value[0]['name']; $demail=$value[0]['email'];
+$menu_permission=$value[0]['menu_permission']; $operation_permission=$value[0]['operation_permission'];
+$mpermission=explode(",",$menu_permission);
+$om=explode(",",$operation_permission);
+
+?>
+
+<form class="form-inline" role="form">
+<div class="row">
+    <div class="form-group">
+	 <div class="col-sm-4">
+             <input type="name" class="form-control" name="euser" placeholder="Name" id="euser" value="<?php echo $username;  ?>">
+        <span class="help-block has-error" data-error="0" id="euser-error"></span>
+    </div></div>
+	 
+    <div class="form-group">
+	<div class="col-sm-4">
+        <input type="email" class="form-control" name="eemail" id="eemail" placeholder="Email" value="<?php echo $demail;  ?>">
+        <span class="help-block has-error" data-error="0" id="eemail-error"></span>
+    </div></div>
+    <input type="hidden" class="form-control" name="parid" id="parid" value="<?php echo $par_id;  ?>"> 
+    
+	</div>
+<p style=""><strong>Edit Menu Permission:</strong></p>
+<div class="row">
+<?php
+$get_main_menu_query = "SELECT mid,mname,menu_url,mparentid,multilevel,child_id,icon_class FROM menus where  mparentid='0' and multilevel!='1' and mstatus='1'";
+$results=  db_select($conn,$get_main_menu_query);
+foreach ($results as $get_main_menu) {  
+    $munu_id=$get_main_menu['mid']; $menu_name=$get_main_menu['mname'];
+    if(in_array($munu_id,$mpermission)){ $chk="checked"; } else {$chk="";}
+?>
+
+<div class="col-sm-3">
+    <label class="checkbox-inline" style="color: #3290D4;">
+        <input type="checkbox" name="menus1[]" <?php echo $chk; ?>   value="<?php echo $munu_id;  ?>"><?php echo ucwords($menu_name); ?>
+</label>
+</div>
+    
+<?php
+}
+?>
+</div>
+<div class="row">
+<?php
+$get_main_menu_query = "SELECT mid,mname,menu_url,mparentid,multilevel,child_id,icon_class FROM menus where  mparentid='0' and multilevel='1' and mstatus='1'";
+$results=  db_select($conn,$get_main_menu_query);$boxCount=1;
+foreach ($results as $get_main_menu) {
+$munuid=$get_main_menu['mid']; $menuname=$get_main_menu['mname'];
+if(in_array($munuid,$mpermission)){ $chk1="checked"; } else {$chk1="";}
+?>
+<div class="col-sm-4">
+    <fieldset class="scheduler-border" style="min-height: 180px;">
+    <legend class="scheduler-border">
+        <input type="checkbox" name="menus1[]" <?php echo $chk1; ?> id="<?php echo $munuid;  ?>"  class="parent_main"  value="<?php echo $munuid;  ?>">
+        <?php  echo ucwords($menuname) ?></legend> 
+    <div class="control-group"> 
+        <table style="width: 100%;">
+            <?php
+            $sub="SELECT mid,mname,menu_url,mparentid,multilevel FROM menus where  mparentid='".$munuid."' and mstatus='1' ";
+            $res=  db_select($conn,$sub);
+            foreach ($res as $get_submain_menu) {
+            $submunuid=$get_submain_menu['mid']; $submenuname=$get_submain_menu['mname'];
+            if(in_array($submunuid,$mpermission)){ $chk2="checked"; } else {$chk2="";}
+            ?>
+            <tr>
+                <td> <input type="checkbox" <?php echo $chk2; ?> name="menus1[]" id="<?php echo $submunuid;  ?>" class="parent-<?php echo $munuid;?>" value="<?php echo $submunuid;  ?>">  </td> <td> <?php  echo ucwords($submenuname); ?></td>
+            </tr>
+            <?php } ?>
+            
+        </table>
+    
+    </div>
+</fieldset>
+
+</div>
+<?php $boxCount++;} ?>
+
+</div>
+<p><strong>Edit Permission: </strong>&nbsp; &nbsp;&nbsp;
+    
+<label class="checkbox-inline" style="color: #3290D4;">
+    <input type="checkbox" name="action1[]" value="1" <?php if(in_array(1,$om)){ echo $chk="checked"; }  ?>> Create 
+</label>
+    <label class="checkbox-inline" style="color: #3290D4;">
+     <input type="checkbox" name="action1[]" value="2" <?php if(in_array(2,$om)){ echo $chk="checked"; }  ?>> Edit 
+</label>
+    <label class="checkbox-inline" style="color: #3290D4;">
+        <input type="checkbox" name="action1[]" value="3" disabled  <?php if(in_array(3,$om)){ echo $chk="checked"; }  ?>> View
+</label>
+    <label class="checkbox-inline" style="color: #3290D4;">
+     <input type="checkbox" name="action1[]" value="4" <?php if(in_array(4,$om)){ echo $chk="checked"; }  ?> <?php if(in_array(4,$om)){ echo $chk="checked"; }  ?>> Delete
+</label>
+
+</p>
+
+
+<div class="modal-footer">
+    <div class="col-sm-offset-2 col-sm-5">
+        <button type="button"  class="btn btn-primary" onclick="editDashboardUser();" >Submit</button>
+    </div>
+</div>    
+    
+    
+    </form>
+ 
+<script type="text/javascript">
+$(".parent_main").change(function(){
+var tt= $(this).is(':checked');
+    if(tt) {
+        var cls = '.parent-' + $(this).prop('id');
+        $(cls).prop('checked', 'checked');   
+    }
+    else
+    {   
+        var cls = '.parent-' + $(this).prop('id');
+        $(cls).prop('checked',false);   
+    }    
+});
+
+$('input[class*="parent"]').change(function(){
+    
+    var cls = '.' + $(this).prop('class') + ':checked';
+    var len = $(cls).length;
+    var parent_id = '#' + $(this).prop('class').split('-')[1];
+    // 3. Check parent if at least one child is checked
+    if(len) {
+       
+         $(parent_id).prop('checked', 'checked');
+    } else {
+        // 2. Uncheck parent if all childs are unchecked.
+        $(parent_id).prop('checked', false);
+    }
+});
+
+function editDashboardUser() {
+   
+    var duser = $('#euser').val();	
+    var demail = $('#eemail').val();
+    var parid = $('#parid').val();
+    
+    if(!duser) {
+         
+		$("#euser-error").css('color','#ff3300').html("(name required)");
+		$("#euser").css('background-color','#FFFFDF');
+		//return false;
+	}
+       
+	if(!demail) {
+		$("#eemail-error").css('color','#DD4B39').html("(email ID required)");
+		$("#eemail").css('background-color','#FFFFDF');
+		return false;
+	}
+	if(!demail.match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+		$("#eemail-error").css('color','#DD4B39').html("(email ID invalid..)");
+		$("#eemail").css('background-color','#FFFFDF');
+		return false;
+	}
+      
+    var checkboxes = document.getElementsByName('menus1[]');
+    var vals = "";
+    for (var i=0, n=checkboxes.length;i<n;i++) 
+    {
+      if (checkboxes[i].checked) 
+      {
+          //vals += ","+checkboxes[i].value;
+          vals +=checkboxes[i].value+',';
+      }
+    }
+              var action = document.getElementsByName('action1[]');
+              var val = "";
+              for (var i=0, n=action.length;i<n;i++) 
+              {
+                if (action[i].checked) 
+                {
+                    //vals += ","+checkboxes[i].value;
+                    val +=action[i].value+',';
+                }
+              }
+     
+        $.ajax({
+        url: "adddasboarduser.php",
+        method: 'POST',
+        data:{ 'duser':duser,'demail':demail,'menuright':vals,'actionright':val,'parid':parid,'action':"editdashboarduser"},
+        success: function(res){
+        
+           if(res==1)
+             { $('#msg').html("<strong> Email </strong> already exist.?");  }
+           if(res==2)
+             { 
+                 window.location.href="dashboarduser.php?val=sucess";
+             }
+
+                }
+             });  	    
+         }
+
+</script> 										          
+							

@@ -1,0 +1,155 @@
+19/07/2018 04:02:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 04:31:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 10:02:19 | SUCCESS | update HomeSettingTag Detail(abc_2) | By-Biocine_ott503 | 
+19/07/2018 10:05:00 | SUCCESS | update HomeSettingTag Detail(Recommended) | By-Biocine_ott503 | 
+19/07/2018 10:34:35 | SUCCESS | Register User inactive(UserID:384,Status:inactive) | By-Biocine_ott503 | 
+19/07/2018 10:56:13 | SUCCESS | Save Thumbnail(0_l75wl3gn) | By-Biocine_ott503 | 
+19/07/2018 10:56:48 | SUCCESS | Save Thumbnail(0_l75wl3gn) | By-Biocine_ott503 | 
+19/07/2018 10:57:17 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/L75MWBLXCKY9.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_L75MWBLXCKY9.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_L75MWBLXCKY9.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_L75MWBLXCKY9.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_L75MWBLXCKY9.jpg',updated_at=NOW() where category_id='307'
+19/07/2018 05:29:13 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 11:25:28 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>THRILLER,KIDS',categoryid='295,296,298,302,303,312',
+        updated_at='2018-07-19 11:28:48',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='Biocine',producer='Palnetcast',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data='{"Singer":"Shankar Mahadevan","Lyricist":"Javed Akhtar"}'
+        where entryid='0_55bqo6ga'
+19/07/2018 11:26:56 | SUCCESS | Updtate MetaData(0_55bqo6ga) | By-Biocine_ott503 | update entry set name='Red Helicopter to take off swiftly',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_55bqo6ga/version/100012',longdescription='Watch the video of red helicopter with swift take off.',
+        duration='18',type='1',tag='red, helicopter, swiftly, swift, automobile, auto, vehicle, take off, quadcopter, air flights, fly, flying, leonardo, airplane, aeropane, choper, chopper, plane wings',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>THRILLER,KIDS',categoryid='295,296,298,302,303,312',
+        updated_at='2018-07-19 11:30:16',shortdescription='Watch the video of red helicopter with swift take off.',
+        director='Biocine',producer='Palnetcast',cast='',crew='',sub_genre='Technology',
+        language='',pgrating='U',video_status='active',custom_data='{"Singer":"Shankar Mahadevan","Lyricist":"Javed Akhtar","Cinematography":"Test","Composer":"Planetcast","Music":"Test"}'
+        where entryid='0_55bqo6ga'
+19/07/2018 11:27:34 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/SP7D8ZGSHVOD.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_SP7D8ZGSHVOD.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_SP7D8ZGSHVOD.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_SP7D8ZGSHVOD.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_SP7D8ZGSHVOD.jpg',updated_at=NOW() where category_id='306'
+19/07/2018 11:27:58 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/7CH75Y32PLWR.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_7CH75Y32PLWR.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_7CH75Y32PLWR.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_7CH75Y32PLWR.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_7CH75Y32PLWR.jpg',updated_at=NOW() where category_id='304'
+19/07/2018 06:01:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 11:33:32 | SUCCESS | Updtate MetaData(0_4dgt70k7) | By-Biocine_ott503 | update entry set name='Capoeira | Self Defence',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dgt70k7/version/100012',longdescription='Capoeria sample video',
+        duration='179',type='1',tag='capoeira, self, defence, karate, guide, martial, art',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MOVIES>CLASSIC,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROCK',categoryid='295,296,297,298,299,302,303,305,307,310,312,315,319',
+        updated_at='2018-07-19 11:36:53',shortdescription='Capoeria sample video',
+        director='Test',producer='Biocine',cast='Planetcast',crew='Test 22',sub_genre='Culture',
+        language='',pgrating='U',video_status='active',custom_data='{"Music Director":"Shankar Ehsaan Loy","Production Company":"Dharma Productions","Singer":"Arijit Singh","Composer":"TEST","Lyricist":"Testing"}'
+        where entryid='0_4dgt70k7'
+19/07/2018 06:38:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 06:39:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 06:43:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 12:55:41 | SUCCESS | Add New Content Partner(BIOCINEE) | By-Biocine_ott503 | 
+19/07/2018 12:55:51 | SUCCESS | delete Category(319) | By-Biocine_ott503 | DELETE FROM categories where category_id='319'
+19/07/2018 12:55:54 | SUCCESS | delete Category(317) | By-Biocine_ott503 | DELETE FROM categories where category_id='317'
+19/07/2018 12:55:57 | SUCCESS | delete Category(316) | By-Biocine_ott503 | DELETE FROM categories where category_id='316'
+19/07/2018 12:56:01 | SUCCESS | delete Category(315) | By-Biocine_ott503 | DELETE FROM categories where category_id='315'
+19/07/2018 12:56:13 | SUCCESS | Update Category(OTHERS) | By-Biocine_ott503 | update categories set cat_name='OTHERS',description='',tags='',fullname='MUSIC>ORIGINAL>OTHERS' where category_id='314'
+19/07/2018 12:56:17 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+19/07/2018 12:57:27 | SUCCESS | Bulk Add Category(0_0yhkj5ww,0_21czg1dm,310,314) | By-Biocine_ott503 | update entry set category='MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>ORIGINAL>OTHERS', categoryid='310,314' where entryid='0_21czg1dm' 
+19/07/2018 12:57:47 | SUCCESS | Bulk Add Category(0_21czg1dm,310,311) | By-Biocine_ott503 | update entry set category='MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM', categoryid='310,311' where entryid='0_21czg1dm' 
+19/07/2018 12:58:05 | SUCCESS | Bulk Add Category(0_0yhkj5ww,310,311) | By-Biocine_ott503 | update entry set category='MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM', categoryid='310,311' where entryid='0_0yhkj5ww' 
+19/07/2018 12:58:24 | SUCCESS | Updtate MetaData(0_l75wl3gn) | By-Biocine_ott503 | update entry set name='Bike Riding',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l75wl3gn/version/100022',longdescription='test video',
+        duration='13',type='1',tag='test, video, car, automobile, vehicle, classic',category='MOVIES>COMEDY,MUSIC,BAZAAR,MUSIC>FILM',categoryid='306,308,313,311',
+        updated_at='2018-07-19 13:01:44',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_l75wl3gn'
+19/07/2018 12:59:13 | SUCCESS | Updtate MetaData(0_p0e3tmud) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0e3tmud/version/100012',longdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.\r\n',
+        duration='730',type='1',tag='cosmos, laundromat, animation, salesman, quirky, movie, film, films, short, english, fate, suicide, island, love, berry, salemsan, action, drama, joy, popular, latest, free, picture, blender',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>ACTION,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS,MUSIC>FILM',categoryid='296,298,302,304,305,307,312,313,314,311',
+        updated_at='2018-07-19 13:02:33',shortdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_p0e3tmud'
+19/07/2018 12:59:42 | SUCCESS | Updtate MetaData(0_p0e3tmud) | By-Biocine_ott503 | update entry set name='Cosmos Laundromat | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_p0e3tmud/version/100012',longdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.\r\n',
+        duration='730',type='1',tag='cosmos, laundromat, animation, salesman, quirky, movie, film, films, short, english, fate, suicide, island, love, berry, salemsan, action, drama, joy, popular, latest, free, picture, blender',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>ACTION,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS,MUSIC>FILM',categoryid='296,298,302,304,305,307,312,313,314,311',
+        updated_at='2018-07-19 13:03:02',shortdescription='The story of movie is about a sheep who did suicidal attempt and meet its fate through a quirky salesman.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='English',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_p0e3tmud'
+19/07/2018 12:59:56 | SUCCESS | Updtate MetaData(0_ub07agth) | By-Biocine_ott503 | update entry set name='Black Bear in the forest',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ub07agth/version/100012',longdescription='Watch Black Bear roaming in the forest.',
+        duration='28',type='1',tag='black, bear, animal, test',category='ORIGINALS>WEB SERIES,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MOVIES>ROMANTIC,MOVIES>ACTION,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS,MUSIC>FILM',categoryid='295,297,299,304,307,310,312,311',
+        updated_at='2018-07-19 13:03:17',shortdescription='Watch Black Bear roaming in the forest.',
+        director='',producer='',cast='',crew='',sub_genre='Nature',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_ub07agth'
+19/07/2018 13:00:16 | SUCCESS | Updtate MetaData(0_9xhypl5v) | By-Biocine_ott503 | update entry set name='Flying beautiful creature - Robin',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9xhypl5v/version/100012',longdescription='Watch Robin bird beautiful creature.',
+        duration='8',type='1',tag='flying, beautiful, creature, robin, bird, chirrup, chirruping, nature living, nature, rare, species, fly',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>COMEDY,MUSIC>ORIGINAL>SHOCK STUDIO,KIDS,BAZAAR,MUSIC>FILM',categoryid='295,296,298,302,304,306,310,312,313,311',
+        updated_at='2018-07-19 13:03:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9xhypl5v'
+19/07/2018 13:01:10 | SUCCESS | Updtate MetaData(0_va5swgpw) | By-Biocine_ott503 | update entry set name='Heavy Machinery',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_va5swgpw/version/100012',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machinery, construction, work, equipment, vehicle, automobile, tools, machine, crane',category='MOVIES,MUSIC>FILM,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='301,311,310',
+        updated_at='2018-07-19 13:04:31',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_va5swgpw'
+19/07/2018 13:02:07 | SUCCESS | Updtate MetaData(0_qjdvro47) | By-Biocine_ott503 | update entry set name='Dancing moves and music beats',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qjdvro47/version/100012',longdescription='Watch the enjoyment with friends a street dance.',
+        duration='60',type='1',tag='dancing, moves, music, beats, street, dance, enjoy, couple, melody, move, fun, musi, sound, song, music beats, group dancing',category='ORIGINALS>FOOD,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>ACTION,KIDS,BAZAAR,MUSIC>ORIGINAL>OTHERS,MUSIC>FILM',categoryid='296,302,304,305,307,312,313,314,311',
+        updated_at='2018-07-19 13:05:27',shortdescription='Watch the enjoyment with friends a street dance.',
+        director='',producer='',cast='',crew='',sub_genre='Lifestyle',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_qjdvro47'
+19/07/2018 08:40:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 14:10:48 | SUCCESS | Updtate MetaData(0_lf01jppz) | By-Biocine_ott503 | update entry set name='Big Buck Bunny | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lf01jppz/version/100012',longdescription='Watch Short Film Big Buck Bunny.',
+        duration='5',type='1',tag='big, buck, bunny, animation',category='MOVIES,MUSIC>FILM,MUSIC>ORIGINAL>OTHERS',categoryid='301,311,314',
+        updated_at='2018-07-19 14:14:09',shortdescription='Watch Short Film Big Buck Bunny.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_lf01jppz'
+19/07/2018 14:15:09 | SUCCESS | Add New Plan () | By-Biocine_ott503 | 
+19/07/2018 14:23:32 | SUCCESS | Update New Plan Price(p570) | By-Biocine_ott503 | 
+19/07/2018 14:24:01 | SUCCESS | update plan Detail() | By-Biocine_ott503 | 
+19/07/2018 14:42:26 | SUCCESS | Header Menu active(Country Currency:2,Status:1) | By-Biocine_ott503 | 
+19/07/2018 14:48:18 | SUCCESS | Plan active(planID:p039,Status:active) | By-Biocine_ott503 | 
+19/07/2018 15:02:56 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+19/07/2018 15:03:05 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+19/07/2018 15:03:23 | SUCCESS | Add New Plan (p12) | By-Biocine_ott503 | 
+19/07/2018 15:05:39 | SUCCESS | Add New Plan (P11) | By-Biocine_ott503 | 
+19/07/2018 15:09:04 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+19/07/2018 15:09:06 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+19/07/2018 15:10:33 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+19/07/2018 15:11:57 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+19/07/2018 10:22:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 15:54:15 | SUCCESS | Register User active(UserID:384,Status:active) | By-Biocine_ott503 | 
+19/07/2018 10:44:11 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 16:25:07 | SUCCESS | Add New Content Partner(ms) | By-Biocine_ott503 | 
+19/07/2018 10:58:37 | SUCCESS | login-(aa) | By-aa_ott503 | 
+19/07/2018 16:32:59 | SUCCESS | update Content Partner Detail(aa) | By-aa_ott503 | 
+19/07/2018 11:03:05 | SUCCESS | login-(aa) | By-aa_ott503 | 
+19/07/2018 11:03:38 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 11:03:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 16:35:36 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:36:00 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:37:18 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:38:00 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:38:19 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:39:28 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:39:44 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:40:12 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:44:39 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:46:59 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:47:15 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:49:37 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:50:34 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:50:57 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:51:16 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:51:57 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:52:37 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:53:04 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:54:05 | SUCCESS | update HomeSettingTag Detail(abc_2) | By-Biocine_ott503 | 
+19/07/2018 16:58:57 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 16:59:17 | SUCCESS | update Content Partner Detail(aa) | By-Biocine_ott503 | 
+19/07/2018 11:35:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 17:24:46 | SUCCESS | Add New HomeSettingTag(w) | By-Biocine_ott503 | 
+19/07/2018 17:24:54 | SUCCESS | update HomeSettingTag Detail(abc_2) | By-Biocine_ott503 | 
+19/07/2018 12:02:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 12:02:52 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+19/07/2018 17:33:04 | SUCCESS | update HomeSettingTag Detail(s_133) | By-Biocine_ott503 | 
+19/07/2018 17:36:26 | SUCCESS | Save New video(0_vctaqh9v) | By-Biocine_ott503 | 
+19/07/2018 18:16:40 | SUCCESS | Add New Subscription Code (ZP50OZG6HB) | By-Biocine_ott503 | 
+19/07/2018 18:16:46 | SUCCESS | subscription code active(subscription ID:4,Status:active) | By-Biocine_ott503 | 
+19/07/2018 18:16:48 | SUCCESS | subscription code inactive(subscription ID:4,Status:inactive) | By-Biocine_ott503 | 
+19/07/2018 18:16:58 | SUCCESS | Update Subscription Code (4) | By-Biocine_ott503 | 
+19/07/2018 18:17:22 | SUCCESS | Add New Subscription Code (A1AC726XLD) | By-Biocine_ott503 | 
+19/07/2018 18:17:29 | SUCCESS | Delete subscription code delete () | By-Biocine_ott503 | update subscription_code set status=3 where subcid='5'
+19/07/2018 18:18:02 | SUCCESS | subscription code inactive(subscription ID:5,Status:inactive) | By-Biocine_ott503 | 

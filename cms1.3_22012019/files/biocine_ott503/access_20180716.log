@@ -1,0 +1,30 @@
+16/07/2018 04:38:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 04:39:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 04:56:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 10:29:41 | SUCCESS | update HomeSettingTag Detail(Recommended) | By-Biocine_ott503 | 
+16/07/2018 10:34:35 | SUCCESS | update HomeSettingTag Detail(HomeTag) | By-Biocine_ott503 | 
+16/07/2018 10:34:48 | SUCCESS | update HomeSettingTag Detail(Recommended) | By-Biocine_ott503 | 
+16/07/2018 11:21:43 | SUCCESS | Home Setting inactive(HomeID:8,Status:inactive) | By-Biocine_ott503 | 
+16/07/2018 11:21:47 | SUCCESS | Delete HomeSettingTag (8) | By-Biocine_ott503 | delete from home_title_tag where tags_id='8'
+16/07/2018 05:51:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 06:22:58 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 11:55:47 | SUCCESS | Add New HomeSettingTag(recommend) | By-Biocine_ott503 | 
+16/07/2018 11:55:52 | SUCCESS | Delete HomeSettingTag (12) | By-Biocine_ott503 | delete from home_title_tag where tags_id='12'
+16/07/2018 06:30:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 06:59:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 08:37:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 08:37:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 14:42:23 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '406','300','1','110','TestName','LIVE>TestName','300>406','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+16/07/2018 14:48:00 | SUCCESS | Register User inactive(UserID:336,Status:inactive) | By-Biocine_ott503 | 
+16/07/2018 14:48:12 | SUCCESS | Register User active(UserID:336,Status:active) | By-Biocine_ott503 | 
+16/07/2018 14:48:19 | SUCCESS | Register User active(UserID:336,Status:active) | By-Biocine_ott503 | 
+16/07/2018 09:58:00 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+16/07/2018 10:00:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/07/2018 15:35:59 | SUCCESS | Save Access Control(0_12adzb8k) | By-Biocine_ott503 | 
+16/07/2018 15:40:05 | SUCCESS | Save Access Control(0_l75wl3gn) | By-Biocine_ott503 | 
+16/07/2018 15:40:56 | SUCCESS | Save Access Control(0_l75wl3gn) | By-Biocine_ott503 | 
+16/07/2018 15:41:33 | SUCCESS | Save Access Control(0_l75wl3gn) | By-Biocine_ott503 | 
+16/07/2018 15:54:08 | SUCCESS | Save Thumbnail(0_12adzb8k) | By-Biocine_ott503 | 
+16/07/2018 16:34:12 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+16/07/2018 12:09:43 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

@@ -1,0 +1,40 @@
+12/07/2018 04:13:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 04:29:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 09:59:47 | SUCCESS | Update Ticket Status(inprocess tid=31--by=104) | By-Biocine_ott503 | 
+12/07/2018 09:59:55 | SUCCESS | Update Ticket Status(close tid=28--by=104) | By-Biocine_ott503 | 
+12/07/2018 10:42:44 | SUCCESS | Add New Slider Image(Test_Image_slider.png) | By-Biocine_ott503 | 
+12/07/2018 10:43:13 | SUCCESS | Delete slider Image (8) | By-Biocine_ott503 | delete from slider_image_detail where img_id='8'
+12/07/2018 10:45:45 | SUCCESS | Add New Slider Image(Test_Image_slider.png) | By-Biocine_ott503 | 
+12/07/2018 10:51:29 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+12/07/2018 10:51:45 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+12/07/2018 05:42:18 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 06:45:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 12:32:13 | SUCCESS | Update Offer (6) | By-Biocine_ott503 | update offers set offer_name='0_91',code='879AV',type='P',msg='',date_start='2018-07-01 12:16:26',
+      date_end='2018-08-12 12:16:26',uses_total='1',uses_customer='1',currency='{"IN":"1"}',img_url='http://cdnbiocine.planetcast.in/biocine/data/biocine_ott503/marketing/9GG7CYVP67UQ.jpg',updated_at=NOW() where offer_id='6'
+12/07/2018 12:47:08 | SUCCESS | Add New Offer (QW0922) | By-Biocine_ott503 | 
+12/07/2018 12:47:15 | SUCCESS | Coupon active(Offer ID:8,Status:active) | By-Biocine_ott503 | 
+12/07/2018 14:12:09 | SUCCESS | Add New Offer (12QWQW) | By-Biocine_ott503 | 
+12/07/2018 09:05:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 15:07:36 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 15:09:35 | SUCCESS | Save currency_data(0_12adzb8k) | By-Biocine_ott503 | 
+12/07/2018 15:16:47 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 15:17:16 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 15:18:30 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 15:45:18 | SUCCESS | Add New Content Partner(testcontent) | By-Biocine_ott503 | 
+12/07/2018 16:03:04 | SUCCESS | Coupon active(Coupan ID:13,Status:active) | By-Biocine_ott503 | 
+12/07/2018 16:06:59 | SUCCESS | Update Ticket Status(inprocess tid=7--by=104) | By-Biocine_ott503 | 
+12/07/2018 16:07:22 | SUCCESS | Update Ticket Status(pending tid=7--by=104) | By-Biocine_ott503 | 
+12/07/2018 10:40:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 16:36:42 | SUCCESS | Update Offer (8) | By-Biocine_ott503 | update offers set offer_name='qwqw',code='QW0922',type='P',msg='W',date_start='2018-07-12 12:45:53',
+      date_end='2018-08-12 12:45:53',uses_total='1',uses_customer='1',currency='{"IN":"200","US":"4"}',img_url='',updated_at=NOW() where offer_id='8'
+12/07/2018 16:37:20 | SUCCESS | Update Offer (8) | By-Biocine_ott503 | update offers set offer_name='qwqw',code='QW0922',type='P',msg='W',date_start='2018-07-12 12:45:53',
+      date_end='2018-08-12 12:45:53',uses_total='1',uses_customer='1',currency='{"IN":"200","US":"4"}',img_url='',updated_at=NOW() where offer_id='8'
+12/07/2018 17:05:12 | SUCCESS | Update Ticket Status(inprocess tid=54--by=104) | By-Biocine_ott503 | 
+12/07/2018 17:11:59 | SUCCESS | Delete Coupon Delete (11) | By-Biocine_ott503 | delete from coupon where coupon_id='11'
+12/07/2018 17:16:03 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 17:17:39 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 17:24:11 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+12/07/2018 12:33:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 12:43:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+12/07/2018 18:51:55 | SUCCESS | Update Ticket Status(close tid=54--by=104) | By-Biocine_ott503 | 
+12/07/2018 18:52:03 | SUCCESS | Update Ticket Status(inprocess tid=51--by=104) | By-Biocine_ott503 | 

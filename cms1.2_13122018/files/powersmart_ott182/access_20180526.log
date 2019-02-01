@@ -1,0 +1,14 @@
+26/05/2018 07:05:09 | SUCCESS | login-(Vip News) | By-Vip News_ott182 | 
+26/05/2018 08:43:46 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+26/05/2018 17:09:55 | SUCCESS | Updtate MetaData(0_re06lra2) | By-PowerSmart_ott182 | update entry set name='Reel and Real: Part 3 – VIP News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_re06lra2/version/100032',longdescription='ರೀಲು ರಿಯಲ್ಲು: ಭಾಗ 3 | Reel and Real: Part 3',
+        duration='245',type='1',tag='reel and real, vip news',category='',categoryid='',
+        updated_at='2018-05-26 17:12:30',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_re06lra2'
+26/05/2018 17:10:24 | SUCCESS | Updtate MetaData(0_re06lra2) | By-PowerSmart_ott182 | update entry set name='Reel and Real: Part 3 – VIP News',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_re06lra2/version/100032',longdescription='ರೀಲು ರಿಯಲ್ಲು: ಭಾಗ 3 | Reel and Real: Part 3',
+        duration='245',type='1',tag='reel and real, vip news',category='Reel and Real',categoryid='386',
+        updated_at='2018-05-26 17:12:58',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_re06lra2'

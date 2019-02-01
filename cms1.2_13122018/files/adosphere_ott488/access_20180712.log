@@ -1,0 +1,48 @@
+12/07/2018 04:25:48 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+12/07/2018 04:52:10 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+12/07/2018 05:15:57 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+12/07/2018 05:53:27 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+12/07/2018 08:28:53 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+12/07/2018 14:00:16 | SUCCESS | Updtate MetaData(0_yjytm284) | By-Adosphere_ott488 | update entry set name='Hickory Dickory Dock Nursery Rhymes',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_yjytm284/version/100012',longdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        duration='68',type='1',tag='kids, kahaniya, cartoon, children, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, hickory, dickory, dock, nursery, rhymes, for, poems, purple, turtle, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-12 14:03:30',shortdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_yjytm284'
+12/07/2018 14:00:42 | SUCCESS | Updtate MetaData(0_3data994) | By-Adosphere_ott488 | update entry set name='Old Mac Donald Had a Farm - English Nursery Rhyme',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3data994/version/100012',longdescription='Old MacDonald Had A Farm Nursery Rhyme \r\nLyrics-\r\nOld MacDonald had a farm,E I E I O,\r\nAnd on his farm he had some chicks,E I E I O.\r\nWith a chick chick here and a chick chick there,\r\nHere a chick, there a chick, everywhere a chick chick.\r\nOld MacDonald had a farm,E I E I O.',
+        duration='129',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, old, mac, donald, farm, english, nursery, rhyme, poems, garden, purple, turtle, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-12 14:03:57',shortdescription='Watch the video of Old MacDonald had a farm nursery rhyme ',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_3data994'
+12/07/2018 14:01:02 | SUCCESS | Updtate MetaData(0_64rlvhaw) | By-Adosphere_ott488 | update entry set name='Jingle Bells Jingle Bells - Most Popular Christmas Carol',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_64rlvhaw/version/100012',longdescription='Christmas Carol Lyrics - Dashing through the snow,\r\nIn a one-horse open sleigh,\r\nOver the fields we go,\r\nLaughing all the way,\r\nBells on bobtail ring,\r\nMaking spirits bright,\r\nWhat fun it is to ride and sing,\r\nA sleighing song tonight',
+        duration='120',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, jingle, bells, bell, most, popular, christmas, carol, rhyme, poems, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-12 14:04:16',shortdescription='Watch nursery rhyme - Christmas Carol',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_64rlvhaw'
+12/07/2018 14:01:27 | SUCCESS | Updtate MetaData(0_s9xqbcee) | By-Adosphere_ott488 | update entry set name='Incy Wincy Spider | Nursery Rhyme',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_s9xqbcee/version/100012',longdescription='Incy Wincy Spider\r\nLyrics -\r\nIncy wincy spider,\r\nwent up the waterspout,\r\nDown came the rain,\r\nand washed the spider out,\r\nOut came the sun,\r\nand dried up all the rain,\r\nSo incy wincy spider,\r\nwent up the spout again.',
+        duration='77',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, incy, wincy, spider, nursery, rhyme, poems, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-12 14:04:41',shortdescription='Watch nursery rhyme Incy Wincy Spider and sing along with the video.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_s9xqbcee'
+12/07/2018 14:01:57 | SUCCESS | Updtate MetaData(0_ymuh13so) | By-Adosphere_ott488 | update entry set name='BINGO | Learning Alphabets',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ymuh13so/version/100012',longdescription='Bingo is a spelling song for kids. In this rhyme, Bingo is the name of a dog and the same verse goes around the spelling B-I-N-G-O.',
+        duration='123',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, bingo, alphabets, poems, rhyme, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-07-12 14:05:12',shortdescription='Bingo is a spelling song for kids. In this rhyme, Bingo is the name of a dog and the same verse goes around the spelling B-I-N-G-O.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_ymuh13so'
+12/07/2018 14:02:31 | SUCCESS | Updtate MetaData(0_cix4xnv3) | By-Adosphere_ott488 | update entry set name='Here we go around the Mulberry Bush',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cix4xnv3/version/100012',longdescription='Watch and sing along with the lovable morning rhyme, Here we go around the mulberry bush.',
+        duration='64',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, mulberry, bush, nursery, rhyme, poems, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-07-12 14:05:45',shortdescription='Watch and sing along with the lovable morning rhyme,Here We Go Around the Mulberry Bush.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_cix4xnv3'
+12/07/2018 14:02:46 | SUCCESS | Updtate MetaData(0_2o6fvz65) | By-Adosphere_ott488 | update entry set name='Purple to the Rescue Kids Animation Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_2o6fvz65/version/100012',longdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realize to capture anyone is not a good thing. Turtle made all the butterflies rescue out of the jar.',
+        duration='136',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, purple, rescue, turtle, rhyme, poems, tr2018',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-07-12 14:06:01',shortdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realize to capture anyone is not a good thing. Turtle made all the butterflies rescue out of the jar.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_2o6fvz65'
+12/07/2018 11:54:01 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

@@ -1,0 +1,375 @@
+01/06/2018 04:19:34 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 04:21:48 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 10:03:13 | SUCCESS | Updtate MetaData(0_8xbkygqc) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_8xbkygqc','Anbulla Rajinikanth','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8xbkygqc/version/100002','Watch Anbulla Rajinikanth Tamil movie which is directed by K. Natraj and starring Rajinikanth and Meena in lead roles. Rosy( Meena) who is caretaker in Orphanage house and the movie is based on Orphan kids who are abort by their parents because of disabilities or having no parents life.','8336','1',
+        'anbulla, rajinikanth, action, superhit, movie, movies, tamil, film, bollywood, tollywood, south, indian, full, length, cinema, natraj, akbar, durga, tamizhmani, rajini, thalaiva, superstar, rajni, meena, ambika, abula, mina, anbhula, anbhulla, orphan','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-30 17:36:18','Watch Anbulla Rajinikanth Tamil movie which is directed by K. Natraj and starring Rajinikanth and Meena in lead roles. Rosy( Meena) who is caretaker i','K. Natraj','',
+         'Rajinikanth,Meena','','Drama','Tamil','','inactive','','')
+01/06/2018 10:03:45 | SUCCESS | Save Content Partner(0_8xbkygqc,) | By-Adosphere_ott488 | 
+01/06/2018 10:05:35 | SUCCESS | Updtate MetaData(0_6dy5tnjj) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_6dy5tnjj','Oru Kai Paarppom','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6dy5tnjj/version/100002','Watch Oru Kai Oosai Tamil film which is written and directed by K. Bhagyaraj. The film story is all about lost love and sacrifice.','7534','1',
+        'oru, kai, oosai, action, superhit, movie, movies, tamil, film, tollywood, south, indian, full, length, cinema, comedy, drama, picture, bhagyaraj, ashwini, soundar, bhagya, raja, raj, comic, osai, films, love, sacrifice, ashwin, future','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-30 17:36:19','Watch Oru Kai Oosai Tamil film which is written and directed by K. Bhagyaraj. The film story is all about lost love and sacrifice.','K. Bhagyaraj','',
+         '','','Drama','Tamil','','inactive','','')
+01/06/2018 10:05:48 | SUCCESS | Save Content Partner(0_6dy5tnjj,) | By-Adosphere_ott488 | 
+01/06/2018 10:19:52 | SUCCESS | Add New Plan (5 days) | By-Adosphere_ott488 | 
+01/06/2018 10:21:52 | SUCCESS | update plan Detail(5 days) | By-Adosphere_ott488 | 
+01/06/2018 10:22:12 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 10:22:22 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 04:53:33 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 10:29:26 | SUCCESS | Add New Footer Content(ddd) | By-Adosphere_ott488 | 
+01/06/2018 05:02:34 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 10:38:39 | SUCCESS | Updtate MetaData(0_hd2lutb8) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_hd2lutb8','Therkathi Kallan |Vijayakanth,Radhika','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_hd2lutb8/version/100002','Watch Tamil Full movie Therkathi Kallan release in 1988 starring Vijayakanth,Radhika,Sulakshana and Madhuri.','7741','1',
+        'tamil, tollywood, comedy, movies, south, indian, movie, full, length, 1990, 90s, cinema, interesting, classic, gopalakrishnan, dayal, ramya, krishnan, sunil, ashitha, romantic, kalaimani, vijayakanth, radhika, sulakshana, madhuri, iilai, iilairaja, vijayalakshmi, therkathi, kallan','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-30 17:36:20','Watch Tamil Full movie Therkathi Kallan release in 1988 starring Vijayakanth,Radhika,Sulakshana and Madhuri.','','',
+         'Vijayakanth,Radhika,Sulakshana,Madh','','Drama','Tamil','','inactive','','')
+01/06/2018 10:38:58 | SUCCESS | Save Content Partner(0_hd2lutb8,) | By-Adosphere_ott488 | 
+01/06/2018 11:10:08 | SUCCESS | update Footer Content Detail(dddfdfdfdfd) | By-Adosphere_ott488 | 
+01/06/2018 11:10:25 | SUCCESS | update Footer Content Detail(ffffg) | By-Adosphere_ott488 | 
+01/06/2018 11:10:30 | SUCCESS | update Footer Content Detail(5) | By-Adosphere_ott488 | 
+01/06/2018 11:14:38 | SUCCESS | Delete Footer Content (1) | By-Adosphere_ott488 | DELETE FROM dashbord_footer WHERE f_id='1'
+01/06/2018 11:17:02 | SUCCESS | update plan Detail(Two Days) | By-Adosphere_ott488 | 
+01/06/2018 11:21:21 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 11:21:31 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 11:21:48 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 11:24:25 | SUCCESS | Add New Content Partner(Aadarsh Pvt Ltd) | By-Adosphere_ott488 | 
+01/06/2018 11:24:42 | SUCCESS | Delete Content Partner (4) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='4'
+01/06/2018 11:26:19 | SUCCESS | Add New Content Partner(Movietone) | By-Adosphere_ott488 | 
+01/06/2018 11:26:30 | SUCCESS | Delete Content Partner (7) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='7'
+01/06/2018 11:27:18 | SUCCESS | Add New Content Partner(Peekaboo Animation) | By-Adosphere_ott488 | 
+01/06/2018 11:27:28 | SUCCESS | Delete Content Partner (6) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='6'
+01/06/2018 11:29:17 | SUCCESS | update Content Partner Detail(Shaheen Kitchen) | By-Adosphere_ott488 | 
+01/06/2018 11:30:08 | SUCCESS | Add New Content Partner(Shaheen Kitchen) | By-Adosphere_ott488 | 
+01/06/2018 11:30:22 | SUCCESS | Delete Content Partner (5) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='5'
+01/06/2018 11:36:15 | SUCCESS | Add New Content Partner(Digital Content Broadcasting) | By-Adosphere_ott488 | 
+01/06/2018 11:36:21 | SUCCESS | update Content Partner Detail(Digital Content Broadcasting) | By-Adosphere_ott488 | 
+01/06/2018 11:36:37 | SUCCESS | Delete Content Partner (3) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='3'
+01/06/2018 11:38:09 | SUCCESS | Add New Footer Content(5) | By-Adosphere_ott488 | 
+01/06/2018 11:39:06 | SUCCESS | update Footer Content Detail(####) | By-Adosphere_ott488 | 
+01/06/2018 11:39:13 | SUCCESS | update Footer Content Detail(ssd) | By-Adosphere_ott488 | 
+01/06/2018 11:39:19 | SUCCESS | update Footer Content Detail(2) | By-Adosphere_ott488 | 
+01/06/2018 11:39:29 | SUCCESS | update Footer Content Detail(111_abssdddd) | By-Adosphere_ott488 | 
+01/06/2018 11:41:41 | SUCCESS | Add New Content Partner(Zap Entertainment) | By-Adosphere_ott488 | 
+01/06/2018 11:41:55 | SUCCESS | Delete Content Partner (1) | By-Adosphere_ott488 | DELETE FROM content_partner WHERE contentpartnerid='1'
+01/06/2018 11:47:55 | SUCCESS | update Footer Content Detail(777) | By-Adosphere_ott488 | 
+01/06/2018 11:48:11 | SUCCESS | update Footer Content Detail(gfgfffgfggffgfgfgff) | By-Adosphere_ott488 | 
+01/06/2018 11:48:19 | SUCCESS | update Footer Content Detail(5454545454545) | By-Adosphere_ott488 | 
+01/06/2018 12:20:09 | SUCCESS | Header Menu active(HeaderID:25,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 12:20:37 | SUCCESS | update Header Content Detail(LIVE) | By-Adosphere_ott488 | 
+01/06/2018 12:25:59 | SUCCESS | Delete Video entry(0_l7j86vcm) | By-Adosphere_ott488 | 
+01/06/2018 12:26:33 | SUCCESS | Delete Video entry(0_menr66wt) | By-Adosphere_ott488 | 
+01/06/2018 12:28:48 | SUCCESS | Delete Video entry(0_nw316k32) | By-Adosphere_ott488 | 
+01/06/2018 12:31:48 | SUCCESS | update Footer Content Detail(5454545454545ffdfdfdhfhdjfhdhfhdjfdfdfdf) | By-Adosphere_ott488 | 
+01/06/2018 12:32:26 | SUCCESS | update Footer Content Detail(1223232323) | By-Adosphere_ott488 | 
+01/06/2018 12:32:56 | SUCCESS | update Footer Content Detail(mobi) | By-Adosphere_ott488 | 
+01/06/2018 12:33:21 | SUCCESS | update Footer Content Detail(5) | By-Adosphere_ott488 | 
+01/06/2018 12:37:36 | SUCCESS | Header Content priority Set | By-Adosphere_ott488 | 
+01/06/2018 12:43:44 | SUCCESS | update Footer Content Detail(ADOS_099) | By-Adosphere_ott488 | 
+01/06/2018 12:43:54 | SUCCESS | update Footer Content Detail(278728378223) | By-Adosphere_ott488 | 
+01/06/2018 12:44:19 | SUCCESS | update Footer Content Detail(AB_OIOI) | By-Adosphere_ott488 | 
+01/06/2018 12:45:40 | SUCCESS | update Footer Content Detail(ADOS_099) | By-Adosphere_ott488 | 
+01/06/2018 14:06:07 | SUCCESS | Plan inactive(planID:p756,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 14:06:15 | SUCCESS | Header Menu inactive(Country Currency:1,Status:0) | By-Adosphere_ott488 | 
+01/06/2018 14:06:18 | SUCCESS | Header Menu inactive(Country Currency:2,Status:0) | By-Adosphere_ott488 | 
+01/06/2018 14:06:31 | SUCCESS | Header Menu active(Country Currency:1,Status:1) | By-Adosphere_ott488 | 
+01/06/2018 14:06:33 | SUCCESS | Header Menu active(Country Currency:2,Status:1) | By-Adosphere_ott488 | 
+01/06/2018 08:41:12 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 09:08:19 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 14:39:51 | SUCCESS | Plan inactive(planID:p372,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 14:39:56 | SUCCESS | Plan active(planID:p372,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 14:41:23 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 14:42:55 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 14:45:11 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 14:45:59 | SUCCESS | Updtate MetaData(0_xjkat5je) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_xjkat5je','Ullathi Nalla Ullam','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xjkat5je/version/100002','Watch Tamil full movie Ullathi Nalla Ullam which is released in 1988 and directed by Manivannan.','8132','1',
+        'tamil, tollywood, comedy, movies, south, indian, full, length, 1990, 90s, cinema, interesting, classic, movie, zone, ullathi, nalla, ullam, romantic, balu, shanmugapriyan, vijayakanth, radha, ravi, madhuri, gangai, amaren, sabapathy, ajantaa, creation, gowthaman','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-30 17:36:21','Watch Tamil full movie Ullathi Nalla Ullam which is released in 1988 and directed by Manivannan.',' Manivannan','',
+         '','','Drama','Tamil','','inactive','','')
+01/06/2018 14:46:38 | SUCCESS | Save Content Partner(0_xjkat5je,) | By-Adosphere_ott488 | 
+01/06/2018 14:47:25 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 14:48:11 | SUCCESS | Updtate MetaData(0_ee3uqn0w) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_ee3uqn0w','Government Mappillai','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ee3uqn0w/version/100002','Watch Government Mappillai Tamil movie released in 1992 which is directed by Manivannan & produced by G.S.Madhu.','8532','1',
+        'tamil, tollywood, comedy, movies, south, indian, full, length, 1990, 90s, cinema, interesting, classic, movie, zone, romantic, manivannan, g.s.madhu, government, mappillai, kasthuri, senthil, saradha, preetha','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-30 17:36:22','Watch Government Mappillai Tamil movie released in 1992 which is directed by Manivannan & produced by G.S.Madhu.','Manivannan','G.S.Madhu',
+         'Kasthuri,Senthil,Saradha Preetha','','Drama','Tamil','','inactive','','')
+01/06/2018 14:48:29 | SUCCESS | Save Content Partner(0_ee3uqn0w,) | By-Adosphere_ott488 | 
+01/06/2018 14:51:03 | SUCCESS | Updtate MetaData(0_y9ethxdf) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_y9ethxdf','Naalaiya Theerppu','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_y9ethxdf/version/100002','Watch Naalaiya Theerppu Tamil full movie which is directed by S.A.Chandrasekhar and produced by Shoba Chandrasekhar','8313','1',
+        'full, length, tamil, movie, movies, romantic, latest, action, love, interesting, cinema, superstar, superhits, comedy, most, favorite, film, famous, naalaiya, theerppu, s a chandrasekhar, shoba','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-30 17:36:29','Watch Naalaiya Theerppu Tamil full movie which is directed by S.A.Chandrasekhar and produced by Shoba Chandrasekhar','S.A.Chandrasekhar','Shoba Chandrasekhar',
+         '','','Drama','Tamil','','inactive','','')
+01/06/2018 14:51:24 | SUCCESS | Save Content Partner(0_y9ethxdf,) | By-Adosphere_ott488 | 
+01/06/2018 14:52:27 | SUCCESS | Updtate MetaData(0_46r2vpw0) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_46r2vpw0','Anavakkari |Shilpa Shetty, Upendra | Hit Movie','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_46r2vpw0/version/0','Watch full length drama movie in Tamil language Anavakkari and starring Shilpa Shetty, Upendra.','9352','1',
+        'tamil, tollywood, comedy, movies, south, indian, movie, full, length, 90s, cinema, interesting, classic, anavakkari, anna, vakkari, shilpa, shetty, upender, upendra, hit, superhit, south hits, shilpa movie, shilpa kundra, bollywood actress, kundra, bollywood, aanavakkari, rajendra, babu, sabish, vikesh, upethira, kutti, radhika, soornakka, sumitra, guru, kiran, sri, muthappan, upindra','MOVIES>FULL MOVIES>TAMIL','228','2','2018-05-31 11:49:06','Watch full length drama movie in Tamil language Anavakkari and starring Shilpa Shetty, Upendra.','','',
+         'Shilpa Shetty, Upendra','','Drama','Tamil','','inactive','','')
+01/06/2018 14:52:30 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 14:56:43 | SUCCESS | Add New Plan (PAY PLAN) | By-Adosphere_ott488 | 
+01/06/2018 14:56:56 | SUCCESS | Plan inactive(planID:p425,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 14:56:59 | SUCCESS | Plan active(planID:p425,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 14:57:20 | SUCCESS | update plan Detail(PAY PLAN) | By-Adosphere_ott488 | 
+01/06/2018 14:57:28 | SUCCESS | update plan Detail(PAY PLAN) | By-Adosphere_ott488 | 
+01/06/2018 15:00:53 | SUCCESS | update plan Detail(PAY PLAN) | By-Adosphere_ott488 | 
+01/06/2018 15:01:07 | SUCCESS | update plan Detail(PAY PLAN) | By-Adosphere_ott488 | 
+01/06/2018 15:01:23 | SUCCESS | Plan inactive(planID:p425,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 15:01:26 | SUCCESS | Delete Plan (p425) | By-Adosphere_ott488 | delete from plandetail where planID='p425'
+01/06/2018 15:02:19 | SUCCESS | Add New Plan (PAY PLAN) | By-Adosphere_ott488 | 
+01/06/2018 15:09:51 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 15:22:36 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+01/06/2018 15:23:13 | SUCCESS | Slider image active(SliderID:93,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 15:26:40 | SUCCESS | Add New Slider Image(C:\fakepath\after sync 1.png) | By-Adosphere_ott488 | 
+01/06/2018 15:26:56 | SUCCESS | Slider image active(SliderID:96,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 15:28:39 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+01/06/2018 15:29:23 | SUCCESS | Slider image inactive(SliderID:96,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 15:35:50 | SUCCESS | Add New Slider Image(C:\fakepath\our kind of traitor.jpg) | By-Adosphere_ott488 | 
+01/06/2018 15:36:37 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+01/06/2018 15:39:27 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 15:40:48 | SUCCESS | Updtate MetaData(0_5avkrpxz) | By-Adosphere_ott488 | update entry set name='Zumba Dance | Lifestyle | Tutorial',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5avkrpxz/version/100002',longdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        duration='234',type='1',tag='zumba, dance, training, master, trainer, amarica, germany, indian, flavor, bollywood, salsa, fitness, learning, course, music, energitic, burn, calorries, high, intensity, low, suchita, pal, belly, dancing, different, steps, cardio, plus, toning, tr2018',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:43:28',shortdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5avkrpxz'
+01/06/2018 15:41:36 | SUCCESS | Add New HomeSettingTag(TESTING) | By-Adosphere_ott488 | 
+01/06/2018 15:41:40 | SUCCESS | Home Setting active(HomeID:20,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 15:42:10 | SUCCESS | update HomeSettingTag Detail(TESTING) | By-Adosphere_ott488 | 
+01/06/2018 15:42:24 | SUCCESS | Add New Slider Image(C:\fakepath\LIVE search in country code not working.png) | By-Adosphere_ott488 | 
+01/06/2018 15:43:24 | SUCCESS | Updtate MetaData(0_5avkrpxz) | By-Adosphere_ott488 | update entry set name='Zumba Dance | Lifestyle | Tutorial',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5avkrpxz/version/100002',longdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        duration='234',type='1',tag='zumba, dance, training, master, trainer, amarica, germany, indian, flavor, bollywood, salsa, fitness, learning, course, music, energitic, burn, calorries, high, intensity, low, suchita, pal, belly, dancing, different, steps, cardio, plus, toning, tr2018, arushi',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:46:04',shortdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5avkrpxz'
+01/06/2018 15:43:56 | SUCCESS | Updtate MetaData(0_cprmnvwa) | By-Adosphere_ott488 | update entry set name='Warm-Ups | Excercise | Stretching',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cprmnvwa/version/100002',longdescription='Learn the basic stretching with the help of trainer.',
+        duration='131',type='1',tag='fitness, guide, basic, exercise, hardwork, healthy, trainer, stretches, hold, every, stretch, 25, 30, seconds, leg, hamstring, touch, feet, biceps, triceps, pull, elbow, gym, bodyfit, crunches, pushups, running, arms, abs, muscle, training, bodyweight, workout, squat, superset, arushi',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:46:36',shortdescription='Learn the basic stretching with the help of trainer.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='Hindi',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_cprmnvwa'
+01/06/2018 15:44:36 | SUCCESS | Home Setting inactive(HomeID:17,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 15:44:49 | SUCCESS | Home Setting inactive(HomeID:20,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 15:45:52 | SUCCESS | Updtate MetaData(0_5avkrpxz) | By-Adosphere_ott488 | update entry set name='Zumba Dance | Lifestyle | Tutorial',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5avkrpxz/version/100002',longdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        duration='234',type='1',tag='zumba, dance, training, master, trainer, amarica, germany, indian, flavor, bollywood, salsa, fitness, learning, course, music, energitic, burn, calorries, high, intensity, low, suchita, pal, belly, dancing, different, steps, cardio, plus, toning, tr2018, arushi, sf2018',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:48:31',shortdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5avkrpxz'
+01/06/2018 15:46:38 | SUCCESS | Updtate MetaData(0_5avkrpxz) | By-Adosphere_ott488 | update entry set name='Zumba Dance | Lifestyle | Tutorial',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5avkrpxz/version/100002',longdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        duration='234',type='1',tag='zumba, dance, training, master, trainer, amarica, germany, indian, flavor, bollywood, salsa, fitness, learning, course, music, energitic, burn, calorries, high, intensity, low, suchita, pal, belly, dancing, different, steps, cardio, plus, toning, tr2018, arushi, ap2018',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:49:18',shortdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5avkrpxz'
+01/06/2018 15:47:05 | SUCCESS | Updtate MetaData(0_5avkrpxz) | By-Adosphere_ott488 | update entry set name='Zumba Dance | Lifestyle | Tutorial',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5avkrpxz/version/100002',longdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        duration='234',type='1',tag='zumba, dance, training, master, trainer, amarica, germany, indian, flavor, bollywood, salsa, fitness, learning, course, music, energitic, burn, calorries, high, intensity, low, suchita, pal, belly, dancing, different, steps, cardio, plus, toning',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:49:45',shortdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5avkrpxz'
+01/06/2018 15:47:27 | SUCCESS | Updtate MetaData(0_if8zam66) | By-Adosphere_ott488 | update entry set name='Hickory Dickory Dock  Nursery Rhymes for children',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_if8zam66/version/100002',longdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        duration='68',type='1',tag='kids, kahaniya, cartoon, children, series, little, kid, 4yr, 8yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, hickory, dickory, dock, nursery, rhymes, for, poems, purple, turtle, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-06-01 15:50:07',shortdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_if8zam66'
+01/06/2018 15:47:44 | SUCCESS | Updtate MetaData(0_uywuin4x) | By-Adosphere_ott488 | update entry set name='3 Little Kitten- Nursery Rhyme Subtitles',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_uywuin4x/version/100002',longdescription='Watch most popular kids 3 Little Kitten Nursery rhyme with english subtitles.',
+        duration='96',type='1',tag='kids, kahaniya, cartoon, children, little, kid, 4yr, 8yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, kitten, nursery, rhyme, subtitles, poems, english, lullabies, purple, turtle, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-06-01 15:50:24',shortdescription='Watch most popular kids 3 Little Kitten Nursery rhyme with english subtitles.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_uywuin4x'
+01/06/2018 15:49:02 | SUCCESS | Updtate MetaData(0_ychir9bp) | By-Adosphere_ott488 | update entry set name='BINGO Learning Alphabets',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ychir9bp/version/100012',longdescription='Make your kids watch this video and learn them about the English Alphabets. Sing along and learn with the video.',
+        duration='123',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, bingo, alphabets, poems, rhyme, purple, turtle, tr2018',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-06-01 15:51:42',shortdescription='Make your kids watch this video and learn them about the English Alphabets. Sing along and learn with the video.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_ychir9bp'
+01/06/2018 15:49:26 | SUCCESS | Updtate MetaData(0_2o6fvz65) | By-Adosphere_ott488 | update entry set name='Purple to the Rescue Kids Animation Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_2o6fvz65/version/100002',longdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realize to capture anyone is not a good thing. Turtle made all the butterflies rescue out of the jar.',
+        duration='136',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, purple, rescue, turtle, rhyme, poems, tr2018',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-06-01 15:52:06',shortdescription='Watch \'Purple to the Rescue\' where turtle learn you a lesson about to never capture any living being in jar or in bars. Every single living wants to live free. The story is about a friend of turtle who enjoys capturing butterflies in jar but he made him realize to capture anyone is not a good thing. Turtle made all the butterflies rescue out of the jar.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_2o6fvz65'
+01/06/2018 15:50:10 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+01/06/2018 15:50:25 | SUCCESS | Home Setting active(HomeID:18,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 15:51:19 | SUCCESS | Add New Plan (10 days) | By-Adosphere_ott488 | 
+01/06/2018 15:51:35 | SUCCESS | Updtate MetaData(0_6upe2juk) | By-Adosphere_ott488 | update entry set name='King Midas Bed Time Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6upe2juk/version/100002',longdescription='Watch the bedtime story of King Midas in hindi where king love to collect gold. One day fairy comes and she ask king for the wish . He said if I will touch anything can it turn into gold.King Midas touch his bed,food,furniture all turns into gold.He was loving his child and turned into gold.Watch more to know the story.',
+        duration='421',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, 4yr, 8yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, king, midas, hindi, bed, time, gold, fairy, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-01 15:54:15',shortdescription='Watch the bedtime story of King Midas in hindi where king love to collect gold. One day fairy comes and she ask king for the wish . He said if I will touch anything can it turn into gold.King Midas touch his bed,food,furniture all turns into gold.He was loving his child and turned into gold.Watch more to know the story.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_6upe2juk'
+01/06/2018 15:52:07 | SUCCESS | Updtate MetaData(0_lcnvpkbz) | By-Adosphere_ott488 | update entry set name='Do Chor Tenali Raman',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lcnvpkbz/version/100012',longdescription='Watch Do Chor Tenali Rama kids moral story in Telugu which will make you learn a life lesson.',
+        duration='434',type='1',tag='kids, mulan2017, cartoon, children, story, moral, series, little, learning, animation, junior, telling, zone, diary, tales, bedtime, sleeping, recite, cat, fairy, do, chor, two, thief, tenali, ram, telugu, ramansharp, brain, guide, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-01 15:54:47',shortdescription='Watch Do Chor Tenali Rama kids moral story in Telugu which will make you learn a life lesson.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Telugu',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_lcnvpkbz'
+01/06/2018 15:52:34 | SUCCESS | Home Setting active(HomeID:20,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 15:52:41 | SUCCESS | Updtate MetaData(0_qwy9sctn) | By-Adosphere_ott488 | update entry set name='Birbal Ki Khhichdi Sindhi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qwy9sctn/version/100012',longdescription='Watch and enjoy Akhabr Birbal story and this is the story of \'Birbal Ki Khichdi\' or \'Birbal\'s Stew\' in Sindhi.In this, Birbal finds a man who can stand all night in cold water pond to earn money.He stood whole night freezing in pond just by looking a small lamp all night.',
+        duration='269',type='1',tag='kids, mulan2017, cartoon, children, story, moral, little, learning, animation, junior, telling, listen, class, tales, series, bedtime, recite, fairy, navratna, birbal, khichdi, akbar, kahani, stew, emperor, freezing, man, who, can, stand, all, night, in, cold, water, pond, lesson, popular, sindhi, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-01 15:55:20',shortdescription='Watch and enjoy Akhabr Birbal story and this is the story of \'Birbal Ki Khichdi\' or \'Birbal\'s Stew\' in Sindhi.In this, Birbal finds a man who can stand all night in cold water pond to earn money.He stood whole night freezing in pond just by looking a small lamp all night.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Sindhi',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_qwy9sctn'
+01/06/2018 15:53:08 | SUCCESS | Updtate MetaData(0_6pb7jvdf) | By-Adosphere_ott488 | update entry set name='The wicked little Witch Bedtime Moral story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6pb7jvdf/version/100002',longdescription='Watch \'The wicked little Witch\' in Hindi where Hazel wants to be a witch who can spins the magicial wound.She read all the books related to magical witch.But at the end she realises that bad things and to hurt someone is always a bad choice.',
+        duration='275',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, 4yr, 8yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, wicked, witch, hindi, bedtime, wick, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-01 15:55:48',shortdescription='Watch \'The wicked little Witch\' in Hindi where Hazel wants to be a witch who can spins the magicial wound.She read all the books related to magical witch.But at the end she realises that bad things and to hurt someone is always a bad choice.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_6pb7jvdf'
+01/06/2018 15:53:14 | SUCCESS | Updtate MetaData(0_5avkrpxz) | By-Adosphere_ott488 | update entry set name='Zumba Dance | Lifestyle | Tutorial',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5avkrpxz/version/100002',longdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        duration='234',type='1',tag='zumba, dance, training, master, trainer, amarica, germany, indian, flavor, bollywood, salsa, fitness, learning, course, music, energitic, burn, calorries, high, intensity, low, suchita, pal, belly, dancing, different, steps, cardio, plus, toning, arushi',category='ON DEMAND>LIFESTYLE>HEALTH',categoryid='389',
+        updated_at='2018-06-01 15:55:54',shortdescription='Watch to know someting new about zumba bollywood flavor, zumba fitness dance steps.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Fitness',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5avkrpxz'
+01/06/2018 15:54:17 | SUCCESS | Updtate MetaData(0_t3yai68p) | By-Adosphere_ott488 | update entry set name='The Frog Prince Bed Time Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_t3yai68p/version/100002',longdescription='Watch the Frog Prince a Hindi animated bedtime story where queen meets the frog while playing with her golden ball.The ball falls into the river and frog came to help her and fulfill his demand.Watch more to know the story.',
+        duration='433',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, 4yr, 8yr, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, frog, prince, hindi, bedtime, watch, emperor, queen, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-01 15:56:57',shortdescription='Watch the Frog Prince a Hindi animated bedtime story where queen meets the frog while playing with her golden ball.The ball falls into the river and frog came to help her and fulfill his demand.Watch more to know the story.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_t3yai68p'
+01/06/2018 15:54:38 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+01/06/2018 15:55:37 | SUCCESS | Add New HomeSettingTag(HAIRSTYLES) | By-Adosphere_ott488 | 
+01/06/2018 15:56:06 | SUCCESS | Updtate MetaData(0_sl63h4gd) | By-Adosphere_ott488 | update entry set name='Haircut Tutorial - Casey Neistat Mens MATT BECK VLOG',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_sl63h4gd/version/100002',longdescription='Watch this video to know free education of salon hairstyle,styling suggestions for mens curly hair,how to make yourself as good looking style and much more',
+        duration='361',type='1',tag='matt, beck, vlog, casey, neistat, haircut, tutorial, disconnected, mens, color, salon, education, shop, facil, suggestions, curly, think, video, technic, cliper, professional, check, out, latest, hs2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-01 15:58:45',shortdescription='Watch this video to know free education of salon hairstyle,styling suggestions for mens curly hair,how to make yourself as good looking style and much more',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_sl63h4gd'
+01/06/2018 15:57:51 | SUCCESS | Updtate MetaData(0_h97oytdm) | By-Adosphere_ott488 | update entry set name='Short Hair Cut - Detail Work on a Pixie Cut',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_h97oytdm/version/100002',longdescription='Watch the video to get the tips about Pixie short haircut.',
+        duration='58',type='1',tag='detail, work, pixie, cut, style, good, looking, hair, expert, salon, education, perfect, tips, hs2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-01 16:00:30',shortdescription='Watch the video to get the tips about Pixie short haircut.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_h97oytdm'
+01/06/2018 15:58:09 | SUCCESS | Updtate MetaData(0_77nnmiec) | By-Adosphere_ott488 | update entry set name='Bob Haircut With A Razor',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_77nnmiec/version/100002',longdescription='Watch this video to know about Bob latest and popular,right hair style with a razor, salon education and much more..',
+        duration='59',type='1',tag='bob, haircut, with, razor, salon, education, curly, perfect, latest, popular, hairstyles, really, stylish, ideas, guy, headshape, hs2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-01 16:00:49',shortdescription='Watch this video to know about Bob latest and popular,right hair style with a razor, salon education and much more..',
+        director='',producer='',cast='',crew='',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_77nnmiec'
+01/06/2018 15:58:27 | SUCCESS | Updtate MetaData(0_8hqyp1mi) | By-Adosphere_ott488 | update entry set name='Learn Elevation for Stacked Bob Haircut',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8hqyp1mi/version/100002',longdescription='Learn how to get a bob haircut according to your head shape.',
+        duration='55',type='1',tag='hair, cut, heavy, short, stylish, look, bang, tutorial, trendy, scissors, tips, right, way, straight, smooth, volume, different, easy, shoterside, longerside, tricks, cheek, bone, finger, angle, thick, sections, ironhair, razer, twisted, overdirect, tees, cutting, technique, stacked, bob, matt, beck, hs2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-01 16:01:07',shortdescription='Learn how to get a bob haircut according to your head shape.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_8hqyp1mi'
+01/06/2018 15:58:55 | SUCCESS | Updtate MetaData(0_jkf3vhqg) | By-Adosphere_ott488 | update entry set name='How to Cut a Stacked Bob Haircut',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jkf3vhqg/version/100002',longdescription='Watch the easiest method to cut a very trendy and stylish stacked bob hair with razer.',
+        duration='598',type='1',tag='hair, cut, heavy, short, stylish, look, bang, tutorial, trendy, scissors, tips, right, way, straight, smooth, volume, different, easy, shoterside, longerside, tricks, cheek, bone, finger, angle, thick, sections, ironhair, razer, twisted, overdirect, tees, cutting, technique, stacked, bob, matt, beck, hs2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-01 16:01:35',shortdescription='Watch the easiest method to cut a very trendy and stylish stacked bob hair with razer.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_jkf3vhqg'
+01/06/2018 15:59:24 | SUCCESS | Updtate MetaData(0_bnzd6loj) | By-Adosphere_ott488 | update entry set name='Supersonic Blow Dryer Test - Is it worth to spend The Money',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_bnzd6loj/version/100002',longdescription='Watch the review test of how to use a dyson supersonic blow dryer.',
+        duration='753',type='1',tag='tutorial, blow, dryer, dyson, supersonic, two, different, nozels, smoothing, hair, heavy, fuser, airflow, lightweight, long, wire, easy, to, use, magnetic, ergo, comparison, supersilk, shampoo, conditinor, powerfull, heat, matt, good, product, beck, hs2018',category='ON DEMAND>LIFESTYLE>HAIRSTYLES',categoryid='388',
+        updated_at='2018-06-01 16:02:04',shortdescription='Watch the review test of how to use a dyson supersonic blow dryer.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Hairstyles',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_bnzd6loj'
+01/06/2018 16:01:03 | SUCCESS | Home Setting active(HomeID:21,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 16:01:14 | SUCCESS | update HomeSettingTag Detail(HAIR-STYLES) | By-Adosphere_ott488 | 
+01/06/2018 16:02:20 | SUCCESS | Add New HomeSettingTag(COOK BOOK) | By-Adosphere_ott488 | 
+01/06/2018 16:03:03 | SUCCESS | Updtate MetaData(0_671e9kgd) | By-Adosphere_ott488 | update entry set name='Turai Chana Dal ki sabzi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_671e9kgd/version/100002',longdescription='Turai (Gilki) Chana Dal Ki Sabzi Hindi recipe video by chef shaheen.The video will make you learn easy way to prepare Turai Dal Ki Sabzi.',
+        duration='296',type='1',tag='shaheen khan, shaheen  recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, indian coooking recipes, home made recipes.shaheen kitchen, chef shaheen khan kitchen, indian turai ki sabzi, recipe for turai ki sabzi, torai, torai ki sabzi, torai ki sabzi in hindi, tori ki sabzi, tori ki sabzi recipe in hindi, tori recipe, tori sabzi, tori sabzi recipe, turai, turai gilki chana dal sabzi, turai ki sabzi, turai ki sabzi in hindi, turai ki sabzi pakistani recipes, turai ki sabzi recipe, turai ki sabzi recipe in hindi, turai recipe, turai recipe in hindi, turai recipes, turai sabzi, turai sabzi recipe, turai (gilki) chana dal ki sabzi hindi recipe video by chef shaheen, ridge gourd, gourd, green vegetable, dal, pulses, yellow dal, cb2018',category='ON DEMAND>COOKING>KITCHEN STORIES',categoryid='289',
+        updated_at='2018-06-01 16:05:43',shortdescription='Turai (Gilki) Chana Dal Ki Sabzi Hindi recipe video by chef shaheen.The video will make you learn easy way to make Turai Dal Ki Sabzi.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Main Course',
+        language='Hindi',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_671e9kgd'
+01/06/2018 16:03:28 | SUCCESS | Add New HomeSettingTag(home) | By-Adosphere_ott488 | 
+01/06/2018 16:03:32 | SUCCESS | Updtate MetaData(0_swo9769k) | By-Adosphere_ott488 | update entry set name='Homemade Tamatar Gosht',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_swo9769k/version/100002',longdescription='Tamatar Gosht Recipe|How to make tomato mutton recipe By Chef Shaheen',
+        duration='292',type='1',tag='shaheen khan, shaheen  recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, indian coooking recipes, home made recipes.shaheen kitchen, chef shaheen khan kitchen, shaheen chicken recipes, non-veg food, non veg recipes, non vegetarian food, non vegetarian recipes, recipes  for dinner, dinner time menu, food for dinner, shaheenskit, basic ingredients of tamatar gosht, ingredients of tamatar gosht, how to make tamatar gosht at home, at home tamatar gosht, simple steps to make tamatar gosht, home made recipes, gosht itmes, tamatar gosht, tamatar non veg recipes, gosht, different ways of tamatar gosht, different ways to make tamatar gosht, non veg, non vegetarian, how to make tomato muttun recipe by chef shaheen, tomato muttun recipe, muttun recipe, mutton recipe, tomato mutton at home, how to cook mutton, cb2018',category='ON DEMAND>COOKING>SPICE IT UP',categoryid='288',
+        updated_at='2018-06-01 16:06:12',shortdescription='Tamatar Gosht Recipe|How to make tomato muttun recipe By Chef Shaheen',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Non-Veg',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_swo9769k'
+01/06/2018 16:03:38 | SUCCESS | Add New Plan (10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:03:45 | SUCCESS | Home Setting active(HomeID:23,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 16:04:03 | SUCCESS | Home Setting inactive(HomeID:23,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 16:04:08 | SUCCESS | Delete HomeSettingTag (23) | By-Adosphere_ott488 | delete from home_title_tag where tags_id='23'
+01/06/2018 16:04:08 | SUCCESS | Updtate MetaData(0_dgucmwvz) | By-Adosphere_ott488 | update entry set name='How to make easy home made Chakli',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_dgucmwvz/version/100002',longdescription='Chakli or Murukku Recipe |How to make easy & crunchy Murukku / Chakli recipe',
+        duration='462',type='1',tag='shaheen khan, shaheen  recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, indian coooking recipes, home made recipes.shaheen kitchen, chef shaheen khan kitchen, how to amke chakli, chakli, home made chakli, murukku, murukku at home, tea substitute, chakli tea substitue, easy home made recipes, basic ingredients of chakli, ingredients of chakli, how to make chakli at home, at home chakli, simple steps to make chakli, home made recipes, maida rice flour recipes, what can be done with rice flour, mattri, besan bread, cb2018',category='ON DEMAND>COOKING>KITCHEN STORIES',categoryid='289',
+        updated_at='2018-06-01 16:06:48',shortdescription='Chakli or Murukku Recipe |How to make easy & crunchy Murukku / Chakli recipe ',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Snacks',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_dgucmwvz'
+01/06/2018 16:04:26 | SUCCESS | Updtate MetaData(0_eo0v5sj6) | By-Adosphere_ott488 | update entry set name='Easy formation of coconut choccolate bar',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_eo0v5sj6/version/100002',longdescription='A sweet dessert to make easily at home Coconut Chocolate Bar.',
+        duration='322',type='1',tag='shaheen khan, shaheen  recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, indian coooking recipes, home made recipes.shaheen kitchen, chef shaheen khan kitchen, coconut chocolate bar, chocolate at home, chocolate bar recipes, chocolate milk bar, chocolate recipes, coconut chocolate, dairy milk caramel, dairy milk chocolate, dark chocolate, homemade chocolate, homemade chocolates, how to make chocolate, how to make chocolates, how to make homemade chocolates, how to prepare chocolate, make chocolate at home, milky bar chocolate, recipe to make chocolate, who to make chocolate, chococlate, coco choco, coco chocolate, cb2018',category='ON DEMAND>COOKING>CULINARY',categoryid='287',
+        updated_at='2018-06-01 16:07:06',shortdescription='A sweet desert to make easily at home Coconut Chocolate Bar.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Dessert',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_eo0v5sj6'
+01/06/2018 16:05:05 | SUCCESS | Updtate MetaData(0_cqo4qf3z) | By-Adosphere_ott488 | update entry set name='Chicken Biryani by chef shaheen',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cqo4qf3z/version/100002',longdescription='Learn and watch how to make chicken biryani at home.',
+        duration='760',type='1',tag='shaheen khan, shaheen chicken recipes, cookery show, chicken biryani, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, rice with chicken, home made chicken biryani, cooking recipes, indian biryani, indian cooking recipes, indian coooking recipes, indian home made recipes, indian chicken biryani, recipes of shaheen khan, recipes  by chef shaheen, non-veg food, non veg recipes, non vegetarian food, non vegetarian recipes, recipes  for dinner, dinner time menu, food for dinner, shaheenskit, basic ingredients of biryani, basic ingredients of chicken biryani, ingredients of chicken biryani, how to make chicken biryani at home, at home chicken biryani, simple steps to make chicken biryani, home made recipes, shaheen kitchen, chef shaheen khan kitchen, cb2018',category='ON DEMAND>COOKING>KITCHEN MASALA',categoryid='286',
+        updated_at='2018-06-01 16:07:45',shortdescription='Learn and watch how to make chicken biryani at home.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Non-Veg',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_cqo4qf3z'
+01/06/2018 16:05:26 | SUCCESS | Updtate MetaData(0_qw0ts31e) | By-Adosphere_ott488 | update entry set name='Spicy Garlic Red Chilly Chutney',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qw0ts31e/version/100002',longdescription='Learn to make spicy sauce Thecha or Garlic Red Chilly Chutney.',
+        duration='161',type='1',tag='shaheen khan, shaheen  recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, indian coooking recipes, home made recipes.shaheen kitchen, chef shaheen khan kitchen, chili garlic sauce, chilli chutney, chilli chutney recipe indian, chilli chutney recipes, chilli garlic, chilli pickle, chutney, dry red chilli, garlic chilli chutney, garlic red chilli chutney, garlic red chilli dry chutney, how to make chilli chutney, kolhapuri thecha, mirchi thecha, mirchicha thecha, red chilli chutney, red chilli garlic chutney sanjeev kapoor, red chillies chutney, red chillies recipes, red garlic chutney, thecha, thecha recipe, chilly recipe, sweet chilly garlic chutney, thecha chutney, thecha chilly chutney, cb2018',category='ON DEMAND>COOKING>KITCHEN MASALA',categoryid='286',
+        updated_at='2018-06-01 16:08:06',shortdescription='Learn to make spicy sauce Thecha or Garlic Red Chilly Chutney ',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Sauce',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_qw0ts31e'
+01/06/2018 16:05:47 | SUCCESS | Updtate MetaData(0_6kzldboa) | By-Adosphere_ott488 | update entry set name='How to make Mango Kheer',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6kzldboa/version/100002',longdescription='Mango Kheer | Mango Vermicelli kheer | Easy simple kheer recipe by chef shaheen',
+        duration='311',type='1',tag='shaheen khshaheen khan, shaheen  recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, indian coooking recipes, home made recipes.shaheen kitchen, chef shaheen khan kitchen, best kheer recipe, easy kheer recipe, indian kheer recipe, kheer recipe, kheer recipe in hindi, kheer recipes, mango kheer, mango kheer recipe, payasam recipe, payasam recipes, phirni, recipe for kheer, recipe kheer, recipe of kheer, recipes for kheer, recipes of kheer, semiya payasam recipe, simple kheer recipe, how to make kheer, indian kheer recipes, vermiceeli, thandi kheer, chilled kheer, cb2018',category='ON DEMAND>COOKING>CULINARY',categoryid='287',
+        updated_at='2018-06-01 16:08:27',shortdescription='Mango Kheer | Mango Vermicelli kheer | Easy simple kheer recipe by chef shaheen',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Dessert',
+        language='English',pgrating='U',video_status='active',puser_id='',custom_data=''
+        where entryid='0_6kzldboa'
+01/06/2018 16:06:18 | SUCCESS | Home Setting active(HomeID:22,Status:active) | By-Adosphere_ott488 | 
+01/06/2018 16:06:32 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+01/06/2018 16:07:19 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+01/06/2018 16:07:28 | SUCCESS | Home Setting inactive(HomeID:20,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 16:07:28 | SUCCESS | Home Setting inactive(HomeID:20,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 16:08:13 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+01/06/2018 16:08:25 | SUCCESS | Home Setting priority Set | By-Adosphere_ott488 | 
+01/06/2018 16:12:38 | SUCCESS | Bulk Add Category(0_s1rlqogr,0_hwwfpfcu,0_yyar11en,0_kiy1ju7y,235,238) | By-Adosphere_ott488 | update entry set category='ON DEMAND>CELEB INTERVIEWS>UP - CLOSE - HOLLYWOOD,ON DEMAND>CELEB GOSSIP>HUSH HUSH HOLLYWOOD', categoryid='235,238' where entryid='0_kiy1ju7y' 
+01/06/2018 16:13:33 | SUCCESS | Bulk Add Category(0_6n15siqe,0_bm58s1xv,0_3iq0a7yg,0_22562pmh,0_496m2we2,0_0kxwlid8,236,239) | By-Adosphere_ott488 | update entry set category='ON DEMAND>CELEB INTERVIEWS>HOLLY NEWS,ON DEMAND>CELEB GOSSIP>BEHIND THE SCENE', categoryid='236,239' where entryid='0_0kxwlid8' 
+01/06/2018 16:13:45 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:13:59 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:14:20 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:15:48 | SUCCESS | Add New Plan (10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:16:01 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:16:11 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:16:30 | SUCCESS | update plan Detail(10 days) | By-Adosphere_ott488 | 
+01/06/2018 16:18:59 | SUCCESS | update Slider Detail(0_im8gn09u,'') | By-Adosphere_ott488 | 
+01/06/2018 16:53:34 | SUCCESS | update Slider Detail(0_3iq0a7yg,'Hi..!! WELCOME :)') | By-Adosphere_ott488 | 
+01/06/2018 17:05:44 | SUCCESS | Save Thumbnail(0_fi1gp3zb) | By-Adosphere_ott488 | 
+01/06/2018 17:06:35 | SUCCESS | Save Thumbnail(0_3py5yz5o) | By-Adosphere_ott488 | 
+01/06/2018 17:07:08 | SUCCESS | Save Thumbnail(0_e2h72915) | By-Adosphere_ott488 | 
+01/06/2018 17:08:04 | SUCCESS | Save Thumbnail(0_yqcezm0s) | By-Adosphere_ott488 | 
+01/06/2018 17:08:44 | SUCCESS | Save Thumbnail(0_3341yr0a) | By-Adosphere_ott488 | 
+01/06/2018 17:10:16 | SUCCESS | Save Thumbnail(0_taqc2na2) | By-Adosphere_ott488 | 
+01/06/2018 17:11:00 | SUCCESS | Save Thumbnail(0_m3tdzl0e) | By-Adosphere_ott488 | 
+01/06/2018 17:11:46 | SUCCESS | Save Thumbnail(0_s669r89s) | By-Adosphere_ott488 | 
+01/06/2018 17:12:22 | SUCCESS | Save Thumbnail(0_jqokuaw8) | By-Adosphere_ott488 | 
+01/06/2018 17:13:14 | SUCCESS | Save Thumbnail(0_3f0a21g2) | By-Adosphere_ott488 | 
+01/06/2018 17:13:52 | SUCCESS | Save Thumbnail(0_41k1fi3c) | By-Adosphere_ott488 | 
+01/06/2018 17:22:34 | SUCCESS | Save Thumbnail(0_1s1e5ohs) | By-Adosphere_ott488 | 
+01/06/2018 11:57:12 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+01/06/2018 17:28:49 | SUCCESS | Add New Slider Image(C:\fakepath\fantastic beasts.jpg) | By-Adosphere_ott488 | 
+01/06/2018 17:29:02 | SUCCESS | Delete slider Image (99) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='99'
+01/06/2018 17:34:57 | SUCCESS | Add New Plan (10) | By-Adosphere_ott488 | 
+01/06/2018 17:46:44 | SUCCESS | Slider image inactive(SliderID:92,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 17:46:51 | SUCCESS | Slider image inactive(SliderID:95,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 17:46:54 | SUCCESS | Slider image inactive(SliderID:94,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 17:46:58 | SUCCESS | Slider image inactive(SliderID:93,Status:inactive) | By-Adosphere_ott488 | 
+01/06/2018 18:00:58 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+01/06/2018 18:01:00 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+01/06/2018 18:01:00 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+01/06/2018 18:01:01 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+01/06/2018 18:01:01 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+01/06/2018 18:01:07 | SUCCESS | Sync Category | By-Adosphere_ott488 | 
+01/06/2018 18:04:46 | SUCCESS | update Slider Detail(0_z6j2dv8f,'') | By-Adosphere_ott488 | 
+01/06/2018 18:22:04 | SUCCESS | update plan Detail(PAY PLAN) | By-Adosphere_ott488 | 

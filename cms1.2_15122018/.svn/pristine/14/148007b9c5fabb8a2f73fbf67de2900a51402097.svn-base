@@ -1,0 +1,26 @@
+21/07/2018 04:57:27 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+21/07/2018 11:45:54 | SUCCESS | Save New video(0_oxzb8f7w) | By-Adosphere_ott488 | 
+21/07/2018 06:28:19 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+21/07/2018 06:29:43 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+21/07/2018 12:15:37 | SUCCESS | Add New Slider Image(C:\fakepath\MANTHAN.JPG) | By-Adosphere_ott488 | 
+21/07/2018 12:16:03 | SUCCESS | update Slider Detail(0_g12rk4cw,'') | By-Adosphere_ott488 | 
+21/07/2018 12:16:09 | SUCCESS | Delete slider Image (119) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='119'
+21/07/2018 12:16:13 | SUCCESS | Slider image active(SliderID:120,Status:active) | By-Adosphere_ott488 | 
+21/07/2018 12:16:42 | SUCCESS | Save Thumbnail(0_jr2raftx) | By-Adosphere_ott488 | 
+21/07/2018 12:17:05 | SUCCESS | Save Thumbnail(0_nfpjmxbh) | By-Adosphere_ott488 | 
+21/07/2018 12:17:22 | SUCCESS | Save Thumbnail(0_nbhe9o9p) | By-Adosphere_ott488 | 
+21/07/2018 12:17:57 | SUCCESS | Save Thumbnail(0_ee3uqn0w) | By-Adosphere_ott488 | 
+21/07/2018 12:18:15 | SUCCESS | Save Thumbnail(0_nml2lge5) | By-Adosphere_ott488 | 
+21/07/2018 12:39:21 | SUCCESS | Delete Video entry(0_oxzb8f7w) | By-Adosphere_ott488 | 
+21/07/2018 12:56:49 | SUCCESS | Save New video(0_a1b5rauy) | By-Adosphere_ott488 | 
+21/07/2018 14:03:33 | SUCCESS | Delete Video entry(0_a1b5rauy) | By-Adosphere_ott488 | 
+21/07/2018 09:29:28 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+21/07/2018 11:04:15 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+21/07/2018 11:24:10 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+21/07/2018 16:58:04 | SUCCESS | Save Thumbnail(0_8nl6mmmx) | By-Adosphere_ott488 | 
+21/07/2018 16:58:45 | SUCCESS | Save Thumbnail(0_crr0hvbw) | By-Adosphere_ott488 | 
+21/07/2018 16:59:14 | SUCCESS | Save Thumbnail(0_t75bs2yv) | By-Adosphere_ott488 | 
+21/07/2018 16:59:45 | SUCCESS | Save Thumbnail(0_q8ypo7fd) | By-Adosphere_ott488 | 
+21/07/2018 17:00:26 | SUCCESS | Save Thumbnail(0_nb73zqm3) | By-Adosphere_ott488 | 
+21/07/2018 17:01:17 | SUCCESS | Save Thumbnail(0_kuge6j1c) | By-Adosphere_ott488 | 
+21/07/2018 17:19:36 | SUCCESS | Save Thumbnail(0_ahaqql7t) | By-Adosphere_ott488 | 

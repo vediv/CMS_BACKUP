@@ -1,0 +1,89 @@
+18/07/2018 04:06:43 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 04:33:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 05:15:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 11:11:37 | SUCCESS | Home Setting active(HomeID:13,Status:active) | By-Biocine_ott503 | 
+18/07/2018 11:11:39 | SUCCESS | Home Setting active(HomeID:14,Status:active) | By-Biocine_ott503 | 
+18/07/2018 05:41:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 05:52:25 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 11:37:39 | SUCCESS | Add New HomeSettingTag(a_sss) | By-Biocine_ott503 | 
+18/07/2018 11:37:48 | SUCCESS | Home Setting active(HomeID:15,Status:active) | By-Biocine_ott503 | 
+18/07/2018 11:38:32 | SUCCESS | Update Category(BAZAAR) | By-Biocine_ott503 | update categories set cat_name='BAZAAR',description='',tags='0_4dgt70k7',fullname='BAZAAR' where category_id='313'
+18/07/2018 12:04:05 | SUCCESS | Add New HomeSettingTag(s_133) | By-Biocine_ott503 | 
+18/07/2018 12:04:28 | SUCCESS | Home Setting active(HomeID:16,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:05:10 | SUCCESS | Updtate MetaData(0_4wc2nq2m) | By-Biocine_ott503 | update entry set name='Indoor Fury Cute Kitten ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4wc2nq2m/version/100012',longdescription='Watch the video of cute indoor fury pet kitten playing with the toy.',
+        duration='13',type='1',tag='indoor, fury, cute, kitten, cat, pets, play, toy, mammal, cute pets, animlas, fluffy, testinghome',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,ORIGINALS>MUSIC,MOVIES>CLASSIC,MOVIES>ROMANTIC,MOVIES>HORROR,MOVIES>ACTION,KIDS,BAZAAR,MUSIC>ORIGINAL>POP MUSIC,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='295,296,297,298,299,302,304,305,307,312,313,314,315,317,319',
+        updated_at='2018-07-18 12:08:30',shortdescription='Watch the video of cute indoor fury pet kitten playing with the toy.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_4wc2nq2m'
+18/07/2018 12:09:43 | SUCCESS | Home Setting active(HomeID:17,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:12:02 | SUCCESS | Home Setting active(HomeID:16,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:12:04 | SUCCESS | Home Setting active(HomeID:15,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:12:07 | SUCCESS | Home Setting active(HomeID:14,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:12:09 | SUCCESS | Home Setting active(HomeID:13,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:30:06 | SUCCESS | update Content Partner Detail(test) | By-Biocine_ott503 | 
+18/07/2018 12:31:04 | SUCCESS | Add New HomeSettingTag(Related) | By-Biocine_ott503 | 
+18/07/2018 12:31:14 | SUCCESS | Home Setting active(HomeID:18,Status:active) | By-Biocine_ott503 | 
+18/07/2018 12:38:08 | SUCCESS | Updtate MetaData(0_l75wl3gn) | By-Biocine_ott503 | update entry set name='Bike Riding',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l75wl3gn/version/100002',longdescription='test video',
+        duration='13',type='1',tag='test, video, car, automobile, vehicle, classic',category='MOVIES>COMEDY,MUSIC,BAZAAR',categoryid='306,308,313',
+        updated_at='2018-07-18 12:41:28',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_l75wl3gn'
+18/07/2018 12:50:35 | SUCCESS | Update Category(ROCK) | By-Biocine_ott503 | update categories set cat_name='ROCK',description='',tags='',fullname='MUSIC>FILM>ROCK' where category_id='319'
+18/07/2018 09:27:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 15:03:16 | SUCCESS | update Pay per View(55555555555555555555555555555555555) | By-Biocine_ott503 | 
+18/07/2018 15:05:05 | SUCCESS | update Pay per View(66) | By-Biocine_ott503 | 
+18/07/2018 15:05:11 | SUCCESS | update Pay per View(777777) | By-Biocine_ott503 | 
+18/07/2018 15:05:22 | SUCCESS | update Pay per View(99) | By-Biocine_ott503 | 
+18/07/2018 15:05:29 | SUCCESS | update Pay per View(67) | By-Biocine_ott503 | 
+18/07/2018 15:05:38 | SUCCESS | update Pay per View(99) | By-Biocine_ott503 | 
+18/07/2018 15:05:51 | SUCCESS | update Pay per View(54635645) | By-Biocine_ott503 | 
+18/07/2018 15:05:58 | SUCCESS | update Pay per View(435634643) | By-Biocine_ott503 | 
+18/07/2018 15:10:39 | SUCCESS | Save New video(0_0yhkj5ww) | By-Biocine_ott503 | 
+18/07/2018 15:11:23 | SUCCESS | Updtate MetaData(0_0yhkj5ww) | By-Biocine_ott503 | update entry set name='Car Racing - 74.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0yhkj5ww/version/100012',longdescription='',
+        duration='38',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-07-18 15:14:42',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0yhkj5ww'
+18/07/2018 15:15:11 | SUCCESS | Save Access Control(0_qjdvro47) | By-Biocine_ott503 | 
+18/07/2018 15:19:30 | SUCCESS | Save Access Control(0_qjdvro47) | By-Biocine_ott503 | 
+18/07/2018 15:22:10 | SUCCESS | Save Thumbnail(0_0yhkj5ww) | By-Biocine_ott503 | 
+18/07/2018 15:22:46 | SUCCESS | Save New video(0_21czg1dm) | By-Biocine_ott503 | 
+18/07/2018 15:23:27 | SUCCESS | Updtate MetaData(0_21czg1dm) | By-Biocine_ott503 | update entry set name='Chicken - 4534.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_21czg1dm/version/100012',longdescription='',
+        duration='7',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-07-18 15:26:47',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_21czg1dm'
+18/07/2018 15:47:10 | SUCCESS | Updtate MetaData(0_9hlz7mbg) | By-Biocine_ott503 | update entry set name='Brisk Skipping is a healthy start',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9hlz7mbg/version/100012',longdescription='Those who are health conscious will always keep in mind about a healthy start of a day by doing skipping,\r\njogging,weight lifting and so.\r\nA skipping rope is a tool used in the sports and is a tool to play with.\r\nUsually t is used for playing purpose or to stay fit.\r\nSkipping helps to reduce weight loss and also strengthened your leg muscles.\r\nIt can be skipped as Speed step,Criss-Cross,side swing,double under,toad,leg over and so.\r\nIt may also be used as cardiovascular workout exercise.Ten minutes of skipping is equivalent to eight- minute.\r\nIt is a sport of jump rope where one or more than one participants an join and take the charge to play as a team.',
+        duration='9',type='1',tag='skipping, rope, health, healthy, workout, diet, news, feed, updates, report, reporting, reporter',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>MUSIC,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,KIDS,MUSIC>ORIGINAL>POP MUSIC,MUSIC>FILM>CLASSIC,MUSIC>FILM>HIP HOP',categoryid='295,296,297,299,303,305,307,312,314,316,318',
+        updated_at='2018-07-18 15:50:30',shortdescription='Those who are health conscious will always keep in mind about a healthy start of a day by doing skipping, jogging,weight lifting and so.',
+        director='Planetcast',producer='Biocine',cast='Biocine',crew='Planetcast',sub_genre='Health & Fitness',
+        language='',pgrating='U',video_status='inactive',custom_data='{"Production":"Test","Cinematography":"Planetcast Test"}'
+        where entryid='0_9hlz7mbg'
+18/07/2018 15:58:46 | SUCCESS | Save Content Partner(0_v6n3lzd3,) | By-Biocine_ott503 | 
+18/07/2018 15:59:56 | SUCCESS | Save Content Partner(0_18io2eaa,) | By-Biocine_ott503 | 
+18/07/2018 16:15:52 | SUCCESS | Bulk Add ContentPartner(Array,142) | By-Biocine_ott503 | 
+18/07/2018 16:17:51 | SUCCESS | Save Bulk Plan(0_ux31yq4c,0) | By-Biocine_ott503 | update entry set ispremium='0',type='1',status='2' where entryid='0_ux31yq4c'
+18/07/2018 16:18:00 | SUCCESS | Save Bulk Plan(0_ux31yq4c,1) | By-Biocine_ott503 | update entry set ispremium='1',type='1',status='2' where entryid='0_ux31yq4c'
+18/07/2018 16:18:08 | SUCCESS | Save Bulk Plan(0_ux31yq4c,0) | By-Biocine_ott503 | update entry set ispremium='0',type='1',status='2' where entryid='0_ux31yq4c'
+18/07/2018 16:24:58 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/KESEDZIG53HN.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_KESEDZIG53HN.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_KESEDZIG53HN.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_KESEDZIG53HN.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_KESEDZIG53HN.jpg',updated_at=NOW() where category_id='314'
+18/07/2018 16:26:18 | SUCCESS | Update Category(ROMANTI) | By-Biocine_ott503 | update categories set cat_name='ROMANTI',description='',tags='',fullname='MUSIC>FILM>ROMANTI' where category_id='317'
+18/07/2018 16:29:02 | SUCCESS | Update Category(ROMANTIC) | By-Biocine_ott503 | update categories set cat_name='ROMANTIC',description='',tags='',fullname='MUSIC>FILM>ROMANTIC' where category_id='317'
+18/07/2018 16:34:46 | SUCCESS | delete Category(318) | By-Biocine_ott503 | DELETE FROM categories where category_id='318'
+18/07/2018 16:51:08 | SUCCESS | update plan Detail(Quarterly) | By-Biocine_ott503 | 
+18/07/2018 16:51:19 | SUCCESS | update plan Detail(Quarter) | By-Biocine_ott503 | 
+18/07/2018 16:52:17 | SUCCESS | Plan inactive(planID:p472,Status:inactive) | By-Biocine_ott503 | 
+18/07/2018 16:52:20 | SUCCESS | Plan active(planID:p472,Status:active) | By-Biocine_ott503 | 
+18/07/2018 17:16:18 | SUCCESS | update Slider Detail(0_qjdvro47,'Testing Slider Image') | By-Biocine_ott503 | 
+18/07/2018 17:20:29 | SUCCESS | Add New HomeSettingTag(Watch full length drama movie) | By-Biocine_ott503 | 
+18/07/2018 17:21:13 | SUCCESS | update HomeSettingTag Detail(Watch full length drama movie) | By-Biocine_ott503 | 
+18/07/2018 17:22:17 | SUCCESS | update HomeSettingTag Detail(Watch full length drama movie4) | By-Biocine_ott503 | 
+18/07/2018 11:56:43 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 11:58:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+18/07/2018 17:28:36 | SUCCESS | Update Category(POP MUSIC) | By-Biocine_ott503 | update categories set cat_name='POP MUSIC',description='',tags='',fullname='MUSIC>ORIGINAL>POP MUSIC' where category_id='314'
+18/07/2018 17:30:58 | SUCCESS | Coupon active(Offer ID:9,Status:active) | By-Biocine_ott503 | 

@@ -1,0 +1,834 @@
+04/12/2018 01:08:03 | SUCCESS | Updtate MetaData(0_o0mfn4zv) | By-Biocine_ott503 | update entry set name='AAMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_o0mfn4zv/version/100002',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose',
+        duration='328',type='1',tag='shock studio, bengali song, rabindra sangeet, tagore song, best of rabindra sangeet, jeeo guru, fusion song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 01:13:19',shortdescription='Fusion of Bengali Modern Song with Rabindra Sangeet',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_o0mfn4zv'
+04/12/2018 01:12:16 | SUCCESS | Save Thumbnail(0_o0mfn4zv) | By-Biocine_ott503 | 
+04/12/2018 01:12:21 | SUCCESS | Updtate MetaData(0_g55edpj9) | By-Biocine_ott503 | update entry set name='AMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_g55edpj9/version/100022',longdescription='Here we are presenting a Musical Show \"SHOCK STUDIO\" with a branch of fresh music by renown Singers & Music Directors ..\r\n\r\nSong\r\nAmaro Porano Jaha Chay\r\n\r\nSingers\r\nSomlata Acharya Chowdhury\r\n&\r\nSourav\r\n\r\nLyrics\r\nRabindra Nath Tagore\r\n&\r\nSmarjit Bandopadhyay\r\n\r\nMusic\r\nPinaki Bose\r\n\r\nMusic programming\r\nShameek Kundu\r\n\r\nBase Guiter\r\nRahul\r\n\r\nDrums\r\nAgniv\r\n\r\nGuiter\r\nTirthankar\r\n\r\nPercussion Tabla\r\nSwarthak\r\n\r\nSarengi\r\nKamlesh Mishra\r\n\r\nFlute Suvankar\r\n\r\nKeys\r\nSudeshna & Shameek\r\n\r\nHarmonium\r\nPinaki Bose\r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal \r\n& Ranjit Panji \r\n\r\nProduction Manager\r\nIndranath Sarkar \r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nStreaming only on JEEO GURU',
+        duration='328',type='1',tag='music, song, shock studio, jeeo guru, biocine, somlata, rabindra sangeet, tagore song, modern song, fusion, music video, bengali song, new',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 01:17:37',shortdescription='Bengali Modern Song with Rabindra Sangeet',
+        director='Jiit Chakraborty|Sabyasachi Mandal',producer='',cast='',crew='DOP: Amit ',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_g55edpj9'
+04/12/2018 01:12:38 | SUCCESS | Updtate MetaData(0_g55edpj9) | By-Biocine_ott503 | update entry set name='AMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_g55edpj9/version/100022',longdescription='Here we are presenting a Musical Show \"SHOCK STUDIO\" with a branch of fresh music by renown Singers & Music Directors ..\r\n\r\nSong\r\nAmaro Porano Jaha Chay\r\n\r\nSingers\r\nSomlata Acharya Chowdhury\r\n&\r\nSourav\r\n\r\nLyrics\r\nRabindra Nath Tagore\r\n&\r\nSmarjit Bandopadhyay\r\n\r\nMusic\r\nPinaki Bose\r\n\r\nMusic programming\r\nShameek Kundu\r\n\r\nBase Guiter\r\nRahul\r\n\r\nDrums\r\nAgniv\r\n\r\nGuiter\r\nTirthankar\r\n\r\nPercussion Tabla\r\nSwarthak\r\n\r\nSarengi\r\nKamlesh Mishra\r\n\r\nFlute Suvankar\r\n\r\nKeys\r\nSudeshna & Shameek\r\n\r\nHarmonium\r\nPinaki Bose\r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal \r\n& Ranjit Panji \r\n\r\nProduction Manager\r\nIndranath Sarkar \r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nStreaming only on JEEO GURU',
+        duration='328',type='1',tag='music, song, shock studio, jeeo guru, biocine, somlata, rabindra sangeet, tagore song, modern song, fusion, music video, bengali song, new',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 01:17:54',shortdescription='Bengali Modern Song with Rabindra Sangeet',
+        director='Jiit Chakraborty|Sabyasachi Mandal',producer='',cast='',crew='DOP: Amit ',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_g55edpj9'
+04/12/2018 01:14:14 | SUCCESS | Updtate MetaData(0_o0mfn4zv) | By-Biocine_ott503 | update entry set name='AAMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_o0mfn4zv/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose',
+        duration='328',type='1',tag='shock studio, bengali song, rabindra sangeet, tagore song, best of rabindra sangeet, jeeo guru, fusion song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 01:19:30',shortdescription='Fusion of Bengali Modern Song with Rabindra Sangeet',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_o0mfn4zv'
+04/12/2018 01:23:52 | SUCCESS | Updtate MetaData(0_o0mfn4zv) | By-Biocine_ott503 | update entry set name='AAMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_o0mfn4zv/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='328',type='1',tag='shock studio, bengali song, rabindra sangeet, tagore song, best of rabindra sangeet, jeeo guru, fusion song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 01:29:08',shortdescription='Fusion of Bengali Modern Song with Rabindra Sangeet',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_o0mfn4zv'
+04/12/2018 09:37:17 | SUCCESS | Save New video(0_7r65glq5) | By-Biocine_ott503 | 
+04/12/2018 10:02:38 | SUCCESS | Save Thumbnail(0_7r65glq5) | By-Biocine_ott503 | 
+04/12/2018 10:03:19 | SUCCESS | Updtate MetaData(0_o0mfn4zv) | By-Biocine_ott503 | update entry set name='AAMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_o0mfn4zv/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\n\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='328',type='1',tag='shock studio, bengali song, rabindra sangeet, tagore song, best of rabindra sangeet, jeeo guru, fusion song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 10:08:35',shortdescription='Fusion of Bengali Modern Song with Rabindra Sangeet',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_o0mfn4zv'
+04/12/2018 10:05:29 | SUCCESS | Updtate MetaData(0_1wuopqpg) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1wuopqpg/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\n\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 10:10:45',shortdescription='A lovely Romantic Song By Nachiketa Chakraborty',
+        director='JIIT CHAKRABORTY|SABYASACHI MANDAL',producer='COLUMBAAS DIGIPLEX',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1wuopqpg'
+04/12/2018 10:07:22 | SUCCESS | Updtate MetaData(0_7r65glq5) | By-Biocine_ott503 | update entry set name='Bohudiner.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r65glq5/version/100002',longdescription='',
+        duration='252',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 10:12:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7r65glq5'
+04/12/2018 10:07:39 | SUCCESS | Updtate MetaData(0_o0mfn4zv) | By-Biocine_ott503 | update entry set name='AAMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_o0mfn4zv/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\n\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nType: Bengali Modern Song\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='328',type='1',tag='shock studio, bengali song, rabindra sangeet, tagore song, best of rabindra sangeet, jeeo guru, fusion song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 10:12:55',shortdescription='Fusion of Bengali Modern Song with Rabindra Sangeet',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_o0mfn4zv'
+04/12/2018 10:15:40 | SUCCESS | Save New video(0_4qef8kk0) | By-Biocine_ott503 | 
+04/12/2018 10:23:46 | SUCCESS | Save New video(0_lavqhcz1) | By-Biocine_ott503 | 
+04/12/2018 10:27:07 | SUCCESS | Updtate MetaData(0_7r65glq5) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r65glq5/version/100002',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a romantic song \"Bohudiner Chilo Chena\" sung by Nachiketa Chakraborty only on Jeeo Guru Apps.\r\n\r\nSong: Bohudiner Chilo Chena\r\nSinger: Nachiketa Chakraborty\r\nLyrics & Music: Pandit Debojyoti Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='shock studio, song, bengali, nachiketa chakraborty, best of nachiketa, nachiketa hit song, new bengali song, romantic song, love song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 10:32:23',shortdescription='A new bengali romantic song by Nachiketa Chakraborty',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7r65glq5'
+04/12/2018 10:27:30 | SUCCESS | Updtate MetaData(0_1wuopqpg) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1wuopqpg/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\n\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 10:32:46',shortdescription='A lovely Romantic Song By Nachiketa Chakraborty',
+        director='JIIT CHAKRABORTY|SABYASACHI MANDAL',producer='COLUMBAAS DIGIPLEX',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1wuopqpg'
+04/12/2018 10:27:38 | SUCCESS | Updtate MetaData(0_7r65glq5) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r65glq5/version/100002',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a romantic song \"Bohudiner Chilo Chena\" sung by Nachiketa Chakraborty only on Jeeo Guru Apps.\r\n\r\nSong: Bohudiner Chilo Chena\r\nSinger: Nachiketa Chakraborty\r\nLyrics & Music: Pandit Debojyoti Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='shock studio, song, bengali, nachiketa chakraborty, best of nachiketa, nachiketa hit song, new bengali song, romantic song, love song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 10:32:55',shortdescription='A new bengali romantic song by Nachiketa Chakraborty',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7r65glq5'
+04/12/2018 10:28:23 | SUCCESS | Save Thumbnail(0_7r65glq5) | By-Biocine_ott503 | 
+04/12/2018 10:33:17 | SUCCESS | Save Thumbnail(0_lavqhcz1) | By-Biocine_ott503 | 
+04/12/2018 10:33:59 | SUCCESS | Save Thumbnail(0_4qef8kk0) | By-Biocine_ott503 | 
+04/12/2018 10:37:00 | SUCCESS | Save Thumbnail(0_4qef8kk0) | By-Biocine_ott503 | 
+04/12/2018 11:15:24 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:15:35 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 11:15:38 | SUCCESS | Slider image active(SliderID:21,Status:active) | By-Biocine_ott503 | 
+04/12/2018 11:17:21 | SUCCESS | Slider image inactive(SliderID:21,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 11:17:23 | SUCCESS | Delete slider Image (21) | By-Biocine_ott503 | delete from slider_image_detail where img_id='21'
+04/12/2018 11:17:49 | SUCCESS | Save New video(0_gvamw6ls) | By-Biocine_ott503 | 
+04/12/2018 06:07:25 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 11:37:42 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:37:54 | SUCCESS | Delete slider Image (22) | By-Biocine_ott503 | delete from slider_image_detail where img_id='22'
+04/12/2018 11:38:19 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:40:03 | SUCCESS | Save New video(0_0hhbmzs5) | By-Biocine_ott503 | 
+04/12/2018 11:40:14 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 11:40:16 | SUCCESS | Slider image active(SliderID:23,Status:active) | By-Biocine_ott503 | 
+04/12/2018 11:40:52 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 11:43:01 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 2.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:43:22 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 11:43:25 | SUCCESS | Slider image active(SliderID:24,Status:active) | By-Biocine_ott503 | 
+04/12/2018 11:44:00 | SUCCESS | Slider image inactive(SliderID:24,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 11:44:02 | SUCCESS | Delete slider Image (24) | By-Biocine_ott503 | delete from slider_image_detail where img_id='24'
+04/12/2018 11:44:44 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 2.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:44:53 | SUCCESS | Slider image active(SliderID:25,Status:active) | By-Biocine_ott503 | 
+04/12/2018 11:44:58 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 11:45:08 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 11:50:24 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 3.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:50:34 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 11:50:36 | SUCCESS | Slider image active(SliderID:26,Status:active) | By-Biocine_ott503 | 
+04/12/2018 11:50:42 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 11:50:49 | SUCCESS | Delete slider Image (20) | By-Biocine_ott503 | delete from slider_image_detail where img_id='20'
+04/12/2018 11:50:54 | SUCCESS | Delete slider Image (11) | By-Biocine_ott503 | delete from slider_image_detail where img_id='11'
+04/12/2018 11:52:23 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 5.jpg) | By-Biocine_ott503 | 
+04/12/2018 11:52:40 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 11:52:43 | SUCCESS | Slider image active(SliderID:27,Status:active) | By-Biocine_ott503 | 
+04/12/2018 11:52:52 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 11:52:57 | SUCCESS | Slider image inactive(SliderID:13,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 11:53:01 | SUCCESS | Delete slider Image (13) | By-Biocine_ott503 | delete from slider_image_detail where img_id='13'
+04/12/2018 11:53:04 | SUCCESS | Slider image inactive(SliderID:16,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 11:53:07 | SUCCESS | Delete slider Image (16) | By-Biocine_ott503 | delete from slider_image_detail where img_id='16'
+04/12/2018 11:53:23 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 06:24:46 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 11:54:56 | SUCCESS | Delete Video entry(0_d66tx8rc) | By-Biocine_ott503 | 
+04/12/2018 11:58:32 | SUCCESS | Save New video(0_xm002ib6) | By-Biocine_ott503 | 
+04/12/2018 12:22:45 | SUCCESS | Save New video(0_motal8ao) | By-Biocine_ott503 | 
+04/12/2018 12:40:15 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeo Guru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeo Guru Apps.\r\n\r\nSong\r\nAmar Mon\r\n\r\nSinger\r\nSaikat Mitra\r\n\r\nMusic & Lyrics\r\nDeep\r\n\r\nType\r\nFolk Fusion\r\n\r\nInstrument\r\nHarmonium\r\nDrums\r\nGuiter\r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal \r\n& Ranjit Panji \r\n\r\nProduction Manager\r\nIndranath Sarkar \r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nStreaming only on Jeeo Guru\r\n\r\nMusic Instruments Partner : Music Kafe\r\n',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 12:45:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 12:41:27 | SUCCESS | Updtate MetaData(0_lavqhcz1) | By-Biocine_ott503 | update entry set name='CHAAP TILAK',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lavqhcz1/version/100012',longdescription='',
+        duration='291',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 12:46:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lavqhcz1'
+04/12/2018 12:41:53 | SUCCESS | Updtate MetaData(0_gvamw6ls) | By-Biocine_ott503 | update entry set name='Chinta na karo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gvamw6ls/version/100002',longdescription='',
+        duration='358',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 12:47:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gvamw6ls'
+04/12/2018 12:42:08 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='Dhawnilo re',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100002',longdescription='',
+        duration='333',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 12:47:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 12:42:20 | SUCCESS | Updtate MetaData(0_xm002ib6) | By-Biocine_ott503 | update entry set name='Rahun kasi.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xm002ib6/version/100002',longdescription='',
+        duration='323',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 12:47:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xm002ib6'
+04/12/2018 12:46:02 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeo Guru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeo Guru Apps.\r\n\r\nSong :Amar Mon\r\n\r\nSinger :Saikat Mitra\r\n\r\nMusic & Lyrics :Deep\r\n\r\nType :Folk Fusion\r\n\r\nInstrument :Harmonium ,Drums ,Guiter\r\n\r\nExecutive Producer :Rupak Majumdar \r\n\r\nProduction Controller :Kousick Mondal & Ranjit Panji \r\n\r\nProduction Manager :Indranath Sarkar \r\n\r\nProduced by :Columbaas Digiplex \r\n\r\nStreaming only on Jeeo Guru\r\n\r\nMusic Instruments Partner : Music Kafe\r\n',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 12:51:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 08:08:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 13:51:40 | SUCCESS | Add New Content Partner(Columbus Digiplex) | By-Biocine_ott503 | 
+04/12/2018 13:55:15 | SUCCESS | Add New Content Partner(The Makers Fest) | By-Biocine_ott503 | 
+04/12/2018 13:56:32 | SUCCESS | Save Content Partner(0_motal8ao,) | By-Biocine_ott503 | 
+04/12/2018 13:56:47 | SUCCESS | Save Access Control(0_motal8ao) | By-Biocine_ott503 | 
+04/12/2018 13:58:03 | SUCCESS | Save Content Partner(0_xm002ib6,) | By-Biocine_ott503 | 
+04/12/2018 13:58:16 | SUCCESS | Save Access Control(0_xm002ib6) | By-Biocine_ott503 | 
+04/12/2018 13:59:01 | SUCCESS | Save Content Partner(0_0hhbmzs5,) | By-Biocine_ott503 | 
+04/12/2018 13:59:16 | SUCCESS | Save Access Control(0_0hhbmzs5) | By-Biocine_ott503 | 
+04/12/2018 14:00:06 | SUCCESS | Save Content Partner(0_gvamw6ls,) | By-Biocine_ott503 | 
+04/12/2018 14:00:25 | SUCCESS | Save Access Control(0_gvamw6ls) | By-Biocine_ott503 | 
+04/12/2018 14:01:50 | SUCCESS | Save Content Partner(0_lavqhcz1,) | By-Biocine_ott503 | 
+04/12/2018 14:02:09 | SUCCESS | Save Access Control(0_lavqhcz1) | By-Biocine_ott503 | 
+04/12/2018 14:02:48 | SUCCESS | Save Access Control(0_4qef8kk0) | By-Biocine_ott503 | 
+04/12/2018 14:03:43 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeo Guru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeo Guru Apps.\r\n\r\nSong :Amar Mon\r\n\r\nSinger :Saikat Mitra\r\n\r\nMusic & Lyrics :Deep\r\n\r\nType :Folk Fusion\r\n\r\nInstrument :Harmonium ,Drums ,Guiter\r\n\r\nExecutive Producer :Rupak Majumdar \r\n\r\nProduction Controller :Kousick Mondal & Ranjit Panji \r\n\r\nProduction Manager :Indranath Sarkar \r\n\r\nProduced by :Columbaas Digiplex \r\n\r\nStreaming only on Jeeo Guru\r\n\r\nMusic Instruments Partner : Music Kafe\r\n',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:09:00',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 14:09:45 | SUCCESS | Save Content Partner(0_4qef8kk0,) | By-Biocine_ott503 | 
+04/12/2018 14:10:21 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeo Guru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeo Guru Apps.\r\n\r\nSong :Amar Mon\r\n\r\nSinger :Saikat Mitra\r\n\r\nMusic & Lyrics :Deep\r\n\r\nType :Folk Fusion\r\n\r\nInstrument :Harmonium ,Drums ,Guiter\r\n\r\nExecutive Producer :Rupak Majumdar \r\n\r\nProduction Controller :Kousick Mondal & Ranjit Panji \r\n\r\nProduction Manager :Indranath Sarkar \r\n\r\nProduced by :Columbaas Digiplex \r\n\r\nStreaming only on Jeeo Guru\r\n\r\nMusic Instruments Partner : Music Kafe\r\n',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:15:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 14:11:17 | SUCCESS | Save Content Partner(0_7r65glq5,) | By-Biocine_ott503 | 
+04/12/2018 14:11:29 | SUCCESS | Save Access Control(0_7r65glq5) | By-Biocine_ott503 | 
+04/12/2018 14:12:47 | SUCCESS | Updtate MetaData(0_7r65glq5) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r65glq5/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a romantic song \"Bohudiner Chilo Chena\" sung by Nachiketa Chakraborty only on Jeeo Guru Apps.\r\n\r\nSong: Bohudiner Chilo Chena\r\nSinger: Nachiketa Chakraborty\r\nLyrics & Music: Pandit Debojyoti Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='shock studio, song, bengali, nachiketa chakraborty, best of nachiketa, nachiketa hit song, new bengali song, romantic song, love song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:18:03',shortdescription='A new bengali romantic song by Nachiketa Chakraborty',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7r65glq5'
+04/12/2018 14:14:28 | SUCCESS | Updtate MetaData(0_7r65glq5) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r65glq5/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a romantic song \"Bohudiner Chilo Chena\" sung by Nachiketa Chakraborty only on Jeeoguru Apps.\r\n\r\nSong: Bohudiner Chilo Chena\r\nSinger: Nachiketa Chakraborty\r\nLyrics & Music: Pandit Debojyoti Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='shock studio, song, bengali, nachiketa chakraborty, best of nachiketa, nachiketa hit song, new bengali song, romantic song, love song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:19:44',shortdescription='A new bengali romantic song by Nachiketa Chakraborty',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7r65glq5'
+04/12/2018 14:22:39 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeoguru Apps.\r\n\r\nSong :Amar Mon\r\n\r\nSinger :Saikat Mitra\r\n\r\nMusic & Lyrics :Deep\r\n\r\nType :Folk Fusion\r\n\r\nInstrument :Harmonium ,Drums ,Guiter\r\n\r\nExecutive Producer :Rupak Majumdar \r\n\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\n\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\n\r\nDOP:Amit\r\n \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\n\r\n\r\nExecutive Producer: Rupak Majumder\r\n\r\nEditor: Narayan Rana\r\n\r\nDI & CC: Smriti\r\n\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\n\r\nProduction Manager :Indranath Sarkar\r\n\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:27:56',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 14:26:08 | SUCCESS | Save Access Control(0_2xmujst9) | By-Biocine_ott503 | 
+04/12/2018 14:26:31 | SUCCESS | Save Content Partner(0_2xmujst9,) | By-Biocine_ott503 | 
+04/12/2018 14:30:13 | SUCCESS | Updtate MetaData(0_2xmujst9) | By-Biocine_ott503 | update entry set name=' ARDHANTAR',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2xmujst9/version/100012',longdescription='',
+        duration='975',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 14:35:29',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2xmujst9'
+04/12/2018 14:32:11 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeoguru Apps.\r\n\r\nSong :Amar Mon\r\nSinger :Saikat Mitra\r\nMusic & Lyrics :Deep\r\nType :Folk Fusion\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:37:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 14:37:12 | SUCCESS | Update Category(SHOCK STUDIO) | By-Biocine_ott503 | update categories set cat_name='SHOCK STUDIO',description='',tags='',fullname='MUSIC>ORIGINAL>SHOCK STUDIO' where category_id='310'
+04/12/2018 09:07:37 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 14:38:32 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeoguru Apps.\r\n\r\nSong :Amar Mon\r\nSinger :Saikat Mitra\r\nMusic & Lyrics :Deep\r\nType :Folk Fusion\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:43:48',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 14:42:55 | SUCCESS | Updtate MetaData(0_3naq8n1m) | By-Biocine_ott503 | update entry set name='Passion Song Teaser',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_3naq8n1m/version/100032',longdescription='Watch the new teaser song of Passion .',
+        duration='70',type='1',tag='passion, song, teaser',category='MUSIC>FILM,MUSIC>ORIGINAL',categoryid='311,309',
+        updated_at='2018-12-04 14:48:12',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3naq8n1m'
+04/12/2018 14:44:14 | SUCCESS | Updtate MetaData(0_aflb8k3x) | By-Biocine_ott503 | update entry set name='SUZETTE Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_aflb8k3x/version/100052',longdescription='Watch Suzette Promo video.',
+        duration='98',type='1',tag='suzette, promo',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-04 14:49:31',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_aflb8k3x'
+04/12/2018 14:45:00 | SUCCESS | Updtate MetaData(0_kjx1jm5d) | By-Biocine_ott503 | update entry set name='STATUS Trailer Final',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_kjx1jm5d/version/100052',longdescription='Watch Status Trailer .',
+        duration='97',type='1',tag='status, trailer, first look',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-04 14:50:16',shortdescription='Watch Status Trailer .',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_kjx1jm5d'
+04/12/2018 14:45:39 | SUCCESS | Updtate MetaData(0_4qai3uug) | By-Biocine_ott503 | update entry set name='Passion Promo',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qai3uug/version/100032',longdescription='Watch Passion Promo video',
+        duration='157',type='1',tag='passion, promo',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-04 14:50:56',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qai3uug'
+04/12/2018 14:46:21 | SUCCESS | Updtate MetaData(0_vqlv1ku0) | By-Biocine_ott503 | update entry set name='SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vqlv1ku0/version/100052',longdescription='Watch first look of Jeeo musical Shock studio video.',
+        duration='130',type='1',tag='shock, studio',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:51:37',shortdescription='Watch first look of Jeeo musical Shock studio video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vqlv1ku0'
+04/12/2018 14:47:39 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 14:47:51 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='DHAWNILO AHOBANE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100002',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Dhawnilo AHOBANE\" sung by Manomoy Bhattacharya Exclusively on Jeeoguru Apps.\r\n\r\nSong :Dhawnilo Re\r\nSinger :Manomoy Bhattacharya\r\n Lyrics :Rabindranath Tagor\r\nType :Rabindra sangeet\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='333',type='1',tag='shock studio, music, dhanilo ahobane, manomoy bhattacharya, rabindra sangeet, bengali song, music video, jeeoguru, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:53:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 14:47:52 | SUCCESS | Updtate MetaData(0_qu4ym00g) | By-Biocine_ott503 | update entry set name='MUSIC VIDEO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qu4ym00g/version/100082',longdescription='',
+        duration='73',type='1',tag='music, promo',category='MUSIC>ORIGINAL>OTHERS',categoryid='314',
+        updated_at='2018-12-04 14:53:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_qu4ym00g'
+04/12/2018 14:48:47 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeoguru Apps.\r\n\r\nSong :Amar Mon\r\nSinger :Saikat Mitra\r\nMusic & Lyrics :Deep\r\nType :Folk Fusion\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 14:54:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 14:49:51 | SUCCESS | Updtate MetaData(0_3naq8n1m) | By-Biocine_ott503 | update entry set name='Passion Song Teaser',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_3naq8n1m/version/100032',longdescription='Watch the new teaser song of Passion .',
+        duration='70',type='1',tag='passion, song, teaser',category='MUSIC>FILM',categoryid='311',
+        updated_at='2018-12-04 14:55:07',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_3naq8n1m'
+04/12/2018 14:50:42 | SUCCESS | Updtate MetaData(0_1h3pdjlh) | By-Biocine_ott503 | update entry set name='DevDas 2.5.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1h3pdjlh/version/100002',longdescription='',
+        duration='89',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-04 14:55:59',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1h3pdjlh'
+04/12/2018 09:22:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 14:53:09 | SUCCESS | Delete Video entry(0_u4ejkasa) | By-Biocine_ott503 | 
+04/12/2018 14:56:29 | SUCCESS | Create New Category(Movie Trailers) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '537','297','2','110','Movie Trailers','ORIGINALS>SHORT FILMS>Movie Trailers','294>297>537','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+04/12/2018 15:02:01 | SUCCESS | Updtate MetaData(0_lavqhcz1) | By-Biocine_ott503 | update entry set name='CHAAP TILAK',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lavqhcz1/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"CHAAP TILAK\" sung by Pinaki Bose & others Exclusively on Jeeoguru Apps.\r\n\r\nSong :CHAAP TILAK\r\nSinger :Pinaki Bose\r\nMusic: Pinaki Bose\r\nLyrics: Hazrat Amir Khoosroo\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='291',type='1',tag='shock studio, sufi song, chaap tilak, pinaki bose, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:07:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lavqhcz1'
+04/12/2018 15:02:52 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1 copy.jpg) | By-Biocine_ott503 | 
+04/12/2018 15:03:38 | SUCCESS | Updtate MetaData(0_4qef8kk0) | By-Biocine_ott503 | update entry set name='AAMAR MON ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4qef8kk0/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Amar Mon\" sung by Saikat Mitra Exclusively on Jeeoguru Apps.\r\n\r\nSong :Amar Mon\r\nSinger :Saikat Mitra\r\nMusic & Lyrics :Deep\r\nType :Folk Fusion\r\nInstrument :Harmonium ,Drums ,Guiter \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='247',type='1',tag='shock studio, music, amar mon, saikat mitra, folk fusion, jeeoguru, bengali song, music video, new album, songs, modern song, new song, latest song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:08:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4qef8kk0'
+04/12/2018 15:03:45 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 2 copy.jpg) | By-Biocine_ott503 | 
+04/12/2018 15:04:01 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+04/12/2018 15:04:08 | SUCCESS | Delete slider Image (28) | By-Biocine_ott503 | delete from slider_image_detail where img_id='28'
+04/12/2018 15:05:09 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1 copy.jpg) | By-Biocine_ott503 | 
+04/12/2018 15:06:07 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 3copy.jpg) | By-Biocine_ott503 | 
+04/12/2018 15:07:49 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 4.jpg) | By-Biocine_ott503 | 
+04/12/2018 15:09:03 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 5.jpg) | By-Biocine_ott503 | 
+04/12/2018 15:09:22 | SUCCESS | Slider image inactive(SliderID:23,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 15:09:24 | SUCCESS | Slider image inactive(SliderID:25,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 15:09:28 | SUCCESS | Slider image inactive(SliderID:26,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 15:09:32 | SUCCESS | Slider image inactive(SliderID:27,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 15:09:39 | SUCCESS | Slider image inactive(SliderID:15,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 15:09:45 | SUCCESS | Slider image inactive(SliderID:12,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 15:09:52 | SUCCESS | Slider image active(SliderID:29,Status:active) | By-Biocine_ott503 | 
+04/12/2018 15:09:55 | SUCCESS | Slider image active(SliderID:30,Status:active) | By-Biocine_ott503 | 
+04/12/2018 15:09:57 | SUCCESS | Slider image active(SliderID:31,Status:active) | By-Biocine_ott503 | 
+04/12/2018 15:10:00 | SUCCESS | Slider image active(SliderID:32,Status:active) | By-Biocine_ott503 | 
+04/12/2018 15:10:07 | SUCCESS | Slider image active(SliderID:33,Status:active) | By-Biocine_ott503 | 
+04/12/2018 15:12:20 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 15:12:40 | SUCCESS | Updtate MetaData(0_lavqhcz1) | By-Biocine_ott503 | update entry set name='CHAAP TILAK',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lavqhcz1/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"CHAAP TILAK\" sung by Pinaki Bose & others Exclusively on Jeeoguru Apps.\r\n\r\nSong :CHAAP TILAK\r\nSinger :Pinaki Bose\r\nMusic: Pinaki Bose\r\nLyrics: Hazrat Amir Khoosroo\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='291',type='1',tag='shock studio, sufi song, chaap tilak, pinaki bose, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:17:56',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lavqhcz1'
+04/12/2018 15:21:26 | SUCCESS | Updtate MetaData(0_lavqhcz1) | By-Biocine_ott503 | update entry set name='CHAAP TILAK',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lavqhcz1/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"CHAAP TILAK\" sung by Pinaki Bose & others Exclusively on Jeeoguru Apps.\r\n\r\nSong :CHAAP TILAK\r\nSinger :Pinaki Bose\r\nMusic: Pinaki Bose\r\nLyrics: Hazrat Amir Khoosroo\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='291',type='1',tag='shock studio, sufi song, chaap tilak, pinaki bose, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:26:43',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_lavqhcz1'
+04/12/2018 15:25:17 | SUCCESS | Updtate MetaData(0_r7u3e3a4) | By-Biocine_ott503 | update entry set name='AMAR MON',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_r7u3e3a4/version/100012',longdescription='Here we are presenting a Musical Show \"SHOCK STUDIO\" with a branch of fresh music by renown Singers  & Music Directors ..\r\n\r\nSong\r\nAmar Mon\r\n\r\nSinger\r\nSaikat Mitra\r\n\r\nMusic & Lyrics\r\nDeep\r\n\r\nType\r\nFolk Fusion\r\n\r\nInstrument\r\nHarmonium\r\nDrums\r\nGuiter\r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal \r\n& Ranjit Panji \r\n\r\nProduction Manager\r\nIndranath Sarkar \r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nStreaming only on Jeeo Guru',
+        duration='247',type='1',tag='shock studio, songs, music, bengali song, music video, saikat mitra, jeeo guru, amar mon, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:30:34',shortdescription='',
+        director='Jiit Chakraborty|Sabyasachi Mandal',producer='COLUMBAAS DIGIPLEX',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_r7u3e3a4'
+04/12/2018 15:27:16 | SUCCESS | Save Thumbnail(0_motal8ao) | By-Biocine_ott503 | 
+04/12/2018 15:27:41 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='DHAWNILO AHOBANE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100002',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Dhawnilo AHOBANE\" sung by Manomoy Bhattacharya Exclusively on Jeeoguru Apps.\r\n\r\nSong :Dhawnilo Re\r\nSinger :Manomoy Bhattacharya\r\n Lyrics :Rabindranath Tagor\r\nType :Rabindra sangeet\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='333',type='1',tag='shock studio, music, dhanilo ahobane, manomoy bhattacharya, rabindra sangeet, bengali song, music video, jeeoguru, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:32:57',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 15:28:51 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='DHAWNILO AHOBANE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100002',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Dhawnilo AHOBANE\" sung by Manomoy Bhattacharya Exclusively on Jeeoguru Apps.\r\n\r\nSong :Dhawnilo Re\r\nSinger :Manomoy Bhattacharya\r\n Lyrics :Rabindranath Tagor\r\nType :Rabindra sangeet\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='333',type='1',tag='shock studio, music, dhanilo ahobane, manomoy bhattacharya, rabindra sangeet, bengali song, music video, jeeoguru, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:34:07',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 15:28:59 | SUCCESS | Save Thumbnail(0_xm002ib6) | By-Biocine_ott503 | 
+04/12/2018 15:29:22 | SUCCESS | Save Thumbnail(0_gvamw6ls) | By-Biocine_ott503 | 
+04/12/2018 15:29:55 | SUCCESS | Updtate MetaData(0_xm002ib6) | By-Biocine_ott503 | update entry set name='Rahun kasi.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xm002ib6/version/100012',longdescription='',
+        duration='323',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 15:35:11',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xm002ib6'
+04/12/2018 15:30:32 | SUCCESS | Delete Video entry(0_8nza3t60) | By-Biocine_ott503 | 
+04/12/2018 15:30:35 | SUCCESS | Save Thumbnail(0_0hhbmzs5) | By-Biocine_ott503 | 
+04/12/2018 15:31:09 | SUCCESS | Save Thumbnail(0_0hhbmzs5) | By-Biocine_ott503 | 
+04/12/2018 15:31:13 | SUCCESS | Save Thumbnail(0_gvamw6ls) | By-Biocine_ott503 | 
+04/12/2018 15:42:13 | SUCCESS | Updtate MetaData(0_7r65glq5) | By-Biocine_ott503 | update entry set name='BOHUDINER CHILO CHENA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7r65glq5/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a romantic song \"Bohudiner Chilo Chena\" sung by Nachiketa Chakraborty only on Jeeoguru Apps.\r\n\r\nSong: Bohudiner Chilo Chena\r\nSinger: Nachiketa Chakraborty\r\nLyrics & Music: Pandit Debojyoti Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='252',type='1',tag='shock studio, song, bengali, nachiketa chakraborty, best of nachiketa, nachiketa hit song, new bengali song, romantic song, love song',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:47:30',shortdescription='A new bengali romantic song by Nachiketa Chakraborty',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_7r65glq5'
+04/12/2018 15:42:58 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='DHAWNILO AHOBANE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Dhawnilo AHOBANE\" sung by Manomoy Bhattacharya Exclusively on Jeeoguru Apps.\r\n\r\nSong :Dhawnilo Re\r\nSinger :Manomoy Bhattacharya\r\n Lyrics :Rabindranath Tagor\r\nType :Rabindra sangeet\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='333',type='1',tag='shock studio, music, dhanilo ahobane, manomoy bhattacharya, rabindra sangeet, bengali song, music video, jeeoguru, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:48:14',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 15:46:47 | SUCCESS | Updtate MetaData(0_gvamw6ls) | By-Biocine_ott503 | update entry set name='CHINTA NA KARO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gvamw6ls/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a Traditional folk song \"Chinta na karo\" sung by Pandit Omkar dadarkar and Tirtha Bhattacharya only on Jeeoguru Apps.\r\n\r\nSong: Chinta na karo\r\nSinger: Pandit Omkar dadarkar and Tirtha Bhattacharya \r\nLyrics: Traditional Bandish and Lalan Fakir\r\nRag: Behag Bandish\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='358',type='1',tag='shock studio, chinta na karo, traditional folk song, pandit omkar dadarkar, tirtha bhattacharya, song, music video, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:52:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gvamw6ls'
+04/12/2018 15:49:08 | SUCCESS | Updtate MetaData(0_gvamw6ls) | By-Biocine_ott503 | update entry set name='JAAT GELO JAAT GELO BOLE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gvamw6ls/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a Traditional folk song \"Jaat gelo Jaat gelo bole\" sung by Pandit Omkar dadarkar and Tirtha Bhattacharya only on Jeeoguru Apps.\r\n\r\nSong: Chinta na karo\r\nSinger: Pandit Omkar dadarkar and Tirtha Bhattacharya \r\nLyrics: Traditional Bandish and Lalan Fakir\r\nRag: Behag Bandish\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='358',type='1',tag='shock studio, chinta na karo, traditional folk song, pandit omkar dadarkar, tirtha bhattacharya, song, music video, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 15:54:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gvamw6ls'
+04/12/2018 15:49:46 | SUCCESS | Add New Content Partner(Biocine Production House) | By-Biocine_ott503 | 
+04/12/2018 15:57:14 | SUCCESS | Save Content Partner(0_82hq1sf3,) | By-Biocine_ott503 | 
+04/12/2018 15:57:42 | SUCCESS | Save Access Control(0_82hq1sf3) | By-Biocine_ott503 | 
+04/12/2018 15:59:29 | SUCCESS | Updtate MetaData(0_82hq1sf3) | By-Biocine_ott503 | update entry set name='BAANSHIWALA-THE FLUTE SELLER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_82hq1sf3/version/100012',longdescription='This story revolves around the life of a flute seller cum player, who use to carry a bag of bamboo flutes, play beautiful tunes on them, walking through the lanes of Kolkata. His life was monotonous and full of frustration. Though he was a simple flute seller but he has an artist soul, but no one noticed his talent. One day he gets a very beautiful and well decorated flute from roadside. He picks it up and tries to play it. He was shocked as the tune was a bit different from the normal ones and the sound was magical. What happened then? Will he get a success or else he will remain unnoticed like before?\r\n---------------------------------------\r\nFilm\r\nBaanshiwala - the flute seller\r\n\r\nCast\r\nPrasenjit Mahanty',
+        duration='1764',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 16:04:46',shortdescription='',
+        director='Subham Datta',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_82hq1sf3'
+04/12/2018 16:01:02 | SUCCESS | Save New video(0_4yzvkygk) | By-Biocine_ott503 | 
+04/12/2018 16:07:13 | SUCCESS | Save Age Restriction(0_055hp94v,A) | By-Biocine_ott503 | 
+04/12/2018 16:07:23 | SUCCESS | Updtate MetaData(0_xm002ib6) | By-Biocine_ott503 | update entry set name='RAHOON KAISE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xm002ib6/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Rahun kaise\" sung by Ivy Banerjee Exclusively on Jeeoguru Apps.\r\n\r\nSong :RAHUN KAISE\r\nSinger :Ivy Banerjee\r\nMusic: Pinaki Bose\r\nLyrics:Sarajit Bandhopadhyay\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='323',type='1',tag='rahoon kaise, shock studio, sufi song, ivy banerjee, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:12:40',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xm002ib6'
+04/12/2018 16:07:32 | SUCCESS | Save Content Partner(0_055hp94v,) | By-Biocine_ott503 | 
+04/12/2018 16:08:15 | SUCCESS | Save Thumbnail(0_z4nsm68i) | By-Biocine_ott503 | 
+04/12/2018 16:08:58 | SUCCESS | Save Thumbnail(0_kxt2m8ed) | By-Biocine_ott503 | 
+04/12/2018 16:09:26 | SUCCESS | Save New video(0_m3egpds5) | By-Biocine_ott503 | 
+04/12/2018 16:09:31 | SUCCESS | Save Access Control(0_055hp94v) | By-Biocine_ott503 | 
+04/12/2018 16:10:49 | SUCCESS | Delete Video entry(0_iz4gm7pj) | By-Biocine_ott503 | 
+04/12/2018 16:15:32 | SUCCESS | Save New video(0_gd0mcokl) | By-Biocine_ott503 | 
+04/12/2018 16:17:33 | SUCCESS | Updtate MetaData(0_motal8ao) | By-Biocine_ott503 | update entry set name='RANG DE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_motal8ao/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"RANG DE\" sung by SOURAV SNEHENDU & others Exclusively on Jeeoguru Apps.\r\n\r\nSong :RANG DE\r\nSinger :SOURAV SNEHENDU & others \r\nMusic: Pinaki Bose\r\nLyrics: Hazrat Amir Khoosroo\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='275',type='1',tag='shock studio, sufi song, rang de, pinaki bose, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:22:49',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_motal8ao'
+04/12/2018 16:25:00 | SUCCESS | Updtate MetaData(0_055hp94v) | By-Biocine_ott503 | update entry set name=' Fucking Drama',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_055hp94v/version/100012',longdescription='A young couple in love experiences an evening of theatre that changes their lives dramatically . A brutal confrontation with the zeitgeist.\r\n\r\nFUCKING DRAMA\r\nDirection : Michael Podogil\r\nCast & Crew:  Lena Kalisch, Markus Freistätter, Michael Pink, Henrietta Isabella Sophie Rauth, Manuel Girisch - Adventkalender, Anna Sternsinger.',
+        duration='1023',type='1',tag='michael podogil, fucking drama, shortfilms, the makers fest',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 16:30:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_055hp94v'
+04/12/2018 16:25:05 | SUCCESS | Save New video(0_xy7pgo6s) | By-Biocine_ott503 | 
+04/12/2018 16:25:46 | SUCCESS | Save Age Restriction(0_055hp94v,A) | By-Biocine_ott503 | 
+04/12/2018 16:29:00 | SUCCESS | Updtate MetaData(0_055hp94v) | By-Biocine_ott503 | update entry set name=' Fucking Drama',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_055hp94v/version/100012',longdescription='A young couple in love experiences an evening of theatre that changes their lives dramatically . A brutal confrontation with the zeitgeist.\r\n\r\nFUCKING DRAMA\r\nDirection : Michael Podogil\r\nCast & Crew:  Lena Kalisch, Markus Freistätter, Michael Pink, Henrietta Isabella Sophie Rauth, Manuel Girisch - Adventkalender, Anna Sternsinger.',
+        duration='1023',type='1',tag='michael podogil, fucking drama, shortfilms, the makers fest',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 16:34:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_055hp94v'
+04/12/2018 16:30:19 | SUCCESS | Save New video(0_u94f0l96) | By-Biocine_ott503 | 
+04/12/2018 16:34:10 | SUCCESS | update Slider Detail(0_055hp94v,'') | By-Biocine_ott503 | 
+04/12/2018 16:37:36 | SUCCESS | Save Age Restriction(0_motal8ao,UA) | By-Biocine_ott503 | 
+04/12/2018 16:41:15 | SUCCESS | Updtate MetaData(0_gvamw6ls) | By-Biocine_ott503 | update entry set name='JAAT GELO JAAT GELO BOLE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gvamw6ls/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a Traditional folk song \"Jaat gelo Jaat gelo bole\" sung by Pandit Omkar dadarkar and Tirtha Bhattacharya only on Jeeoguru Apps.\r\n\r\nSong: Chinta na karo\r\nSinger: Pandit Omkar dadarkar and Tirtha Bhattacharya \r\nLyrics: Traditional Bandish and Lalan Fakir\r\nRag: Behag Bandish\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='358',type='1',tag='shock studio, chinta na karo, traditional folk song, pandit omkar dadarkar, tirtha bhattacharya, song, music video, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:46:31',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_gvamw6ls'
+04/12/2018 16:42:00 | SUCCESS | Updtate MetaData(0_gvamw6ls) | By-Biocine_ott503 | update entry set name='JAAT GELO JAAT GELO BOLE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gvamw6ls/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a Traditional folk song \"Jaat gelo Jaat gelo bole\" sung by Pandit Omkar dadarkar and Tirtha Bhattacharya only on Jeeoguru Apps.\r\n\r\nSong: Chinta na karo\r\nSinger: Pandit Omkar dadarkar and Tirtha Bhattacharya \r\nLyrics: Traditional Bandish and Lalan Fakir\r\nRag: Behag Bandish\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='358',type='1',tag='shock studio, chinta na karo, traditional folk song, pandit omkar dadarkar, tirtha bhattacharya, song, music video, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:47:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_gvamw6ls'
+04/12/2018 16:42:39 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='DHAWNILO AHOBANE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Dhawnilo AHOBANE\" sung by Manomoy Bhattacharya Exclusively on Jeeoguru Apps.\r\n\r\nSong :Dhawnilo Re\r\nSinger :Manomoy Bhattacharya\r\n Lyrics :Rabindranath Tagor\r\nType :Rabindra sangeet\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='333',type='1',tag='shock studio, music, dhanilo ahobane, manomoy bhattacharya, rabindra sangeet, bengali song, music video, jeeoguru, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:47:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 16:43:11 | SUCCESS | Updtate MetaData(0_xm002ib6) | By-Biocine_ott503 | update entry set name='RAHOON KAISE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xm002ib6/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Rahun kaise\" sung by Ivy Banerjee Exclusively on Jeeoguru Apps.\r\n\r\nSong :RAHUN KAISE\r\nSinger :Ivy Banerjee\r\nMusic: Pinaki Bose\r\nLyrics:Sarajit Bandhopadhyay\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='323',type='1',tag='rahoon kaise, shock studio, sufi song, ivy banerjee, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:48:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_xm002ib6'
+04/12/2018 16:43:31 | SUCCESS | Updtate MetaData(0_xm002ib6) | By-Biocine_ott503 | update entry set name='RAHOON KAISE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xm002ib6/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Rahun kaise\" sung by Ivy Banerjee Exclusively on Jeeoguru Apps.\r\n\r\nSong :RAHUN KAISE\r\nSinger :Ivy Banerjee\r\nMusic: Pinaki Bose\r\nLyrics:Sarajit Bandhopadhyay\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='323',type='1',tag='rahoon kaise, shock studio, sufi song, ivy banerjee, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:48:47',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_xm002ib6'
+04/12/2018 16:44:10 | SUCCESS | Updtate MetaData(0_motal8ao) | By-Biocine_ott503 | update entry set name='RANG DE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_motal8ao/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"RANG DE\" sung by SOURAV SNEHENDU & others Exclusively on Jeeoguru Apps.\r\n\r\nSong :RANG DE\r\nSinger :SOURAV SNEHENDU & others \r\nMusic: Pinaki Bose\r\nLyrics: Hazrat Amir Khoosroo\r\nType :Sufi\r\nInstrument :Drums ,Guiter, keybord, siter, Purcussion, Sarengi, Flute\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='275',type='1',tag='shock studio, sufi song, rang de, pinaki bose, music video, songs, new song, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:49:27',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_motal8ao'
+04/12/2018 16:45:44 | SUCCESS | Updtate MetaData(0_w66h241y) | By-Biocine_ott503 | update entry set name='MOONLIGHT SONTA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_w66h241y/version/100062',longdescription='Watch MOONLIGHT SONTA video.',
+        duration='23',type='1',tag='moonlight, sonta',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-04 16:51:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_w66h241y'
+04/12/2018 16:47:45 | SUCCESS | Updtate MetaData(0_tgx0p2ga) | By-Biocine_ott503 | update entry set name='M FOR MOM',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_tgx0p2ga/version/100052',longdescription='',
+        duration='30',type='1',tag='',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-04 16:53:02',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_tgx0p2ga'
+04/12/2018 16:50:18 | SUCCESS | Save Content Partner(0_vqlv1ku0,) | By-Biocine_ott503 | 
+04/12/2018 16:54:42 | SUCCESS | Updtate MetaData(0_vqlv1ku0) | By-Biocine_ott503 | update entry set name='SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vqlv1ku0/version/100052',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='130',type='1',tag='shock, studio',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 16:59:58',shortdescription='Watch first look of Jeeo musical Shock studio video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vqlv1ku0'
+04/12/2018 16:55:43 | SUCCESS | Save Access Control(0_vqlv1ku0) | By-Biocine_ott503 | 
+04/12/2018 16:57:03 | SUCCESS | Delete Video entry(0_sydn79mh) | By-Biocine_ott503 | 
+04/12/2018 16:57:46 | SUCCESS | Delete Video entry(0_1wuopqpg) | By-Biocine_ott503 | 
+04/12/2018 16:58:18 | SUCCESS | Delete Video entry(0_m3nxt1tr) | By-Biocine_ott503 | 
+04/12/2018 16:59:22 | SUCCESS | Delete Video entry(0_r7u3e3a4) | By-Biocine_ott503 | 
+04/12/2018 16:59:54 | SUCCESS | Delete Video entry(0_2bgp7yl0) | By-Biocine_ott503 | 
+04/12/2018 17:00:23 | SUCCESS | Delete Video entry(0_g55edpj9) | By-Biocine_ott503 | 
+04/12/2018 17:02:28 | SUCCESS | Updtate MetaData(0_offxitkt) | By-Biocine_ott503 | update entry set name='AMRA NAA ORA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_offxitkt/version/100052',longdescription='Watch Amra Na Ora video .',
+        duration='33',type='1',tag='ora, amra, amra naa ora',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-04 17:07:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_offxitkt'
+04/12/2018 17:04:45 | SUCCESS | Updtate MetaData(0_vqlv1ku0) | By-Biocine_ott503 | update entry set name='TRALIER OF SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vqlv1ku0/version/100052',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='130',type='1',tag='shock, studio',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 17:10:02',shortdescription='Watch first look of Jeeo musical Shock studio video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vqlv1ku0'
+04/12/2018 17:07:23 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+04/12/2018 18:04:58 | SUCCESS | Updtate MetaData(0_1bow4w30) | By-Biocine_ott503 | update entry set name='UJANTALI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1bow4w30/version/100012',longdescription='Here we present a bengali short film Ujantali about Journey of an elderly lady who came to India at an early age but still has her soul living in Bangladesh\r\nCast & Crew: Chhanda Chatterjee,\r\nProducer: Tamal Chakraborti\r\nDirector:Som\r\nWriter:Som\r\n',
+        duration='1622',type='1',tag='bengali short film, ujantali, chhanda chatterjee, som, indian short film, award wining short film',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 18:10:14',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1bow4w30'
+04/12/2018 18:10:13 | SUCCESS | Updtate MetaData(0_posqvcsc) | By-Biocine_ott503 | update entry set name='UJANTALI PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_posqvcsc/version/100002',longdescription='Here we present a bengali short film promo Ujantali about Journey of an elderly lady who came to India at an early age but still has her soul living in Bangladesh\r\nCast & Crew: Chhanda Chatterjee,\r\nProducer: Tamal Chakraborti\r\nDirector:Som\r\nWriter:Som\r\n',
+        duration='120',type='1',tag='ujantali promo, bengali short film, promo, som, chhanda chatterjee, jeeoguru',category='',categoryid='',
+        updated_at='2018-12-04 18:15:30',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_posqvcsc'
+04/12/2018 18:10:25 | SUCCESS | Updtate MetaData(0_1bow4w30) | By-Biocine_ott503 | update entry set name='UJANTALI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1bow4w30/version/100012',longdescription='Here we present a bengali short film Ujantali about Journey of an elderly lady who came to India at an early age but still has her soul living in Bangladesh\r\nCast & Crew: Chhanda Chatterjee,\r\nProducer: Tamal Chakraborti\r\nDirector:Som\r\nWriter:Som\r\n',
+        duration='1622',type='1',tag='bengali short film, ujantali, chhanda chatterjee, som, indian short film, award wining short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 18:15:42',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1bow4w30'
+04/12/2018 18:25:21 | SUCCESS | Updtate MetaData(0_1bow4w30) | By-Biocine_ott503 | update entry set name='UJANTALI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1bow4w30/version/100012',longdescription='Here we present a bengali short film Ujantali about Journey of an elderly lady who came to India at an early age but still has her soul living in Bangladesh\r\nCast & Crew: Chhanda Chatterjee,\r\nProducer: Tamal Chakraborti\r\nDirector:Som\r\nWriter:Som\r\n',
+        duration='1622',type='1',tag='bengali short film, ujantali, chhanda chatterjee, som, indian short film, award wining short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 18:30:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1bow4w30'
+04/12/2018 18:57:24 | SUCCESS | Updtate MetaData(0_5c5f86jq) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5c5f86jq/version/100002',longdescription='Here we Presenting a new Bengali short film Promo \"INFECTION\"..Featuring with Koushik Bhattachariya, Arunava Dutta, Sreoshi Ghosh, Sanghamitra & others..Directed By Arindam Chakraborty...\r\nFilm\r\nINFECTION\r\n\r\nFeaturing\r\nArunava Dutta\r\nKoushik Bhattachariya\r\nSreoshi Ghosh\r\nSanghamitra\r\n\r\nStory\r\nArindam Chakraborty\r\n\r\nEdit\r\nAnirban Maity\r\n\r\nColorist\r\nSmriti\r\n\r\nD.O P\r\nAshok Pramanik\r\n\r\nDialogue\r\nSomnath Roy\r\n\r\nProduction Manager\r\nBapi Kanjilal\r\n\r\nProduction Controller\r\nKousick\r\n\r\nAssociate Director\r\nSanjoy Das\r\n\r\nCreative Director\r\nSabyasachi Mandal\r\n\r\nExecutive Producer\r\nSatarupa Majumdar\r\n\r\nProduce By\r\nDRISHTI\r\n&\r\nBIOCINE MEDIA ENTERTAINMENT PVT. LTD\r\n\r\nDirected By\r\nArindam Chakraborty',
+        duration='110',type='1',tag='infection, kousick bhattachariya, sreoshi ghosh, arindam chakraborty, dristi, biocine, short film, bengali short film, indian short film, short film promo, jeeoguru',category='',categoryid='',
+        updated_at='2018-12-04 19:02:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5c5f86jq'
+04/12/2018 13:30:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 19:04:23 | SUCCESS | Updtate MetaData(0_z5ko76z5) | By-Biocine_ott503 | update entry set name='RONG PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z5ko76z5/version/100002',longdescription='Here we presenting new bengali short Film \" RONG\"\r\nFILM\r\nRONG (রং)\r\n\r\nCAST\r\nKOUSHIK DAS\r\nRITUPARNA DEY\r\nKAJAL BANERJEE \r\n\r\nSTORY & SCRIPT\r\nGAUTAM BHATTACHARIYA \r\n\r\nASSITANT DOP & LIGHT\r\nBARUN DUTTA BANIK \r\n\r\nDOP\r\nSMRITI & \r\nAMLAN \r\n\r\nEDIT \r\nSMRITI\r\n\r\nASSITANT EDITOR\r\nMILAN \r\n\r\nPRODUCTION MANAGER\r\nBAPI KANJILAL\r\n\r\nPRODUCTION DESIGNER\r\nKOUSICK MONDAL (CINETUBE DIGITAL) \r\n\r\nPRODUCTION CONTROLLER\r\nRANJIT PANJI (CINETUBE DIGITAL) \r\n\r\nTECHNICAL ASSISTANCE\r\nTELECINE \r\n\r\nPRODUCED BY\r\nCINETUBE DIGITAL \r\n\r\nASSOCIATED DIRECTOR\r\nSABYASACHI MANDAL\r\n\r\nDIRECTED BY\r\nRANA SEN',
+        duration='106',type='1',tag='rong, bengali short film, koushik das, rituparna dey, rana sen, short film, jeeoguru',category='',categoryid='',
+        updated_at='2018-12-04 19:09:40',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z5ko76z5'
+04/12/2018 19:17:56 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo SHOCK STUDIO.jpg) | By-Biocine_ott503 | 
+04/12/2018 19:18:16 | SUCCESS | Slider image active(SliderID:34,Status:active) | By-Biocine_ott503 | 
+04/12/2018 19:18:47 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 19:41:49 | SUCCESS | Save New video(0_ay25t1qz) | By-Biocine_ott503 | 
+04/12/2018 20:09:25 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1 copy copy.jpg) | By-Biocine_ott503 | 
+04/12/2018 20:25:37 | SUCCESS | Save Thumbnail(0_4yzvkygk) | By-Biocine_ott503 | 
+04/12/2018 20:26:37 | SUCCESS | Updtate MetaData(0_4yzvkygk) | By-Biocine_ott503 | update entry set name='Kaisa Tarika | Leave Together',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4yzvkygk/version/100012',longdescription='',
+        duration='175',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 20:31:54',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4yzvkygk'
+04/12/2018 20:26:51 | SUCCESS | Save Content Partner(0_4yzvkygk,) | By-Biocine_ott503 | 
+04/12/2018 20:28:49 | SUCCESS | Save New video(0_xid2xyje) | By-Biocine_ott503 | 
+04/12/2018 20:28:53 | SUCCESS | Updtate MetaData(0_4yzvkygk) | By-Biocine_ott503 | update entry set name='Kaisa Tarika | Leave Together',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4yzvkygk/version/100012',longdescription='Lyrics & Composition: Soumit Deb\r\nArrangement & Recording: Nianjan Ghosh\r\nVocals : Paloma Majumder ',
+        duration='175',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 20:34:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4yzvkygk'
+04/12/2018 20:39:53 | SUCCESS | Save New video(0_hriya1e0) | By-Biocine_ott503 | 
+04/12/2018 20:41:21 | SUCCESS | Updtate MetaData(0_gvamw6ls) | By-Biocine_ott503 | update entry set name='JAAT GELO JAAT GELO BOLE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gvamw6ls/version/100022',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeoguru, Music Label Partner B Music, a Traditional folk song \"Jaat gelo Jaat gelo bole\" sung by Pandit Omkar dadarkar and Tirtha Bhattacharya only on Jeeoguru Apps.\r\n\r\nSong: Jaat Galo Jaat Galo/Chinta Na Karo\r\nSinger: Pandit Omkar dadarkar and Tirtha Bhattacharya \r\nLyrics: Traditional Bandish and Lalan Fakir\r\nRag: Behag Bandish\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='358',type='1',tag='shock studio, chinta na karo, traditional folk song, pandit omkar dadarkar, tirtha bhattacharya, song, music video, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 20:46:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_gvamw6ls'
+04/12/2018 20:49:02 | SUCCESS | Save New video(0_vidxpnpq) | By-Biocine_ott503 | 
+04/12/2018 20:50:19 | SUCCESS | Updtate MetaData(0_0hhbmzs5) | By-Biocine_ott503 | update entry set name='DHAWNILO AHOBANE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0hhbmzs5/version/100012',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO\' powered by Jeeoguru, Music Label Partner B Music, a folk fusion song \"Dhawnilo AHOBANE\" sung by Manomoy Bhattacharya Exclusively on Jeeoguru Apps.\r\n\r\nSong :Dhawnilo Ahobane\r\nSinger :Manomoy Bhattacharya\r\n Lyrics :Rabindranath Tagor\r\nType :Rabindra sangeet\r\nInstrument :Harmonium ,Drums ,Guiter\r\nExecutive Producer :Rupak Majumdar \r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit\r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='333',type='1',tag='shock studio, music, dhanilo ahobane, manomoy bhattacharya, rabindra sangeet, bengali song, music video, jeeoguru, new album',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-04 20:55:35',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_0hhbmzs5'
+04/12/2018 20:53:12 | SUCCESS | Save New video(0_e0cz1o83) | By-Biocine_ott503 | 
+04/12/2018 20:53:35 | SUCCESS | Updtate MetaData(0_vidxpnpq) | By-Biocine_ott503 | update entry set name='DEWANAA | Nachiketa Chakraborty ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vidxpnpq/version/100002',longdescription='',
+        duration='151',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 20:58:52',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vidxpnpq'
+04/12/2018 21:16:23 | SUCCESS | Save New video(0_7r4tqcxe) | By-Biocine_ott503 | 
+04/12/2018 21:16:42 | SUCCESS | Updtate MetaData(0_e0cz1o83) | By-Biocine_ott503 | update entry set name='Echhe | Nachiketa Chakraborty',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_e0cz1o83/version/100002',longdescription='',
+        duration='212',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 21:21:59',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_e0cz1o83'
+04/12/2018 21:26:47 | SUCCESS | Save Thumbnail(0_o0mfn4zv) | By-Biocine_ott503 | 
+04/12/2018 21:29:43 | SUCCESS | Save Thumbnail(0_7r65glq5) | By-Biocine_ott503 | 
+04/12/2018 21:32:40 | SUCCESS | Save Thumbnail(0_7r65glq5) | By-Biocine_ott503 | 
+04/12/2018 21:33:39 | SUCCESS | Save Thumbnail(0_4qef8kk0) | By-Biocine_ott503 | 
+04/12/2018 21:38:59 | SUCCESS | Save Thumbnail(0_lavqhcz1) | By-Biocine_ott503 | 
+04/12/2018 21:42:19 | SUCCESS | Save Thumbnail(0_gvamw6ls) | By-Biocine_ott503 | 
+04/12/2018 21:42:53 | SUCCESS | Save Thumbnail(0_0hhbmzs5) | By-Biocine_ott503 | 
+04/12/2018 21:43:24 | SUCCESS | Save Thumbnail(0_xm002ib6) | By-Biocine_ott503 | 
+04/12/2018 21:43:57 | SUCCESS | Save Thumbnail(0_motal8ao) | By-Biocine_ott503 | 
+04/12/2018 21:48:19 | SUCCESS | Save New video(0_fn1h74l7) | By-Biocine_ott503 | 
+04/12/2018 21:59:25 | SUCCESS | Updtate MetaData(0_fn1h74l7) | By-Biocine_ott503 | update entry set name='SUZETTE _Promo ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_fn1h74l7/version/100002',longdescription='',
+        duration='84',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 22:04:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fn1h74l7'
+04/12/2018 22:20:04 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100012',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film &quot;Kitaab&quot;, how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. Just imagine/but think, what will happen to him when his last reader gets entangled with electronic gadgets and deser',
+        duration='1478',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:25:21',shortdescription='',
+        director='Kamlesh K Mishra',producer='',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='',pgrating='',video_status='inactive',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+04/12/2018 22:20:14 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100012',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film \"Kitaab\", how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. Just imagine/but think, what will happen to him when his last reader gets entangled with electronic gadgets and deser',
+        duration='1478',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:25:31',shortdescription='',
+        director='Kamlesh K Mishra',producer='',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='',pgrating='',video_status='inactive',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+04/12/2018 22:24:07 | SUCCESS | Updtate MetaData(0_bhkwpgyy) | By-Biocine_ott503 | update entry set name='Kaaval Deivam ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_bhkwpgyy/version/100012',longdescription='Here we presenting  a short film \"KAAVAL DEIVAM\"\r\nOne day life of a Policewomen.\r\n\r\nCast: Saranya Ravi\r\nDirected By: Pushpanathan Arumugam\r\nWritten By: Pushpanathan Arumugam\r\nProduced By: Anand Anbu\r\n',
+        duration='871',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:29:24',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_bhkwpgyy'
+04/12/2018 22:27:20 | SUCCESS | Updtate MetaData(0_fw5plqnm) | By-Biocine_ott503 | update entry set name='Color of blinds',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_fw5plqnm/version/100012',longdescription='Here we are presenting \"Color of Blinds\"\r\nA lady who becomes blind due to some disease and a man who is born blind. The story is all about how the lady explains the color to the man and how the man feels it.\r\n\r\nCast: Aparna Sengupta and Spandan Das\r\nDirected By: Debapriya Chatterjee\r\nWritten By: Debapriya Chatterjee\r\nProduced By: Astoraag Films and Entertainments\r\n',
+        duration='1187',type='1',tag='short film, bengali, new, jeeoguru, best of short film, latest short film',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:32:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fw5plqnm'
+04/12/2018 22:30:01 | SUCCESS | Updtate MetaData(0_62clf92u) | By-Biocine_ott503 | update entry set name=' KHEER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_62clf92u/version/100012',longdescription='Here we are presenting short film  \" Kheer\" \r\nThe world is moving fast and we are being engulfed by ever increasing loneliness. But at some point in time, love-passion-hope still keeps us alive unconditionally. In this film, we just wanted to show the hope of waiting for our beloved ones as well as the joy of getting together after a long while in a very positive way. It is the belief that keeps this world alive. And this film all about the establishment of togetherness over increasing loneliness.\r\n\r\nCast: Subhas Chandra Ganguly, Rima Ganguly, Kankana Ganguly, Amit Roy, Surojit Mondal, Piku (The Dog)\r\nDirected By: Sukriti Saha\r\nWritten By: Amlan Lahiri\r\nProduced By: Avishek Saha\r\n',
+        duration='295',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:35:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_62clf92u'
+04/12/2018 22:36:53 | SUCCESS | Updtate MetaData(0_iggaynip) | By-Biocine_ott503 | update entry set name='AWA KAA AAA KHAA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_iggaynip/version/100012',longdescription='Here we are presenting a short film \"AWA KAA AAA KHAA\"\r\nA mental journey of two peoples\r\n\r\nCast:MOUSUMI, KARTISHA\r\nWritten By: SOURAV CHAKRABORTY\r\nDirected By: SOURAV CHAKRABORTY\r\nProduced By: SOURAV CHAKRABORTY\r\n',
+        duration='424',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:42:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_iggaynip'
+04/12/2018 17:10:19 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 22:40:39 | SUCCESS | Save New video(0_jbicylog) | By-Biocine_ott503 | 
+04/12/2018 22:45:35 | SUCCESS | Updtate MetaData(0_6280y8r5) | By-Biocine_ott503 | update entry set name='FALLING AGAIN',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_6280y8r5/version/100012',longdescription='Here we are presenting a short film \"FALLING AGAIN\"\r\nIt\'s hard to forget someone whom we love.\r\nCast:Aniket Bose, Banhishikha Basu\r\nWritten By: Abhishek Mallik\r\nDirected By:Akash Chatterjee\r\nProduced By: Akash Chatterjee',
+        duration='330',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:50:52',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='english',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6280y8r5'
+04/12/2018 22:47:50 | SUCCESS | Updtate MetaData(0_41gxr0l6) | By-Biocine_ott503 | update entry set name='LIGHTER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_41gxr0l6/version/100012',longdescription='Here we are presenting a short film\"Lighter\"\r\nLighter is a very dramatic short film.\r\nCast:Mafin, Subhajit\r\nWritten By:Sayantan mukherjee\r\nDirected By:Sayantan mukherjee\r\nProduced By:Sujay mukherjee',
+        duration='1404',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:53:06',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_41gxr0l6'
+04/12/2018 22:50:41 | SUCCESS | Updtate MetaData(0_xrtd80uz) | By-Biocine_ott503 | update entry set name='MR BEEJA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xrtd80uz/version/100012',longdescription='Mr Beeja is black and white experimental comedy silent short flick, it is an tribute silent era movies of early age(1894-1929), this movie also was shoot using those principles of basic camera shots and technical aspects like editing, music, vintage costumes and location. One day story of an innocent orphan named Mr Beeja at the period of 1920, mr beeja wakes up early morning and finishes his daily morning routuine and he meets a small kid who is crying and beeja try to console the kid and gets shocks after listening the reason behind kid cry and finally kid teases mr beeja after this beeja meets a fat guy on the way and beeja makes fun of fat guy about his food and fat guy run away later he meets a british lady who is in the search of an address and he will be engaged in explaining the address, all of us sudden two goons attacks the british lady, mr beeja saves her from his special talent , lady thanks him and exchange of few words taken place between beeja and lady.',
+        duration='584',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:55:57',shortdescription='',
+        director='N Vinayaka',producer='E Vinodh Kumar',cast='N Vinayaka',crew='',sub_genre='Drama',
+        language='English',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xrtd80uz'
+04/12/2018 22:53:02 | SUCCESS | Updtate MetaData(0_rw1l86ff) | By-Biocine_ott503 | update entry set name='Roadside Scientist',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_rw1l86ff/version/100012',longdescription='Here we are presenting a short film \"Roadside Scientist\". The film is about a scientist ‘Sukomol Basak’ from a remote place of Northern side of West Bengal state in India who invented a low cost self liquid dispensing system in 2005 in spite of a school drop out.Which is helpful for liquid industry revolution as well as water conservation.Water conservation is now a big issue globally & also for India where the wastage rate is too high.But the satire is after winning President Award for this innovation,no one helps him to promote his work or back him financially.He deserves much more than the present stage of poverty where the ‘Award’ is looking like a comedy show.Every year many grassroots ideas are born in India but failed to see the success,this is one kind of ‘Murder’.\r\n\r\nCast:Sukomol Basak\r\nWritten By: Diganta Dey\r\nDirected By: Diganta Dey\r\nProduced By: Diganta Dey\r\n\r\n',
+        duration='649',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 22:58:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rw1l86ff'
+04/12/2018 22:57:21 | SUCCESS | Updtate MetaData(0_04cxzf3x) | By-Biocine_ott503 | update entry set name='SATYADAR COACHING',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_04cxzf3x/version/100012',longdescription='Here we are presenting a comedy short film \"SATYADAR COACHING\"\r\n\r\nCast: Mir, Riddhi, Rajarshi, Krishna\r\nDirected By: Krishnendu Chatterjee\r\n',
+        duration='1500',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:02:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_04cxzf3x'
+04/12/2018 22:59:05 | SUCCESS | Updtate MetaData(0_dj4uj6rn) | By-Biocine_ott503 | update entry set name='SELF-ISSHHH',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_dj4uj6rn/version/100012',longdescription='Here we are presenting a short film \" SELF-ISSHHH\"\r\nA question that always remains at the back of our mind is that are we losing our own self just to keep pace with social media creating a virtual world around us. Are we getting entangled in complexities for the sake of short lived happiness? Are we moving apart from our being just to satisfy certain momentary relationships? Isn\'t such a progress confined in all respects?\r\n\r\nCast: Gaurav Mustafi, Rajen Babu\r\nWritten By:Subham Chaudhuri\r\nDirected By:Subham Chaudhuri\r\nProduced By: Subham Chaudhuri\r\n',
+        duration='1114',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:04:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_dj4uj6rn'
+04/12/2018 23:00:53 | SUCCESS | Updtate MetaData(0_amdeyhq0) | By-Biocine_ott503 | update entry set name='The Waltz',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_amdeyhq0/version/100012',longdescription='Here we are presenting a short film \" The Waltz\"\r\nSet in modern Calcutta, The Waltz is a lyrical unfolding of two elderly lives from two opposite social strata choked in the air of hopelessness.\r\n\r\nCast:Kalyan Chatterjee, Rumki Chatterjee\r\nWritten By:Sanjiban Nath\r\nDirected By:Sanjiban Nath\r\nProduced By:Bishakh Sen\r\n',
+        duration='568',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:06:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Silent ',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_amdeyhq0'
+04/12/2018 23:01:29 | SUCCESS | Updtate MetaData(0_1bow4w30) | By-Biocine_ott503 | update entry set name='UJANTALI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1bow4w30/version/100012',longdescription='Here we present a bengali short film Ujantali about Journey of an elderly lady who came to India at an early age but still has her soul living in Bangladesh\r\nCast & Crew: Chhanda Chatterjee,\r\nProducer: Tamal Chakraborti\r\nDirector:Som\r\nWriter:Som\r\n',
+        duration='1622',type='1',tag='bengali short film, ujantali, chhanda chatterjee, som, indian short film, award wining short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:06:46',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1bow4w30'
+04/12/2018 23:03:41 | SUCCESS | Updtate MetaData(0_2xmujst9) | By-Biocine_ott503 | update entry set name=' ARDHANTAR',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2xmujst9/version/100012',longdescription='Here we are presenting a short film \" ARDHANTAR\"\r\nShort film is realated to farmers suicide focusiong onn motivational facts and to attain positive attitude towards life.\r\n\r\nCast:Vijay Joshi, Prasanna gujjalwar, Bimod Mudhane \r\nWritten By: Dhanashri tekade\r\nDirected By: Niraj Jawake\r\nProduced By: Chetan Chaudhari\r\n\r\n',
+        duration='975',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, ardhantar',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:08:58',shortdescription='',
+        director='Niraj Jawake',producer='',cast='',crew='',sub_genre='Drama',
+        language='Marathi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2xmujst9'
+04/12/2018 23:05:31 | SUCCESS | Updtate MetaData(0_1czofhok) | By-Biocine_ott503 | update entry set name='DASTKHAT (SIGN)',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1czofhok/version/100012',longdescription='Here we are presenting a short film DASTKHAT (SIGN)\r\nDastkhat is a story about of a small kid who wants to make his father illiterate father educated. basically our story revolves around a thought that there is no age limit to get educated and every aged man or women should be educated.\r\n\r\nCast: Dhananjay Mandgaokar, Devyanshu Marathe (sahil)\r\nWritten By: Rajesh Dhawale\r\nDirected By: Rajesh Dhawale\r\nProduced By : Khan Saheb',
+        duration='360',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:10:47',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1czofhok'
+04/12/2018 17:36:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 23:08:11 | SUCCESS | Updtate MetaData(0_tvbd7gqw) | By-Biocine_ott503 | update entry set name=' ISHARA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_tvbd7gqw/version/100012',longdescription='Here we are presenting a short film Ishara\r\nA young news paper vendor fall into love with a girl whose family has taken a rented house in his locality very shortly. They started talking to each other through SMS. After a few days they Decide to meet. When they meet they feel that they are the perfect match for each other as both of them are dumb.\r\n\r\nCast: Partha Pratim Sarkar\r\nWritten By: Soumya Chatterjee\r\nDirected By:  Soumya Chatterjee\r\nProduced By Soumya Chatterjee',
+        duration='600',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:13:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_tvbd7gqw'
+04/12/2018 23:08:54 | SUCCESS | Slider image inactive(SliderID:29,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 23:09:51 | SUCCESS | Delete slider Image (29) | By-Biocine_ott503 | delete from slider_image_detail where img_id='29'
+04/12/2018 23:09:57 | SUCCESS | Delete slider Image (27) | By-Biocine_ott503 | delete from slider_image_detail where img_id='27'
+04/12/2018 23:10:34 | SUCCESS | Slider image inactive(SliderID:30,Status:inactive) | By-Biocine_ott503 | 
+04/12/2018 23:10:44 | SUCCESS | Slider image active(SliderID:35,Status:active) | By-Biocine_ott503 | 
+04/12/2018 23:11:55 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+04/12/2018 23:12:03 | SUCCESS | Updtate MetaData(0_2iv5vmrz) | By-Biocine_ott503 | update entry set name='Punorjanmo(The Rebirth )',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2iv5vmrz/version/100012',longdescription='Here we are presenting a short film \" Punorjanmo(The Rebirth )\"\r\n\r\nCast: Prasun Gayen, Basabdatta Chattopadhyay, \r\nWritten By: Sayantan Goray\r\nDirected By: Sayantan Goray\r\nProduced By : Sayantan Goray',
+        duration='1331',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:17:20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2iv5vmrz'
+04/12/2018 23:12:29 | SUCCESS | Updtate MetaData(0_tvbd7gqw) | By-Biocine_ott503 | update entry set name=' ISHARA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_tvbd7gqw/version/100012',longdescription='Here we are presenting a short film Ishara\r\nA young news paper vendor fall into love with a girl whose family has taken a rented house in his locality very shortly. They started talking to each other through SMS. After a few days they Decide to meet. When they meet they feel that they are the perfect match for each other as both of them are dumb.\r\n\r\nCast: Partha Pratim Sarkar\r\nWritten By: Soumya Chatterjee\r\nDirected By:  Soumya Chatterjee\r\nProduced By Soumya Chatterjee',
+        duration='600',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:17:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_tvbd7gqw'
+04/12/2018 23:14:42 | SUCCESS | Updtate MetaData(0_ztw2arx1) | By-Biocine_ott503 | update entry set name='The Chase',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ztw2arx1/version/100012',longdescription='Here we are presenting a short film \" The Chase\"\r\na platform a girl a boy rest is a big twist\r\n\r\nCast: Sounak Ray , Debopriya Chakraborty, Ayan Acharjee\r\nWritten By: Indranil Banerjee\r\nDirected By: ndranil Banerjee & Ayan Acharjee\r\nProduced By: unity pictures\r\n\r\n',
+        duration='355',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:19:59',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Silent',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ztw2arx1'
+04/12/2018 23:15:09 | SUCCESS | update Slider Detail(0_vqlv1ku0,'') | By-Biocine_ott503 | 
+04/12/2018 23:15:44 | SUCCESS | Updtate MetaData(0_2iv5vmrz) | By-Biocine_ott503 | update entry set name='Punorjanmo(The Rebirth )',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2iv5vmrz/version/100012',longdescription='Here we are presenting a short film \" Punorjanmo(The Rebirth )\"\r\nSet in contemporary suburb Calcutta, Punorjanma (Rebirth) is an emotional journey of Manab who has a strong disbelief towards his highly educated and beautiful wife Maya. One day something happens, that changes Manav completely.\r\n\r\nCast: Prasun Gayen, Basabdatta Chattopadhyay, \r\nWritten By: Sayantan Goray\r\nDirected By: Sayantan Goray\r\nProduced By : Sayantan Goray',
+        duration='1331',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:21:00',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2iv5vmrz'
+04/12/2018 23:15:58 | SUCCESS | Updtate MetaData(0_tvbd7gqw) | By-Biocine_ott503 | update entry set name=' ISHARA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_tvbd7gqw/version/100012',longdescription='Here we are presenting a short film Ishara\r\nA young news paper vendor fall into love with a girl whose family has taken a rented house in his locality very shortly. They started talking to each other through SMS. After a few days they Decide to meet. When they meet they feel that they are the perfect match for each other as both of them are dumb.\r\n\r\nCast: Partha Pratim Sarkar\r\nWritten By: Soumya Chatterjee\r\nDirected By:  Soumya Chatterjee\r\nProduced By Soumya Chatterjee',
+        duration='600',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:21:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_tvbd7gqw'
+04/12/2018 23:16:32 | SUCCESS | update Slider Detail(0_weyz55wh,'') | By-Biocine_ott503 | 
+04/12/2018 23:18:08 | SUCCESS | Updtate MetaData(0_7m35n8yv) | By-Biocine_ott503 | update entry set name='THE WAITING',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7m35n8yv/version/100012',longdescription='Here we are presenting a short film \" The Waiting\'\r\nA lonely old man’s fervent wish is to see his little grand daughter who is living in a foreign country. After waiting for many days, he gets to know that his daughter and grand daughter is likely to visit him. But when the news arrives, his health has deteriorated. Did he meet his grand daughter? Has his waiting been answered?\r\n\r\n\r\nCast:Krishnasamy Seshadri\r\nWritten By: Sabarivasan Shanmugam\r\nDirected By: Sabarivasan Shanmugam\r\nProduced By: Arunchandar Madhimohan, Sabarivasan Shanmugam\r\n',
+        duration='1406',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:23:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7m35n8yv'
+04/12/2018 23:21:02 | SUCCESS | Save Content Partner(0_5us5cziw,) | By-Biocine_ott503 | 
+04/12/2018 23:21:05 | SUCCESS | Updtate MetaData(0_oqvg2vv9) | By-Biocine_ott503 | update entry set name='WORK IN PROGRESS',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_oqvg2vv9/version/100012',longdescription='Here we are presenting a short film \"Work in progress\"\r\n\r\n\r\nCast:\r\nWritten By:\r\nDirected By:\r\nProduced By:\r\n',
+        duration='825',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='',categoryid='',
+        updated_at='2018-12-04 23:26:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_oqvg2vv9'
+04/12/2018 23:21:48 | SUCCESS | update Slider Detail(0_5us5cziw,'') | By-Biocine_ott503 | 
+04/12/2018 23:23:00 | SUCCESS | Updtate MetaData(0_z4nsm68i) | By-Biocine_ott503 | update entry set name='Leave Together Episode 2',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z4nsm68i/version/100022',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='778',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-04 23:28:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z4nsm68i'
+04/12/2018 23:24:16 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100012',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film \"Kitaab\", how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. Just imagine/but think, what will happen to him when his last reader gets entangled with electronic gadgets and deser',
+        duration='1478',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, kitaab, tom alter',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:29:33',shortdescription='',
+        director='Kamlesh K Mishra',producer='',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='',pgrating='',video_status='inactive',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+04/12/2018 23:26:08 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100012',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film \"Kitaab\", how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. Just imagine/but think, what will happen to him when his last reader gets entangled with electronic gadgets and deser',
+        duration='1478',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, kitaab, tom alter',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:31:25',shortdescription='',
+        director='Kamlesh K Mishra',producer='Kmalesh K Mishra',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='Hindi',pgrating='',video_status='inactive',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+04/12/2018 23:26:37 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100012',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film \"Kitaab\", how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. Just imagine/but think, what will happen to him when his last reader gets entangled with electronic gadgets and deser',
+        duration='1478',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, kitaab, tom alter',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:31:54',shortdescription='',
+        director='Kamlesh K Mishra',producer='Kmalesh K Mishra',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='Hindi',pgrating='',video_status='inactive',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+04/12/2018 23:27:59 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100012',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film \"Kitaab\", how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. ',
+        duration='1478',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, kitaab, tom alter',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:33:16',shortdescription='',
+        director='Kamlesh K Mishra',producer='',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='Hindi',pgrating='',video_status='inactive',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+04/12/2018 23:28:15 | SUCCESS | Save Access Control(0_xjue41pa) | By-Biocine_ott503 | 
+04/12/2018 23:28:28 | SUCCESS | Save Content Partner(0_xjue41pa,) | By-Biocine_ott503 | 
+04/12/2018 23:28:40 | SUCCESS | Save Age Restriction(0_xjue41pa,UA) | By-Biocine_ott503 | 
+04/12/2018 23:30:16 | SUCCESS | Updtate MetaData(0_z4nsm68i) | By-Biocine_ott503 | update entry set name='Leave Together | Episode 1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z4nsm68i/version/100022',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='778',type='1',tag='leave together, web series, hindi web series',category='',categoryid='',
+        updated_at='2018-12-04 23:35:33',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z4nsm68i'
+04/12/2018 23:35:04 | SUCCESS | Updtate MetaData(0_6280y8r5) | By-Biocine_ott503 | update entry set name='FALLING AGAIN',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_6280y8r5/version/100012',longdescription='Here we are presenting a short film\r\n\r\nCast:\r\nWritten By:\r\nDirected By:\r\nProduced By:\r\n\r\n',
+        duration='330',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:40:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6280y8r5'
+04/12/2018 23:48:12 | SUCCESS | Save Content Partner(0_2iv5vmrz,) | By-Biocine_ott503 | 
+04/12/2018 23:48:25 | SUCCESS | Save Access Control(0_2iv5vmrz) | By-Biocine_ott503 | 
+04/12/2018 23:48:44 | SUCCESS | Updtate MetaData(0_2iv5vmrz) | By-Biocine_ott503 | update entry set name='Punorjanmo(The Rebirth )',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2iv5vmrz/version/100012',longdescription='Here we are presenting a short film \" Punorjanmo(The Rebirth )\"\r\nSet in contemporary suburb Calcutta, Punorjanma (Rebirth) is an emotional journey of Manab who has a strong disbelief towards his highly educated and beautiful wife Maya. One day something happens, that changes Manav completely.\r\n\r\nCast: Prasun Gayen, Basabdatta Chattopadhyay, \r\nWritten By: Sayantan Goray\r\nDirected By: Sayantan Goray\r\nProduced By : Sayantan Goray',
+        duration='1331',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru',category='AWARDS',categoryid='536',
+        updated_at='2018-12-04 23:54:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_2iv5vmrz'
+04/12/2018 18:24:55 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/12/2018 23:56:00 | SUCCESS | Updtate MetaData(0_4yzvkygk) | By-Biocine_ott503 | update entry set name='Kaisa Tarika | Leave Together',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4yzvkygk/version/100012',longdescription='Lyrics & Composition: Soumit Deb\r\nArrangement & Recording: Nianjan Ghosh\r\nVocals : Paloma Majumder ',
+        duration='175',type='1',tag='',category='MUSIC>FILM',categoryid='311',
+        updated_at='2018-12-05 00:01:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4yzvkygk'
+04/12/2018 23:56:13 | SUCCESS | Save Access Control(0_4yzvkygk) | By-Biocine_ott503 | 
+04/12/2018 19:41:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

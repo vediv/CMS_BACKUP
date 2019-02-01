@@ -1,0 +1,34 @@
+31/10/2018 16:23:06 | SUCCESS | Add New Plan (saSA) | By-Jeeoguru_ott503 | 
+31/10/2018 16:24:24 | SUCCESS | Add New Plan (dsd) | By-Jeeoguru_ott503 | 
+31/10/2018 16:24:36 | SUCCESS | Plan inactive(planID:p842,Status:inactive) | By-Jeeoguru_ott503 | 
+31/10/2018 16:26:20 | SUCCESS | Plan active(planID:p262,Status:active) | By-Jeeoguru_ott503 | 
+31/10/2018 16:26:31 | SUCCESS | Plan inactive(planID:p262,Status:inactive) | By-Jeeoguru_ott503 | 
+31/10/2018 16:26:35 | SUCCESS | Delete Plan (p262) | By-Jeeoguru_ott503 | delete from plandetail where planID='p262'
+31/10/2018 16:26:37 | SUCCESS | Delete Plan (p307) | By-Jeeoguru_ott503 | delete from plandetail where planID='p307'
+31/10/2018 16:26:42 | SUCCESS | Plan active(planID:p842,Status:active) | By-Jeeoguru_ott503 | 
+31/10/2018 16:27:12 | SUCCESS | Plan inactive(planID:p842,Status:inactive) | By-Jeeoguru_ott503 | 
+31/10/2018 16:27:53 | SUCCESS | Add New Plan (new sub) | By-Jeeoguru_ott503 | 
+31/10/2018 16:28:08 | SUCCESS | Plan active(planID:p842,Status:active) | By-Jeeoguru_ott503 | 
+31/10/2018 16:31:38 | SUCCESS | Delete Plan (p934) | By-Jeeoguru_ott503 | delete from plandetail where planID='p934'
+31/10/2018 16:36:25 | SUCCESS | Plan inactive(planID:p842,Status:inactive) | By-Jeeoguru_ott503 | 
+31/10/2018 16:36:45 | SUCCESS | Add New Plan (new sub code) | By-Jeeoguru_ott503 | 
+31/10/2018 16:37:20 | SUCCESS | Delete Plan (p842) | By-Jeeoguru_ott503 | delete from plandetail where planID='p842'
+31/10/2018 16:37:30 | SUCCESS | Plan active(planID:p045,Status:active) | By-Jeeoguru_ott503 | 
+31/10/2018 16:38:01 | SUCCESS | Plan inactive(planID:p045,Status:inactive) | By-Jeeoguru_ott503 | 
+31/10/2018 16:38:21 | SUCCESS | Add New Plan (New Sub) | By-Jeeoguru_ott503 | 
+31/10/2018 16:38:29 | SUCCESS | Add New Plan (New Sub) | By-Jeeoguru_ott503 | 
+31/10/2018 16:38:37 | SUCCESS | Add New Plan (New Sub) | By-Jeeoguru_ott503 | 
+31/10/2018 16:39:56 | SUCCESS | Delete Plan (p261) | By-Jeeoguru_ott503 | delete from plandetail where planID='p261'
+31/10/2018 16:39:58 | SUCCESS | Delete Plan (p094) | By-Jeeoguru_ott503 | delete from plandetail where planID='p094'
+31/10/2018 16:40:01 | SUCCESS | Delete Plan (p045) | By-Jeeoguru_ott503 | delete from plandetail where planID='p045'
+31/10/2018 16:41:11 | SUCCESS | Add New Plan (New Sub code) | By-Jeeoguru_ott503 | 
+31/10/2018 16:42:41 | SUCCESS | Add New Plan (test sub) | By-Jeeoguru_ott503 | 
+31/10/2018 16:45:25 | SUCCESS | Add New Plan (new code) | By-Jeeoguru_ott503 | 
+31/10/2018 16:45:35 | SUCCESS | Plan active(planID:p017,Status:active) | By-Jeeoguru_ott503 | 
+31/10/2018 16:49:22 | SUCCESS | Add New Plan (newcc) | By-Jeeoguru_ott503 | 
+31/10/2018 16:51:15 | SUCCESS | Delete Plan (p495) | By-Jeeoguru_ott503 | delete from plandetail where planID='p495'
+31/10/2018 16:55:42 | SUCCESS | Delete Plan (p558) | By-Jeeoguru_ott503 | delete from plandetail where planID='p558'
+31/10/2018 16:55:45 | SUCCESS | Delete Plan (p637) | By-Jeeoguru_ott503 | delete from plandetail where planID='p637'
+31/10/2018 16:55:47 | SUCCESS | Delete Plan (p348) | By-Jeeoguru_ott503 | delete from plandetail where planID='p348'
+31/10/2018 16:56:12 | SUCCESS | Add New Plan (new subc) | By-Jeeoguru_ott503 | 
+31/10/2018 16:57:19 | SUCCESS | Add New Plan (new subc) | By-Jeeoguru_ott503 | 

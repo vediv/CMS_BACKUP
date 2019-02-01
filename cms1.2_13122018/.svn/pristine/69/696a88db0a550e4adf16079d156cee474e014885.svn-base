@@ -1,0 +1,66 @@
+25/07/2018 05:06:18 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 10:37:21 | SUCCESS | Register User inactive(UserID:544,Status:inactive) | By-Biocine_ott503 | 
+25/07/2018 05:37:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 05:49:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 12:20:45 | SUCCESS | Update Category(OTHERS) | By-Biocine_ott503 | update categories set cat_name='OTHERS',description='',tags='',fullname='MUSIC>ORIGINAL>OTHERS' where category_id='314'
+25/07/2018 12:21:40 | SUCCESS | Delete Video entry(0_ax9wjva3) | By-Biocine_ott503 | 
+25/07/2018 06:54:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 12:30:26 | SUCCESS | Delete Video entry(0_qodxm8sa) | By-Biocine_ott503 | 
+25/07/2018 12:30:48 | SUCCESS | Delete Video entry(0_xosrz1sr) | By-Biocine_ott503 | 
+25/07/2018 12:30:49 | SUCCESS | Delete Video entry(0_3s8s6z75) | By-Biocine_ott503 | 
+25/07/2018 12:31:11 | SUCCESS | Delete Video entry(0_vj8kpvsp) | By-Biocine_ott503 | 
+25/07/2018 12:31:12 | SUCCESS | Delete Video entry(0_wkio94c5) | By-Biocine_ott503 | 
+25/07/2018 12:31:36 | SUCCESS | Delete Video entry(0_21110w0h) | By-Biocine_ott503 | 
+25/07/2018 12:31:37 | SUCCESS | Delete Video entry(0_4dvug9iw) | By-Biocine_ott503 | 
+25/07/2018 12:31:37 | SUCCESS | Delete Video entry(0_93510nmj) | By-Biocine_ott503 | 
+25/07/2018 12:32:13 | SUCCESS | Delete Video entry(0_95loa79i) | By-Biocine_ott503 | 
+25/07/2018 12:32:13 | SUCCESS | Delete Video entry(0_fpiur0yw) | By-Biocine_ott503 | 
+25/07/2018 12:32:14 | SUCCESS | Delete Video entry(0_h9rgyg8q) | By-Biocine_ott503 | 
+25/07/2018 12:32:15 | SUCCESS | Delete Video entry(0_tp6uqcz6) | By-Biocine_ott503 | 
+25/07/2018 12:32:56 | SUCCESS | Delete Video entry(0_12adzb8k) | By-Biocine_ott503 | 
+25/07/2018 12:32:57 | SUCCESS | Delete Video entry(0_1l96s5l8) | By-Biocine_ott503 | 
+25/07/2018 12:33:26 | SUCCESS | Delete Video entry(0_jeq7jrjy) | By-Biocine_ott503 | 
+25/07/2018 07:08:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 07:15:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 09:33:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 10:55:08 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+25/07/2018 16:26:57 | SUCCESS | Save New video(0_l4el6h6n) | By-Biocine_ott503 | 
+25/07/2018 16:31:57 | SUCCESS | Updtate MetaData(0_l4el6h6n) | By-Biocine_ott503 | update entry set name='Caminandes 2',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l4el6h6n/version/100032',longdescription='Watch test Caminandes 2 animated video.',
+        duration='146',type='1',tag='test, cami, caminandes',category='ORIGINALS>WEB SERIES,MOVIES>CLASSIC,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='295,302,310',
+        updated_at='2018-07-25 16:35:23',shortdescription='Watch test Caminandes 2 animated video.',
+        director='Jeeoguru',producer='Biocine',cast='Planetcast',crew='ABCD',sub_genre='Animation',
+        language='English',pgrating='U/A',video_status='inactive',custom_data='{"Production Company":"TEST","Singer":"Testing","Composer":"XYZ","Lyricist":"Planet","Creater":"Planet12"}'
+        where entryid='0_l4el6h6n'
+25/07/2018 17:05:42 | SUCCESS | Save Plan(0_21czg1dm,0) | By-Biocine_ott503 | 
+25/07/2018 17:18:47 | SUCCESS | Header Menu inactive(HeaderID:38,Status:inactive) | By-Biocine_ott503 | 
+25/07/2018 17:36:17 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/7ZVNNF4TNCEF.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_7ZVNNF4TNCEF.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_7ZVNNF4TNCEF.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_7ZVNNF4TNCEF.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_7ZVNNF4TNCEF.jpg',updated_at=NOW() where category_id='302'
+25/07/2018 17:36:38 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/QMAG84MD5A2N.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_QMAG84MD5A2N.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_QMAG84MD5A2N.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_QMAG84MD5A2N.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_QMAG84MD5A2N.jpg',updated_at=NOW() where category_id='303'
+25/07/2018 17:38:02 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/U6J6GE6YGLNP.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_U6J6GE6YGLNP.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_U6J6GE6YGLNP.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_U6J6GE6YGLNP.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_U6J6GE6YGLNP.jpg',updated_at=NOW() where category_id='304'
+25/07/2018 17:38:23 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/B3M2WLJ21TTR.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_B3M2WLJ21TTR.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_B3M2WLJ21TTR.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_B3M2WLJ21TTR.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_B3M2WLJ21TTR.jpg',updated_at=NOW() where category_id='305'
+25/07/2018 17:38:51 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/6MEFLW2J05TI.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_6MEFLW2J05TI.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_6MEFLW2J05TI.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_6MEFLW2J05TI.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_6MEFLW2J05TI.jpg',updated_at=NOW() where category_id='306'
+25/07/2018 17:39:12 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/GPN2J2VU6PU8.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_GPN2J2VU6PU8.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_GPN2J2VU6PU8.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_GPN2J2VU6PU8.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_GPN2J2VU6PU8.jpg',updated_at=NOW() where category_id='307'
+25/07/2018 18:03:33 | SUCCESS | Updtate MetaData(0_va5swgpw) | By-Biocine_ott503 | update entry set name='Heavy Machinery',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_va5swgpw/version/100022',longdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        duration='276',type='1',tag='heavy, machinery, construction, work, equipment, vehicle, automobile, tools, machine, crane',category='MOVIES>ACTION',categoryid='307',
+        updated_at='2018-07-25 18:06:58',shortdescription='Watch the heavy equipment video which is specially designed for construction work.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_va5swgpw'
+25/07/2018 18:04:11 | SUCCESS | Updtate MetaData(0_lf01jppz) | By-Biocine_ott503 | update entry set name='Big Buck Bunny | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lf01jppz/version/100022',longdescription='Watch Short Film Big Buck Bunny.',
+        duration='5',type='1',tag='big, buck, bunny, animation',category='MOVIES>ACTION',categoryid='307',
+        updated_at='2018-07-25 18:07:37',shortdescription='Watch Short Film Big Buck Bunny.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_lf01jppz'
+25/07/2018 18:50:03 | SUCCESS | Sync Category | By-Biocine_ott503 | 

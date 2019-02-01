@@ -1,0 +1,2 @@
+15/01/2019 17:57:46 | SUCCESS | login-(varun) | By-varun_ott025 | 
+15/01/2019 17:58:59 | SUCCESS | delete Category(560) | By-varun_ott025 | update categories set status='3',priority='0' where category_id='560'

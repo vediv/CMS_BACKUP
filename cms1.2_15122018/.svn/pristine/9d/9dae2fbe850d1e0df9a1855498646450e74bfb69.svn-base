@@ -1,0 +1,49 @@
+02/04/2018 09:12:59 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/04/2018 09:26:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/04/2018 09:59:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+02/04/2018 15:31:08 | SUCCESS | Create New Category(WEB SERIES) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '295','294','1','110','WEB SERIES','ORIGINALS>WEB SERIES','294>295','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:31:30 | SUCCESS | Create New Category(FOOD) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '296','294','1','110','FOOD','ORIGINALS>FOOD','294>296','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:31:52 | SUCCESS | Create New Category(SHORT FILMS) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '297','294','1','110','SHORT FILMS','ORIGINALS>SHORT FILMS','294>297','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:32:12 | SUCCESS | Create New Category(GOSSIPS) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '298','294','1','110','GOSSIPS','ORIGINALS>GOSSIPS','294>298','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:32:36 | SUCCESS | Create New Category(MUSIC) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '299','294','1','110','MUSIC','ORIGINALS>MUSIC','294>299','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:34:15 | SUCCESS | Create New Category(CLASSIC) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '302','301','1','110','CLASSIC','MOVIES>CLASSIC','301>302','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:34:48 | SUCCESS | Create New Category(THRILLER) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '303','301','1','110','THRILLER','MOVIES>THRILLER','301>303','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:35:28 | SUCCESS | Create New Category(ROMANTIC) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '304','301','1','110','ROMANTIC','MOVIES>ROMANTIC','301>304','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:36:18 | SUCCESS | Create New Category(HORROR) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '305','301','1','110','HORROR','MOVIES>HORROR','301>305','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:36:44 | SUCCESS | Create New Category(COMEDY) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '306','301','1','110','COMEDY','MOVIES>COMEDY','301>306','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:37:12 | SUCCESS | Create New Category(ACTION) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '307','301','1','110','ACTION','MOVIES>ACTION','301>307','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:39:35 | SUCCESS | Create New Category(ORIGINAL) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '309','308','1','110','ORIGINAL','MUSIC>ORIGINAL','308>309','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:40:20 | SUCCESS | Create New Category(SHOCK STUDIO) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '310','309','2','110','SHOCK STUDIO','MUSIC>ORIGINAL>SHOCK STUDIO','308>309>310','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:42:09 | SUCCESS | Create New Category(FILM) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '311','308','1','110','FILM','MUSIC>FILM','308>311','0','0','','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+02/04/2018 15:46:43 | SUCCESS | Add New Header Content(ORIGINALS) | By-Biocine_ott503 | 
+02/04/2018 15:46:51 | SUCCESS | Add New Header Content(LIVE) | By-Biocine_ott503 | 
+02/04/2018 15:48:17 | SUCCESS | Add New Header Content(HOME) | By-Biocine_ott503 | 
+02/04/2018 15:48:31 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+02/04/2018 15:48:42 | SUCCESS | Header Content priority Set | By-Biocine_ott503 | 
+02/04/2018 15:49:01 | SUCCESS | Add New Header Content(MOVIES) | By-Biocine_ott503 | 
+02/04/2018 15:49:08 | SUCCESS | Add New Header Content(MUSIC) | By-Biocine_ott503 | 
+02/04/2018 15:49:21 | SUCCESS | Add New Header Content(KIDS) | By-Biocine_ott503 | 
+02/04/2018 15:49:27 | SUCCESS | Add New Header Content(BAZAAR) | By-Biocine_ott503 | 
+02/04/2018 15:49:34 | SUCCESS | Add New Header Content(CONTACT US) | By-Biocine_ott503 | 
+02/04/2018 15:49:40 | SUCCESS | Header Menu active(HeaderID:25,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:49:45 | SUCCESS | Header Menu active(HeaderID:23,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:49:47 | SUCCESS | Header Menu active(HeaderID:24,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:49:50 | SUCCESS | Header Menu active(HeaderID:26,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:49:53 | SUCCESS | Header Menu active(HeaderID:27,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:49:55 | SUCCESS | Header Menu active(HeaderID:28,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:49:58 | SUCCESS | Header Menu active(HeaderID:29,Status:active) | By-Biocine_ott503 | 
+02/04/2018 15:50:02 | SUCCESS | Header Menu active(HeaderID:30,Status:active) | By-Biocine_ott503 | 

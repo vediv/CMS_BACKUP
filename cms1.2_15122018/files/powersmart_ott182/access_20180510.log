@@ -1,0 +1,246 @@
+10/05/2018 04:21:16 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 04:24:54 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 10:04:44 | SUCCESS | Updtate MetaData(0_6303cov4) | By-PowerSmart_ott182 | update entry set name='Latest.mp4',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6303cov4/version/100032',longdescription='',
+        duration='2734',type='1',tag='',category='SPORTS',categoryid='326',
+        updated_at='2018-05-10 10:07:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6303cov4'
+10/05/2018 10:06:20 | SUCCESS | Updtate MetaData(0_y73ialbo) | By-PowerSmart_ott182 | update entry set name='One-stop for the entire world\'s hot',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_y73ialbo/version/100032',longdescription='Now it\'s easy to know everything about what\'s happening in the entire world with our app!',
+        duration='1102',type='1',tag='world news, international news, world',category='WORLD,LIFESTYLE',categoryid='324,330',
+        updated_at='2018-05-10 10:08:40',shortdescription='manisha',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_y73ialbo'
+10/05/2018 10:07:54 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+10/05/2018 10:08:50 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+10/05/2018 10:09:32 | SUCCESS | Home Setting active(HomeID:7,Status:active) | By-PowerSmart_ott182 | 
+10/05/2018 10:11:03 | SUCCESS | Updtate MetaData(0_dy34qrzm) | By-PowerSmart_ott182 | update entry set name='Top news updates in India everyday',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_dy34qrzm/version/100032',longdescription='India is a country which is developing rapidly and also, makes news every now and then. We let you know every news India makes!',
+        duration='1029',type='1',tag='news in india, india news updates, india latest, india, bon voyage',category='INDIA',categoryid='325',
+        updated_at='2018-05-10 10:13:23',shortdescription='manisha',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_dy34qrzm'
+10/05/2018 10:12:21 | SUCCESS | Updtate MetaData(0_5709gn6j) | By-PowerSmart_ott182 | update entry set name='Lifestyle news for you to help your',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_5709gn6j/version/100032',longdescription='Trust us, your lifestyle is going to get  better day-by-day after you make checking out this section, part of your lifestyle!',
+        duration='1213',type='1',tag='lifestyle, lifestyle updates, lifestyle news, lifestyle latest',category='LIFESTYLE,INDIA,TECHNOLOGY,SPORTS,WORLD,BUSINESS,ENTERTAINMENT',categoryid='330,325,329,326,324,327,328',
+        updated_at='2018-05-10 10:14:42',shortdescription='manisha',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_5709gn6j'
+10/05/2018 10:12:53 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 10:15:56 | SUCCESS | Updtate MetaData(0_6303cov4) | By-PowerSmart_ott182 | update entry set name='Latest.mp4',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6303cov4/version/100032',longdescription='',
+        duration='2734',type='1',tag='top stories',category='SPORTS',categoryid='326',
+        updated_at='2018-05-10 10:18:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6303cov4'
+10/05/2018 10:16:01 | SUCCESS | Updtate MetaData(0_0hueoxhr) | By-PowerSmart_ott182 | update entry set name='Sports News a Sports fanatic can\'t',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_0hueoxhr/version/100032',longdescription='Whatever your favorite game, get every news right here.',
+        duration='1518',type='1',tag='sports, cricket, players',category='SPORTS',categoryid='326',
+        updated_at='2018-05-10 10:18:22',shortdescription='manisha',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_0hueoxhr'
+10/05/2018 10:16:24 | SUCCESS | Updtate MetaData(0_8ddmp74d) | By-PowerSmart_ott182 | update entry set name='From Sandalwood to Hollywood',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_8ddmp74d/version/100032',longdescription='We know the importance of Entertainment and hence we are here to give you some. Later news of Music, Films, etc., at the earliest.',
+        duration='1134',type='1',tag='sandalwood, bollywood, hollywood, kannada films',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-10 10:18:45',shortdescription='manisha',
+        director='a',producer='c',cast='e',crew='g',sub_genre='Juniors',
+        language='French',pgrating='U/A',video_status='active',puser_id='',custom_data=''
+        where entryid='0_8ddmp74d'
+10/05/2018 04:48:24 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 10:18:58 | SUCCESS | Updtate MetaData(0_0hueoxhr) | By-PowerSmart_ott182 | update entry set name='Sports News a Sports fanatic can\'t',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_0hueoxhr/version/100032',longdescription='Whatever your favorite game, get every news right here.',
+        duration='1518',type='1',tag='sports, cricket, players, ts2018',category='SPORTS',categoryid='326',
+        updated_at='2018-05-10 10:21:18',shortdescription='manisha',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='NULL',
+        language='NULL',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_0hueoxhr'
+10/05/2018 10:19:33 | SUCCESS | Save Thumbnail(0_vnvh8q6f) | By-PowerSmart_ott182 | 
+10/05/2018 10:20:51 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+10/05/2018 04:57:40 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 04:59:36 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 05:03:59 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 10:34:58 | SUCCESS | Save New video(0_a1hi4o2a) | By-PowerSmart_ott182 | 
+10/05/2018 10:35:18 | SUCCESS | Delete Video entry(0_a1hi4o2a) | By-PowerSmart_ott182 | 
+10/05/2018 10:35:58 | SUCCESS | update HomeSettingTag Detail(bon voyage) | By-PowerSmart_ott182 | 
+10/05/2018 10:36:07 | SUCCESS | update HomeSettingTag Detail(Top Stories) | By-PowerSmart_ott182 | 
+10/05/2018 10:36:20 | SUCCESS | update HomeSettingTag Detail(home vip) | By-PowerSmart_ott182 | 
+10/05/2018 10:36:49 | SUCCESS | Save New video(0_raiznafk) | By-PowerSmart_ott182 | 
+10/05/2018 10:39:35 | SUCCESS | Updtate MetaData(0_6303cov4) | By-PowerSmart_ott182 | update entry set name=' Be the first to know the latest',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6303cov4/version/100032',longdescription='The world is getting quick at everything and so are we. We help you to be in the know by giving you the latest news from around the world.',
+        duration='2734',type='1',tag='top stories, latest news, latest, latest in india',category='SPORTS',categoryid='326',
+        updated_at='2018-05-10 10:41:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_6303cov4'
+10/05/2018 10:39:45 | SUCCESS | Delete Video entry(0_raiznafk) | By-PowerSmart_ott182 | 
+10/05/2018 10:40:44 | SUCCESS | Save New video(0_wc4vmm4y) | By-PowerSmart_ott182 | 
+10/05/2018 10:42:48 | SUCCESS | Updtate MetaData(0_wc4vmm4y) | By-PowerSmart_ott182 | update entry set name='newtest.mp4',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_wc4vmm4y/version/100032',longdescription='',
+        duration='30',type='1',tag='bon, home, ts',category='',categoryid='',
+        updated_at='2018-05-10 10:45:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_wc4vmm4y'
+10/05/2018 10:49:19 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 10:52:30 | SUCCESS | Save New video(0_nc29qalf) | By-PowerSmart_ott182 | 
+10/05/2018 10:52:49 | SUCCESS | Delete Video entry(0_nc29qalf) | By-PowerSmart_ott182 | 
+10/05/2018 10:53:46 | SUCCESS | Save New video(0_3zexavk8) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:04 | SUCCESS | Delete Video entry(0_uuo23bu9) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:05 | SUCCESS | Delete Video entry(0_g8j122yj) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:07 | SUCCESS | Delete Video entry(0_atst29sl) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:09 | SUCCESS | Delete Video entry(0_dnkd90ya) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:10 | SUCCESS | Delete Video entry(0_3zsosndm) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:12 | SUCCESS | Delete Video entry(0_rf19oiyo) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:13 | SUCCESS | Delete Video entry(0_5d2xpn2w) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:15 | SUCCESS | Delete Video entry(0_vnvh8q6f) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:17 | SUCCESS | Delete Video entry(0_dqe9dhgt) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:18 | SUCCESS | Delete Video entry(0_ozteglhw) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:20 | SUCCESS | Delete Video entry(0_ipx7gj9a) | By-PowerSmart_ott182 | 
+10/05/2018 10:54:24 | SUCCESS | Save Thumbnail(0_wc4vmm4y) | By-PowerSmart_ott182 | 
+10/05/2018 10:57:15 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 10:58:02 | SUCCESS | Delete Video entry(0_3zexavk8) | By-PowerSmart_ott182 | 
+10/05/2018 10:59:16 | SUCCESS | Save New video(0_j97mwy8d) | By-PowerSmart_ott182 | 
+10/05/2018 11:00:01 | SUCCESS | Delete Video entry(0_j97mwy8d) | By-PowerSmart_ott182 | 
+10/05/2018 05:43:11 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 05:50:28 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 11:28:56 | SUCCESS | Delete Video entry(0_wc4vmm4y) | By-PowerSmart_ott182 | 
+10/05/2018 06:06:32 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 11:41:36 | SUCCESS | update Header Content Detail(WORLD) | By-PowerSmart_ott182 | 
+10/05/2018 11:42:02 | SUCCESS | Header Menu inactive(HeaderID:42,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 11:42:05 | SUCCESS | Delete Menu Header (42) | By-PowerSmart_ott182 | DELETE FROM header_menu WHERE hid='42'
+10/05/2018 11:57:56 | SUCCESS | Save Thumbnail(0_6303cov4) | By-PowerSmart_ott182 | 
+10/05/2018 11:58:13 | SUCCESS | Save Thumbnail(0_0hueoxhr) | By-PowerSmart_ott182 | 
+10/05/2018 11:58:55 | SUCCESS | Save Thumbnail(0_y73ialbo) | By-PowerSmart_ott182 | 
+10/05/2018 11:59:23 | SUCCESS | Save Thumbnail(0_8ddmp74d) | By-PowerSmart_ott182 | 
+10/05/2018 11:59:56 | SUCCESS | Save Thumbnail(0_dy34qrzm) | By-PowerSmart_ott182 | 
+10/05/2018 12:00:19 | SUCCESS | Save Thumbnail(0_5709gn6j) | By-PowerSmart_ott182 | 
+10/05/2018 12:00:28 | SUCCESS | Home Setting inactive(HomeID:7,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 12:00:30 | SUCCESS | Delete HomeSettingTag (7) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='7'
+10/05/2018 12:00:33 | SUCCESS | Home Setting inactive(HomeID:10,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 12:00:35 | SUCCESS | Delete HomeSettingTag (10) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='10'
+10/05/2018 12:00:40 | SUCCESS | Home Setting priority Set | By-PowerSmart_ott182 | 
+10/05/2018 06:32:06 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 12:35:10 | SUCCESS | Register User inactive(UserID:173,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 12:35:16 | SUCCESS | Register User active(UserID:173,Status:active) | By-PowerSmart_ott182 | 
+10/05/2018 07:15:28 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 13:41:49 | SUCCESS | Save New video(0_wy8n8k15) | By-PowerSmart_ott182 | 
+10/05/2018 08:16:34 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 13:51:31 | SUCCESS | Save New video(0_7shs01ei) | By-PowerSmart_ott182 | 
+10/05/2018 08:25:08 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 13:57:20 | SUCCESS | Save New video(0_ykvqu1p3) | By-PowerSmart_ott182 | 
+10/05/2018 13:57:59 | SUCCESS | Updtate MetaData(0_7shs01ei) | By-PowerSmart_ott182 | update entry set name='Entertainment for Life',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_7shs01ei/version/100022',longdescription='Get the latest updates of the entertainment industry.',
+        duration='169',type='1',tag='entertainment, films, samdalwood news, bollywood news, music',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-10 14:00:20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_7shs01ei'
+10/05/2018 13:58:14 | SUCCESS | Updtate MetaData(0_wy8n8k15) | By-PowerSmart_ott182 | update entry set name='Entertainment for Life',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_wy8n8k15/version/100032',longdescription='Get the latest updates of the entertainment industry.',
+        duration='179',type='1',tag='entertainment, films, samdalwood news, bollywood news, music',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-10 14:00:34',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_wy8n8k15'
+10/05/2018 14:19:56 | SUCCESS | Register User inactive(UserID:264,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 14:19:59 | SUCCESS | Register User active(UserID:264,Status:active) | By-PowerSmart_ott182 | 
+10/05/2018 14:20:17 | SUCCESS | Add New HomeSettingTag( ) | By-PowerSmart_ott182 | 
+10/05/2018 14:20:30 | SUCCESS | Home Setting active(HomeID:11,Status:active) | By-PowerSmart_ott182 | 
+10/05/2018 14:26:11 | SUCCESS | Updtate MetaData(0_8ddmp74d) | By-PowerSmart_ott182 | update entry set name='From Sandalwood to Hollywood',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_8ddmp74d/version/100042',longdescription='We know the importance of Entertainment and hence we are here to give you some. Later news of Music, Films, etc., at the earliest.',
+        duration='1134',type='1',tag='sandalwood, bollywood, hollywood, kannada films',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-10 14:28:31',shortdescription='',
+        director='a',producer='c',cast='e',crew='g',sub_genre='Juniors',
+        language='French',pgrating='U/A',video_status='active',puser_id='',custom_data=''
+        where entryid='0_8ddmp74d'
+10/05/2018 14:28:40 | SUCCESS | Header Menu inactive(HeaderID:55,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 14:28:43 | SUCCESS | Delete Menu Header (55) | By-PowerSmart_ott182 | DELETE FROM header_menu WHERE hid='55'
+10/05/2018 14:28:46 | SUCCESS | Header Menu inactive(HeaderID:53,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 14:28:48 | SUCCESS | Delete Menu Header (53) | By-PowerSmart_ott182 | DELETE FROM header_menu WHERE hid='53'
+10/05/2018 14:29:26 | SUCCESS | Header Menu inactive(HeaderID:54,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 14:29:29 | SUCCESS | Delete Menu Header (54) | By-PowerSmart_ott182 | DELETE FROM header_menu WHERE hid='54'
+10/05/2018 14:30:00 | SUCCESS | Header Menu inactive(HeaderID:51,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 14:30:02 | SUCCESS | Delete Menu Header (51) | By-PowerSmart_ott182 | DELETE FROM header_menu WHERE hid='51'
+10/05/2018 14:31:49 | SUCCESS | Sync New Category(TAMIL) | By-PowerSmart_ott182 | 
+10/05/2018 14:31:55 | SUCCESS | delete Category(374) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='374'
+10/05/2018 14:31:59 | SUCCESS | delete Category(363) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='364' and parent_id='363'
+10/05/2018 14:32:10 | SUCCESS | delete Category(359) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='360' and parent_id='359'
+10/05/2018 14:32:17 | SUCCESS | delete Category(352) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='353' and parent_id='352'
+10/05/2018 14:32:25 | SUCCESS | delete Category(352) | By-PowerSmart_ott182 | 
+10/05/2018 14:34:21 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 14:34:31 | SUCCESS | delete Category(344) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='344'
+10/05/2018 14:34:37 | SUCCESS | delete Category(342) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='342'
+10/05/2018 14:34:57 | SUCCESS | delete Category(341) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='341'
+10/05/2018 14:35:51 | SUCCESS | delete Category(335) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='335'
+10/05/2018 14:36:03 | SUCCESS | delete Category(331) | By-PowerSmart_ott182 | DELETE FROM categories where category_id='331'
+10/05/2018 14:36:08 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 14:37:12 | SUCCESS | Delete Footer Content (2) | By-PowerSmart_ott182 | DELETE FROM dashbord_footer WHERE f_id='2'
+10/05/2018 14:37:43 | SUCCESS | Delete Footer Content (4) | By-PowerSmart_ott182 | DELETE FROM dashbord_footer WHERE f_id='4'
+10/05/2018 14:40:47 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 14:41:37 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 14:44:38 | SUCCESS | Sync Category | By-PowerSmart_ott182 | 
+10/05/2018 14:58:21 | SUCCESS | update HomeSettingTag Detail( ) | By-PowerSmart_ott182 | 
+10/05/2018 14:59:19 | SUCCESS | Save New video(0_z1669olk) | By-PowerSmart_ott182 | 
+10/05/2018 15:06:44 | SUCCESS | Save New video(0_xa3tqxnf) | By-PowerSmart_ott182 | 
+10/05/2018 15:07:30 | SUCCESS | Save New video(0_d3274cxk) | By-PowerSmart_ott182 | 
+10/05/2018 15:08:20 | SUCCESS | Save New video(0_aiscfsx1) | By-PowerSmart_ott182 | 
+10/05/2018 15:09:03 | SUCCESS | Save New video(0_m3833n03) | By-PowerSmart_ott182 | 
+10/05/2018 15:09:47 | SUCCESS | Save New video(0_6lxie8pl) | By-PowerSmart_ott182 | 
+10/05/2018 15:11:05 | SUCCESS | Save New video(0_r9g2qn59) | By-PowerSmart_ott182 | 
+10/05/2018 15:15:14 | SUCCESS | Save New video(0_uvzpzs25) | By-PowerSmart_ott182 | 
+10/05/2018 15:15:58 | SUCCESS | Save New video(0_j2cauiik) | By-PowerSmart_ott182 | 
+10/05/2018 15:16:39 | SUCCESS | Save New video(0_4rl0m1u0) | By-PowerSmart_ott182 | 
+10/05/2018 15:21:09 | SUCCESS | Save New video(0_sclmzeyp) | By-PowerSmart_ott182 | 
+10/05/2018 15:21:10 | SUCCESS | Save New video(0_bkxyecs4) | By-PowerSmart_ott182 | 
+10/05/2018 15:21:31 | SUCCESS | Save New video(0_5vqa2iga) | By-PowerSmart_ott182 | 
+10/05/2018 09:53:30 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 09:55:15 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+10/05/2018 15:25:44 | SUCCESS | Save New video(0_8vu2p3km) | By-PowerSmart_ott182 | 
+10/05/2018 15:26:52 | SUCCESS | Save New video(0_893tdmfp) | By-PowerSmart_ott182 | 
+10/05/2018 15:27:17 | SUCCESS | Save New video(0_443gbmih) | By-PowerSmart_ott182 | 
+10/05/2018 15:27:17 | SUCCESS | Save New video(0_lswt3a29) | By-PowerSmart_ott182 | 
+10/05/2018 15:33:39 | SUCCESS | Save New video(0_wgfzr08u) | By-PowerSmart_ott182 | 
+10/05/2018 15:33:52 | SUCCESS | Save New video(0_1mn5swdt) | By-PowerSmart_ott182 | 
+10/05/2018 15:33:52 | SUCCESS | Save New video(0_wmwuf6ny) | By-PowerSmart_ott182 | 
+10/05/2018 15:34:06 | SUCCESS | Updtate MetaData(0_d3274cxk) | By-PowerSmart_ott182 | update entry set name='Entertainment for Life',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_d3274cxk/version/100002',longdescription='Get the latest updates of the entertainment industry',
+        duration='218',type='1',tag='entertainment, films, samdalwood news, bollywood news, music',category='',categoryid='',
+        updated_at='2018-05-10 15:36:26',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_d3274cxk'
+10/05/2018 15:35:22 | SUCCESS | Save New video(0_3lghjxxg) | By-PowerSmart_ott182 | 
+10/05/2018 15:41:26 | SUCCESS | Save New video(0_io5is9kw) | By-PowerSmart_ott182 | 
+10/05/2018 15:51:46 | SUCCESS | Save New video(0_htouftyf) | By-PowerSmart_ott182 | 
+10/05/2018 15:52:19 | SUCCESS | Save New video(0_xkgki1yz) | By-PowerSmart_ott182 | 
+10/05/2018 15:52:21 | SUCCESS | Save New video(0_ha6sqvg8) | By-PowerSmart_ott182 | 
+10/05/2018 15:52:22 | SUCCESS | Save New video(0_rew1039x) | By-PowerSmart_ott182 | 
+10/05/2018 15:52:22 | SUCCESS | Save New video(0_yhpaerg7) | By-PowerSmart_ott182 | 
+10/05/2018 15:53:10 | SUCCESS | Save New video(0_gcozdx3v) | By-PowerSmart_ott182 | 
+10/05/2018 15:57:11 | SUCCESS | Save New video(0_5trbtjoc) | By-PowerSmart_ott182 | 
+10/05/2018 15:57:12 | SUCCESS | Save New video(0_4bukk472) | By-PowerSmart_ott182 | 
+10/05/2018 15:58:58 | SUCCESS | Save New video(0_nee1a012) | By-PowerSmart_ott182 | 
+10/05/2018 16:00:47 | SUCCESS | Save New video(0_cdmbnvkr) | By-PowerSmart_ott182 | 
+10/05/2018 16:00:47 | SUCCESS | Save New video(0_tqj2xuip) | By-PowerSmart_ott182 | 
+10/05/2018 16:05:05 | SUCCESS | Save New video(0_pga3s2lp) | By-PowerSmart_ott182 | 
+10/05/2018 16:09:11 | SUCCESS | Save New video(0_m3gsywyq) | By-PowerSmart_ott182 | 
+10/05/2018 16:09:15 | SUCCESS | Save New video(0_4ixclobm) | By-PowerSmart_ott182 | 
+10/05/2018 16:10:00 | SUCCESS | Save New video(0_itol7gdk) | By-PowerSmart_ott182 | 
+10/05/2018 16:10:00 | SUCCESS | Save New video(0_edivvh63) | By-PowerSmart_ott182 | 
+10/05/2018 16:11:00 | SUCCESS | Save New video(0_5nd68e3o) | By-PowerSmart_ott182 | 
+10/05/2018 16:11:26 | SUCCESS | Home Setting inactive(HomeID:11,Status:inactive) | By-PowerSmart_ott182 | 
+10/05/2018 16:12:59 | SUCCESS | Save New video(0_47si0oo7) | By-PowerSmart_ott182 | 
+10/05/2018 16:21:16 | SUCCESS | Save New video(0_nir58xkn) | By-PowerSmart_ott182 | 
+10/05/2018 16:33:33 | SUCCESS | Save New video(0_yyrdffti) | By-PowerSmart_ott182 | 
+10/05/2018 16:33:33 | SUCCESS | Save New video(0_mgpjh287) | By-PowerSmart_ott182 | 
+10/05/2018 16:42:26 | SUCCESS | Updtate MetaData(0_8ddmp74d) | By-PowerSmart_ott182 | update entry set name='From Sandalwood to Hollywood',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_8ddmp74d/version/100042',longdescription='We know the importance of Entertainment and hence we are here to give you some. Later news of Music, Films, etc., at the earliest.',
+        duration='1134',type='1',tag='sandalwood, bollywood, hollywood, kannada films, ts',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-10 16:44:47',shortdescription='',
+        director='a',producer='c',cast='e',crew='g',sub_genre='Juniors',
+        language='French',pgrating='U/A',video_status='active',puser_id='',custom_data=''
+        where entryid='0_8ddmp74d'
+10/05/2018 16:43:31 | SUCCESS | Updtate MetaData(0_8ddmp74d) | By-PowerSmart_ott182 | update entry set name='From Sandalwood to Hollywood',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_8ddmp74d/version/100042',longdescription='We know the importance of Entertainment and hence we are here to give you some. Later news of Music, Films, etc., at the earliest.',
+        duration='1134',type='1',tag='sandalwood, bollywood, hollywood, kannada films, ts',category='ENTERTAINMENT',categoryid='328',
+        updated_at='2018-05-10 16:45:52',shortdescription='',
+        director='a',producer='c',cast='e',crew='g',sub_genre='Juniors',
+        language='French',pgrating='U/A',video_status='active',puser_id='',custom_data=''
+        where entryid='0_8ddmp74d'
+10/05/2018 17:10:17 | SUCCESS | Save New video(0_hbb324s9) | By-PowerSmart_ott182 | 
+10/05/2018 17:10:17 | SUCCESS | Save New video(0_gb4q0u0a) | By-PowerSmart_ott182 | 
+10/05/2018 17:10:43 | SUCCESS | Save New video(0_6vkizpd7) | By-PowerSmart_ott182 | 
+10/05/2018 17:45:39 | SUCCESS | Add New HomeSettingTag(q) | By-PowerSmart_ott182 | 
+10/05/2018 17:48:15 | SUCCESS | Delete HomeSettingTag (12) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='12'
+10/05/2018 12:48:40 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 

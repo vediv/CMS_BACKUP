@@ -1,0 +1,102 @@
+03/05/2018 05:55:45 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+03/05/2018 06:04:08 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+03/05/2018 11:45:23 | SUCCESS | Add New Dashboard user (ms) | By-PowerSmart_ott182 | 
+03/05/2018 11:45:56 | SUCCESS | Add New Dashboard user (aj) | By-PowerSmart_ott182 | 
+03/05/2018 06:28:00 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+03/05/2018 11:59:13 | SUCCESS | Add New Dashboard user (test) | By-PowerSmart_ott182 | 
+03/05/2018 12:22:37 | SUCCESS | Add New Dashboard user (mg) | By-PowerSmart_ott182 | 
+03/05/2018 12:24:29 | SUCCESS | update Dashboard user(test) | By-PowerSmart_ott182 | 
+03/05/2018 12:27:39 | SUCCESS | Add New Dashboard user (sdsd) | By-PowerSmart_ott182 | 
+03/05/2018 12:28:22 | SUCCESS | Add New Dashboard user (r) | By-PowerSmart_ott182 | 
+03/05/2018 12:33:49 | SUCCESS | Updtate MetaData(0_u04a6d8k) | By-PowerSmart_ott182 | update entry set name='1991.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_u04a6d8k/version/100002',longdescription='',
+        duration='3',type='1',tag='',category='',categoryid='',
+        updated_at='2018-05-03 12:36:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',puser_id='107',custom_data=''
+        where entryid='0_u04a6d8k'
+03/05/2018 12:37:23 | SUCCESS | Add New Header Content(PRIVACY POLICY) | By-PowerSmart_ott182 | 
+03/05/2018 12:39:07 | SUCCESS | Header Menu active(HeaderID:52,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 12:39:48 | SUCCESS | update Header Content Detail(ABOUT US) | By-PowerSmart_ott182 | 
+03/05/2018 12:40:30 | SUCCESS | update Header Content Detail(ABOUT US) | By-PowerSmart_ott182 | 
+03/05/2018 12:40:48 | SUCCESS | update Header Content Detail(ABOUT US) | By-PowerSmart_ott182 | 
+03/05/2018 12:41:05 | SUCCESS | update Header Content Detail(ABOUT US) | By-PowerSmart_ott182 | 
+03/05/2018 12:45:25 | SUCCESS | update Header Content Detail(ABOUT US) | By-PowerSmart_ott182 | 
+03/05/2018 12:46:58 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+03/05/2018 07:17:00 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+03/05/2018 12:47:42 | SUCCESS | Header Content priority Set | By-PowerSmart_ott182 | 
+03/05/2018 12:47:53 | SUCCESS | Header Menu inactive(HeaderID:48,Status:inactive) | By-PowerSmart_ott182 | 
+03/05/2018 12:47:57 | SUCCESS | Header Menu active(HeaderID:48,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 12:48:12 | SUCCESS | Header Menu inactive(HeaderID:52,Status:inactive) | By-PowerSmart_ott182 | 
+03/05/2018 12:48:17 | SUCCESS | Delete Menu Header (52) | By-PowerSmart_ott182 | DELETE FROM header_menu WHERE hid='52'
+03/05/2018 12:49:27 | SUCCESS | Add New Header Content(LIFESTYLE) | By-PowerSmart_ott182 | 
+03/05/2018 12:49:36 | SUCCESS | Header Menu active(HeaderID:53,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 12:50:00 | SUCCESS | Add New Header Content(WORLD) | By-PowerSmart_ott182 | 
+03/05/2018 12:50:11 | SUCCESS | Header Menu active(HeaderID:54,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 12:50:18 | SUCCESS | Add New Header Content(WORLD) | By-PowerSmart_ott182 | 
+03/05/2018 12:50:29 | SUCCESS | Header Menu active(HeaderID:55,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 07:21:25 | SUCCESS | login-(PowerSmart) | By-PowerSmart_ott182 | 
+03/05/2018 12:55:23 | SUCCESS | Save New video(0_ko2xc5e6) | By-PowerSmart_ott182 | 
+03/05/2018 13:35:30 | SUCCESS | Delete HomeSettingTag (8) | By-PowerSmart_ott182 | delete from home_title_tag where tags_id='8'
+03/05/2018 09:00:11 | SUCCESS | login-(ms) | By-ms_ott182 | 
+03/05/2018 14:36:32 | SUCCESS | Save New video(0_uh8v0o4l) | By-PowerSmart_ott182 | 
+03/05/2018 09:07:26 | SUCCESS | login-(ms) | By-ms_ott182 | 
+03/05/2018 14:39:59 | SUCCESS | Save New video(0_jzh0nqik) | By-PowerSmart_ott182 | 
+03/05/2018 14:42:04 | SUCCESS | Save New video(0_gkpwffp1) | By-PowerSmart_ott182 | 
+03/05/2018 14:50:05 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_6jtl4d0m','F8.mp4','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_6jtl4d0m/version/0','','1','','1','0','2018-05-03 14:52:19','inactive','107')
+03/05/2018 14:50:49 | SUCCESS | Save New video(0_kwke8mni) | By-ms_ott182 | 
+03/05/2018 14:52:51 | SUCCESS | Delete Video entry(0_gkpwffp1) | By-PowerSmart_ott182 | 
+03/05/2018 14:52:58 | SUCCESS | Save New video(0_69drx5ue) | By-ms_ott182 | 
+03/05/2018 14:53:02 | SUCCESS | Delete Video entry(0_jzh0nqik) | By-PowerSmart_ott182 | 
+03/05/2018 14:53:36 | SUCCESS | Delete Video entry(0_uh8v0o4l) | By-PowerSmart_ott182 | 
+03/05/2018 14:53:47 | SUCCESS | Delete Video entry(0_ko2xc5e6) | By-PowerSmart_ott182 | 
+03/05/2018 14:54:10 | SUCCESS | Save New video(0_evnn6ghn) | By-PowerSmart_ott182 | 
+03/05/2018 14:54:49 | SUCCESS | Updtate MetaData(0_69drx5ue) | By-ms_ott182 | update entry set name='V_Nonstop_BUG.avi',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_69drx5ue/version/100002',longdescription='V bug',
+        duration='10',type='1',tag='',category='SCIENCE',categoryid='333',
+        updated_at='2018-05-03 14:57:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='119',custom_data=''
+        where entryid='0_69drx5ue'
+03/05/2018 14:54:52 | SUCCESS | Delete Video entry(0_evnn6ghn) | By-PowerSmart_ott182 | 
+03/05/2018 15:01:05 | ERROR-SQL | Lost connection to MySQL server during query | By-ms_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_c7fl4xgx','nasid.mxf','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_c7fl4xgx/version/0','','1','mxf file','1','0','2018-05-03 15:03:19','inactive','119')
+03/05/2018 15:02:50 | ERROR-SQL | Lost connection to MySQL server during query | By-PowerSmart_ott182 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_p99nq8l7','BMH000099.MXF','http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_p99nq8l7/version/0','','1','','1','0','2018-05-03 15:05:05','inactive','107')
+03/05/2018 15:04:57 | SUCCESS | Save New video(0_4nsmek1i) | By-PowerSmart_ott182 | 
+03/05/2018 15:05:19 | SUCCESS | Delete Video entry(0_4nsmek1i) | By-PowerSmart_ott182 | 
+03/05/2018 15:12:05 | SUCCESS | Save New video(0_3diqnl3m) | By-ms_ott182 | 
+03/05/2018 15:17:56 | SUCCESS | Updtate MetaData(0_p99nq8l7) | By-PowerSmart_ott182 | update entry set name='BMH000099.MXF',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_p99nq8l7/version/100002',longdescription='',
+        duration='16',type='1',tag='',category='ENTERTAINMENT,INDIA',categoryid='328,325',
+        updated_at='2018-05-03 15:20:11',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='107',custom_data=''
+        where entryid='0_p99nq8l7'
+03/05/2018 15:18:09 | SUCCESS | Delete Video entry(0_p99nq8l7) | By-PowerSmart_ott182 | 
+03/05/2018 15:18:36 | SUCCESS | Updtate MetaData(0_69drx5ue) | By-PowerSmart_ott182 | update entry set name='V_Nonstop_BUG.avi',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_69drx5ue/version/100002',longdescription='V bug',
+        duration='10',type='1',tag='',category='SCIENCE,BUSINESS',categoryid='333,327',
+        updated_at='2018-05-03 15:20:51',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='119',custom_data=''
+        where entryid='0_69drx5ue'
+03/05/2018 15:19:35 | SUCCESS | Updtate MetaData(0_c7fl4xgx) | By-PowerSmart_ott182 | update entry set name='nasid.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_c7fl4xgx/version/100002',longdescription='',
+        duration='20',type='1',tag='mxf file',category='',categoryid='',
+        updated_at='2018-05-03 15:21:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='119',custom_data='{"keeeeeeeeeeeeyyyyyyy":"yyyyyyyyyyyy"}'
+        where entryid='0_c7fl4xgx'
+03/05/2018 15:29:28 | SUCCESS | Register User inactive(UserID:180,Status:inactive) | By-PowerSmart_ott182 | 
+03/05/2018 15:29:42 | SUCCESS | Register User active(UserID:180,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 15:29:54 | SUCCESS | Register User inactive(UserID:171,Status:inactive) | By-PowerSmart_ott182 | 
+03/05/2018 15:31:34 | SUCCESS | Register User active(UserID:171,Status:active) | By-PowerSmart_ott182 | 
+03/05/2018 15:44:28 | SUCCESS | Updtate MetaData(0_c7fl4xgx) | By-ms_ott182 | update entry set name='nasid.mxf',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_c7fl4xgx/version/100002',longdescription='',
+        duration='20',type='1',tag='mxf file',category='SPORTS',categoryid='326',
+        updated_at='2018-05-03 15:46:43',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='119',custom_data='{"keeeeeeeeeeeeyyyyyyy":"yyyyyyyyyyyy"}'
+        where entryid='0_c7fl4xgx'
+03/05/2018 15:47:19 | SUCCESS | Updtate MetaData(0_kwke8mni) | By-ms_ott182 | update entry set name='KS000040.mov',thumbnail='http://ott.planetcast.in/p/111/sp/11100/thumbnail/entry_id/0_kwke8mni/version/100002',longdescription='',
+        duration='12',type='1',tag='',category='',categoryid='',
+        updated_at='2018-05-03 15:49:34',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',puser_id='119',custom_data=''
+        where entryid='0_kwke8mni'

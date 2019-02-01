@@ -1,0 +1,107 @@
+03/04/2018 04:51:52 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/04/2018 10:23:31 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/YYQK806K9O0W.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_YYQK806K9O0W.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_YYQK806K9O0W.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_YYQK806K9O0W.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_YYQK806K9O0W.jpg',updated_at=NOW() where category_id='295'
+03/04/2018 10:24:07 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/FNRAWBHTYZZ7.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_FNRAWBHTYZZ7.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_FNRAWBHTYZZ7.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_FNRAWBHTYZZ7.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_FNRAWBHTYZZ7.jpg',updated_at=NOW() where category_id='296'
+03/04/2018 10:25:42 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/XNTLV510OO4U.JPG',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_XNTLV510OO4U.JPG',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_XNTLV510OO4U.JPG',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_XNTLV510OO4U.JPG',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_XNTLV510OO4U.JPG',updated_at=NOW() where category_id='297'
+03/04/2018 10:26:18 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/F58H7M275OII.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_F58H7M275OII.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_F58H7M275OII.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_F58H7M275OII.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_F58H7M275OII.jpg',updated_at=NOW() where category_id='298'
+03/04/2018 10:27:07 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/RRBTE5UDLNVW.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_RRBTE5UDLNVW.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_RRBTE5UDLNVW.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_RRBTE5UDLNVW.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_RRBTE5UDLNVW.jpg',updated_at=NOW() where category_id='299'
+03/04/2018 10:28:22 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/C5B02VV2XT34.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_C5B02VV2XT34.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_C5B02VV2XT34.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_C5B02VV2XT34.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_C5B02VV2XT34.jpg',updated_at=NOW() where category_id='302'
+03/04/2018 10:29:55 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/JDAW9RF3Z3G9.JPG',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_JDAW9RF3Z3G9.JPG',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_JDAW9RF3Z3G9.JPG',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_JDAW9RF3Z3G9.JPG',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_JDAW9RF3Z3G9.JPG',updated_at=NOW() where category_id='303'
+03/04/2018 10:31:34 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/EIATIGGFBPRR.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_EIATIGGFBPRR.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_EIATIGGFBPRR.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_EIATIGGFBPRR.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_EIATIGGFBPRR.jpg',updated_at=NOW() where category_id='304'
+03/04/2018 10:31:41 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+03/04/2018 10:36:34 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+03/04/2018 10:37:15 | SUCCESS | save Category thumb | By-Biocine_ott503 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnbiocine.planetcast.in',t_original_url='/biocine/data/biocine_ott503/upload_thumb/S6XR9KUBZ684.jpg',
+t_small_url='/biocine/data/biocine_ott503/upload_thumb/320_S6XR9KUBZ684.jpg',t_mediam_url='/biocine/data/biocine_ott503/upload_thumb/380_S6XR9KUBZ684.jpg',t_large_url='/biocine/data/biocine_ott503/upload_thumb/480_S6XR9KUBZ684.jpg',
+t_custom_url='/biocine/data/biocine_ott503/upload_thumb/720_S6XR9KUBZ684.jpg',updated_at=NOW() where category_id='306'
+03/04/2018 11:47:50 | SUCCESS | Add New Slider Image(C:\fakepath\poster5.jpg) | By-Biocine_ott503 | 
+03/04/2018 11:47:59 | SUCCESS | Slider image active(SliderID:1,Status:active) | By-Biocine_ott503 | 
+03/04/2018 11:49:16 | SUCCESS | Add New Slider Image(C:\fakepath\huntsman.jpg) | By-Biocine_ott503 | 
+03/04/2018 11:49:23 | SUCCESS | Slider image active(SliderID:2,Status:active) | By-Biocine_ott503 | 
+03/04/2018 12:01:09 | SUCCESS | Delete Video entry(0_6mdjqtfo) | By-Biocine_ott503 | 
+03/04/2018 12:01:27 | SUCCESS | Delete Video entry(0_9nv2dtaj) | By-Biocine_ott503 | 
+03/04/2018 12:01:37 | SUCCESS | Delete Video entry(0_jdvb79pz) | By-Biocine_ott503 | 
+03/04/2018 12:02:25 | SUCCESS | Save New video(0_hm7hn5d7) | By-Biocine_ott503 | 
+03/04/2018 12:17:29 | SUCCESS | Save New video(0_czkozzd4) | By-Biocine_ott503 | 
+03/04/2018 12:26:53 | SUCCESS | Save New video(0_hsmzcyaq) | By-Biocine_ott503 | 
+03/04/2018 12:34:07 | SUCCESS | Delete Video entry(0_hsmzcyaq) | By-Biocine_ott503 | 
+03/04/2018 12:34:13 | SUCCESS | Delete Video entry(0_czkozzd4) | By-Biocine_ott503 | 
+03/04/2018 12:34:19 | SUCCESS | Delete Video entry(0_hm7hn5d7) | By-Biocine_ott503 | 
+03/04/2018 12:37:49 | SUCCESS | Save New video(0_lf01jppz) | By-Biocine_ott503 | 
+03/04/2018 16:10:56 | ERROR-SQL | Lost connection to MySQL server during query | By-Biocine_ott503 | Insert into entry(entryid,name,thumbnail,longdescription,type,tag,status,ispremium,created_at,video_status,puser_id)
+   values('0_ub07agth','Black Bear','http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ub07agth/version/0','Watch Black Bear video.','1','black, bear, animal, test','1','0','2018-04-03','inactive','104')
+03/04/2018 10:41:10 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/04/2018 16:13:06 | SUCCESS | Bulk Add Category(0_ub07agth,295) | By-Biocine_ott503 | update entry set category='ORIGINALS>WEB SERIES', categoryid='295' where entryid='0_ub07agth' 
+03/04/2018 16:13:30 | SUCCESS | Bulk Add Category(0_lf01jppz,296) | By-Biocine_ott503 | update entry set category='ORIGINALS>FOOD', categoryid='296' where entryid='0_lf01jppz' 
+03/04/2018 16:14:27 | SUCCESS | Updtate MetaData(0_ub07agth) | By-Biocine_ott503 | update entry set name='Black Bear in the forest',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ub07agth/version/100002',longdescription='Watch Black Bear roaming in the forest.',duration='28',type='1',tag='black, bear, animal, test',category='ORIGINALS>WEB SERIES',categoryid='295',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-04-03',shortdescription='Watch Black Bear roaming in the forest.',
+        director='',producer='',cast='',crew='',sub_genre='Nature',language='',pgrating='U',video_status='active' where entryid='0_ub07agth'
+03/04/2018 16:16:18 | SUCCESS | Updtate MetaData(0_lf01jppz) | By-Biocine_ott503 | update entry set name='Big Buck Bunny | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_lf01jppz/version/100002',longdescription='Watch Short Film Big Buck Bunny.',duration='5',type='1',tag='big, buck, bunny, animation',category='ORIGINALS>FOOD',categoryid='296',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-04-03',shortdescription='Watch Short Film Big Buck Bunny.',
+        director='',producer='',cast='',crew='',sub_genre='Animation',language='',pgrating='U',video_status='active' where entryid='0_lf01jppz'
+03/04/2018 16:17:31 | SUCCESS | Save New video(0_ux31yq4c) | By-Biocine_ott503 | 
+03/04/2018 16:19:45 | SUCCESS | Save New video(0_gf4v15r7) | By-Biocine_ott503 | 
+03/04/2018 16:20:40 | SUCCESS | Updtate MetaData(0_ux31yq4c) | By-Biocine_ott503 | update entry set name='Butterfly | Cute Animal',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ux31yq4c/version/100002',longdescription='Watch tiny creature i.e butterfly.',duration='9',type='1',tag='butterfly, cute, animal, nature',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-04-03',shortdescription='Watch tiny creature i.e butterfly.',
+        director='',producer='',cast='',crew='',sub_genre='Nature',language='Non-Dialogue',pgrating='U',video_status='active' where entryid='0_ux31yq4c'
+03/04/2018 16:21:22 | SUCCESS | Updtate MetaData(0_gf4v15r7) | By-Biocine_ott503 | update entry set name='Smooth speed of cars - Street view',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gf4v15r7/version/100002',longdescription='Watch the street view of road where people drive under the safety measures in a smooth manner.',duration='60',type='1',tag='speed, cars, street, speedy, vehicle, automobile',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-04-03',shortdescription='Watch the street view of road where people drive under the safety measures in a smooth manner.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',language='',pgrating='U',video_status='active' where entryid='0_gf4v15r7'
+03/04/2018 16:22:13 | SUCCESS | Bulk Add Category(0_gf4v15r7,298) | By-Biocine_ott503 | update entry set category='ORIGINALS>GOSSIPS', categoryid='298' where entryid='0_gf4v15r7' 
+03/04/2018 16:23:37 | SUCCESS | Save New video(0_d4zjkcz7) | By-Biocine_ott503 | 
+03/04/2018 16:25:22 | SUCCESS | Save New video(0_0d40d66y) | By-Biocine_ott503 | 
+03/04/2018 16:25:57 | SUCCESS | Updtate MetaData(0_d4zjkcz7) | By-Biocine_ott503 | update entry set name='Loud sound of Fireworks ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_d4zjkcz7/version/100002',longdescription='Watch the festival of lights with crackers and enjoy the celebration.',duration='28',type='1',tag='loud, sound, fireworks, cracker, light, celebration, festival',category='ORIGINALS>MUSIC',categoryid='299',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-04-03',shortdescription='Watch the festival of lights with crackers and enjoy the celebration.',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_d4zjkcz7'
+03/04/2018 16:27:35 | SUCCESS | Save New video(0_5xn6a2wo) | By-Biocine_ott503 | 
+03/04/2018 16:28:10 | SUCCESS | Updtate MetaData(0_0d40d66y) | By-Biocine_ott503 | update entry set name='Glass Half | Animation',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_0d40d66y/version/100002',longdescription='Watch a animated short cartoon film on two amateur art critics meet in a gallery.',duration='193',type='1',tag='glass, half, animation, cartoon, film, short',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-04-03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_0d40d66y'
+03/04/2018 16:29:30 | SUCCESS | Updtate MetaData(0_5xn6a2wo) | By-Biocine_ott503 | update entry set name='Luxury Car | Mercedes | Rain',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5xn6a2wo/version/100002',longdescription='Watch the luxurious and expensive car Mercedes driving in rain will entertain most of the car lovers.',duration='12',type='1',tag='luxury, car, mercedes, rain, automobile, vehicle, race, speed',category='MOVIES>CLASSIC',categoryid='302',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-04-03',shortdescription='Watch the luxurious and expensive car Mercedes driving in rain will entertain most of the car lovers.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile',language='',pgrating='U',video_status='active' where entryid='0_5xn6a2wo'
+03/04/2018 16:31:12 | SUCCESS | Save New video(0_7qz418ie) | By-Biocine_ott503 | 
+03/04/2018 16:31:37 | SUCCESS | Bulk Add Category(0_7qz418ie,303) | By-Biocine_ott503 | update entry set category='MOVIES>THRILLER', categoryid='303' where entryid='0_7qz418ie' 
+03/04/2018 16:33:57 | SUCCESS | Save New video(0_qg6sivel) | By-Biocine_ott503 | 
+03/04/2018 16:35:27 | SUCCESS | Save New video(0_vwcyrmth) | By-Biocine_ott503 | 
+03/04/2018 16:36:21 | SUCCESS | Bulk Add Category(0_qg6sivel,306) | By-Biocine_ott503 | update entry set category='MOVIES>COMEDY', categoryid='306' where entryid='0_qg6sivel' 
+03/04/2018 16:36:50 | SUCCESS | Bulk Add Category(0_vwcyrmth,307,310) | By-Biocine_ott503 | update entry set category='MOVIES>ACTION,MUSIC>ORIGINAL>SHOCK STUDIO', categoryid='307,310' where entryid='0_vwcyrmth' 
+03/04/2018 16:38:29 | SUCCESS | Save New video(0_lwwze555) | By-Biocine_ott503 | 
+03/04/2018 16:40:50 | SUCCESS | Save Thumbnail(0_lf01jppz) | By-Biocine_ott503 | 
+03/04/2018 16:41:21 | SUCCESS | Save Thumbnail(0_ub07agth) | By-Biocine_ott503 | 
+03/04/2018 16:41:40 | SUCCESS | Save Thumbnail(0_ux31yq4c) | By-Biocine_ott503 | 
+03/04/2018 16:42:02 | SUCCESS | Save Thumbnail(0_gf4v15r7) | By-Biocine_ott503 | 
+03/04/2018 16:43:01 | SUCCESS | Save Thumbnail(0_d4zjkcz7) | By-Biocine_ott503 | 
+03/04/2018 16:43:32 | SUCCESS | Save Thumbnail(0_0d40d66y) | By-Biocine_ott503 | 
+03/04/2018 16:44:27 | SUCCESS | Save Thumbnail(0_5xn6a2wo) | By-Biocine_ott503 | 
+03/04/2018 16:45:40 | SUCCESS | Save Thumbnail(0_7qz418ie) | By-Biocine_ott503 | 
+03/04/2018 16:46:19 | SUCCESS | Save Thumbnail(0_qg6sivel) | By-Biocine_ott503 | 
+03/04/2018 16:47:13 | SUCCESS | Save Thumbnail(0_vwcyrmth) | By-Biocine_ott503 | 
+03/04/2018 16:48:30 | SUCCESS | Save Thumbnail(0_lwwze555) | By-Biocine_ott503 | 
+03/04/2018 16:49:35 | SUCCESS | Bulk Add Category(0_lwwze555,312,305,309) | By-Biocine_ott503 | update entry set category='KIDS,MOVIES>HORROR,MUSIC>ORIGINAL', categoryid='312,305,309' where entryid='0_lwwze555' 
+03/04/2018 16:50:39 | SUCCESS | Bulk Add Category(0_5xn6a2wo,313) | By-Biocine_ott503 | update entry set category='BAZAAR', categoryid='313' where entryid='0_5xn6a2wo' 
+03/04/2018 16:51:10 | SUCCESS | Bulk Add Category(0_5xn6a2wo,313,302,304) | By-Biocine_ott503 | update entry set category='BAZAAR,MOVIES>CLASSIC,MOVIES>ROMANTIC', categoryid='313,302,304' where entryid='0_5xn6a2wo' 
+03/04/2018 16:52:52 | SUCCESS | update Slider Detail(0_qg6sivel,'') | By-Biocine_ott503 | 
+03/04/2018 16:54:40 | SUCCESS | Add New Slider Image(C:\fakepath\banne2.jpg) | By-Biocine_ott503 | 
+03/04/2018 16:54:50 | SUCCESS | update Slider Detail(0_qg6sivel,'') | By-Biocine_ott503 | 
+03/04/2018 16:54:54 | SUCCESS | Slider image active(SliderID:3,Status:active) | By-Biocine_ott503 | 
+03/04/2018 16:56:21 | SUCCESS | Add New Slider Image(C:\fakepath\baneer6.jpg) | By-Biocine_ott503 | 
+03/04/2018 16:56:53 | SUCCESS | update Slider Detail(0_0d40d66y,'') | By-Biocine_ott503 | 
+03/04/2018 16:56:59 | SUCCESS | Slider image active(SliderID:4,Status:active) | By-Biocine_ott503 | 
+03/04/2018 16:57:04 | SUCCESS | Slider image inactive(SliderID:1,Status:inactive) | By-Biocine_ott503 | 
+03/04/2018 16:57:06 | SUCCESS | Slider image inactive(SliderID:2,Status:inactive) | By-Biocine_ott503 | 
+03/04/2018 16:57:13 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 

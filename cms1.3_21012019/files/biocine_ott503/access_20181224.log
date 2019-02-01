@@ -1,0 +1,56 @@
+24/12/2018 04:46:44 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 04:51:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 04:51:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 05:38:39 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 05:55:13 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 06:16:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 06:49:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 06:52:35 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 13:19:28 | SUCCESS | Add New HomeSettingTag(Recent) | By-Biocine_ott503 | 
+24/12/2018 13:19:35 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 13:20:42 | SUCCESS | Updtate MetaData(0_g7iwzwdo) | By-Biocine_ott503 | update entry set name='MISHMI | EPISODE 3',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_g7iwzwdo/version/100032',longdescription='We are presenting a new Bengali Web Series \'MISHMI\'. Episode - 3. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..\r\n© 2018 BY COLUMBAAS DIGIPLEX\r\n',
+        duration='769',type='1',tag='mishmi episode, web series, new web, romantic web series, web series 2018, r1',category='ORIGINALS>WEB SERIES>MISHMI',categoryid='549',
+        updated_at='2018-12-24 13:26:13',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_g7iwzwdo'
+24/12/2018 13:21:47 | SUCCESS | Home Setting inactive(HomeID:19,Status:inactive) | By-Biocine_ott503 | 
+24/12/2018 14:42:08 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 14:43:57 | SUCCESS | Home Setting inactive(HomeID:19,Status:inactive) | By-Biocine_ott503 | 
+24/12/2018 14:48:01 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 14:48:01 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 14:51:49 | SUCCESS | Home Setting inactive(HomeID:19,Status:inactive) | By-Biocine_ott503 | 
+24/12/2018 09:40:20 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+24/12/2018 15:50:46 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 15:50:58 | SUCCESS | Home Setting inactive(HomeID:19,Status:inactive) | By-Biocine_ott503 | 
+24/12/2018 15:52:07 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 15:52:21 | SUCCESS | Home Setting inactive(HomeID:19,Status:inactive) | By-Biocine_ott503 | 
+24/12/2018 16:06:13 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 16:06:20 | SUCCESS | Home Setting inactive(HomeID:19,Status:inactive) | By-Biocine_ott503 | 
+24/12/2018 16:07:07 | SUCCESS | Home Setting active(HomeID:19,Status:active) | By-Biocine_ott503 | 
+24/12/2018 16:13:12 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+24/12/2018 16:13:42 | SUCCESS | Updtate MetaData(0_cepyd3ii) | By-Biocine_ott503 | update entry set name='LEAVE TOGETHER | EPISODE 3',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_cepyd3ii/version/100032',longdescription='Here we are presenting Hindi Web Series \"Leave Together\".\r\nNeha comes back from the trek & soon after Tarun manages to convince her, his mom arrives.\r\n\r\n--------------------------------------\r\nLEAVE TOGETHER\r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nWritten by:Soumit Deb\r\nSeries co created by:Soumit Deb & Joydip Banerjee\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='555',type='1',tag='leave together, episode 3, columbaas digiplex, jeeo guru, jeeoguru webseries, kabita, rajdeep, hindi webseries, webseries2018, romantic love series, r1',category='ORIGINALS>WEB SERIES>LEAVE TOGETHER',categoryid='551',
+        updated_at='2018-12-24 16:19:13',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_cepyd3ii'
+24/12/2018 16:13:54 | SUCCESS | Updtate MetaData(0_wd99mktw) | By-Biocine_ott503 | update entry set name='AAMARO PORANO JAHA CHAY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_wd99mktw/version/100032',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Aamaro Porano Jaha Chay/Abhijan\" sung by Somlata Acharya Chowdhury & Sourav only on Jeeo Guru Apps.\r\n\r\nSong: Aamaro Porano Jaha Chay/ Abhijan\r\nSingers: Somlata Acharya Chowdhury & Sourav\r\nType: Bengali Modern Song\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nMusic Programmed By: Shameek Kundu\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nGuiter: Tirthankar\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nHarmonium: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='328',type='1',tag='shock studio, rabindra sangeet, fusion song, tagore song, jeeoguru, somlata, r1',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-24 16:19:25',shortdescription='Fusion of Bengali Modern Song with Rabindra Sangeet',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wd99mktw'
+24/12/2018 16:14:05 | SUCCESS | Updtate MetaData(0_29s6e7jy) | By-Biocine_ott503 | update entry set name='PAPI | TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_29s6e7jy/version/100032',longdescription='Here we are present a bengali short film trailer \"PAPI\"\r\n--------------------------\r\n\r\nFilm\r\nPaapi\r\n\r\nCast\r\nJit\r\nEmon\r\nMoon\r\nSupriyo\r\nSunny\r\nMichael\r\n\r\nStory & Script\r\nMayukh Chatterjee\r\nAishik\r\n&\r\nPradip\r\n\r\nD.O.P\r\nRipon Hossain\r\nChayan Karmakar\r\n\r\nEditor\r\nGourab Dutta\r\n\r\nColor & Mix\r\nGourab Dutta\r\n\r\nDubbing & Foley \r\nPromix\r\n\r\nAssistant Director\r\nPradip\r\n&\r\nAishik\r\n\r\nProduced By\r\nRetro Films\r\n\r\nPresent By\r\nPurple Theatre\r\n\r\nDirected By\r\nGourab Dutta',
+        duration='56',type='1',tag='papi, short film, bengali, gourab dutta, jeeoguru, r1',category='BAZAAR',categoryid='313',
+        updated_at='2018-12-24 16:19:36',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_29s6e7jy'
+24/12/2018 16:14:48 | SUCCESS | Updtate MetaData(0_v054ov82) | By-Biocine_ott503 | update entry set name='DARIYE ACHO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_v054ov82/version/100032',longdescription='Columbaas Digiplex presenting ‘SHOCK STUDIO powered by Jeeo Guru, Music Label Partner B Music, a fusion of \"Dariye Acho/Main Bari Bari\" sung by Ashmani Kundu & Deepabali Dutta only on Jeeo Guru Apps.\r\n\r\nSong: Dariye Acho/Main Bari Bari\r\nSingers: Ashmani Kundu & Deepabali Dutta\r\nType: Traditional Bandish & Tagore Song\r\nRag: Yaman\r\nMusic: Pinaki Bose\r\nProduced By: Sukanya Gupta & Sanchita Ganguly\r\nDirected By: Jiit Chakraborty & Sabyasachi Mandal\r\nDOP:Amit \r\nConcept & Creative Producer: Rakes Gupta & Soumyajit Ganguly\r\nExecutive Producer: Rupak Majumder\r\nEditor: Narayan Rana\r\nDI & CC: Smriti\r\nProduction Controller: Kousick Mondal & Ranjit Panji \r\nProduction Manager :Indranath Sarkar\r\n\r\nAdditional Music Credits:\r\nGuiter: Tirthankar\r\nBase Guiter: Rahul\r\nDrums: Agniv\r\nPercussion Tabla: Swarthak\r\nSarengi: Kamlesh Mishra\r\nFlute: Suvankar\r\nKeys: Sudeshna & Shameek\r\nPiano: Pinaki Bose\r\nMusic Instruments Partner : Music Kafe\r\n\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='355',type='1',tag='shock studio, dariye acho, rabindra sangeet, fusion song, jeeo, guru, tagore sang, classical music, r1',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-24 16:20:20',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali | Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_v054ov82'
+24/12/2018 12:01:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

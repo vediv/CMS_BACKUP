@@ -1,0 +1,18 @@
+11/07/2018 04:33:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/07/2018 10:56:42 | SUCCESS | delete Category(396) | By-Biocine_ott503 | DELETE FROM categories where category_id='396'
+11/07/2018 10:57:45 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '397','300','1','110','TestName','LIVE>TestName','300>397','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+11/07/2018 06:49:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/07/2018 12:20:28 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '398','300','1','110','TestName','LIVE>TestName','300>398','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+11/07/2018 09:36:35 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/07/2018 15:19:32 | SUCCESS | Save Thumbnail(0_12adzb8k) | By-Biocine_ott503 | 
+11/07/2018 10:11:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/07/2018 10:57:31 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+11/07/2018 16:43:18 | SUCCESS | Update Ticket Status(inprocess tid=3--by=104) | By-Biocine_ott503 | 
+11/07/2018 16:43:23 | SUCCESS | Update Ticket Status(pending tid=3--by=104) | By-Biocine_ott503 | 
+11/07/2018 17:27:09 | SUCCESS | Add New Offer (NEW1234) | By-Biocine_ott503 | 
+11/07/2018 17:27:31 | SUCCESS | Update Offer (4) | By-Biocine_ott503 | update offers set offer_name='NEWOFFER',code='NEW1234',type='P',msg='Hiii',date_start='2018-07-11 17:26:09',
+      date_end='2018-08-11 17:26:09',uses_total='2',uses_customer='3',currency='{"IN":"101","US":"201"}',img_url='http://cdnbiocine.planetcast.in/biocine/data/biocine_ott503/marketing/A12ION33C35X.jpg',updated_at=NOW() where offer_id='4'
+11/07/2018 17:30:02 | SUCCESS | Delete Offer Delete (4) | By-Biocine_ott503 | update offers set status=3 where offer_id='4'
+11/07/2018 12:23:39 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

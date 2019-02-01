@@ -1,0 +1,163 @@
+20/06/2018 04:19:05 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+20/06/2018 04:25:07 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 10:05:22 | SUCCESS | Save New video(0_nzkv7tuy) | By-Adosphere_ott488 | 
+20/06/2018 04:38:37 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 10:10:11 | SUCCESS | Delete Video entry(0_ndv1wrab) | By-Adosphere_ott488 | 
+20/06/2018 10:10:24 | SUCCESS | Delete Video entry(0_wlfyh226) | By-Adosphere_ott488 | 
+20/06/2018 10:13:39 | SUCCESS | Save Content Partner(0_bq1gxy93,) | By-Adosphere_ott488 | 
+20/06/2018 10:13:43 | SUCCESS | Save Content Viewer Rating(0_bq1gxy93,G) | By-Adosphere_ott488 | 
+20/06/2018 10:16:31 | SUCCESS | Save Content Partner(0_nzkv7tuy,) | By-Adosphere_ott488 | 
+20/06/2018 10:16:38 | SUCCESS | Save Content Viewer Rating(0_nzkv7tuy,G) | By-Adosphere_ott488 | 
+20/06/2018 10:18:55 | SUCCESS | Updtate MetaData(0_bcywv50x) | By-Adosphere_ott488 | update entry set name='Pied Piper',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_bcywv50x/version/100002',longdescription='Watch the Pied Piper bedtime story in French language. A rat catcher who play music through the piper and catch rats. To know more watch the animated bedtime story.',
+        duration='306',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, class, album, tales, french, life, piper, pied, rats, bedtime, sleeping, reciters, catcher, hamelin, musical, pipe, mouse',category='',categoryid='',
+        updated_at='2018-06-20 10:21:50',shortdescription='Watch the Pied Piper bedtime story in French language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_bcywv50x'
+20/06/2018 10:19:37 | SUCCESS | Save Content Partner(0_bcywv50x,) | By-Adosphere_ott488 | 
+20/06/2018 10:19:45 | SUCCESS | Save Content Viewer Rating(0_bcywv50x,G) | By-Adosphere_ott488 | 
+20/06/2018 10:20:15 | SUCCESS | Bulk Add Category(0_bcywv50x,220) | By-Adosphere_ott488 | update entry set category='ON DEMAND>KIDS>BEDTIME STORIES', categoryid='220' where entryid='0_bcywv50x' 
+20/06/2018 05:10:51 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 10:49:15 | SUCCESS | Save New video(0_orntx1x4) | By-Adosphere_ott488 | 
+20/06/2018 05:20:57 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 05:20:58 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 10:53:07 | SUCCESS | Delete Video entry(0_le7xcirv) | By-Adosphere_ott488 | 
+20/06/2018 05:37:55 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 06:02:23 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 11:37:50 | SUCCESS | Delete slider Image (106) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='106'
+20/06/2018 11:52:07 | SUCCESS | Delete Video entry(0_hv634iuc) | By-Adosphere_ott488 | 
+20/06/2018 11:52:22 | SUCCESS | Delete Video entry(0_wco2n897) | By-Adosphere_ott488 | 
+20/06/2018 12:02:03 | SUCCESS | Save New video(0_h9gjv2d8) | By-Adosphere_ott488 | 
+20/06/2018 12:03:21 | SUCCESS | Bulk Add Content Viewer(Array,G) | By-Adosphere_ott488 | 
+20/06/2018 12:03:35 | SUCCESS | Bulk Add Content Viewer(Array,G) | By-Adosphere_ott488 | 
+20/06/2018 12:12:04 | SUCCESS | Updtate MetaData(0_vxxijbbl) | By-Adosphere_ott488 | update entry set name='Eleves And The Shoemaker',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vxxijbbl/version/100002',longdescription='Watch Elves and the Shoemaker an old traditional fairy tale in Marathi language. The cobbler make good tidy shoes and when he sleep the pair gets double. One day cobbler saw two tiny people who make shoes and keep on the counter, and to know more about the tale watch the video.',
+        duration='363',type='1',tag='kids, cartoon, children, story, moral, series, little, learning, animation, junior, zone, diary, tales, bedtime, storytelling, marathi, eleves, shoemaker, old, traditional, good, tidy, sleep, pair, double, two, tiny, people, shoes, cobbler',category='',categoryid='',
+        updated_at='2018-06-20 12:15:00',shortdescription='Watch Elves and the Shoemaker an old traditional fairy tale in Marathi language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Marathi',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_vxxijbbl'
+20/06/2018 12:12:37 | SUCCESS | Updtate MetaData(0_hr1r61d4) | By-Adosphere_ott488 | update entry set name='Eleves and the shoemaker',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_hr1r61d4/version/100002',longdescription='Watch Elves and the Shoemaker an old traditional fairy tale in French language. The cobbler make good tidy shoes and when he sleep the pair gets double. One day cobbler saw two tiny people who make shoes and keep on the counter, and to know more about the tale watch the video.',
+        duration='300',type='1',tag='kids, cartoon, children, story, moral, series, little, learning, animation, junior, zone, diary, tales, bedtime, storytelling, french, eleves, shoemaker, old, traditional, good, tidy, sleep, pair, double, two, tiny, people, shoes, cobbler',category='',categoryid='',
+        updated_at='2018-06-20 12:15:32',shortdescription='Watch Elves and the Shoemaker an old traditional fairy tale in French language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_hr1r61d4'
+20/06/2018 12:13:10 | SUCCESS | Updtate MetaData(0_chgtvurz) | By-Adosphere_ott488 | update entry set name='Eleves and the shoemaker',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_chgtvurz/version/100002',longdescription='Watch Elves and the Shoemaker an old traditional fairy tale in Gujarati language. The cobbler make good tidy shoes and when he sleep the pair gets double. One day cobbler saw two tiny people who make shoes and keep on the counter, and to know more about the tale watch the video.',
+        duration='304',type='1',tag='kids, cartoon, children, story, moral, series, little, learning, animation, junior, zone, diary, tales, bedtime, storytelling, gujarati, eleves, shoemaker, old, traditional, good, tidy, sleep, pair, double, two, tiny, people, shoes, cobbler',category='',categoryid='',
+        updated_at='2018-06-20 12:16:06',shortdescription='Watch Elves and the Shoemaker an old traditional fairy tale in Gujarati language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Gujarati',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_chgtvurz'
+20/06/2018 12:21:03 | SUCCESS | Save Thumbnail(0_hr1r61d4) | By-Adosphere_ott488 | 
+20/06/2018 12:21:26 | SUCCESS | Save Content Partner(0_hr1r61d4,) | By-Adosphere_ott488 | 
+20/06/2018 12:22:05 | SUCCESS | Save Content Partner(0_vxxijbbl,) | By-Adosphere_ott488 | 
+20/06/2018 12:26:03 | SUCCESS | Save Content Partner(0_orntx1x4,) | By-Adosphere_ott488 | 
+20/06/2018 12:26:37 | SUCCESS | Save Content Partner(0_40n5ifev,) | By-Adosphere_ott488 | 
+20/06/2018 12:28:37 | SUCCESS | Register User inactive(UserID:379,Status:inactive) | By-Adosphere_ott488 | 
+20/06/2018 12:45:00 | SUCCESS | Save New video(0_vodasgtp) | By-Adosphere_ott488 | 
+20/06/2018 12:53:44 | SUCCESS | Save Thumbnail(0_h9gjv2d8) | By-Adosphere_ott488 | 
+20/06/2018 12:55:18 | SUCCESS | Save Thumbnail(0_ol6nr60r) | By-Adosphere_ott488 | 
+20/06/2018 14:15:12 | SUCCESS | Save New video(0_yjytm284) | By-Adosphere_ott488 | 
+20/06/2018 08:46:28 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+20/06/2018 14:17:10 | SUCCESS | update Dashboard user(Geetanjali) | By-Adosphere_ott488 | 
+20/06/2018 14:18:29 | SUCCESS | Updtate MetaData(0_yjytm284) | By-Adosphere_ott488 | update entry set name='Hickory Dickory Dock Nursery Rhymes',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_yjytm284/version/100002',longdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        duration='68',type='1',tag='kids, kahaniya, cartoon, children, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, hickory, dickory, dock, nursery, rhymes, for, poems, purple, turtle',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-06-20 14:21:24',shortdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_yjytm284'
+20/06/2018 14:19:41 | SUCCESS | Save Content Partner(0_yjytm284,) | By-Adosphere_ott488 | 
+20/06/2018 14:19:45 | SUCCESS | Save Content Viewer Rating(0_yjytm284,G) | By-Adosphere_ott488 | 
+20/06/2018 08:53:33 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 08:53:34 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 14:24:17 | SUCCESS | Save Content Viewer Rating(0_pyeunkt3,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 14:24:43 | SUCCESS | Save Content Viewer Rating(0_u3z3fhdk,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 14:26:05 | SUCCESS | Save Content Viewer Rating(0_v8a6ohk8,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 14:27:06 | SUCCESS | Save Content Viewer Rating(0_v98h7o3i,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 14:27:42 | SUCCESS | Save Content Viewer Rating(0_vy53029s,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 14:27:53 | SUCCESS | Updtate MetaData(0_p90fniat) | By-Adosphere_ott488 | update entry set name='Teen Machhliyan',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_p90fniat/version/100012',longdescription='Watch Teen Machhliyan moral Story in Punjabi language. This is the story of three fishes who lived in a lake. To know more watch the video.',
+        duration='389',type='1',tag='kids, channel, cartoon, children, story, moral, little, kid, learning, animation, junior, tales, punjabi, bedtime, storytelling, sleeping, reciters, fisherman, fairy, cartoons, fish, punchtantra, teen, machali, serendipity, friend, fishes, catcher',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-20 14:30:48',shortdescription='Watch Teen Machhliyan moral Story in Punjabi language. This is the story of three fishes who lived in a lake.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Punjabi',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_p90fniat'
+20/06/2018 09:00:07 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 14:34:24 | SUCCESS | Updtate MetaData(0_v7cadpp9) | By-Geetanjali_ott488 | update entry set name='My Little Candle Social',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_v7cadpp9/version/100002',longdescription='Check out the latest Bangla short film My Little Candle  which is directed by Runa Chowdhury.',
+        duration='1163',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, my, little, candle, bangla, runa, chowdhury, choudhary',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        updated_at='2018-06-20 14:37:20',shortdescription='Check out the latest Bangla short film My Little Candle  which is directed by Runa Chowdhury.',
+        director='Runa Chowdhury',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social',
+        language='English',pgrating='NULL',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_v7cadpp9'
+20/06/2018 14:37:04 | SUCCESS | Save Thumbnail(0_nzkv7tuy) | By-Adosphere_ott488 | 
+20/06/2018 14:37:26 | SUCCESS | Delete Video entry(0_if8zam66) | By-Adosphere_ott488 | 
+20/06/2018 14:37:41 | SUCCESS | Save Content Viewer Rating(0_oifdi2nz,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 14:38:27 | SUCCESS | Save Content Viewer Rating(0_rufyjs9s,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 14:38:57 | SUCCESS | Save Content Viewer Rating(0_4bw8fnmu,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 14:39:40 | SUCCESS | Save Content Partner(0_vodasgtp,) | By-Adosphere_ott488 | 
+20/06/2018 14:45:45 | SUCCESS | Save Content Partner(0_v2u9li0q,) | By-Adosphere_ott488 | 
+20/06/2018 14:46:42 | SUCCESS | Save Content Partner(0_pk7z08p5,) | By-Adosphere_ott488 | 
+20/06/2018 14:48:39 | SUCCESS | Save Content Partner(0_b120orva,) | By-Adosphere_ott488 | 
+20/06/2018 15:09:00 | SUCCESS | Save Content Viewer Rating(0_pu6t9y8f,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:20:19 | SUCCESS | Save Content Viewer Rating(0_82idkfzy,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:21:10 | SUCCESS | Save Content Viewer Rating(0_akqm23ev,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 15:22:45 | SUCCESS | Save Content Viewer Rating(0_xwzd130i,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:23:31 | SUCCESS | Save Content Viewer Rating(0_2oqca9ey,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:24:08 | SUCCESS | Save Content Viewer Rating(0_3dqqqtt4,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:25:14 | SUCCESS | Save Content Viewer Rating(0_75hsmmji,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:28:17 | SUCCESS | Save Content Viewer Rating(0_9kg9bw75,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 15:29:00 | SUCCESS | Save Content Viewer Rating(0_brrg0d8w,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:34:28 | SUCCESS | Updtate MetaData(0_jl6fyo0h) | By-Geetanjali_ott488 | update entry set name='Daivatheyorthu ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jl6fyo0h/version/100012',longdescription='Watch Malayalam Full Length Movie Daivatheyorthu which was release in 1985 and directed by R . Gopi.',
+        duration='5695',type='1',tag='mallu, films, malayalam, latest, movies, new, mollywood, stories, south, short, subtitle, social, message, emotional, nazir, srividya, balachandra, menon, daivathe, yorthu, daivatheyorthu, romantic, romance, action, gopi',category='MOVIES>FULL MOVIES>MALAYALAM',categoryid='226',
+        updated_at='2018-06-20 15:37:24',shortdescription='Watch Malayalam Full Length Movie Daivatheyorthu which was release in 1985 and directed by R . Gopi.',
+        director='R.Gopi',producer='NULL',cast='NULL',crew='NULL',sub_genre='Romantic,Drama',
+        language='Malayalam',pgrating='U',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_jl6fyo0h'
+20/06/2018 15:35:57 | SUCCESS | Save Content Viewer Rating(0_g9779t97,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:36:23 | SUCCESS | Save Content Viewer Rating(0_dsa7m5ag,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 15:36:52 | SUCCESS | Save Content Viewer Rating(0_nja23114,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 10:36:14 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 16:12:59 | SUCCESS | Updtate MetaData(0_spgpqctm) | By-Adosphere_ott488 | update entry set name='The hare and the tortoise',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_spgpqctm/version/100002',longdescription='Watch \'The Hare and Tortoise\' animation story in Hindi language. This is the most popular moral story for kids.',
+        duration='231',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, hare, tortoise, run, running, race, hindi, turtle',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-20 16:15:55',shortdescription='Watch \'The Hare and Tortoise\' animation story in Hindi language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_spgpqctm'
+20/06/2018 16:15:18 | SUCCESS | Updtate MetaData(0_6pb7jvdf) | By-Adosphere_ott488 | update entry set name='The wicked little witch',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_6pb7jvdf/version/100012',longdescription='Watch \'The wicked little witch\' in Hindi language. where Hazel wants to be a witch. She read the books related to the magic But at the end she realize  that bad things or hurt someone is always a bad choice.',
+        duration='275',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, wicked, witch, hindi, bedtime, wick, bt2018',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-20 16:18:14',shortdescription='Watch \'The wicked little witch\' in Hindi language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_6pb7jvdf'
+20/06/2018 16:26:14 | SUCCESS | Save Content Viewer Rating(0_a9bycno2,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:29:15 | SUCCESS | Save Content Viewer Rating(0_udqlkwzy,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:29:51 | SUCCESS | Save Content Viewer Rating(0_xwxajp8c,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:30:23 | SUCCESS | Save Content Viewer Rating(0_ee3uqn0w,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 16:33:42 | SUCCESS | Delete Video entry(0_hd2lutb8) | By-Geetanjali_ott488 | 
+20/06/2018 16:34:26 | SUCCESS | Save Content Viewer Rating(0_8nl6mmmx,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:35:04 | SUCCESS | Save Content Viewer Rating(0_kuge6j1c,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:37:34 | SUCCESS | Updtate MetaData(0_yjev85pn) | By-Adosphere_ott488 | update entry set name='Ring around the rose',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_yjev85pn/version/100012',longdescription='Watch the new version of Ring around the roses nursery rhyme and sing along with the video.',
+        duration='68',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, ring, ringa, rose, nursery, rhyme, subtitles, poems, roses, garden, purple, turtle, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-06-20 16:40:30',shortdescription='Watch the new version of Ring around the roses nursery rhyme and sing along with the video.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_yjev85pn'
+20/06/2018 16:43:42 | SUCCESS | Save Content Viewer Rating(0_lcjl2i46,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 16:49:48 | SUCCESS | Save Content Viewer Rating(0_sv09k0vj,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 16:50:16 | SUCCESS | Save Content Viewer Rating(0_x9pv2tdn,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 16:50:45 | SUCCESS | Save Content Viewer Rating(0_zkfw6l8s,NC16) | By-Geetanjali_ott488 | 
+20/06/2018 16:51:15 | SUCCESS | Save Content Viewer Rating(0_wk9gqfjm,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:52:04 | SUCCESS | Save Content Viewer Rating(0_w5kqazod,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:52:34 | SUCCESS | Save Content Viewer Rating(0_y9ethxdf,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 16:54:17 | SUCCESS | Save Content Viewer Rating(0_ccedku3u,PG) | By-Geetanjali_ott488 | 
+20/06/2018 16:55:00 | SUCCESS | Save Content Viewer Rating(0_mqhzkjtb,PG) | By-Geetanjali_ott488 | 
+20/06/2018 16:55:50 | SUCCESS | Save Content Viewer Rating(0_8vkci37b,G) | By-Geetanjali_ott488 | 
+20/06/2018 16:58:46 | SUCCESS | Save Content Viewer Rating(0_3iq0a7yg,PG13) | By-Geetanjali_ott488 | 
+20/06/2018 11:28:54 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 17:02:27 | SUCCESS | Save Content Viewer Rating(0_kjpcsq2t,PG) | By-Geetanjali_ott488 | 
+20/06/2018 17:03:55 | SUCCESS | Save Content Viewer Rating(0_qjjskxgs,G) | By-Geetanjali_ott488 | 
+20/06/2018 17:04:25 | SUCCESS | Save Content Viewer Rating(0_fk8y0n51,PG) | By-Geetanjali_ott488 | 
+20/06/2018 17:06:23 | SUCCESS | Save Content Viewer Rating(0_kfwqxesv,PG) | By-Geetanjali_ott488 | 
+20/06/2018 17:08:26 | SUCCESS | Save Content Viewer Rating(0_lvchswgr,G) | By-Geetanjali_ott488 | 
+20/06/2018 17:08:51 | SUCCESS | Save Content Viewer Rating(0_ery3fhc8,G) | By-Geetanjali_ott488 | 
+20/06/2018 11:39:30 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+20/06/2018 11:43:47 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

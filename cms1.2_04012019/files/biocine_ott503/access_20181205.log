@@ -1,0 +1,322 @@
+05/12/2018 00:04:12 | SUCCESS | Save Thumbnail(0_xjue41pa) | By-Biocine_ott503 | 
+05/12/2018 00:05:24 | SUCCESS | Save Thumbnail(0_xjue41pa) | By-Biocine_ott503 | 
+05/12/2018 00:05:56 | SUCCESS | Updtate MetaData(0_xjue41pa) | By-Biocine_ott503 | update entry set name='KITAAB',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xjue41pa/version/100022',longdescription='With the increasing influence of electronic gadgets, we are moving away from books. In other words, we can say that the books are getting away from us. Earlier, libraries were the largest centres of knowledge, science, fiction, literature etc. From morning to late evening, the libraries were filled with readers. The librarian used to serve its library and readers like an ardent satisfied seeker of knowledge. But the increasing impact of electronic gadget made libraries dejected. The libraries continued to be depressed. Librarians are alone among the books and readers. We are trying to understand this situation through our film \"Kitaab\", how painful it is for a librarian who laid his life for books and readers. Legendary actor Late Tom Alter has played the role of an old librarian in this film and left no stone unturned to get the last reader coming to library. ',
+        duration='1478',type='1',tag='short film, indian short film, new short film, hit short film, best of short film, jeeoguru, kitaab, tom alter',category='AWARDS',categoryid='536',
+        updated_at='2018-12-05 00:11:13',shortdescription='',
+        director='Kamlesh K Mishra',producer='',cast='Tom Alter',crew='',sub_genre='Short Film',
+        language='Hindi',pgrating='',video_status='active',custom_data='{"Writer":"Kamlesh K Mishra"}'
+        where entryid='0_xjue41pa'
+05/12/2018 00:08:52 | SUCCESS | Save New video(0_hw4c9i85) | By-Biocine_ott503 | 
+05/12/2018 00:11:15 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 6.jpg) | By-Biocine_ott503 | 
+05/12/2018 00:11:40 | SUCCESS | Slider image active(SliderID:36,Status:active) | By-Biocine_ott503 | 
+05/12/2018 00:24:19 | SUCCESS | Save New video(0_xcdwjlhr) | By-Biocine_ott503 | 
+05/12/2018 00:35:21 | SUCCESS | Delete Video entry(0_u94f0l96) | By-Biocine_ott503 | 
+05/12/2018 01:13:38 | SUCCESS | Updtate MetaData(0_xcdwjlhr) | By-Biocine_ott503 | update entry set name='JEEO MUSICAL.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xcdwjlhr/version/100002',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='117',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-05 01:18:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xcdwjlhr'
+05/12/2018 01:14:58 | SUCCESS | Updtate MetaData(0_xcdwjlhr) | By-Biocine_ott503 | update entry set name='TRALIER OF SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xcdwjlhr/version/100002',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='117',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-05 01:20:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xcdwjlhr'
+05/12/2018 01:15:26 | SUCCESS | Updtate MetaData(0_vqlv1ku0) | By-Biocine_ott503 | update entry set name='TRALIER OF SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vqlv1ku0/version/100052',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='130',type='1',tag='shock, studio',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-05 01:20:43',shortdescription='Watch first look of Jeeo musical Shock studio video.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vqlv1ku0'
+05/12/2018 01:16:11 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+05/12/2018 01:17:08 | SUCCESS | Updtate MetaData(0_xcdwjlhr) | By-Biocine_ott503 | update entry set name='TRALIER OF SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xcdwjlhr/version/100002',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='117',type='1',tag='shock studio, fusion music, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-05 01:22:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xcdwjlhr'
+05/12/2018 01:17:45 | SUCCESS | Save Thumbnail(0_xcdwjlhr) | By-Biocine_ott503 | 
+05/12/2018 01:17:55 | SUCCESS | Save Content Partner(0_xcdwjlhr,) | By-Biocine_ott503 | 
+05/12/2018 01:18:06 | SUCCESS | Save Access Control(0_xcdwjlhr) | By-Biocine_ott503 | 
+05/12/2018 01:19:14 | SUCCESS | Updtate MetaData(0_xcdwjlhr) | By-Biocine_ott503 | update entry set name='TRALIER OF SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xcdwjlhr/version/100012',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='117',type='1',tag='shock studio, fusion music, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-05 01:24:31',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_xcdwjlhr'
+05/12/2018 01:19:43 | SUCCESS | update Slider Detail(0_xcdwjlhr,'') | By-Biocine_ott503 | 
+05/12/2018 01:20:43 | SUCCESS | update Slider Detail(0_xjue41pa,'') | By-Biocine_ott503 | 
+05/12/2018 01:21:19 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+05/12/2018 01:22:36 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+05/12/2018 01:24:38 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+05/12/2018 04:45:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 05:26:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 12:07:07 | SUCCESS | Save New video(0_slcct2fm) | By-Biocine_ott503 | 
+05/12/2018 13:44:40 | SUCCESS | Save New video(0_641ttcsl) | By-Biocine_ott503 | 
+05/12/2018 08:26:11 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 14:00:15 | SUCCESS | Save Content Partner(0_641ttcsl,) | By-Biocine_ott503 | 
+05/12/2018 14:01:18 | SUCCESS | Save Content Partner(0_hw4c9i85,) | By-Biocine_ott503 | 
+05/12/2018 14:02:16 | SUCCESS | Save Content Partner(0_ay25t1qz,) | By-Biocine_ott503 | 
+05/12/2018 14:05:11 | SUCCESS | Save Content Partner(0_4yzvkygk,) | By-Biocine_ott503 | 
+05/12/2018 14:05:39 | SUCCESS | Save Content Partner(0_0hhbmzs5,) | By-Biocine_ott503 | 
+05/12/2018 14:29:23 | SUCCESS | Updtate MetaData(0_5us5cziw) | By-Biocine_ott503 | update entry set name='Leave Together|Promo| Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5us5cziw/version/100022',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='91',type='1',tag='promo, leave, together, anang deshai, mithu, web series, hindi, comedy, love story, sex, romantic',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 14:34:40',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5us5cziw'
+05/12/2018 14:41:42 | SUCCESS | Updtate MetaData(0_4yzvkygk) | By-Biocine_ott503 | update entry set name='Kaisa Tarika | Leave Together',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4yzvkygk/version/100012',longdescription='Leave Together\r\nSong: Kaisa Tarika\r\nLyrics & Composition: Soumit Deb\r\nArrangement & Recording: Nianjan Ghosh\r\nVocals : Paloma Majumder \r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='175',type='1',tag='kaisa tarika, leave together, kavita, joydip, anang desai, web series, comedy movie, romantic',category='MUSIC>FILM',categoryid='311',
+        updated_at='2018-12-05 14:46:59',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4yzvkygk'
+05/12/2018 09:13:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 14:44:53 | SUCCESS | Updtate MetaData(0_kxt2m8ed) | By-Biocine_ott503 | update entry set name='Leave Together | Episode 2',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_kxt2m8ed/version/100012',longdescription='Here we are presenting Hindi Web Series \"Leave Together\"\r\nLEAVE TOGETHER\r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nWritten by:Soumit Deb\r\nSeries co created by:Soumit Deb & Joydip Banerjee\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='810',type='1',tag='leave together, episode 2, leave together episodes, web series, hindi, kavita, rajdeep, jeeoguru',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 14:50:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_kxt2m8ed'
+05/12/2018 14:45:00 | SUCCESS | Updtate MetaData(0_z4nsm68i) | By-Biocine_ott503 | update entry set name='Leave Together | Episode 1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z4nsm68i/version/100022',longdescription='Here we are presenting Hindi Web Series \"Leave Together\"\r\nLEAVE TOGETHER\r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nWritten by:Soumit Deb\r\nSeries co created by:Soumit Deb & Joydip Banerjee\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='778',type='1',tag='leave together, web series, hindi web series, episode 1, new movie, hindi movies, jeeoguru',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 14:50:17',shortdescription='',
+        director='Joydip Banerjee',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z4nsm68i'
+05/12/2018 14:45:54 | SUCCESS | Save New video(0_7wz03e9w) | By-Biocine_ott503 | 
+05/12/2018 15:01:09 | SUCCESS | Save Access Control(0_hw4c9i85) | By-Biocine_ott503 | 
+05/12/2018 15:04:56 | SUCCESS | Save Age Restriction(0_4yzvkygk,UA) | By-Biocine_ott503 | 
+05/12/2018 15:08:13 | SUCCESS | Updtate MetaData(0_4yzvkygk) | By-Biocine_ott503 | update entry set name='Kaisa Tarika | Leave Together ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4yzvkygk/version/100012',longdescription='Leave Together\r\nSong: Kaisa Tarika\r\nLyrics & Composition: Soumit Deb\r\nArrangement & Recording: Nianjan Ghosh\r\nVocals : Paloma Majumder \r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='175',type='1',tag='kaisa tarika, leave together, kavita, joydip, anang desai, web series, comedy movie, romantic',category='MUSIC>FILM',categoryid='311',
+        updated_at='2018-12-05 15:13:30',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4yzvkygk'
+05/12/2018 15:53:08 | SUCCESS | Updtate MetaData(0_vidxpnpq) | By-Biocine_ott503 | update entry set name='DEWANAA | Nachiketa Chakraborty ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vidxpnpq/version/100002',longdescription='Here we presents a contemporary romantic song \'DEWANAA\' by Nachiketa Chakraborty from the album \'AAY DEKE JAY\'\r\n--------------------------------\r\nSong: DEWANAA\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n\r\nStreaming on Jeeoguru Apps',
+        duration='151',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 15:58:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vidxpnpq'
+05/12/2018 15:56:47 | SUCCESS | Updtate MetaData(0_e0cz1o83) | By-Biocine_ott503 | update entry set name='Echhe | Nachiketa Chakraborty',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_e0cz1o83/version/100002',longdescription='Here we presenting a Bengali Modern Song ‘Echhe’ by Nachiketa Chakraborty...\r\nThis Song is based on the eternal desire of a father to love & protect his daughter from outer world. For a father such times of togetherness are the most precious gifts in his life proving the love, affection & bonding  between them.\r\n--------------------------------------------------\r\nSong: Echhe\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\n\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n',
+        duration='212',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 16:02:04',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_e0cz1o83'
+05/12/2018 17:32:28 | SUCCESS | Updtate MetaData(0_1h3pdjlh) | By-Biocine_ott503 | update entry set name='DevDas 2.5 Trailer',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1h3pdjlh/version/100002',longdescription='Here we present promo of  Short Film Devdas 2.5 .A quirky adaptation of Sharat Chandra Chattopadhyay\'s evergreen classic. The flick mainly deals with the story of DEV and PARO being trapped in todays materialistic world and how their lives get affected with modern day vices.\r\nFilm: DEV DAS 2.5\r\nCast:Soupayan Jana, Sreyashi Ghosh,Siddhartha Banerjee\r\nArundhati Mukherjee, Tia\r\nDOP: Amlan Saha\r\nEdit: Anirban Maity\r\nProduction Design: Sugriv Gayen\r\nColorist: Smriti \r\nGraphics: Ram krishna \r\nHair: Pratima\r\nMake Up: Tapan\r\nAsst. Editor & Sound Engineer: Milan Duary \r\nAsst. DOP: Debasis\r\nLight: Debesh\r\nCamera Caretker: Debesh\r\nProduction Controller: Ranjit Panji\r\nProduction Manager: Bapi Kanjilal\r\nProduction Asst: Swapan\r\nAssociate Director: Bratin Burman\r\nExecutive Producer: Satarupa Majumder\r\nCreative Director: Sabyasachi Mandal\r\nIn Association with : Telecine\r\nProducer: Drishti & Biocine Media Entertainment Pvt. Ltd\r\nStory, Screenplay & Direction: Joydip Banerjee',
+        duration='89',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:37:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1h3pdjlh'
+05/12/2018 17:32:49 | SUCCESS | Updtate MetaData(0_1h3pdjlh) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 Trailer',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1h3pdjlh/version/100002',longdescription='Here we present promo of  Short Film Devdas 2.5 .A quirky adaptation of Sharat Chandra Chattopadhyay\'s evergreen classic. The flick mainly deals with the story of DEV and PARO being trapped in todays materialistic world and how their lives get affected with modern day vices.\r\nFilm: DEV DAS 2.5\r\nCast:Soupayan Jana, Sreyashi Ghosh,Siddhartha Banerjee\r\nArundhati Mukherjee, Tia\r\nDOP: Amlan Saha\r\nEdit: Anirban Maity\r\nProduction Design: Sugriv Gayen\r\nColorist: Smriti \r\nGraphics: Ram krishna \r\nHair: Pratima\r\nMake Up: Tapan\r\nAsst. Editor & Sound Engineer: Milan Duary \r\nAsst. DOP: Debasis\r\nLight: Debesh\r\nCamera Caretker: Debesh\r\nProduction Controller: Ranjit Panji\r\nProduction Manager: Bapi Kanjilal\r\nProduction Asst: Swapan\r\nAssociate Director: Bratin Burman\r\nExecutive Producer: Satarupa Majumder\r\nCreative Director: Sabyasachi Mandal\r\nIn Association with : Telecine\r\nProducer: Drishti & Biocine Media Entertainment Pvt. Ltd\r\nStory, Screenplay & Direction: Joydip Banerjee',
+        duration='89',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:38:06',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1h3pdjlh'
+05/12/2018 17:33:27 | SUCCESS | Updtate MetaData(0_m3egpds5) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 Full Movie.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_m3egpds5/version/100002',longdescription='Here we present Short Film Devdas 2.5 .A quirky adaptation of Sharat Chandra Chattopadhyay\'s evergreen classic. The flick mainly deals with the story of DEV and PARO being trapped in todays materialistic world and how their lives get affected with modern day vices.\r\nFilm: DEV DAS 2.5\r\nCast:Soupayan Jana, Sreyashi Ghosh,Siddhartha Banerjee\r\nArundhati Mukherjee, Tia\r\nDOP: Amlan Saha\r\nEdit: Anirban Maity\r\nProduction Design: Sugriv Gayen\r\nColorist: Smriti \r\nGraphics: Ram krishna \r\nHair: Pratima\r\nMake Up: Tapan\r\nAsst. Editor & Sound Engineer: Milan Duary \r\nAsst. DOP: Debasis\r\nLight: Debesh\r\nCamera Caretker: Debesh\r\nProduction Controller: Ranjit Panji\r\nProduction Manager: Bapi Kanjilal\r\nProduction Asst: Swapan\r\nAssociate Director: Bratin Burman\r\nExecutive Producer: Satarupa Majumder\r\nCreative Director: Sabyasachi Mandal\r\nIn Association with : Telecine\r\nProducer: Drishti & Biocine Media Entertainment Pvt. Ltd\r\nStory, Screenplay & Direction: Joydip Banerjee',
+        duration='1040',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:38:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_m3egpds5'
+05/12/2018 17:37:46 | SUCCESS | Updtate MetaData(0_1h3pdjlh) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 Trailer',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1h3pdjlh/version/100002',longdescription='Here we present trailer of  Short Film Devdas 2.5 .A quirky adaptation of Sharat Chandra Chattopadhyay\'s evergreen classic. The flick mainly deals with the story of DEV and PARO being trapped in todays materialistic world and how their lives get affected with modern day vices.\r\nFilm: DEV DAS 2.5\r\nCast:Soupayan Jana, Sreyashi Ghosh,Siddhartha Banerjee\r\nArundhati Mukherjee, Tia\r\nDOP: Amlan Saha\r\nEdit: Anirban Maity\r\nProduction Design: Sugriv Gayen\r\nColorist: Smriti \r\nGraphics: Ram krishna \r\nHair: Pratima\r\nMake Up: Tapan\r\nAsst. Editor & Sound Engineer: Milan Duary \r\nAsst. DOP: Debasis\r\nLight: Debesh\r\nCamera Caretker: Debesh\r\nProduction Controller: Ranjit Panji\r\nProduction Manager: Bapi Kanjilal\r\nProduction Asst: Swapan\r\nAssociate Director: Bratin Burman\r\nExecutive Producer: Satarupa Majumder\r\nCreative Director: Sabyasachi Mandal\r\nIn Association with : Telecine\r\nProducer: Drishti & Biocine Media Entertainment Pvt. Ltd\r\nStory, Screenplay & Direction: Joydip Banerjee',
+        duration='89',type='1',tag='short film, devdas, devdas 2.5, trailer, best short film, indian short film, award winning short film, jeeguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:43:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='active',custom_data=''
+        where entryid='0_1h3pdjlh'
+05/12/2018 17:39:21 | SUCCESS | Save Content Partner(0_m3egpds5,) | By-Biocine_ott503 | 
+05/12/2018 17:40:26 | SUCCESS | Updtate MetaData(0_m3egpds5) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 Full Movie.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_m3egpds5/version/100002',longdescription='Here we present Short Film Devdas 2.5 .A quirky adaptation of Sharat Chandra Chattopadhyay\'s evergreen classic. The flick mainly deals with the story of DEV and PARO being trapped in todays materialistic world and how their lives get affected with modern day vices.\r\nFilm: DEV DAS 2.5\r\nCast:Soupayan Jana, Sreyashi Ghosh,Siddhartha Banerjee\r\nArundhati Mukherjee, Tia\r\nDOP: Amlan Saha\r\nEdit: Anirban Maity\r\nProduction Design: Sugriv Gayen\r\nColorist: Smriti \r\nGraphics: Ram krishna \r\nHair: Pratima\r\nMake Up: Tapan\r\nAsst. Editor & Sound Engineer: Milan Duary \r\nAsst. DOP: Debasis\r\nLight: Debesh\r\nCamera Caretker: Debesh\r\nProduction Controller: Ranjit Panji\r\nProduction Manager: Bapi Kanjilal\r\nProduction Asst: Swapan\r\nAssociate Director: Bratin Burman\r\nExecutive Producer: Satarupa Majumder\r\nCreative Director: Sabyasachi Mandal\r\nIn Association with : Telecine\r\nProducer: Drishti & Biocine Media Entertainment Pvt. Ltd\r\nStory, Screenplay & Direction: Joydip Banerjee',
+        duration='1040',type='1',tag='short film, bengali, indian short film, best short film, award winning short film, jeeoguru, devdas 2.5',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:45:43',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_m3egpds5'
+05/12/2018 17:44:07 | SUCCESS | Updtate MetaData(0_5c5f86jq) | By-Biocine_ott503 | update entry set name='INFECTION PROMO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5c5f86jq/version/100002',longdescription='Here we Presenting a new Bengali short film Promo \"INFECTION\"..Featuring with Koushik Bhattachariya, Arunava Dutta, Sreoshi Ghosh, Sanghamitra & others..Directed By Arindam Chakraborty.\r\n-------------------\r\nFilm: INFECTION\r\nFeaturing: Arunava Dutta, Koushik Bhattachariya,Sreoshi Ghosh,Sanghamitra\r\nStory: Arindam Chakraborty\r\nEdit: Anirban Maity\r\nColorist:Smriti\r\nD.O P: Ashok Pramanik\r\nDialogue: Somnath Roy\r\nProduction Manager: Bapi Kanjilal\r\nProduction Controller: Kousick\r\nAssociate Director: Sanjoy Das\r\nCreative Director:Sabyasachi Mandal\r\nExecutive Producer: Satarupa Majumdar\r\nProduce By:DRISHTI &\r\nBIOCINE MEDIA ENTERTAINMENT PVT. LTD\r\nDirected By:Arindam Chakraborty',
+        duration='110',type='1',tag='infection, kousick bhattachariya, sreoshi ghosh, arindam chakraborty, dristi, biocine, short film, bengali short film, indian short film, short film promo, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:49:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5c5f86jq'
+05/12/2018 17:45:00 | SUCCESS | Updtate MetaData(0_5c5f86jq) | By-Biocine_ott503 | update entry set name='INFECTION TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5c5f86jq/version/100002',longdescription='Here we Presenting a new Bengali short film Promo \"INFECTION\"..Featuring with Koushik Bhattachariya, Arunava Dutta, Sreoshi Ghosh, Sanghamitra & others..Directed By Arindam Chakraborty.\r\n-------------------\r\nFilm: INFECTION\r\nFeaturing: Arunava Dutta, Koushik Bhattachariya,Sreoshi Ghosh,Sanghamitra\r\nStory: Arindam Chakraborty\r\nEdit: Anirban Maity\r\nColorist:Smriti\r\nD.O P: Ashok Pramanik\r\nDialogue: Somnath Roy\r\nProduction Manager: Bapi Kanjilal\r\nProduction Controller: Kousick\r\nAssociate Director: Sanjoy Das\r\nCreative Director:Sabyasachi Mandal\r\nExecutive Producer: Satarupa Majumdar\r\nProduce By:DRISHTI &\r\nBIOCINE MEDIA ENTERTAINMENT PVT. LTD\r\nDirected By:Arindam Chakraborty',
+        duration='110',type='1',tag='infection, kousick bhattachariya, sreoshi ghosh, arindam chakraborty, dristi, biocine, short film, bengali short film, indian short film, short film promo, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:50:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5c5f86jq'
+05/12/2018 17:45:10 | SUCCESS | Updtate MetaData(0_5c5f86jq) | By-Biocine_ott503 | update entry set name='INFECTION TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5c5f86jq/version/100002',longdescription='Here we Presenting a new Bengali short film Promo \"INFECTION\"..Featuring with Koushik Bhattachariya, Arunava Dutta, Sreoshi Ghosh, Sanghamitra & others..Directed By Arindam Chakraborty.\r\n-------------------\r\nFilm: INFECTION\r\nFeaturing: Arunava Dutta, Koushik Bhattachariya,Sreoshi Ghosh,Sanghamitra\r\nStory: Arindam Chakraborty\r\nEdit: Anirban Maity\r\nColorist:Smriti\r\nD.O P: Ashok Pramanik\r\nDialogue: Somnath Roy\r\nProduction Manager: Bapi Kanjilal\r\nProduction Controller: Kousick\r\nAssociate Director: Sanjoy Das\r\nCreative Director:Sabyasachi Mandal\r\nExecutive Producer: Satarupa Majumdar\r\nProduce By:DRISHTI &\r\nBIOCINE MEDIA ENTERTAINMENT PVT. LTD\r\nDirected By:Arindam Chakraborty',
+        duration='110',type='1',tag='infection, kousick bhattachariya, sreoshi ghosh, arindam chakraborty, dristi, biocine, short film, bengali short film, indian short film, short film promo, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:50:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5c5f86jq'
+05/12/2018 17:45:50 | SUCCESS | Updtate MetaData(0_gd0mcokl) | By-Biocine_ott503 | update entry set name='INFECTION SHORT FILM',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_gd0mcokl/version/100002',longdescription='Here we Presenting a new Bengali short film Promo \"INFECTION\"..Featuring with Koushik Bhattachariya, Arunava Dutta, Sreoshi Ghosh, Sanghamitra & others..Directed By Arindam Chakraborty.\r\n-------------------\r\nFilm: INFECTION\r\nFeaturing: Arunava Dutta, Koushik Bhattachariya,Sreoshi Ghosh,Sanghamitra\r\nStory: Arindam Chakraborty\r\nEdit: Anirban Maity\r\nColorist:Smriti\r\nD.O P: Ashok Pramanik\r\nDialogue: Somnath Roy\r\nProduction Manager: Bapi Kanjilal\r\nProduction Controller: Kousick\r\nAssociate Director: Sanjoy Das\r\nCreative Director:Sabyasachi Mandal\r\nExecutive Producer: Satarupa Majumdar\r\nProduce By:DRISHTI &\r\nBIOCINE MEDIA ENTERTAINMENT PVT. LTD\r\nDirected By:Arindam Chakraborty',
+        duration='1524',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:51:07',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='DRAMA',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gd0mcokl'
+05/12/2018 17:46:04 | SUCCESS | Save Content Partner(0_gd0mcokl,) | By-Biocine_ott503 | 
+05/12/2018 17:46:14 | SUCCESS | Save Content Partner(0_5c5f86jq,) | By-Biocine_ott503 | 
+05/12/2018 17:47:12 | SUCCESS | Save Content Partner(0_1h3pdjlh,) | By-Biocine_ott503 | 
+05/12/2018 17:47:30 | SUCCESS | Save Content Partner(0_1h3pdjlh,) | By-Biocine_ott503 | 
+05/12/2018 17:54:22 | SUCCESS | Updtate MetaData(0_xy7pgo6s) | By-Biocine_ott503 | update entry set name='STATUS | Bengali Short Film',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xy7pgo6s/version/100002',longdescription='Here we presenting a new short film trailer STATUS.. Cast By Arunava Dutta, Manali, Titly Aich, Tapas Basu, Pradyut, Uday..Present By Harit Ratna..Produce By Drishti & Biocine Media Entertainment Pvt. Ltd..Story & Directed By Biswajit Pal \r\n-----------------------------------------\r\nFilm: Status\r\nCast: Arunava Dutta,Manali,Titly Aich,Tapas Basu,Pradyut,Uday\r\nDOP: Asish Halder\r\nEdit: Souvik Singha Roy \r\nColorist: Rajat Shuvra Chakraborty(T S M) \r\nScript: Mrityunjoy\r\nSound Designer: Sanjiv Routh Sarkar \r\nChief Assistant Director: Utpal Pal \r\nV F X: Techno Speciality Media Pvt.Ltd\r\nExecutive Producer: Satarupa Majumder\r\nPresent By: Harit Ratna\r\nProduce By: Drishti & \r\nBiocine Media Entertainment Pvt. Ltd\r\nStory & Directed By: Biswajit Pal',
+        duration='1236',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 17:59:39',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xy7pgo6s'
+05/12/2018 17:55:21 | SUCCESS | Save New video(0_w1tqfefl) | By-Biocine_ott503 | 
+05/12/2018 17:55:38 | SUCCESS | Updtate MetaData(0_vidxpnpq) | By-Biocine_ott503 | update entry set name='DEWANAA | Nachiketa Chakraborty ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vidxpnpq/version/100002',longdescription='Here we presents a contemporary romantic song \'DEWANAA\' by Nachiketa Chakraborty from the album \'AAY DEKE JAY\'\r\n--------------------------------\r\nSong: DEWANAA\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n\r\nStreaming on Jeeoguru Apps',
+        duration='151',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:00:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vidxpnpq'
+05/12/2018 18:05:57 | SUCCESS | Save New video(0_2cz8jrq0) | By-Biocine_ott503 | 
+05/12/2018 18:08:13 | SUCCESS | Updtate MetaData(0_vidxpnpq) | By-Biocine_ott503 | update entry set name='DEWANAA | Nachiketa Chakraborty ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vidxpnpq/version/100002',longdescription='Here we presents a contemporary romantic song \'DEWANAA\' by Nachiketa Chakraborty from the album \'AAY DEKE JAY\'\r\n--------------------------------\r\nSong: DEWANAA\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n\r\nStreaming on Jeeoguru Apps',
+        duration='151',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:13:31',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Music',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vidxpnpq'
+05/12/2018 18:12:59 | SUCCESS | Updtate MetaData(0_w1tqfefl) | By-Biocine_ott503 | update entry set name='DEWANAA | NACHIKETA CHAKRABORTY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_w1tqfefl/version/100022',longdescription='Here we presents a contemporary romantic song \'DEWANAA\' by Nachiketa Chakraborty from the album \'AAY DEKE JAY\'\r\n--------------------------------\r\nSong: DEWANAA\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n\r\nStreaming on Jeeoguru Apps',
+        duration='151',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:18:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w1tqfefl'
+05/12/2018 18:13:05 | SUCCESS | Delete Video entry(0_vidxpnpq) | By-Biocine_ott503 | 
+05/12/2018 18:14:24 | SUCCESS | Updtate MetaData(0_2cz8jrq0) | By-Biocine_ott503 | update entry set name='AMAR ICHCHHE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2cz8jrq0/version/100022',longdescription='Here we presenting a Bengali Modern Song ‘Echhe’ by Nachiketa Chakraborty...\r\nThis Song is based on the eternal desire of a father to love & protect his daughter from outer world. For a father such times of togetherness are the most precious gifts in his life proving the love, affection & bonding  between them.\r\n--------------------------------------------------\r\nSong: Echhe\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\n\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n',
+        duration='212',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:19:42',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2cz8jrq0'
+05/12/2018 18:14:27 | SUCCESS | Updtate MetaData(0_w1tqfefl) | By-Biocine_ott503 | update entry set name='DEWANAA | NACHIKETA CHAKRABORTY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_w1tqfefl/version/100022',longdescription='Here we presents a contemporary romantic song \'DEWANAA\' by Nachiketa Chakraborty from the album \'AAY DEKE JAY\'\r\n--------------------------------\r\nSong: DEWANAA\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n\r\nStreaming on Jeeoguru Apps',
+        duration='151',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:19:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w1tqfefl'
+05/12/2018 18:15:48 | SUCCESS | Delete Video entry(0_e0cz1o83) | By-Biocine_ott503 | 
+05/12/2018 18:16:16 | SUCCESS | Save Thumbnail(0_2cz8jrq0) | By-Biocine_ott503 | 
+05/12/2018 18:16:44 | SUCCESS | Save Thumbnail(0_w1tqfefl) | By-Biocine_ott503 | 
+05/12/2018 18:17:10 | SUCCESS | Save Thumbnail(0_2cz8jrq0) | By-Biocine_ott503 | 
+05/12/2018 18:17:29 | SUCCESS | Updtate MetaData(0_2cz8jrq0) | By-Biocine_ott503 | update entry set name='ECHHE',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2cz8jrq0/version/100042',longdescription='Here we presenting a Bengali Modern Song ‘Echhe’ by Nachiketa Chakraborty...\r\nThis Song is based on the eternal desire of a father to love & protect his daughter from outer world. For a father such times of togetherness are the most precious gifts in his life proving the love, affection & bonding  between them.\r\n--------------------------------------------------\r\nSong: Echhe\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\n\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n',
+        duration='212',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:22:47',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2cz8jrq0'
+05/12/2018 18:17:45 | SUCCESS | Updtate MetaData(0_2cz8jrq0) | By-Biocine_ott503 | update entry set name='ECHHE|NACHIKETA CHAKRABORT',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2cz8jrq0/version/100042',longdescription='Here we presenting a Bengali Modern Song ‘Echhe’ by Nachiketa Chakraborty...\r\nThis Song is based on the eternal desire of a father to love & protect his daughter from outer world. For a father such times of togetherness are the most precious gifts in his life proving the love, affection & bonding  between them.\r\n--------------------------------------------------\r\nSong: Echhe\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\n\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n',
+        duration='212',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 18:23:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2cz8jrq0'
+05/12/2018 18:17:55 | SUCCESS | Save Content Partner(0_2cz8jrq0,) | By-Biocine_ott503 | 
+05/12/2018 18:18:04 | SUCCESS | Save Content Partner(0_w1tqfefl,) | By-Biocine_ott503 | 
+05/12/2018 18:23:11 | SUCCESS | Save Thumbnail(0_xid2xyje) | By-Biocine_ott503 | 
+05/12/2018 18:32:51 | SUCCESS | Updtate MetaData(0_z5ko76z5) | By-Biocine_ott503 | update entry set name='RONG TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z5ko76z5/version/100002',longdescription='Here we presenting new bengali short Film trailer \" RONG\". Cast By Kaushik, Rituparna & Kajal..Produce By CINETUBE DIGITAL..Directed By Rana Sen.\r\n-----------------------------------------------------------\r\nFILM: RONG (রং)\r\nCAST: KOUSHIK DAS,RITUPARNA DEY,KAJAL BANERJEE \r\nSTORY & SCRIPT: GAUTAM BHATTACHARIYA \r\nASSITANT DOP & LIGHT: BARUN DUTTA BANIK \r\nDOP:SMRITI & AMLAN \r\nEDIT: SMRITI\r\nASSITANT EDITOR: MILAN \r\nPRODUCTION MANAGER: BAPI KANJILAL\r\nPRODUCTION DESIGNER: KOUSICK MONDAL\r\nPRODUCTION CONTROLLER: RANJIT PANJI\r\nTECHNICAL ASSISTANCE: TELECINE \r\nPRODUCED BY: CINETUBE DIGITAL \r\nASSOCIATED DIRECTOR: SABYASACHI MANDAL\r\nDIRECTED BY: RANA SEN',
+        duration='106',type='1',tag='rong, bengali short film, koushik das, rituparna dey, rana sen, short film, jeeoguru',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 18:38:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z5ko76z5'
+05/12/2018 18:48:06 | SUCCESS | Updtate MetaData(0_xcdwjlhr) | By-Biocine_ott503 | update entry set name='TRAILER OF SHOCK STUDIO',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xcdwjlhr/version/100012',longdescription='The trailer of shock studio  , let\'s enjoy the taste of fresh original music.   ',
+        duration='117',type='1',tag='shock studio, fusion music, jeeoguru',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-12-05 18:53:23',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_xcdwjlhr'
+05/12/2018 18:55:11 | SUCCESS | Save New video(0_uure7wap) | By-Biocine_ott503 | 
+05/12/2018 19:03:17 | SUCCESS | Save Thumbnail(0_m3egpds5) | By-Biocine_ott503 | 
+05/12/2018 20:21:54 | SUCCESS | Save Thumbnail(0_1h3pdjlh) | By-Biocine_ott503 | 
+05/12/2018 20:22:15 | SUCCESS | Updtate MetaData(0_m3egpds5) | By-Biocine_ott503 | update entry set name='DEVDAS 2.5 Full Movie',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_m3egpds5/version/100012',longdescription='Here we present Short Film Devdas 2.5 .A quirky adaptation of Sharat Chandra Chattopadhyay\'s evergreen classic. The flick mainly deals with the story of DEV and PARO being trapped in todays materialistic world and how their lives get affected with modern day vices.\r\nFilm: DEV DAS 2.5\r\nCast:Soupayan Jana, Sreyashi Ghosh,Siddhartha Banerjee\r\nArundhati Mukherjee, Tia\r\nDOP: Amlan Saha\r\nEdit: Anirban Maity\r\nProduction Design: Sugriv Gayen\r\nColorist: Smriti \r\nGraphics: Ram krishna \r\nHair: Pratima\r\nMake Up: Tapan\r\nAsst. Editor & Sound Engineer: Milan Duary \r\nAsst. DOP: Debasis\r\nLight: Debesh\r\nCamera Caretker: Debesh\r\nProduction Controller: Ranjit Panji\r\nProduction Manager: Bapi Kanjilal\r\nProduction Asst: Swapan\r\nAssociate Director: Bratin Burman\r\nExecutive Producer: Satarupa Majumder\r\nCreative Director: Sabyasachi Mandal\r\nIn Association with : Telecine\r\nProducer: Drishti & Biocine Media Entertainment Pvt. Ltd\r\nStory, Screenplay & Direction: Joydip Banerjee',
+        duration='1040',type='1',tag='short film, bengali, indian short film, best short film, award winning short film, jeeoguru, devdas 2.5',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 20:27:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_m3egpds5'
+05/12/2018 20:25:51 | SUCCESS | Updtate MetaData(0_uure7wap) | By-Biocine_ott503 | update entry set name='PASSION FULL MOVIE 1.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_uure7wap/version/100022',longdescription='Here we present New Bengali Short Film \"Passion\"..Featuring with Nigel, Arita, Diyatri, Atanu and others..Produce By Cinetube Digital..Concept & Direction by Ani Ray..\r\n----------------------------------------------------------\r\nFilm: Passion (প্যাশন)\r\nFeaturing: Nigel Akkara, Arita Pal, Diyatri, Atanu Banerjee and others\r\nScript & Dialogue - Pavel Midya\r\nD.O.P- Goutam Das\r\nEdit & Sound Design : Milan\r\nChief Asst. Director: Bibhas Bera\r\nGraphics: Ramkrishna\r\nColorist: Smriti\r\nCreative Director: Sabyasachi Mandal\r\nProduce By: Cinetube Digital\r\nConcept & Direction : Ani Ray',
+        duration='2479',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 20:31:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uure7wap'
+05/12/2018 20:32:56 | SUCCESS | Save Thumbnail(0_uure7wap) | By-Biocine_ott503 | 
+05/12/2018 20:37:46 | SUCCESS | Save Thumbnail(0_xy7pgo6s) | By-Biocine_ott503 | 
+05/12/2018 20:38:38 | SUCCESS | Save Thumbnail(0_kjx1jm5d) | By-Biocine_ott503 | 
+05/12/2018 20:39:47 | SUCCESS | Save Thumbnail(0_gd0mcokl) | By-Biocine_ott503 | 
+05/12/2018 20:40:28 | SUCCESS | Save Thumbnail(0_5c5f86jq) | By-Biocine_ott503 | 
+05/12/2018 20:40:37 | SUCCESS | Updtate MetaData(0_uure7wap) | By-Biocine_ott503 | update entry set name='PASSION FULL MOVIE 1.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_uure7wap/version/100032',longdescription='Here we present New Bengali Short Film \"Passion\"..Featuring with Nigel, Arita, Diyatri, Atanu and others..Produce By Cinetube Digital..Concept & Direction by Ani Ray..\r\n----------------------------------------------------------\r\nFilm: Passion (প্যাশন)\r\nFeaturing: Nigel Akkara, Arita Pal, Diyatri, Atanu Banerjee and others\r\nScript & Dialogue - Pavel Midya\r\nD.O.P- Goutam Das\r\nEdit & Sound Design : Milan\r\nChief Asst. Director: Bibhas Bera\r\nGraphics: Ramkrishna\r\nColorist: Smriti\r\nCreative Director: Sabyasachi Mandal\r\nProduce By: Cinetube Digital\r\nConcept & Direction : Ani Ray',
+        duration='2479',type='1',tag='',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 20:45:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uure7wap'
+05/12/2018 20:41:11 | SUCCESS | Save Thumbnail(0_7wz03e9w) | By-Biocine_ott503 | 
+05/12/2018 20:41:27 | SUCCESS | Updtate MetaData(0_7wz03e9w) | By-Biocine_ott503 | update entry set name='ELO SHE NATION .mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7wz03e9w/version/100032',longdescription='',
+        duration='1034',type='1',tag='',category='',categoryid='',
+        updated_at='2018-12-05 20:46:44',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7wz03e9w'
+05/12/2018 20:42:05 | SUCCESS | Save Thumbnail(0_00wl94be) | By-Biocine_ott503 | 
+05/12/2018 15:17:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 20:50:56 | SUCCESS | Updtate MetaData(0_slcct2fm) | By-Biocine_ott503 | update entry set name='RONG ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_slcct2fm/version/100002',longdescription='Here we presenting new bengali short Film \" RONG\". Cast By Kaushik, Rituparna & Kajal..Produce By CINETUBE DIGITAL..Directed By Rana Sen.\r\n--------------------------------------------------------\r\nFILM: RONG (রং)\r\nCAST: KOUSHIK DAS,RITUPARNA DEY,KAJAL BANERJEE \r\nSTORY & SCRIPT: GAUTAM BHATTACHARIYA\r\nASSITANT DOP & LIGHT: BARUN DUTTA BANIK \r\nDOP: SMRITI & AMLAN \r\nEDIT: SMRITI\r\nASSITANT EDITOR: MILAN \r\nPRODUCTION MANAGER: BAPI KANJILAL\r\nPRODUCTION DESIGNER:KOUSICK MONDAL \r\nPRODUCTION CONTROLLER: RANJIT PANJI\r\nTECHNICAL ASSISTANCE: TELECINE \r\nPRODUCED BY: CINETUBE DIGITAL \r\nASSOCIATED DIRECTOR: SABYASACHI MANDAL\r\nDIRECTED BY: RANA SEN',
+        duration='1553',type='1',tag='rong, bengali short film, new short film, latest short film, hit short film, indian short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 20:56:13',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_slcct2fm'
+05/12/2018 20:54:32 | SUCCESS | Updtate MetaData(0_z4nsm68i) | By-Biocine_ott503 | update entry set name='Leave Together | Episode 1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z4nsm68i/version/100022',longdescription='Here we are presenting Hindi Web Series \"Leave Together\"\r\nParmit & Tarun, in search of a rented apartment in Kolkata, meet each other. Together they hatch a desperate plan.\r\n--------------------------------------------\r\nLEAVE TOGETHER\r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nWritten by:Soumit Deb\r\nSeries co created by:Soumit Deb & Joydip Banerjee\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='778',type='1',tag='leave together, web series, hindi web series, episode 1, new movie, hindi movies, jeeoguru',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 20:59:49',shortdescription='',
+        director='Joydip Banerjee',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z4nsm68i'
+05/12/2018 20:55:52 | SUCCESS | Updtate MetaData(0_kxt2m8ed) | By-Biocine_ott503 | update entry set name='Leave Together | Episode 2',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_kxt2m8ed/version/100012',longdescription='Here we are presenting Hindi Web Series \"Leave Together\".\r\nPrakash Gupta welcomes Parmit & Tarun to Leave Together house. But all\'s not well.\r\n--------------------------------------\r\nLEAVE TOGETHER\r\nStarring:Anang Deshai,Mithu Chakraborty,Ankita Roy,Rajdeep Hira,Kavita Banerjee & Others\r\nWritten by:Soumit Deb\r\nSeries co created by:Soumit Deb & Joydip Banerjee\r\nDirected by:Joydip Banerjee \r\nDOP:Amlan Saha\r\nEditor:Pabitra Jana\r\nCreative Producer:Soumyajit Ganguly & Rakes Gupata\r\nProduced by:Columbaas Digiplex  \r\nProduction Controller:Kousick Mondal\r\nStreaming only on Jeeoguru apps\r\n© 2018 BY COLUMBAAS DIGIPLEX',
+        duration='810',type='1',tag='leave together, episode 2, leave together episodes, web series, hindi, kavita, rajdeep, jeeoguru',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-12-05 21:01:09',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_kxt2m8ed'
+05/12/2018 20:56:58 | SUCCESS | Updtate MetaData(0_2cz8jrq0) | By-Biocine_ott503 | update entry set name='ECHHE|NACHIKETA CHAKRABORTY',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2cz8jrq0/version/100042',longdescription='Here we presenting a Bengali Modern Song ‘Echhe’ by Nachiketa Chakraborty...\r\nThis Song is based on the eternal desire of a father to love & protect his daughter from outer world. For a father such times of togetherness are the most precious gifts in his life proving the love, affection & bonding  between them.\r\n--------------------------------------------------\r\nSong: Echhe\r\nSinger: Nachiketa Chakraborty\r\nMusic & Lyrics: Nachiketa Chakraborty\r\nAlbum: Aay Deke Jay\r\nMusic Label: Powerchord\r\nDOP: Sabyasachi Mandal\r\nEdit: Narayan Rana\r\n\r\nVideo Director: Roopal & Soumyajit\r\nAn Initiative by: BIOCINE\r\n',
+        duration='212',type='1',tag='',category='MUSIC',categoryid='308',
+        updated_at='2018-12-05 21:02:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='MUSIC',
+        language='BENGALI',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2cz8jrq0'
+05/12/2018 21:04:46 | SUCCESS | Updtate MetaData(0_jbicylog) | By-Biocine_ott503 | update entry set name='Suzette',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_jbicylog/version/100002',longdescription='Here we present new short film Suzette (Hindi). \r\n\r\nStarring : Swagata Mukherjee, Praiti Biswas, Siddhartha Banerjee, Nasif Akhter and others.. \r\nD.O.P- Smriti \r\nProduction Designer: Kousick Mondal\r\nProduction Controller: Ranjit Pamji \r\nTechnical  Assistance: TELECINE \r\nPRODUCED BY : CINETUBE DIGITAL \r\nSTORY & DIRECTED BY: RISHI MUKHERJEE ',
+        duration='1127',type='1',tag='suzette, hindi movie, indian short film, latest short film, hit short film',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 21:10:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jbicylog'
+05/12/2018 21:09:58 | SUCCESS | Updtate MetaData(0_00wl94be) | By-Biocine_ott503 | update entry set name='ELO SHE NATION TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_00wl94be/version/100012',longdescription='Here we Presenting new bengali short Film \"ELO SHE NATION\".\r\n---------------------------------------------------\r\nCAST:KAUSHIK, ARUNDHATI, SARMISTHA\r\nSTORY & SCRIPT: GAUTAM BHATTACHARIYA \r\nDOP: SMRITI & AMLAN \r\nASSITANT DOP & LIGHT: BARUN DUTTA BANIK \r\nEDIT & COLORIST: SMRITI\r\nASSITANT EDITOR & SOUND RECODIST: MILAN\r\nPRODUCTION DESIGN: KOUSICK MONDAL\r\nPRODUCTION CONTROLLER: RANJIT MONDAL\r\nTECHNICAL ASSISTANCE: TELECINE\r\nASSOCIATED DIRECTOR: SABYASACHI MANDAL\r\nPRODUCED BY: CINETUBE DIGITAL \r\nDIRECTED BY: RANA SEN',
+        duration='102',type='1',tag='elo she nation, short film, bengali, latest short film, hit short film, hot short film, new short film, hit short',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 21:15:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_00wl94be'
+05/12/2018 21:10:14 | SUCCESS | Updtate MetaData(0_00wl94be) | By-Biocine_ott503 | update entry set name='ELO SHE NATION TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_00wl94be/version/100012',longdescription='Here we Presenting new bengali short Film \"ELO SHE NATION\".\r\n---------------------------------------------------\r\nCAST:KAUSHIK, ARUNDHATI, SARMISTHA\r\nSTORY & SCRIPT: GAUTAM BHATTACHARIYA \r\nDOP: SMRITI & AMLAN \r\nASSITANT DOP & LIGHT: BARUN DUTTA BANIK \r\nEDIT & COLORIST: SMRITI\r\nASSITANT EDITOR & SOUND RECODIST: MILAN\r\nPRODUCTION DESIGN: KOUSICK MONDAL\r\nPRODUCTION CONTROLLER: RANJIT MONDAL\r\nTECHNICAL ASSISTANCE: TELECINE\r\nASSOCIATED DIRECTOR: SABYASACHI MANDAL\r\nPRODUCED BY: CINETUBE DIGITAL \r\nDIRECTED BY: RANA SEN',
+        duration='102',type='1',tag='elo she nation, short film, bengali, latest short film, hit short film, hot short film, new short film, hit short',category='ORIGINALS>SHORT FILMS',categoryid='297',
+        updated_at='2018-12-05 21:15:32',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_00wl94be'
+05/12/2018 16:18:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/12/2018 22:31:09 | SUCCESS | Updtate MetaData(0_9p8b3c9b) | By-Biocine_ott503 | update entry set name='ABAIDHA TRAILER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_9p8b3c9b/version/100012',longdescription='Presenting a new Bengali short film trailer \"Abaidha\"..Frustrated bachelor man who lost his job for cheating with his company. His girlfriend also left from his life for this type of behaviour. When he frustrated too much and need some freshness for his daily life then he did another disaster and he decide to finished his life.\r\n-------------------------------------------------------------\r\nCAST & CREW: Suhas Ranjan Bhowmik, Suhani Biswas\r\nStory & Script: Chiranjit Ghoshal\r\nCinematographer: Sourav Sarkar\r\nEditor: Chiranjit Ghoshal\r\nMusic: Rakesh Dutta\r\nPost Production: Purple Digi Lab\r\nBanner: ECHO Entertainment Pvt, Ltd.\r\nProducer: Mayukh Chatterjee\r\nIn Association With: A Chandan Roy Production\r\nStreaming only on JEEO GURU',
+        duration='100',type='1',tag='bazar, short film, bengali, latest, new, jeeo guru, indian film, best short film, hit short film, hot short film, hit short film hot short film, romantic, abaidha, purple',category='BAZAAR',categoryid='313',
+        updated_at='2018-12-05 22:36:27',shortdescription='',
+        director='Chiranjit Ghoshal',producer='MAYUKH CHATTERJEE',cast='',crew='',sub_genre='DRAMA',
+        language='BENGALI',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9p8b3c9b'
+05/12/2018 19:35:27 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

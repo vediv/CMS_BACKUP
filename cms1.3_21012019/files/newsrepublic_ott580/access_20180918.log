@@ -1,0 +1,30 @@
+18/09/2018 10:43:08 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+18/09/2018 16:16:01 | SUCCESS | Update Category(ENTERTAINMENT) | By-NewsRepublic_ott580 | update categories set cat_name='ENTERTAINMENT',description='',tags='',fullname='ANANTAPUR>ENTERTAINMENT' where category_id='428'
+18/09/2018 16:17:04 | SUCCESS | Update Category(SPORTS) | By-NewsRepublic_ott580 | update categories set cat_name='SPORTS',description='',tags='',fullname='CHITTOOR>SPORTS' where category_id='424'
+18/09/2018 16:17:48 | SUCCESS | Update Category(ENTERTAINMENT) | By-NewsRepublic_ott580 | update categories set cat_name='ENTERTAINMENT',description='',tags='',fullname='CHITTOOR>ENTERTAINMENT' where category_id='425'
+18/09/2018 16:18:22 | SUCCESS | Update Category(ENTERTAINMENT) | By-NewsRepublic_ott580 | update categories set cat_name='ENTERTAINMENT',description='',tags='',fullname='CHITTOOR>ENTERTAINMENT' where category_id='425'
+18/09/2018 16:18:50 | SUCCESS | Create New Category(POLITICAL) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '506','423','1','112','POLITICAL','CHITTOOR>POLITICAL','423>506','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:19:55 | SUCCESS | Create New Category(SPORTS) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '508','507','1','112','SPORTS','EAST GODAVARI>SPORTS','507>508','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:20:45 | SUCCESS | Create New Category(ENTERTAINMENT) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '509','507','1','112','ENTERTAINMENT','EAST GODAVARI>ENTERTAINMENT','507>509','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:21:14 | SUCCESS | Create New Category(POLITICAL) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '510','507','1','112','POLITICAL','EAST GODAVARI>POLITICAL','507>510','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:22:12 | SUCCESS | Create New Category(SPORTS) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '512','511','1','112','SPORTS','GUNTUR>SPORTS','511>512','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:22:43 | SUCCESS | Create New Category(ENTERTAINMENT) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '513','511','1','112','ENTERTAINMENT','GUNTUR>ENTERTAINMENT','511>513','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:23:19 | SUCCESS | Create New Category(POLITICAL) | By-NewsRepublic_ott580 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '514','511','1','112','POLITICAL','GUNTUR>POLITICAL','511>514','0','0','','',NOW(),Now(),'168',ifnull(max(priority),0)+1,'0' from categories
+18/09/2018 16:25:01 | SUCCESS | Bulk Add Category(0_dnwi1uhf,0_tws872v0,0_b5g7us5l,427,425,510,513) | By-NewsRepublic_ott580 | update entry set category='CHITTOOR>ENTERTAINMENT,ANANTAPUR>SPORTS,EAST GODAVARI>POLITICAL,GUNTUR>ENTERTAINMENT', categoryid='425,427,510,513' where entryid='0_b5g7us5l' 
+18/09/2018 16:26:33 | SUCCESS | Bulk Add Category(0_x3yrhi0c,0_d2e167se,0_4yxfi4l3,428,424,509,512) | By-NewsRepublic_ott580 | update entry set category='ANANTAPUR>ENTERTAINMENT,CHITTOOR>SPORTS,EAST GODAVARI>ENTERTAINMENT,GUNTUR>SPORTS', categoryid='428,424,509,512' where entryid='0_4yxfi4l3' 
+18/09/2018 16:27:11 | SUCCESS | Bulk Add Category(0_jp5urktr,0_sxfjdl3c,0_ooq1hwrk,424,506,512,429,508) | By-NewsRepublic_ott580 | update entry set category='CHITTOOR>SPORTS,CHITTOOR>POLITICAL,GUNTUR>SPORTS,ANANTAPUR>POLITICAL,EAST GODAVARI>SPORTS', categoryid='424,506,512,429,508' where entryid='0_ooq1hwrk' 
+18/09/2018 16:28:49 | SUCCESS | Bulk Add Category(0_y48o7o2o,0_slsemrbj,424,508,510,506,429) | By-NewsRepublic_ott580 | update entry set category='CHITTOOR>SPORTS,EAST GODAVARI>SPORTS,EAST GODAVARI>POLITICAL,CHITTOOR>POLITICAL,ANANTAPUR>POLITICAL', categoryid='424,508,510,506,429' where entryid='0_slsemrbj' 
+18/09/2018 11:15:35 | SUCCESS | login-(NewsRepublic) | By-NewsRepublic_ott580 | 
+18/09/2018 16:47:50 | SUCCESS | update Header Content Detail(ANANTAPUR) | By-NewsRepublic_ott580 | 
+18/09/2018 16:49:01 | SUCCESS | update Header Content Detail(CHITTOOR) | By-NewsRepublic_ott580 | 
+18/09/2018 16:51:52 | SUCCESS | Add New Header Content(EAST GODAVARI) | By-NewsRepublic_ott580 | 
+18/09/2018 16:52:02 | SUCCESS | Add New Header Content(GUNTUR) | By-NewsRepublic_ott580 | 
+18/09/2018 16:52:06 | SUCCESS | Header Menu active(HeaderID:46,Status:active) | By-NewsRepublic_ott580 | 
+18/09/2018 16:52:08 | SUCCESS | Header Menu active(HeaderID:47,Status:active) | By-NewsRepublic_ott580 | 

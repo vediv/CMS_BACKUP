@@ -1,0 +1,26 @@
+16/07/2018 04:29:17 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+16/07/2018 04:43:17 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+16/07/2018 07:08:23 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+16/07/2018 15:41:20 | SUCCESS | Save Thumbnail(0_q8ypo7fd) | By-Geetanjali_ott488 | 
+16/07/2018 10:29:40 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+16/07/2018 15:59:56 | SUCCESS | Updtate MetaData(0_u5agx2ls) | By-Adosphere_ott488 | update entry set name='Rustum | Chiranjeevi, Urvasi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_u5agx2ls/version/100002',longdescription='Evergreen Chiranjeevi\'s Telugu Movie Rustum which release in 1984, where he played a role of a very honest and good person who seek for the well being of the people. When Hari(Chiranjeevi) visits the village he came in contact with the village rich person who is illegaly taking away the poor people property. Hari decides to fight for the innocent - poor villagers. Watch the video to know the rest story.',
+        duration='8543',type='1',tag='telugu, tollywood, full, length, classic, action, chiranjeevi, urvasi, rajyalaxmi, gopal, gummadi, satyanarayana, ramalingaiah, rajendra, narasimha, mikkilineni, bheemaraju, hemsunder, anand, mohan, mithai, garaga, mallika, arjun, nirmala, kodanda, venkanna, chitti, rustum',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-07-16 16:03:14',shortdescription='Evergreen Chiranjeevi\'s Telugu Movie Rustum which release in 1984, where he played a role of a very honest and good person who seek for the well being of the people. When Hari(Chiranjeevi) visits the village he came in contact with the village rich person who is illegaly taking away the poor people property. Hari decides to fight for the innocent - poor villagers. Watch the video to know the rest story.',
+        director='A. Kodandarami Reddy',producer='Venkanna Babu S.P.',cast='Chiranjeevi, Urvashi, Rao Gopal Rao, Allu Ramalingaiah',crew='NULL',sub_genre='Drama',
+        language='Telugu',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_u5agx2ls'
+16/07/2018 16:06:12 | SUCCESS | Updtate MetaData(0_m0m5llk9) | By-Adosphere_ott488 | update entry set name='Bangaru Bhoomi | Krishna, Sridevi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_m0m5llk9/version/100012',longdescription='Watch Bangaru Bhoomi full Movie starring Krishna Ghattamaneni, Sridevi, Kavitha, Subhashini and Gummadi Venkateswara Rao among others. The movie is directed by P.Chandrasekhara Reddy and produced by S.P. Venkanna Babu. The Music of movie is composed by J.V. Raghavulu.',
+        duration='8682',type='1',tag='telugu, tollywood, comedy, south, indian, full, length, 90s, cinema, interesting, classic, drama, action, bangaru, bhoomi, fullmovie, krishna, ghattamaneni, sridevi, kavitha, subhashini, gummadi, venkateswara, rao, pchandrasekhara, reddy, producer, spvenkanna, babu, jvraghavulu, banga, bangarou, bhumi, ghatta, ghattamanen, kavita, chandra, shekhar',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-07-16 16:09:29',shortdescription='Watch Bangaru Bhoomi full Movie starring Krishna Ghattamaneni, Sridevi, Kavitha, Subhashini and Gummadi Venkateswara Rao among others. The movie is directed by P.Chandrasekhara Reddy and produced by S.P. Venkanna Babu. The Music of movie is composed by J.V. Raghavulu.',
+        director='NULL',producer='NULL',cast='Krishna Ghattamaneni, Sridevi, Kavitha, Subhashini, Gummadi Venkateswara Rao',crew='NULL',sub_genre='NULL',
+        language='Telugu',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_m0m5llk9'
+16/07/2018 16:20:11 | SUCCESS | Updtate MetaData(0_vo37tczg) | By-Adosphere_ott488 | update entry set name='Ullam Kavarntha Kalvan',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vo37tczg/version/100002',longdescription='Watch this Tamil movie which is directed by Ilayaraja starring with R.Pandiyarajan, Rekha, Nizhalkal Ravi and Manorama',
+        duration='7387',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, r.pandiyarajan, rekha, nizhalkal ravi, manorama, ilayaraja, ullam, kavarnda, kalvan, kavarntha',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-07-16 16:23:29',shortdescription='Watch this Tamil movie which is directed by Ilayaraja starring with R.Pandiyarajan, Rekha, Nizhalkal Ravi and Manorama',
+        director='Ilayaraja',producer='',cast='R.Pandiyarajan,Rekha,Nizhalkal',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vo37tczg'
+16/07/2018 11:09:11 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+16/07/2018 11:40:02 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+16/07/2018 12:17:32 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

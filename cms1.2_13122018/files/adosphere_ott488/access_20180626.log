@@ -1,0 +1,17 @@
+26/06/2018 04:35:57 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+26/06/2018 10:08:36 | SUCCESS | Updtate MetaData(0_kded7pml) | By-Adosphere_ott488 | update entry set name='Vetrikku Oruvan',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_kded7pml/version/100002',longdescription='Watch this tamil movie which is directed by SP.Muthuraman and produced by S.Baskar starring with Sivaji Ganesan,Sripriya,M.N Nambiar,Mohan Babu',
+        duration='6994',type='1',tag='vetrikku, oruvan, full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, sivaji, ganesan, sripriya, m.n nambiar, mohan, babu, muthuraman, tollywood',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-06-26 10:11:34',shortdescription='Watch this tamil movie which is directed by SP.Muthuraman and produced by S.Baskar starring with Sivaji Ganesan,Sripriya,M.N Nambiar,Mohan Babu',
+        director='S.P Muthuraman',producer='S.Baskar',cast='Sivaji Ganesan,Sripriya,M.N Nambiar,Mohan Babu',crew='NULL',sub_genre='Drama',
+        language='Tamil',pgrating='NULL',video_status='active',puser_id='',custom_data=''
+        where entryid='0_kded7pml'
+26/06/2018 10:19:20 | SUCCESS | Updtate MetaData(0_w23dj41j) | By-Adosphere_ott488 | update entry set name='Sakthi Leelai',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_w23dj41j/version/100002',longdescription='Watch Full Length Tamil Movie release in 1972 a devotional - drama movie which is directed by T. R. Ramanna.',
+        duration='9789',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, sakthi',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-06-26 10:22:21',shortdescription='Watch Full Length Tamil Movie release in 1972 a devotional - drama movie which is directed by T. R. Ramanna.',
+        director='T. R. Ramanna',producer='',cast='',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_w23dj41j'
+26/06/2018 10:27:43 | SUCCESS | Delete Video entry(0_gjc62rcs) | By-Adosphere_ott488 | 
+26/06/2018 05:18:25 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+26/06/2018 11:32:57 | SUCCESS | Save Thumbnail(0_9hy2m50e) | By-Adosphere_ott488 | 
+26/06/2018 06:03:27 | SUCCESS | login-(Ados) | By-Ados_ott488 | 

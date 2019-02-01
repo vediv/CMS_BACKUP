@@ -1,0 +1,100 @@
+04/12/2018 01:30:37 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+04/12/2018 05:57:57 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+04/12/2018 11:54:51 | SUCCESS | Save Thumbnail(0_jfzk8d90) | By-jeeyaho_ott333 | 
+04/12/2018 11:55:38 | SUCCESS | Updtate MetaData(0_jfzk8d90) | By-jeeyaho_ott333 | update entry set name=' Hanuman Chalisa ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jfzk8d90/version/100032',longdescription='DJ Fast Hanumaan Chalisa ',
+        duration='448',type='1',tag='hanumaan chalisa, bhajan, dj chalisa, jeeyaho, chalisa, aarti',category='DEVOTIONAL>CHAALISAA',categoryid='476',
+        updated_at='2018-12-04 12:00:54',shortdescription='Hanuman Chalisa ',
+        director='',producer='gyan glam',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jfzk8d90'
+04/12/2018 06:29:34 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+04/12/2018 12:00:57 | SUCCESS | Updtate MetaData(0_jfzk8d90) | By-jeeyaho_ott333 | update entry set name=' Hanuman Chalisa ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jfzk8d90/version/100032',longdescription='DJ Fast Hanumaan Chalisa ',
+        duration='448',type='1',tag='hanumaan chalisa, bhajan, dj chalisa, jeeyaho, chalisa, aarti',category='DEVOTIONAL>CHAALISAA',categoryid='476',
+        updated_at='2018-12-04 12:05:59',shortdescription='Hanuman Chalisa ',
+        director='Manish',producer='Valtute Media',cast='Manish',crew='NA',sub_genre='Devotional',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_jfzk8d90'
+04/12/2018 12:01:34 | SUCCESS | Updtate MetaData(0_jfzk8d90) | By-jeeyaho_ott333 | update entry set name=' Hanuman Chalisa ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jfzk8d90/version/100032',longdescription='DJ Fast Hanumaan Chalisa ',
+        duration='448',type='1',tag='hanumaan chalisa, bhajan, dj chalisa, jeeyaho, chalisa, aarti',category='DEVOTIONAL>CHAALISAA',categoryid='476',
+        updated_at='2018-12-04 12:06:50',shortdescription='Hanuman Chalisa ',
+        director='Manish',producer='Valtute Media',cast='Manish',crew='NA',sub_genre='Devotional',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_jfzk8d90'
+04/12/2018 12:02:10 | SUCCESS | Updtate MetaData(0_jfzk8d90) | By-jeeyaho_ott333 | update entry set name=' Hanuman Chalisa ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jfzk8d90/version/100032',longdescription='DJ Fast Hanumaan Chalisa ',
+        duration='448',type='1',tag='hanumaan chalisa, bhajan, dj chalisa, jeeyaho, chalisa, aarti',category='DEVOTIONAL>CHAALISAA',categoryid='476',
+        updated_at='2018-12-04 12:07:26',shortdescription='Hanuman Chalisa ',
+        director='Manish',producer='Valtute Media',cast='Manish',crew='NA',sub_genre='Devotional',
+        language='hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_jfzk8d90'
+04/12/2018 07:53:18 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+04/12/2018 14:39:39 | SUCCESS | Save New video(0_ane2nidq) | By-jeeyaho_ott333 | 
+04/12/2018 14:41:52 | SUCCESS | Save New video(0_zunctgu8) | By-jeeyaho_ott333 | 
+04/12/2018 14:43:14 | SUCCESS | Save New video(0_ckpvlbnj) | By-jeeyaho_ott333 | 
+04/12/2018 14:44:52 | SUCCESS | Save New video(0_w36yj3to) | By-jeeyaho_ott333 | 
+04/12/2018 14:46:24 | SUCCESS | Save New video(0_z14mynr1) | By-jeeyaho_ott333 | 
+04/12/2018 14:51:09 | SUCCESS | Save New video(0_zgzex4lu) | By-jeeyaho_ott333 | 
+04/12/2018 14:56:29 | SUCCESS | Save New video(0_t3bomnoy) | By-jeeyaho_ott333 | 
+04/12/2018 14:57:27 | SUCCESS | Updtate MetaData(0_ane2nidq) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ane2nidq/version/100022',longdescription='Mohini Pandey in jeeyaho',
+        duration='564',type='1',tag='mohini pandey, pawan singh, retish pandey, jeeyaho, dj',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:02:43',shortdescription='Mohini Pandey in jeeyaho ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ane2nidq'
+04/12/2018 14:58:15 | SUCCESS | Updtate MetaData(0_zunctgu8) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho part 2',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zunctgu8/version/100022',longdescription='Mohini Pandey in jeeyaho part 2',
+        duration='162',type='1',tag='jeeyaho, pawan singh, ritesh pandey, mohini pandey, amarpali dubey',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:03:32',shortdescription='Mohini Pandey in jeeyaho',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zunctgu8'
+04/12/2018 14:58:55 | SUCCESS | Updtate MetaData(0_ckpvlbnj) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho part 3',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ckpvlbnj/version/100022',longdescription='Mohini Pandey in jeeyaho part 3',
+        duration='208',type='1',tag='mohini pandey, pawan singh, ritesh pandey, jeeyaho, dj',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:04:12',shortdescription='Mohini Pandey in jeeyaho',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ckpvlbnj'
+04/12/2018 14:59:26 | SUCCESS | Updtate MetaData(0_w36yj3to) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho part 4',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_w36yj3to/version/100022',longdescription='Mohini Pandey in jeeyaho part 4',
+        duration='300',type='1',tag='mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:04:43',shortdescription='Mohini Pandey in jeeyaho',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w36yj3to'
+04/12/2018 15:00:01 | SUCCESS | Updtate MetaData(0_z14mynr1) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho part 5',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_z14mynr1/version/100022',longdescription='Mohini Pandey in jeeyaho part 5',
+        duration='114',type='1',tag='mohini pandey, pawan singh, ritesh pandey, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:05:17',shortdescription='Mohini Pandey in jeeyaho ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z14mynr1'
+04/12/2018 15:02:54 | SUCCESS | Save New video(0_0ndsg9bh) | By-jeeyaho_ott333 | 
+04/12/2018 15:04:50 | SUCCESS | Save New video(0_uaojw87a) | By-jeeyaho_ott333 | 
+04/12/2018 15:05:31 | SUCCESS | Save New video(0_i8tc6nbz) | By-jeeyaho_ott333 | 
+04/12/2018 15:09:03 | SUCCESS | Save New video(0_t1kkcgrm) | By-jeeyaho_ott333 | 
+04/12/2018 15:10:44 | SUCCESS | Save New video(0_2b6vd6nl) | By-jeeyaho_ott333 | 
+04/12/2018 15:12:31 | SUCCESS | Save New video(0_32yujq9m) | By-jeeyaho_ott333 | 
+04/12/2018 15:14:53 | SUCCESS | Save New video(0_5m4o0gca) | By-jeeyaho_ott333 | 
+04/12/2018 15:16:05 | SUCCESS | Save New video(0_3vc4svlh) | By-jeeyaho_ott333 | 
+04/12/2018 15:18:17 | SUCCESS | Save New video(0_3ocvvman) | By-jeeyaho_ott333 | 
+04/12/2018 15:27:18 | SUCCESS | Updtate MetaData(0_zgzex4lu) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho part 6',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zgzex4lu/version/100022',longdescription='Mohini Pandey in jeeyaho part 6',
+        duration='391',type='1',tag='mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:32:35',shortdescription='Mohini Pandey in jeeyaho ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zgzex4lu'
+04/12/2018 15:28:14 | SUCCESS | Updtate MetaData(0_t3bomnoy) | By-jeeyaho_ott333 | update entry set name='Mohini Pandey in jeeyaho part 7',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_t3bomnoy/version/100022',longdescription='Mohini Pandey in jeeyaho part 7',
+        duration='214',type='1',tag='mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:33:30',shortdescription='Mohini Pandey in jeeyaho',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_t3bomnoy'
+04/12/2018 15:28:54 | SUCCESS | Updtate MetaData(0_0ndsg9bh) | By-jeeyaho_ott333 | update entry set name='Gopal Rai in jeeyaho part 1',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_0ndsg9bh/version/100022',longdescription='Gopal Rai in jeeyaho ',
+        duration='359',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:34:11',shortdescription='Gopal Rai in jeeyaho ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0ndsg9bh'
+04/12/2018 15:29:34 | SUCCESS | Updtate MetaData(0_i8tc6nbz) | By-jeeyaho_ott333 | update entry set name='Gopal Rai in jeeyaho part 3',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_i8tc6nbz/version/100022',longdescription='Gopal Rai in jeeyaho ',
+        duration='24',type='1',tag='gopal rai, mohini pandey, pawan singh, ritesh pandey, dj, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-04 15:34:51',shortdescription='Gopal Rai in jeeyaho part 3',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_i8tc6nbz'
+04/12/2018 15:56:45 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

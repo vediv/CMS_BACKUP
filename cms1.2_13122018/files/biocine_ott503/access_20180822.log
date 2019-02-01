@@ -1,0 +1,33 @@
+22/08/2018 05:03:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 05:33:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 05:37:53 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 05:43:02 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 06:15:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 07:10:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 07:19:06 | SUCCESS | login-(DEMO) | By-DEMO_ott503 | 
+22/08/2018 07:19:51 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 12:50:12 | SUCCESS | Delete Video entry(0_dlqfysvb) | By-Biocine_ott503 | 
+22/08/2018 12:50:12 | SUCCESS | Delete Video entry(0_eh08r5ph) | By-Biocine_ott503 | 
+22/08/2018 12:50:13 | SUCCESS | Delete Video entry(0_eoh153rr) | By-Biocine_ott503 | 
+22/08/2018 12:50:14 | SUCCESS | Delete Video entry(0_v2x6tnay) | By-Biocine_ott503 | 
+22/08/2018 12:50:15 | SUCCESS | Delete Video entry(0_pmn38628) | By-Biocine_ott503 | 
+22/08/2018 12:50:16 | SUCCESS | Delete Video entry(0_vbt3dzd9) | By-Biocine_ott503 | 
+22/08/2018 12:50:38 | SUCCESS | Delete Video entry(0_f9fo3u13) | By-Biocine_ott503 | 
+22/08/2018 12:50:39 | SUCCESS | Delete Video entry(0_plnpdjfm) | By-Biocine_ott503 | 
+22/08/2018 12:50:40 | SUCCESS | Delete Video entry(0_1rqflpwz) | By-Biocine_ott503 | 
+22/08/2018 12:50:40 | SUCCESS | Delete Video entry(0_wtzxkzcy) | By-Biocine_ott503 | 
+22/08/2018 12:50:41 | SUCCESS | Delete Video entry(0_6tbis7kc) | By-Biocine_ott503 | 
+22/08/2018 12:50:42 | SUCCESS | Delete Video entry(0_iubqkwe8) | By-Biocine_ott503 | 
+22/08/2018 12:50:42 | SUCCESS | Delete Video entry(0_dts280va) | By-Biocine_ott503 | 
+22/08/2018 12:50:43 | SUCCESS | Delete Video entry(0_grzmd2q1) | By-Biocine_ott503 | 
+22/08/2018 07:24:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 08:51:17 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 08:51:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 09:21:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 10:57:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+22/08/2018 16:27:38 | SUCCESS | Updtate MetaData(0_l75wl3gn) | By-Biocine_ott503 | update entry set name='Bike Riding',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_l75wl3gn/version/100022',longdescription='test video',
+        duration='13',type='1',tag='test, video, automobile, vehicle, classic, bike',category='MUSIC>FILM,BAZAAR',categoryid='311,313',
+        updated_at='2018-08-22 16:31:27',shortdescription='test',
+        director='x,z,y',producer='x,z',cast='z,y',crew='NULL',sub_genre='Vehicle',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_l75wl3gn'

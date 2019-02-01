@@ -1,0 +1,32 @@
+31/05/2018 04:34:51 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 10:38:30 | SUCCESS | Save Thumbnail(0_zkfw6l8s) | By-Adosphere_ott488 | 
+31/05/2018 10:38:41 | SUCCESS | Save Thumbnail(0_zkfw6l8s) | By-Adosphere_ott488 | 
+31/05/2018 11:03:24 | SUCCESS | Delete Video entry(0_4o2djs9c) | By-Adosphere_ott488 | 
+31/05/2018 11:03:25 | SUCCESS | Delete Video entry(0_yek2ohu1) | By-Adosphere_ott488 | 
+31/05/2018 11:03:26 | SUCCESS | Delete Video entry(0_8159zcyv) | By-Adosphere_ott488 | 
+31/05/2018 11:03:27 | SUCCESS | Delete Video entry(0_c911dptj) | By-Adosphere_ott488 | 
+31/05/2018 11:03:28 | SUCCESS | Delete Video entry(0_9b9n8fkz) | By-Adosphere_ott488 | 
+31/05/2018 05:45:04 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 06:22:56 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 06:37:50 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 06:49:54 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 12:28:15 | SUCCESS | Delete Video entry(0_67tmpx0v) | By-Adosphere_ott488 | 
+31/05/2018 07:06:52 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 13:04:36 | SUCCESS | Save Thumbnail(0_e43ja6v8) | By-Adosphere_ott488 | 
+31/05/2018 13:04:59 | SUCCESS | Updtate MetaData(0_e43ja6v8) | By-Adosphere_ott488 | update entry set name='Enniku Unnai Pidikkum | Action',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_e43ja6v8/version/100002',longdescription='Watch Tamil Full Length Movie which release in 2014 a romantic - action which is directed by Deva.',
+        duration='7997',type='1',tag='tamil, tollywood, tamil comedy movies, tamil movies, south indian movies, south movies, south tamil movies, south indian, movie, full length movie, tamil cinema, full length tamil movie, tamil movies 20s, 20s movie, south full movie, south, south interesting movie, tamil full length movies, 2014 tamil, 2014 tamil movies, vijay, raj, reshma, deva, sarath, priyadev, meena, enakku unnai pidikkum, enakku, unnai, pidikkum, 2014 tamil films, ennaku tamil, tollywood tamil, romantic movie, romance, romantic action, tamil romance, tamil 2014 movies',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-05-31 13:07:38',shortdescription='Watch Tamil Full Length Movie which release in 2014 a romantic - action which is directed by Deva.',
+        director='NULL',producer='Deva',cast='Vijay Raj,Reshma',crew='NULL',sub_genre='Romantic ,Action',
+        language='Tamil',pgrating='NULL',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_e43ja6v8'
+31/05/2018 08:43:10 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 15:23:38 | SUCCESS | Delete Video entry(0_me9u9r7v) | By-Adosphere_ott488 | 
+31/05/2018 15:35:01 | SUCCESS | Updtate MetaData(0_icn23rw5) | By-Adosphere_ott488 | insert into entry(entryid,name,thumbnail,longdescription,duration
+        ,type,tag,category,categoryid,status,created_at,shortdescription,director,producer,cast,crew,sub_genre,language,
+        pgrating,video_status,puser_id,custom_data)
+        values('0_icn23rw5','The city Action','http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_icn23rw5/version/0','Watch The city Telugu movie starring Suresh Gopi,Urvashi, Lalu Alex.','8502','1',
+        '','MOVIES>FULL MOVIES>TELUGU','229','2','2018-03-05 17:47:41','','','',
+         '','','','','','inactive','','')
+31/05/2018 16:30:12 | SUCCESS | Delete Video entry(0_b0rj6nkp) | By-Adosphere_ott488 | 
+31/05/2018 11:30:51 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+31/05/2018 12:46:23 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

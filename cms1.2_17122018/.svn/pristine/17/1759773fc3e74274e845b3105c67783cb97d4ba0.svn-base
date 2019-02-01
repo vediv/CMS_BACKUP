@@ -1,0 +1,160 @@
+18/09/2018 04:24:52 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/09/2018 05:06:59 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+18/09/2018 05:13:55 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 11:29:04 | SUCCESS | Updtate MetaData(0_5fwdkgud) | By-Ravindra_ott488 | update entry set name='Boom Boom - Short Film.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5fwdkgud/version/100002',longdescription='Boom boom is a short film directed by Steve Tran & S.Kong. It is based on love story of Minh, a tiny, timid, slightly idle man, who is madly in love with Jasmine, his neighbour who also lives on the same floor in the apartment building.Each day, Minh keeps a close eye on her comings and goings, without ever approaching her. Can Minh oblige to break the ice of a delicate situation, watch this to know more.',
+        duration='792',type='1',tag='',category='',categoryid='',
+        updated_at='2018-09-18 11:33:15',shortdescription='Boom boom is a short film directed by Steve Tran & S.Kong. It is based on love story of Minh, a tiny, timid, and slightly idle man, who is madly in love with Jasmine, his neighbour who also lives on the same floor in the apartment building.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5fwdkgud'
+18/09/2018 06:17:50 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/09/2018 06:42:47 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/09/2018 06:51:18 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 12:21:46 | SUCCESS | Updtate MetaData(0_rbm4fcak) | By-Adosphere_ott488 | update entry set name='Pari',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rbm4fcak/version/100002',longdescription='Watch social - emotional short film Pari which is directed by Runa Chowdhury and scripted by Newton Biswas.',
+        duration='868',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, pari, runa, chowdhury, scripted, newton, biswas, scription',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        updated_at='2018-09-18 12:25:57',shortdescription='Watch social - emotional short film Pari which is directed by Runa Chowdhury and scripted by Newton Biswas.',
+        director='Runa Chowdhury',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social,Emotional',
+        language='NULL',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_rbm4fcak'
+18/09/2018 12:27:07 | SUCCESS | Updtate MetaData(0_lsf7csjz) | By-Adosphere_ott488 | update entry set name='Kithab',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lsf7csjz/version/100012',longdescription='Watch Kithab for box TV with English subtitles which is presented by E.M.Shafi.',
+        duration='548',type='1',tag='short, films, 5minute, 7minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, english, kitabh, book, shafi, box, kitab, tv',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        updated_at='2018-09-18 12:31:18',shortdescription='Watch Kithab for box TV with English subtitles which is presented by E.M.Shafi.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social,Emotional',
+        language='English',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_lsf7csjz'
+18/09/2018 12:27:36 | SUCCESS | Updtate MetaData(0_v98h7o3i) | By-Adosphere_ott488 | update entry set name='SAVE HUMAN',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_v98h7o3i/version/100012',longdescription='Watch Save Human short film presented by Vengurla Pictures and directed by Adv. Mahendrakumar Padhye.',
+        duration='135',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, vengurla, pictures, presents, save, human, movietone',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:31:47',shortdescription='Watch Save Human short film presented by Vengurla Pictures and directed by Adv. Mahendrakumar Padhye.',
+        director='Adv. Mahendrakumar Padhye',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social,Drama',
+        language='Hindi',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_v98h7o3i'
+18/09/2018 12:29:11 | SUCCESS | Updtate MetaData(0_oifdi2nz) | By-Adosphere_ott488 | update entry set name='The Polluted',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_oifdi2nz/version/100012',longdescription='Watch The Polluted short film which is a non - dialogue based movie. The movie will give you a social message to make your surrounding neat and tidy for better living and germ free environment.',
+        duration='440',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, polluted, non, dialogue, free, environment, silent, polluton',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        updated_at='2018-09-18 12:33:23',shortdescription='Watch The Polluted short film which is a non - dialogue based movie. The movie will give you a social message to make your surrounding neat and tidy for better living and germ free environment.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social',
+        language='NULL',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_oifdi2nz'
+18/09/2018 12:29:52 | SUCCESS | Updtate MetaData(0_80qggyz1) | By-Adosphere_ott488 | update entry set name='Flipside',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_80qggyz1/version/100012',longdescription='Watch Flipside drama english short film with subtitles which is directed by Nonidh Yadav.',
+        duration='792',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, flipside, english, drama, nonidh, yadav, flip, side',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        updated_at='2018-09-18 12:34:03',shortdescription='Watch Flipside drama english short film with subtitles which is directed by Nonidh Yadav.',
+        director='Nonidh Yadav',producer='NULL',cast='NULL',crew='NULL',sub_genre='Drama',
+        language='English',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_80qggyz1'
+18/09/2018 12:30:41 | SUCCESS | Updtate MetaData(0_u3z3fhdk) | By-Adosphere_ott488 | update entry set name='Clean India',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_u3z3fhdk/version/100002',longdescription='Watch Clean India short film which gives a social message for the country to make India clean and safe.',
+        duration='179',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, clean, india, safe, massage, swach, bharat',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:34:52',shortdescription='Watch Clean India short film which gives a social message for the country to make India clean and safe.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social,Drama',
+        language='Hindi',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_u3z3fhdk'
+18/09/2018 12:31:16 | SUCCESS | Updtate MetaData(0_fb6w1cr3) | By-Adosphere_ott488 | update entry set name='Be alert SAVE POWER',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fb6w1cr3/version/100002',longdescription='Watch the social short film where is a hidden short message for every person who can save POWER or ELECTRICITY.',
+        duration='335',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, be, alert, save, power, electricity',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:35:27',shortdescription='Watch the social short film where is a hidden short message for every person who can save POWER or ELECTRICITY.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social,Drama',
+        language='Hindi',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_fb6w1cr3'
+18/09/2018 12:31:35 | SUCCESS | Updtate MetaData(0_ctdnqkyt) | By-Adosphere_ott488 | update entry set name='Judgemental',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ctdnqkyt/version/100012',longdescription='Watch Judgemental Short film presents by PathBrkrs productions.',
+        duration='612',type='1',tag='short, films, 5minute, 7minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, judgemental, drama, pathbrkrs, productions, breakers, judge, mental, hindi',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:35:46',shortdescription='Watch Judgemental Short film presents by PathBrkrs productions.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Drama',
+        language='Hindi',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_ctdnqkyt'
+18/09/2018 12:32:14 | SUCCESS | Updtate MetaData(0_fb6w1cr3) | By-Adosphere_ott488 | update entry set name='Be alert save power',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fb6w1cr3/version/100002',longdescription='Watch the social short film where is a hidden short message for every person who can save POWER or ELECTRICITY.',
+        duration='335',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, be, alert, save, power, electricity',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:36:25',shortdescription='Watch the social short film where is a hidden short message for every person who can save POWER or ELECTRICITY.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Social,Drama',
+        language='Hindi',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_fb6w1cr3'
+18/09/2018 12:32:44 | SUCCESS | Updtate MetaData(0_vy53029s) | By-Adosphere_ott488 | update entry set name='Shuruwat',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vy53029s/version/100002',longdescription='Watch Social hindi short movie which tells you about the living of a human being starring,Ankur,Malavika,Mehar,Moin,Sainee,Suchita and others.',
+        duration='508',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, shuruwat, drama, ankur, malavika, mehar, moin, sainee, suchita, hindi',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:36:56',shortdescription='Watch Social hindi short movie which tells you about the living of a human being starring Ankur,Malavika,Mehar,Moin,Sainee,Suchita and others.',
+        director='NULL',producer='NULL',cast='Ankur,Malavika,Mehar,Moin,Sainee,Suchita',crew='NULL',sub_genre='Drama',
+        language='Hindi',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_vy53029s'
+18/09/2018 12:33:08 | SUCCESS | Updtate MetaData(0_4bw8fnmu) | By-Adosphere_ott488 | update entry set name='God Sees',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_4bw8fnmu/version/100022',longdescription='The story of God Sees is about two notorious boy. They steal lot of things and trouble many people life.After all, further story can be suggested by the name \'God Sees\'.',
+        duration='377',type='1',tag='short, films, minute, movies, time, pass, videos, story, famous, social, emotional, movie, length, limits, cinema, interesting, latest, classic, bollywood, motivate, watch, language, regional, comedy, god, sees, silent, notorious, boy, award, winning, win, popular',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        updated_at='2018-09-18 12:37:19',shortdescription='The story of God Sees is about two notorious boy. They steal lot of things and trouble many people life.After all, further story can be suggested by the name \'God Sees\'.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Emotional,Drama',
+        language='',pgrating='NULL',video_status='active',custom_data=''
+        where entryid='0_4bw8fnmu'
+18/09/2018 12:36:05 | SUCCESS | Updtate MetaData(0_9bvoktcl) | By-Adosphere_ott488 | update entry set name='Boom Boom',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_9bvoktcl/version/100012',longdescription='Minh is a shy young man crazily in love with his neighbor Jasmine. Every day, he keenly waits every of her appearances, without daring to talk to her. One day, as to save the beauty from an uncomfortable situation, he will have to step up…',
+        duration='56',type='1',tag='trailer, boom, movie, love, romance, couple, romantic, beauty, drama, comedy, steve tran, sabrina ouazani, issa doumbia, bibi naceri, sebastien kong',category='MOVIES>TRAILERS>ENGLISH',categoryid='233',
+        updated_at='2018-09-18 12:40:16',shortdescription='Minh is a shy young man crazily in love with his neighbor Jasmine.',
+        director='Drama,  Romance, Comedy',producer='',cast='Steve Tran, Sabrina Ouazani, Issa D',crew='',sub_genre='Romantic',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_9bvoktcl'
+18/09/2018 12:36:26 | SUCCESS | Updtate MetaData(0_nks524ch) | By-Adosphere_ott488 | update entry set name='Horla',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nks524ch/version/100012',longdescription='A reclusive aristocrat learn to convinced that his mansion is haunted. The thriller trailer of Horla is with English subtitles.',
+        duration='35',type='1',tag='trailer, horla, movie, french, thriller, fantasy, gabriel, galand, maria, lisbernhard, elsner, patrice, tapasso, pierro, porquet, tristan, pelissier',category='MOVIES>TRAILERS>ENGLISH',categoryid='233',
+        updated_at='2018-09-18 12:40:37',shortdescription='A reclusive aristocrat learn to convinced that his mansion is haunted.',
+        director='',producer='',cast='',crew='',sub_genre='Thriller, Horror',
+        language='French',pgrating='',video_status='active',custom_data=''
+        where entryid='0_nks524ch'
+18/09/2018 12:36:44 | SUCCESS | Updtate MetaData(0_uec1azh8) | By-Adosphere_ott488 | update entry set name='The Fairy of the Lake',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_uec1azh8/version/100012',longdescription='A wood, a lake, a serial killer, the homeless disappear , a bar of buildings, a mother who disappear at night to go to see her friends, the prostitutes. These worlds have in common insecurity , poverty and perhaps more.',
+        duration='45',type='1',tag='severine berthelot, emma laristan, julie vautier, maxine dullac, fairy, lake, teaser, drama, fantasy, english',category='MOVIES>TRAILERS>ENGLISH',categoryid='233',
+        updated_at='2018-09-18 12:40:55',shortdescription='A wood, a lake, a serial killer, the homeless disappear , a bar of buildings, a mother who disappear at night to go to see her friends, the prostitute',
+        director='',producer='',cast='',crew='',sub_genre='Teaser',
+        language='English',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uec1azh8'
+18/09/2018 12:37:11 | SUCCESS | Updtate MetaData(0_k1o9n3vt) | By-Adosphere_ott488 | update entry set name='Ex-Model',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_k1o9n3vt/version/100012',longdescription='Within the extravagant Paris fashion world, Chinese immigrant in modeling agency, XinXin discovers suddenly that she has become too old to work, while she is not even thirty years old. Panicked with the idea of having to reinvent herself, XinXin tries various jobs to avoid falling into poverty… or worse, anonymity. On her path to a new life, XinXin faces harsh realities: having to pay when eating out, not being invited to parties anymore, having to wake up early, gaining weight, having wrinkles… In short, being a normal woman. With other models more competitors than friends, an agent procurer, discounted job plans, our (still) young Chinese is going through the hell of re-conversion. An intrigue widely inspired from the life of author and lead actress, Xin Wang!',
+        duration='34',type='1',tag='ex, model, promo, chinese, xin, pairs, fashion, modelling, trailer, movie, english, subtitle, comedy',category='MOVIES>TRAILERS>ENGLISH',categoryid='233',
+        updated_at='2018-09-18 12:41:22',shortdescription='Within the extravagant Paris fashion world, Chinese immigrant in modeling agency, XinXin discovers suddenly that she has become too old to work',
+        director='',producer='',cast='',crew='',sub_genre='Comedy ',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_k1o9n3vt'
+18/09/2018 12:39:35 | SUCCESS | Updtate MetaData(0_vodasgtp) | By-Adosphere_ott488 | update entry set name='A Request (Ek Vinati)',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vodasgtp/version/100012',longdescription='Watch the Social - Emotional Short Film A Request as Ek Vinati which is a Award winning film at PTSFF in 2014.',
+        duration='307',type='1',tag='shortfilms, minute, short, films, movies, english, term, length, time, pass, 2013, amazing, videos, 20s, adnan, wasi, aditya, joshi, amen, shumaila, deepti, jahagirdar, firoz, rahi, request, ek, vinati, child, actaward, win, ptsff, hindi',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:43:46',shortdescription='Watch the Social - Emotional Short Film A Request as Ek Vinati which is a Award winning film at PTSFF in 2014.',
+        director='',producer='',cast='',crew='',sub_genre='Social',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vodasgtp'
+18/09/2018 12:40:04 | SUCCESS | Updtate MetaData(0_vodasgtp) | By-Adosphere_ott488 | update entry set name='A Request(Ek Vinati)',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vodasgtp/version/100012',longdescription='Watch the Social - Emotional Short Film A Request as Ek Vinati which is a Award winning film at PTSFF in 2014.',
+        duration='307',type='1',tag='shortfilms, minute, short, films, movies, english, term, length, time, pass, 2013, amazing, videos, 20s, adnan, wasi, aditya, joshi, amen, shumaila, deepti, jahagirdar, firoz, rahi, request, ek, vinati, child, actaward, win, ptsff, hindi',category='MOVIES>SHORT FILMS>HINDI',categoryid='223',
+        updated_at='2018-09-18 12:44:15',shortdescription='Watch the Social - Emotional Short Film A Request as Ek Vinati which is a Award winning film at PTSFF in 2014.',
+        director='',producer='',cast='',crew='',sub_genre='Social',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vodasgtp'
+18/09/2018 08:36:47 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/09/2018 09:01:49 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 14:37:18 | SUCCESS | Updtate MetaData(0_5fwdkgud) | By-Ravindra_ott488 | update entry set name='Boom Boom - Short Film',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5fwdkgud/version/100002',longdescription='Boom boom is a short film directed by Steve Tran & S.Kong. It is based on love story of Minh, a tiny, timid, slightly idle man, who is madly in love with Jasmine, his neighbour, who also lives on the same floor in the apartment building. Each day, Minh keeps a close eye on her comings and goings, without ever approaching her. Can Minh oblige to break the ice of a delicate situation, watch this to know more.',
+        duration='792',type='1',tag='boom boom, short film, steve tran, s.kong, love story, france, vietnamese, french, maghreb, drama, romance, comedy, sabrina ouazani, issa doumbia, bibi naceri, no dialogue',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        updated_at='2018-09-18 14:41:28',shortdescription='Boom boom is a short film directed by Steve Tran & S.Kong. It is based on love story of Minh, a tiny, timid, and slightly idle man, who is madly in love with Jasmine, his neighbour who also lives on the same floor in the apartment building.',
+        director='Steve Tran, Sebastien Kong',producer='',cast='Steve Tran, Sabrina Ouazani, Issa D',crew='',sub_genre='Love Story',
+        language='No Dialogue',pgrating='G-13',video_status='inactive',custom_data=''
+        where entryid='0_5fwdkgud'
+18/09/2018 10:30:45 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 16:01:38 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/XMCOX5A7RZ23.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_XMCOX5A7RZ23.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_XMCOX5A7RZ23.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_XMCOX5A7RZ23.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_XMCOX5A7RZ23.jpg',updated_at=NOW() where category_id='233'
+18/09/2018 16:02:22 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/XAVVUWE1KEI3.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_XAVVUWE1KEI3.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_XAVVUWE1KEI3.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_XAVVUWE1KEI3.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_XAVVUWE1KEI3.jpg',updated_at=NOW() where category_id='233'
+18/09/2018 10:33:11 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 16:04:04 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/S6DV02RYIYQP.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_S6DV02RYIYQP.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_S6DV02RYIYQP.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_S6DV02RYIYQP.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_S6DV02RYIYQP.jpg',updated_at=NOW() where category_id='233'
+18/09/2018 16:06:28 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/T1JLJWT5ATNC.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_T1JLJWT5ATNC.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_T1JLJWT5ATNC.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_T1JLJWT5ATNC.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_T1JLJWT5ATNC.jpg',updated_at=NOW() where category_id='233'
+18/09/2018 16:07:34 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/CW1SRQVG60PR.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_CW1SRQVG60PR.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_CW1SRQVG60PR.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_CW1SRQVG60PR.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_CW1SRQVG60PR.jpg',updated_at=NOW() where category_id='233'
+18/09/2018 11:45:10 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 17:15:54 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/AL0AOZKQIPSG.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_AL0AOZKQIPSG.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_AL0AOZKQIPSG.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_AL0AOZKQIPSG.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_AL0AOZKQIPSG.jpg',updated_at=NOW() where category_id='230'
+18/09/2018 17:16:31 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/M1LVS64ZXZVZ.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_M1LVS64ZXZVZ.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_M1LVS64ZXZVZ.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_M1LVS64ZXZVZ.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_M1LVS64ZXZVZ.jpg',updated_at=NOW() where category_id='229'
+18/09/2018 17:17:15 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/RSZ8THA1OSFD.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_RSZ8THA1OSFD.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_RSZ8THA1OSFD.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_RSZ8THA1OSFD.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_RSZ8THA1OSFD.jpg',updated_at=NOW() where category_id='228'
+18/09/2018 17:17:52 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/N73BTET7D2HN.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_N73BTET7D2HN.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_N73BTET7D2HN.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_N73BTET7D2HN.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_N73BTET7D2HN.jpg',updated_at=NOW() where category_id='227'
+18/09/2018 17:18:26 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/SC63Y9T8909M.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_SC63Y9T8909M.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_SC63Y9T8909M.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_SC63Y9T8909M.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_SC63Y9T8909M.jpg',updated_at=NOW() where category_id='226'
+18/09/2018 17:19:13 | SUCCESS | save Category thumb | By-Adosphere_ott488 | UPDATE category_thumb_icon_url SET host_url_thumb='http://cdnadosphere.adore.sg',t_original_url='/adosphere/data/adosphere_ott488/upload_thumb/OGDKBZ6BX1ZF.jpg',
+t_small_url='/adosphere/data/adosphere_ott488/upload_thumb/320_OGDKBZ6BX1ZF.jpg',t_mediam_url='/adosphere/data/adosphere_ott488/upload_thumb/380_OGDKBZ6BX1ZF.jpg',t_large_url='/adosphere/data/adosphere_ott488/upload_thumb/480_OGDKBZ6BX1ZF.jpg',
+t_custom_url='/adosphere/data/adosphere_ott488/upload_thumb/720_OGDKBZ6BX1ZF.jpg',updated_at=NOW() where category_id='231'
+18/09/2018 11:51:36 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/09/2018 17:23:33 | SUCCESS | Delete Video entry(0_kdtltfhk) | By-Ravindra_ott488 | 

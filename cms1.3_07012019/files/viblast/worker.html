@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    	<script async src="viblast.js"></script>
+	</head>
+	<body>
+ <!--	<video src="http://dash.edgesuite.net/envivio/EnvivioDash3/manifest.mpd" data-viblast-key="N8FjNTQ3NDdhZqZhNGI5NWU5ZTI=" controls width="640"></video> --!>
+ 	<video src="http://42.99.180.218/102/0_urihm53i/hls/master.m3u8" data-viblast-key="N8FjNTQ3NDdhZqZhNGI5NWU5ZTI=" controls width="640"></video>
+
+	...
+	</body>
+	<body>
+		<script>
+		var worker = new Worker(decodeURIComponent(window.location.search.substring(1)));
+
+		window.onmessage = function(evt) {
+		    worker.postMessage(evt.data);
+		}
+
+		worker.onmessage = function(evt) {
+			window.parent.postMessage(evt.data, "*");
+		}
+		</script>
+	</body>
+</html>

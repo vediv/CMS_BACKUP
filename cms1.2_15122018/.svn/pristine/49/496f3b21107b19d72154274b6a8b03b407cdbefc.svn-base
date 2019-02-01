@@ -1,0 +1,65 @@
+18/08/2018 04:04:46 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+18/08/2018 05:12:22 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/08/2018 05:12:30 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/08/2018 05:31:00 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/08/2018 05:35:53 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+18/08/2018 06:11:54 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/08/2018 06:14:12 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/08/2018 12:00:50 | SUCCESS | Save New video(0_w953l00h) | By-Ravindra_ott488 | 
+18/08/2018 06:42:23 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/08/2018 14:16:02 | SUCCESS | Updtate MetaData(0_rv3rvfq2) | By-Ravindra_ott488 | update entry set name='Romania Mioveni mecanic plant ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rv3rvfq2/version/100002',longdescription='The All-New Duster, already launched and already a success with customers, was designed, tested and produced in Romania.',
+        duration='141',type='1',tag='dacia, dacia romania, 2018, romania, 2018 dacia romania, mioveni mecanic plant, mioveni, aluminium casting, dacia duster, automototv, groupe renault',category='ON DEMAND>AUTOMOBILE>DRIFT',categoryid='195',
+        updated_at='2018-08-18 14:19:47',shortdescription='The All-New Duster, already launched and already a success with customers, was designed, tested and produced in Romania.',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rv3rvfq2'
+18/08/2018 14:17:24 | SUCCESS | Delete Video entry(0_ws48p9pa) | By-Ravindra_ott488 | 
+18/08/2018 09:07:34 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+18/08/2018 14:39:40 | SUCCESS | Save New video(0_gy1aozo2) | By-Ravindra_ott488 | 
+18/08/2018 14:49:33 | SUCCESS | Updtate MetaData(0_w953l00h) | By-Ravindra_ott488 | update entry set name='Ferrari Challenge APAC Race 2',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_w953l00h/version/100002',longdescription='The fourth round of the Ferrari Challenge Asia-Pacific played at Fuji offered a second race full of excitement and spectacle that embellished the last day of the Ferrari Racing Days on the Japanese track.',
+        duration='130',type='1',tag='ferrari, ferrari challenge, apac, race 2, racing, ferrari challenge asia-pacific, fuji, automototv',category='ON DEMAND>AUTOMOBILE>RACING',categoryid='197',
+        updated_at='2018-08-18 14:53:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w953l00h'
+18/08/2018 14:50:03 | SUCCESS | Updtate MetaData(0_w953l00h) | By-Ravindra_ott488 | update entry set name='Ferrari Challenge APAC Race 2',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_w953l00h/version/100002',longdescription='The fourth round of the Ferrari Challenge Asia-Pacific played at Fuji offered a second race full of excitement and spectacle that embellished the last day of the Ferrari Racing Days on the Japanese track.',
+        duration='130',type='1',tag='ferrari, ferrari challenge, apac, race 2, racing, ferrari challenge asia-pacific, fuji, automototv',category='ON DEMAND>AUTOMOBILE>RACING',categoryid='197',
+        updated_at='2018-08-18 14:53:48',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_w953l00h'
+18/08/2018 15:12:09 | SUCCESS | Updtate MetaData(0_gy1aozo2) | By-Ravindra_ott488 | update entry set name='TypeR Challenge Silverstone',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gy1aozo2/version/100002',longdescription='Transdev Group, Groupe Renault, Matmut - partners in the Rouen Normandy Autonomous Lab initiative - are testing, with the support of the Normandy Region and Banque des Territoires, the first on-demand shared mobility service to use autonomous vehicles on open roads in Europe.',
+        duration='115',type='1',tag='rouen normandy, autonomous lab, 2018, rouen normandy autonomous lab, driving, automototv, métropole rouen normandie, groupe renault',category='ON DEMAND>AUTOMOBILE>FURY ROAD',categoryid='196',
+        updated_at='2018-08-18 15:15:55',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_gy1aozo2'
+18/08/2018 15:24:27 | SUCCESS | Save New video(0_zlndink1) | By-Ravindra_ott488 | 
+18/08/2018 15:25:31 | SUCCESS | Updtate MetaData(0_0dpwgaw7) | By-Ravindra_ott488 | update entry set name='Honda_Type_R_Challenge_Silverstone_lap_record_on_board.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_0dpwgaw7/version/100002',longdescription='Matt Neal sets a new front-wheel drive production car lap record at Silverstone in the new Honda Civic Type R!',
+        duration='169',type='1',tag='honda, honda type r, honda type r challenge, type r, challenge, racing, silverstone, lap record, on-board, type r challenge 2018, automototv',category='ON DEMAND>AUTOMOBILE>RACING',categoryid='197',
+        updated_at='2018-08-18 15:29:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0dpwgaw7'
+18/08/2018 15:27:15 | SUCCESS | Updtate MetaData(0_0dpwgaw7) | By-Ravindra_ott488 | update entry set name='Matt Neal R Challenge Silverstone ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_0dpwgaw7/version/100002',longdescription='Matt Neal sets a new front-wheel drive production car lap record at Silverstone in the new Honda Civic Type R!',
+        duration='169',type='1',tag='honda, honda type r, honda type r challenge, type r, challenge, racing, silverstone, lap record, on-board, type r challenge 2018, automototv',category='ON DEMAND>AUTOMOBILE>RACING',categoryid='197',
+        updated_at='2018-08-18 15:31:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0dpwgaw7'
+18/08/2018 15:33:11 | SUCCESS | Updtate MetaData(0_zlndink1) | By-Ravindra_ott488 | update entry set name='Mercedes Benz Van F Cell Design',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_zlndink1/version/100002',longdescription='More than ever before, Mercedes-Benz Vans is making the selection of the right powertrain concept dependent upon customer benefits.',
+        duration='112',type='1',tag='mercedes-benz, mercedes-benz sprinter, mercedes-benz sprinter f-cell, sprinter, f-cell, concept sprinter f-cell, design, commercial vehicles, automototv',category='ON DEMAND>AUTOMOBILE>FURY ROAD',categoryid='196',
+        updated_at='2018-08-18 15:36:56',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zlndink1'
+18/08/2018 15:37:36 | SUCCESS | Save New video(0_xpfuazzh) | By-Ravindra_ott488 | 
+18/08/2018 15:46:48 | SUCCESS | Save New video(0_2or6s0ha) | By-Ravindra_ott488 | 
+18/08/2018 15:54:06 | SUCCESS | Updtate MetaData(0_2or6s0ha) | By-Ravindra_ott488 | update entry set name='The new Mazda CX-8 Diesel Driving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_2or6s0ha/version/100012',longdescription='Mazda has officially welcomed the Brand-New Mazda CX-8 Diesel into it’s now nine-strong family of award-winning vehicles, with the SUV on sale from July 1 2018.',
+        duration='177',type='1',tag='mazda, mazda cx-8, mazda cx-8 diesel, cx-8 diesel, cx-8, new mazda cx-8 diesel, driving, automototv',category='ON DEMAND>AUTOMOBILE>FURY ROAD',categoryid='196',
+        updated_at='2018-08-18 15:57:52',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2or6s0ha'
+18/08/2018 16:04:11 | SUCCESS | Save New video(0_ybdx36sg) | By-Ravindra_ott488 | 
+18/08/2018 16:31:34 | SUCCESS | Save Thumbnail(0_gy1aozo2) | By-Ravindra_ott488 | 

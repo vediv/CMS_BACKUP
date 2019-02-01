@@ -1,0 +1,9 @@
+02/08/2018 03:51:07 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+02/08/2018 04:53:55 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+02/08/2018 10:44:09 | SUCCESS | Save Thumbnail(0_g9779t97) | By-Adosphere_ott488 | 
+02/08/2018 17:55:23 | SUCCESS | Updtate MetaData(0_akqm23ev) | By-Geetanjali_ott488 | update entry set name='Naxalite Durga ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_akqm23ev/version/100012',longdescription='Watch Naxalite Durga Telugu movie starring Sridevi, Shatrughan Sinha, Pran, Kadar Khan, Ranjith.',
+        duration='7657',type='1',tag='telugu, tollywood, comedy, south, indian, full, length, cinema, interesting, classic, drama, action, naxalite, durga, sridevi, shatrughan',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-08-02 17:58:55',shortdescription='Watch Naxalite Durga Telugu movie starring Sridevi, Shatrughan.',
+        director='Harmesh Malhotra',producer='K.Lakshmi',cast='Sridevi, Shatrughan Sinha, Pran, Kader Khan, Ranjith',crew='',sub_genre='Drama',
+        language='Telugu',pgrating='',video_status='active',custom_data=''
+        where entryid='0_akqm23ev'

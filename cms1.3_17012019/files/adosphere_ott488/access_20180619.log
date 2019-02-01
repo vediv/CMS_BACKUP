@@ -1,0 +1,303 @@
+19/06/2018 04:13:22 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+19/06/2018 04:18:47 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 04:38:45 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 10:09:36 | SUCCESS | Updtate MetaData(0_todvejae) | By-Geetanjali_ott488 | update entry set name='Pied Piper Bed Time Story Marathi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_todvejae/version/100012',longdescription='Watch the Pied Piped bed time story in Marathi where Hamelin called himself a rat catcher who play music through the pied piper and catch rats. To know more watch the animated bedtime story.',
+        duration='354',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, learning, animation, junior, class, album, tales, marathi, life, piper, pied, rats, bedtime, sleeping, reciters, catcher, hamelin, musical, pipe, mouse, kid',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:12:31',shortdescription='Watch the Pied Piped bed time story in Marathi where Hamelin called himself a rat catcher who play music through the pied piper and catch rats. To know more watch the animated bedtime story.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Marathi',pgrating='G',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_todvejae'
+19/06/2018 10:12:29 | SUCCESS | Updtate MetaData(0_wlfyh226) | By-Geetanjali_ott488 | update entry set name='Pied Piper Bed Time Story English',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wlfyh226/version/100012',longdescription='Watch the Pied Piped bed time story in English where Hamelin called himself a rat catcher who play music through the pied piper and catch rats. To know more watch the animated bedtime story.',
+        duration='274',type='1',tag='kids, mulan2017, channel, cartoon, children, story, moral, series, little, kid, 4yr, 8yr, learning, animation, junior, class, album, tales, english, life, piper, pied, rats, bedtime, sleeping, reciters, catcher, hamelin, musical, pipe, mouse',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:15:24',shortdescription='Watch the Pied Piped bed time story in English where Hamelin called himself a rat catcher who play music through the pied piper and catch rats. To know more watch the animated bedtime story.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_wlfyh226'
+19/06/2018 10:19:18 | SUCCESS | Updtate MetaData(0_ol6nr60r) | By-Geetanjali_ott488 | update entry set name='Heero Ka Malik Tenali Raman',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ol6nr60r/version/100012',longdescription='Watch animated kids story \'Heero Ka Malik\' of Tenali Raman which provide kids a moral lesson of life.',
+        duration='346',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, heero, ka, malik, tenali, raman, hindi, life, lesson',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:22:13',shortdescription='Watch animated kids story \'Heero Ka Malik\' of Tenali Raman which provide kids a moral lesson of life.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_ol6nr60r'
+19/06/2018 10:23:07 | SUCCESS | Updtate MetaData(0_ntglx8kn) | By-Geetanjali_ott488 | update entry set name='Teen Machhlia Animated Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ntglx8kn/version/100012',longdescription='The story is about three fishes who lived in a same lake. One morning they heard about the terror of two fisherman who was talking about to catch all the fishes in the lake and plan to sell them away. By hearing, one fish decides to move away from the lake and other two decided to stay back.One fine morning fisherman came and catch all the fishes. watch more to know about two fishes.Moral - Fate always favor\'s the clever.',
+        duration='354',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, teen, machhlia, hindi, fishes, fisherman, fish, catcher',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:26:01',shortdescription='The story is about three fishes who lived in a same lake. One morning they heard about the terror of two fisherman who was talking about to catch all the fishes in the lake and plan to sell them away. By hearing, one fish decides to move away from the lake and other two decided to stay back.One fine morning fisherman came and catch all the fishes. watch more to know about two fishes.Moral - Fate always favor\'s the clever.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='inactive',puser_id='Adosphere',custom_data=''
+        where entryid='0_ntglx8kn'
+19/06/2018 10:25:07 | SUCCESS | Updtate MetaData(0_ntglx8kn) | By-Geetanjali_ott488 | update entry set name='Teen Machhlia Animated Story',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ntglx8kn/version/100012',longdescription='Watch Teen Machhlia moral Story in Hindi language. This is the story of three fishes who lived in a lake. To know more watch the video.',
+        duration='354',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, teen, machhlia, hindi, fishes, fisherman, fish, catcher',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:28:02',shortdescription='Watch Teen Machhlia moral Story in Hindi language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_ntglx8kn'
+19/06/2018 10:27:53 | SUCCESS | Updtate MetaData(0_letud33m) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 25 - Rabbits III',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_letud33m/version/100002',longdescription='The rabbits are taking the vengeance on their hands. They kidnap Takat to teach him not to mess around with their territory.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 25, peekaboo, rabits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 10:30:48',shortdescription='The Kids Animation Takat the dog episode 25 - The story of Takat is always a comic revenge with rabbits and it continues in this video loaded with full comedy.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_letud33m'
+19/06/2018 10:31:28 | SUCCESS | Updtate MetaData(0_rc0x0cuw) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 24 - Rabbits II',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rc0x0cuw/version/100012',longdescription='Takat rests at the park when all of a sudden something hits him on the head. The rabbits are playing soccer and accidentally hit him.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 24, peekaboo, rabits',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 10:34:23',shortdescription='The Kids Animation Takat the dog episode 24 - Takat dog is sleeping under a tree where some rabbits came and tease Takat.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_rc0x0cuw'
+19/06/2018 10:42:45 | SUCCESS | Updtate MetaData(0_wcyd6cd9) | By-Geetanjali_ott488 | update entry set name='Puss In Boots',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wcyd6cd9/version/100002',longdescription='Watch \'The Puss in Boots\' in Hindi language. Story about a talking cat who helps his master\'s son and also the villagers. To know more watch the video.',
+        duration='470',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, puss, boots, hindi, cat, lession, child',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:45:40',shortdescription='Watch \'The Puss in Boots\' in Hindi language. Story about a talking cat.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_wcyd6cd9'
+19/06/2018 10:44:22 | SUCCESS | Updtate MetaData(0_wcyd6cd9) | By-Geetanjali_ott488 | update entry set name='Puss In Boots',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wcyd6cd9/version/100002',longdescription='Watch \'The Puss in Boots\' in Hindi language. Story about a talking cat who helps his master\'s son and also the villagers. To know more watch the video.',
+        duration='470',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, puss, boots, hindi, cat, lession, child',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:47:17',shortdescription='Watch \'The Puss in Boots\' in Hindi language. Story about a talking cat.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_wcyd6cd9'
+19/06/2018 10:48:25 | SUCCESS | Updtate MetaData(0_xccufvnu) | By-Geetanjali_ott488 | update entry set name='Pied Piper ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xccufvnu/version/100002',longdescription='Watch the Pied Piper bedtime story in Hindi language. A rat catcher who play music through the piper and catch rats. To know more watch the animated bedtime story.',
+        duration='280',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, pied, piper, hindi, bed, time, piped, bedtime, hamelin',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:51:20',shortdescription='Watch the Pied Piper bedtime story in Hindi language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_xccufvnu'
+19/06/2018 10:49:44 | SUCCESS | Updtate MetaData(0_b120orva) | By-Geetanjali_ott488 | update entry set name='Jo Bhi Hota Hai Achhe Ke Liye Hota Hai',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_b120orva/version/100002',longdescription='Watch Jo Hota Hai Ache Ke Liye Hota Hai famous story of Akbar-Birbal series in Hindi language. Where emperor Akbar gets into the trouble and was save for the reason. That\'s why it is said what happens,happen for the best.',
+        duration='373',type='1',tag='kids, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, achhe, liye, akbar, birbal, hindi',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:52:39',shortdescription='Watch Jo Hota Hai Ache Ke Liye Hota Hai famous story of Akbar-Birbal series in Hindi language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_b120orva'
+19/06/2018 10:51:25 | SUCCESS | Updtate MetaData(0_sivl2yi4) | By-Geetanjali_ott488 | update entry set name='Andy and His Accordion Tale',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_sivl2yi4/version/100002',longdescription='Watch most popular fairy tale Andy and His Accordion in Hindi language and enjoy singing with the video.',
+        duration='326',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, andy, accordion, hindi, fairy, popular, watch, best, singing, enjoy',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 10:54:20',shortdescription='Watch most popular fairy tale Andy and His Accordion in Hindi language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='inactive',puser_id='',custom_data=''
+        where entryid='0_sivl2yi4'
+19/06/2018 10:54:17 | SUCCESS | Updtate MetaData(0_gt6nu7s1) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 27 - Bubble Gum',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gt6nu7s1/version/100012',longdescription='In this episode Takat finds a piece of gum on the floor and eats it. The problems arise when everything gets sticky see the funny situation of Takat.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 27, peekaboo, bubble, gum, takat the dog',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 10:57:12',shortdescription='The Kids Animation Takat the dog episode 27 - Takat dog find Bubble gum on street.The bubble gum create the fuzzy situation of Takat . Watch more to see the funny situation of Takat.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_gt6nu7s1'
+19/06/2018 11:00:57 | SUCCESS | Updtate MetaData(0_v2u9li0q) | By-Geetanjali_ott488 | update entry set name='Akbar Chaar Prashna to Birbal',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_v2u9li0q/version/100002',longdescription='Watch Akbar Chaar Prashna to Birbal famous story of Akbar-Birbal series in Hindi language.',
+        duration='314',type='1',tag='kids, kahaniya, cartoon, children, stories, story, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, akbar, birbal, chaar, prashna, humorous, hindi',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 11:03:52',shortdescription='Watch Akbar Chaar Prashna to Birbal famous story of Akbar-Birbal series in Hindi language.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Hindi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_v2u9li0q'
+19/06/2018 11:04:08 | SUCCESS | Updtate MetaData(0_nkqqgjg6) | By-Geetanjali_ott488 | update entry set name='The wicked little Witch',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nkqqgjg6/version/100002',longdescription='Watch \'The wicked little Witch\' in Marathi language. where Hazel wants to be a witch. She read the books related to the magic But at the end she realize  that bad things or hurt someone is always a bad choice.',
+        duration='495',type='1',tag='kids, channel, cartoon, children, story, moral, little, learning, animation, junior, pot, magic, tales, kid, life, storytelling, bed, sleeping, reciter, types, fairy, cartoons, lesson, wicked, witch, magical, hazel, bedtime, devil, evil, marathi',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 11:07:03',shortdescription='Watch \'The wicked little Witch\' in Marathi language. ',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='Marathi',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_nkqqgjg6'
+19/06/2018 11:09:59 | SUCCESS | Updtate MetaData(0_nl2hem5c) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 30 - Starving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nl2hem5c/version/100012',longdescription='In this episode Takat is hungry and passes by a food truck that has a picture of cylindrical length. He presumes what\'s inside and prepares a strategy to eat them all.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 30, peekaboo, starving',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 11:12:54',shortdescription='The Kids Animation Takat the dog episode 30 - Takat dog ruins up the picnic of a family by his mischievous trick to get the food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_nl2hem5c'
+19/06/2018 11:36:08 | SUCCESS | Updtate MetaData(0_twmrpnta) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 33 - The Janitor',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_twmrpnta/version/100002',longdescription='In this episode Takat considers A doorkeeper of the building lives there at a little apartment. He hates dogs but loves pigeons. Takat does everything to steal the pigeons\' food and annoy the doorkeeper',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, 4yr, 8yr, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 33, janitor, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 11:39:03',shortdescription='The Kids Animation Takat the dog episode 33 - Takat walks around on street and saw Janitor eating their food.He barks on the Janitors and eat their food.Watch to know the comic session in this episode of Janitor.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_twmrpnta'
+19/06/2018 11:47:22 | SUCCESS | Updtate MetaData(0_v70mwp57) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 35 -The Horse',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_v70mwp57/version/100022',longdescription='In this episode,during a horse police parade, Takat sees a pigeon attacking a policeman. He does everything to release the rider from the claws of an attacking animal.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 35, horse, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 11:50:17',shortdescription='The Kids Animation Takat the dog episode 35 - Takat found horse rider hat as a pigeon who shit on his head and take his revenge by snatching the hat .',
+        director='Juan Linares',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='Adosphere',custom_data=''
+        where entryid='0_v70mwp57'
+19/06/2018 12:08:15 | SUCCESS | Updtate MetaData(0_rs0htpk4) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 36 - The Tower',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_rs0htpk4/version/100022',longdescription='In this episode Takat is suffering of hunger. He sees delicious food on poster and anyhow he wants to eat. He gets into a trouble when a man sticks him with a poster on the wall.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 36, tower, peekaboo',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 12:11:09',shortdescription='The Kids Animation Takat the dog episode 36 - Takat dog ruins up the picnic of a family by his mischievous trick to get the food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_rs0htpk4'
+19/06/2018 12:12:46 | SUCCESS | Bulk Add Content Viewer(Array,M18) | By-Adosphere_ott488 | 
+19/06/2018 12:15:08 | SUCCESS | Bulk Add Content Viewer(Array,R21) | By-Adosphere_ott488 | 
+19/06/2018 12:15:26 | SUCCESS | Updtate MetaData(0_dkocdfwh) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 38 - Skating',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_dkocdfwh/version/100002',longdescription='In this episode Takat walks on the street when all of the sudden a skater almost rolls over him.He follows the skater and tries to bite him.Watch to know more the cool tricks and moves of skating of Takat.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 38, peekaboo, skating',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 12:18:21',shortdescription='The Kids Animation Takat the dog episode 38 - Takat dog enjoys up the cool tricks and moves of skating.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_dkocdfwh'
+19/06/2018 12:20:05 | SUCCESS | Updtate MetaData(0_ji1pup2e) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 40 - The Road Weeper',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ji1pup2e/version/100002',longdescription='In this episode Takat has just woken up from his box and he is feeling a little lazy. A black cloud crossing by his box scares him. He discovers it\'s just the road sweeper, sweeping everything on his way; including his house.watch to know more how Takat recovers his house wisely.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 40, peekaboo, weeper',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 12:23:00',shortdescription='The Kids Animation Takat the dog episode 40 - Takat dog gets irritated by the road weeper who distrub his sleep.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_ji1pup2e'
+19/06/2018 07:24:06 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 14:25:44 | SUCCESS | Updtate MetaData(0_fjws4mwe) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 39 - Agility',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fjws4mwe/version/100002',longdescription='In this episode Takat enters into the dog contest shows where he sees that every ends up with tempting biscuits. After looking to the bowl full of biscuits, he started his performance and ends with a shower of biscuits.',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 39, peekaboo, agility',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 14:28:39',shortdescription='The Kids Animation Takat the dog episode 39 - Takat enters into the dog show where he see that every ends up with tempting biscuits.After looking to the bowl full of buiscuits,he started his performance and ends with a shower of buiscuits.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_fjws4mwe'
+19/06/2018 14:28:41 | SUCCESS | Save New video(0_n3eqtkv6) | By-Adosphere_ott488 | 
+19/06/2018 14:31:50 | SUCCESS | Save New video(0_xitn9ycx) | By-Adosphere_ott488 | 
+19/06/2018 14:32:38 | SUCCESS | Delete Video entry(0_y13fudve) | By-Adosphere_ott488 | 
+19/06/2018 14:34:50 | SUCCESS | Save New video(0_pkepb9t7) | By-Adosphere_ott488 | 
+19/06/2018 14:35:21 | SUCCESS | Delete Video entry(0_u85arnaz) | By-Adosphere_ott488 | 
+19/06/2018 14:37:24 | SUCCESS | Save New video(0_x6cdqi4g) | By-Adosphere_ott488 | 
+19/06/2018 14:37:58 | SUCCESS | Delete Video entry(0_zibcfhx7) | By-Adosphere_ott488 | 
+19/06/2018 14:42:03 | SUCCESS | Save New video(0_4f7459nh) | By-Adosphere_ott488 | 
+19/06/2018 14:44:41 | SUCCESS | Updtate MetaData(0_h2mprzug) | By-Adosphere_ott488 | update entry set name='Takat the Dog Ep 43-Christmas Log',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_h2mprzug/version/100002',longdescription='In this episode Christmas time has arrived and Takat walks by the Christmas market where he notices a stand with smiley logs looking at him. He follows a family that has just bought one in order to find out what it\'s all about.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 43, peekaboo, christmas, log',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 14:47:36',shortdescription='The Kids Animation Takat the dog episode 43 - Its christmas time where shops are filled up with multiple decoration products and christmas log.Then Takat saw the christmas log was beaten by two people then he gets scared about the evil scene.But after looking on the sweets he get himself hide inside the broken log and the comedy starts when again log was patted by the wooden log.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_h2mprzug'
+19/06/2018 09:19:51 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 14:51:13 | SUCCESS | Updtate MetaData(0_3i4px9h3) | By-Adosphere_ott488 | update entry set name='The Wicked Little Witch English',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3i4px9h3/version/100002',longdescription='Watch \'The wicked little witch\' in English language. where Hazel wants to be a witch. She read the books related to the magic .But at the end she realize that bad things or hurt someone is always a bad choice.',
+        duration='296',type='1',tag='yes',category='',categoryid='',
+        updated_at='2018-06-19 14:54:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_3i4px9h3'
+19/06/2018 14:58:45 | SUCCESS | Save New video(0_co9smdiz) | By-Adosphere_ott488 | 
+19/06/2018 15:05:51 | SUCCESS | Save New video(0_h3h9xnj2) | By-Adosphere_ott488 | 
+19/06/2018 09:37:14 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 09:42:33 | SUCCESS | login-(Ados) | By-Ados_ott488 | 
+19/06/2018 15:33:09 | SUCCESS | Save Content Partner(0_n3eqtkv6,) | By-Adosphere_ott488 | 
+19/06/2018 15:34:02 | SUCCESS | Save New video(0_2d32sdmu) | By-Adosphere_ott488 | 
+19/06/2018 15:37:46 | SUCCESS | Save Content Partner(0_pkepb9t7,) | By-Adosphere_ott488 | 
+19/06/2018 15:37:47 | SUCCESS | Updtate MetaData(0_glzbl1rq) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 46 - Terrace',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_glzbl1rq/version/100002',longdescription='In this episode Takat walks on the street and finds a peace of tasty dish.Watch to know Takat way to not be noticed and eat a tasty squid dish',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 46, terrace, peekaboo, takat the dog',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 15:40:42',shortdescription='The Kids Animation Takat the dog episode 46 - Takat in a terrace chases food and reach to his destination i.e food.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_glzbl1rq'
+19/06/2018 15:38:38 | SUCCESS | Save Content Partner(0_x6cdqi4g,) | By-Adosphere_ott488 | 
+19/06/2018 15:39:48 | SUCCESS | Save Content Partner(0_4f7459nh,) | By-Adosphere_ott488 | 
+19/06/2018 15:42:01 | SUCCESS | Delete Video entry(0_2d32sdmu) | By-Adosphere_ott488 | 
+19/06/2018 15:43:04 | SUCCESS | Save New video(0_5v5nr7vx) | By-Adosphere_ott488 | 
+19/06/2018 15:43:15 | SUCCESS | Delete Video entry(0_5v5nr7vx) | By-Adosphere_ott488 | 
+19/06/2018 15:43:58 | SUCCESS | Save Content Partner(0_h3h9xnj2,) | By-Adosphere_ott488 | 
+19/06/2018 15:44:56 | SUCCESS | Save Thumbnail(0_h3h9xnj2) | By-Adosphere_ott488 | 
+19/06/2018 15:45:14 | SUCCESS | Save New video(0_7fiv2ndz) | By-Adosphere_ott488 | 
+19/06/2018 15:46:08 | SUCCESS | Save Content Partner(0_230adn5z,) | By-Adosphere_ott488 | 
+19/06/2018 15:48:45 | SUCCESS | Updtate MetaData(0_g1p9o4eu) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 50 - The Sewer',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_g1p9o4eu/version/100002',longdescription='In this episode Takat chases a round cheese ball that falls down the sewer, he goes into the sewer where he fights with the rat for a box .',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, 50, peekaboo, sewer',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 15:51:39',shortdescription='The Kids Animation Takat the dog episode 50 - Takat goes into the sewer where he fights with the rat for a box of cake.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_g1p9o4eu'
+19/06/2018 15:49:36 | SUCCESS | Save New video(0_xuowsu0m) | By-Adosphere_ott488 | 
+19/06/2018 15:52:14 | SUCCESS | Updtate MetaData(0_7lko3kh7) | By-Adosphere_ott488 | update entry set name='Takat The Dog Episode 52 - The Oven',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_7lko3kh7/version/100002',longdescription='he smell of the fresh cakes and pastries just out of the oven attracts Takat to a bakery. He eats all the goodies which have a dangerous effect on Takat ́s stomach.',
+        duration='160',type='1',tag='kids, cartoon, takat, dog, episode, 52, series, little, children, story, learning, animation, stories, telling, tales, juniors, season, barcelona, digital, stray, non, dialogue, comedy, full, peekaboo, oven',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 15:55:09',shortdescription='Takat is fond of food and here in this episode bakery ovens are full of breads and cakes.Takat enters the bakery and eat lots of food beyond his capacity.After so much of food he is running away from all the eatable things.',
+        director='Juan Linares',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',puser_id='',custom_data=''
+        where entryid='0_7lko3kh7'
+19/06/2018 16:01:27 | SUCCESS | Delete Video entry(0_q6xq731u) | By-Adosphere_ott488 | 
+19/06/2018 16:20:19 | SUCCESS | Delete Video entry(0_tr2uhcy7) | By-Adosphere_ott488 | 
+19/06/2018 16:24:53 | SUCCESS | Save New video(0_ty0feosd) | By-Adosphere_ott488 | 
+19/06/2018 11:04:41 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 16:46:22 | SUCCESS | Updtate MetaData(0_n3eqtkv6) | By-Adosphere_ott488 | update entry set name='The Valiant Little Tailor ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_n3eqtkv6/version/100012',longdescription='Watch \'The Valiant Little Tailor\' moral story in Punjabi language. This is the story of a Little Tailor who killed 7 flies in one blow and admired by his own bravery, decides to go on an adventure. To know more watch the story.',
+        duration='292',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, learning, animation, junior, tales, bedtime, sleeping, valiant, tailor, reciter, fairy, cartoons, stitch, brave, flies, seven, panjabi, skills, kingdom, giant, bees, kills, king, punjabi',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 16:49:17',shortdescription='Watch \'The Valiant Little Tailor\' moral story in Punjabi language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Punjabi',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_n3eqtkv6'
+19/06/2018 11:17:35 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+19/06/2018 16:48:30 | SUCCESS | Save Content Viewer Rating(0_b3aj8sch,PG13) | By-Adosphere_ott488 | 
+19/06/2018 16:49:06 | SUCCESS | Updtate MetaData(0_xitn9ycx) | By-Adosphere_ott488 | update entry set name='The Valiant Little Tailor ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xitn9ycx/version/100012',longdescription='Watch \'The Valiant Little Tailor\' moral story in Gujarati language. This is the story of a Little Tailor who killed 7 flies in one blow and admired by his own bravery, decides to go on an adventure. To know more watch the story.',
+        duration='255',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, learning, animation, junior, tales, bedtime, sleeping, valiant, tailor, reciter, fairy, cartoons, stitch, brave, flies, seven, skills, kingdom, giant, bees, kills, king, gujarati',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 16:52:01',shortdescription='Watch \'The Valiant Little Tailor\' moral story in Gujarati language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Gujarati',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_xitn9ycx'
+19/06/2018 16:50:33 | SUCCESS | Save Content Viewer Rating(0_b3aj8sch,PG13) | By-Adosphere_ott488 | 
+19/06/2018 16:52:59 | SUCCESS | Updtate MetaData(0_x6cdqi4g) | By-Adosphere_ott488 | update entry set name='The Valiant Little Tailor ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_x6cdqi4g/version/100012',longdescription='Watch \'The Valiant Little Tailor\' moral story in English language. This is the story of a Little Tailor who killed 7 flies in one blow and admired by his own bravery, decides to go on an adventure. To know more watch the story.',
+        duration='235',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, learning, animation, junior, tales, bedtime, sleeping, valiant, tailor, reciter, fairy, cartoons, stitch, brave, flies, seven, skills, kingdom, giant, bees, kills, king, english',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 16:55:54',shortdescription='Watch \'The Valiant Little Tailor\' moral story in English language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_x6cdqi4g'
+19/06/2018 17:03:13 | SUCCESS | Updtate MetaData(0_h3h9xnj2) | By-Adosphere_ott488 | update entry set name='The Hare And The Tortoise ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_h3h9xnj2/version/100012',longdescription='Watch \'The Hare and Tortoise\' animation story in French language. This is the most popular moral story for kids.',
+        duration='208',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, juniors, tales, bed, time, storytelling, sleeping, reciter, fairy, cartoons, tortoise, rabbit, race, win, hare, challenge, run, child, animal, french',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:06:08',shortdescription='Watch \'The Hare and Tortoise\' animation story in French language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_h3h9xnj2'
+19/06/2018 17:03:32 | SUCCESS | Save Content Viewer Rating(0_4f7459nh,PG13) | By-Adosphere_ott488 | 
+19/06/2018 17:04:12 | SUCCESS | Updtate MetaData(0_h3h9xnj2) | By-Adosphere_ott488 | update entry set name='The Hare And The Tortoise ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_h3h9xnj2/version/100012',longdescription='Watch \'The Hare and Tortoise\' animation story in French language. This is the most popular moral story for kids.',
+        duration='208',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, juniors, tales, bed, time, storytelling, sleeping, reciter, fairy, cartoons, tortoise, rabbit, race, win, hare, challenge, run, child, animal, french',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:07:07',shortdescription='Watch \'The Hare and Tortoise\' animation story in French language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='active',puser_id='97',custom_data=''
+        where entryid='0_h3h9xnj2'
+19/06/2018 17:04:16 | SUCCESS | Updtate MetaData(0_h3h9xnj2) | By-Adosphere_ott488 | update entry set name='The hare and the tortoise ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_h3h9xnj2/version/100012',longdescription='Watch \'The Hare and Tortoise\' animation story in French language. This is the most popular moral story for kids.',
+        duration='208',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, juniors, tales, bed, time, storytelling, sleeping, reciter, fairy, cartoons, tortoise, rabbit, race, win, hare, challenge, run, child, animal, french',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:07:11',shortdescription='Watch \'The Hare and Tortoise\' animation story in French language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_h3h9xnj2'
+19/06/2018 17:06:09 | SUCCESS | Updtate MetaData(0_230adn5z) | By-Adosphere_ott488 | update entry set name='The hare and the tortoise ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_230adn5z/version/100012',longdescription='Watch \'The Hare and Tortoise\' animation story in English language. This is the most popular moral story for kids.',
+        duration='204',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, juniors, tales, bed, time, storytelling, sleeping, reciter, fairy, cartoons, tortoise, rabbit, race, win, hare, challenge, run, child, animal, english, eng',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:09:04',shortdescription='Watch \'The Hare and Tortoise\' animation story in English language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_230adn5z'
+19/06/2018 17:06:28 | SUCCESS | Save Content Viewer Rating(0_cix4xnv3,R21) | By-Adosphere_ott488 | 
+19/06/2018 17:08:54 | SUCCESS | Updtate MetaData(0_190j1lhq) | By-Adosphere_ott488 | update entry set name='The Frog Prince ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_190j1lhq/version/100002',longdescription='Watch the Frog Prince a French animated bedtime story where queen meets the frog while playing with her golden ball.The ball falls into the river and frog came to help her and fulfill his demand.Watch more to know the story.',
+        duration='437',type='1',tag='kids, cartoon, children, story, moral, series, little, learning, animation, junior, zone, diary, tales, bedtime, storytelling, reciter, cat, fairy, king, young, girl, frog, prince, queen, kingdom, princess, ball, demand, pond, golden, french',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:11:49',shortdescription='Watch the Frog Prince a French animated bedtime story where queen meets the frog while playing with her golden ball.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='French',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_190j1lhq'
+19/06/2018 17:15:19 | SUCCESS | Updtate MetaData(0_arzyys2j) | By-Adosphere_ott488 | update entry set name='Teen Machhliyan',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_arzyys2j/version/100002',longdescription='Watch Teen Machhliyan moral Story in Telugu language. This is the story of three fishes who lived in a lake. To know more watch the video.',
+        duration='414',type='1',tag='kids, channel, cartoon, children, story, moral, little, kid, learning, animation, junior, tales, telugu, bedtime, storytelling, sleeping, reciters, fisherman, fairy, cartoons, fish, punchtantra, teen, machali, serendipity, friend, fishes, catcher, machhliyan',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:18:14',shortdescription='Watch Teen Machhliyan moral Story in Telugu language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Telugu',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_arzyys2j'
+19/06/2018 17:15:48 | SUCCESS | Save Content Partner(0_arzyys2j,) | By-Adosphere_ott488 | 
+19/06/2018 17:16:52 | SUCCESS | Save Thumbnail(0_arzyys2j) | By-Adosphere_ott488 | 
+19/06/2018 17:27:09 | SUCCESS | Save Thumbnail(0_t1eiwj4n) | By-Adosphere_ott488 | 
+19/06/2018 17:29:04 | SUCCESS | Updtate MetaData(0_p90fniat) | By-Adosphere_ott488 | update entry set name='Teen Machhlia',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_p90fniat/version/100002',longdescription='Watch Teen Machhliyan moral Story in Punjabi language. This is the story of three fishes who lived in a lake. To know more watch the video.',
+        duration='389',type='1',tag='kids, channel, cartoon, children, story, moral, little, kid, learning, animation, junior, tales, punjabi, bedtime, storytelling, sleeping, reciters, fisherman, fairy, cartoons, fish, punchtantra, teen, machali, serendipity, friend, fishes, catcher',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:31:59',shortdescription='Watch Teen Machhliyan moral Story in Punjabi language. This is the story of three fishes who lived in a lake.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Punjabi',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_p90fniat'
+19/06/2018 17:30:16 | SUCCESS | Save Content Partner(0_p90fniat,) | By-Adosphere_ott488 | 
+19/06/2018 17:32:18 | SUCCESS | Updtate MetaData(0_ty0feosd) | By-Adosphere_ott488 | update entry set name='Teen Machhlia Gujarati',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ty0feosd/version/100002',longdescription='Watch Teen Machhliyan moral Story in Gujarati language. This is the story of three fishes who lived in a lake. To know more watch the video.',
+        duration='353',type='1',tag='kids, channel, cartoon, children, story, moral, little, kid, learning, animation, junior, tales, gujarati, bedtime, storytelling, sleeping, reciters, fisherman, fairy, cartoons, fish, punchtantra, teen, machali, serendipity, friend, fishes, catcher',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:35:13',shortdescription='Watch Teen Machhliyan moral Story in Gujarati language.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Gujarati',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_ty0feosd'
+19/06/2018 17:34:16 | SUCCESS | Save Content Partner(0_ty0feosd,) | By-Adosphere_ott488 | 
+19/06/2018 17:35:43 | SUCCESS | Updtate MetaData(0_xvmumlme) | By-Adosphere_ott488 | update entry set name='Puss in Boots',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_xvmumlme/version/100002',longdescription='Watch \'The Puss in Boots\' in Gujarati. Story about a talking cat who helps his master\'s son and also the villagers. To know more watch the video.',
+        duration='457',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, class, album, tale, gujarati, cat, boots, puss, life, bedtime, storytelling, sleeping, reciters, villagers, types',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:38:38',shortdescription='Watch \'The Puss in Boots\' in Gujarati. Story about a talking cat who helps his master\'s son and also the villagers.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Gujarati',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_xvmumlme'
+19/06/2018 17:38:18 | SUCCESS | Delete Video entry(0_zn5b5tsu) | By-Adosphere_ott488 | 
+19/06/2018 17:43:21 | SUCCESS | Save New video(0_j6bg30ut) | By-Adosphere_ott488 | 
+19/06/2018 17:49:44 | SUCCESS | Updtate MetaData(0_b3aj8sch) | By-Adosphere_ott488 | update entry set name='Takat the Dog Episode 26 - The Doll',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_b3aj8sch/version/100012',longdescription='',
+        duration='161',type='1',tag='kids, cartoon, takat, dog, episode, series, little, children, story, learning, animation, stories, telling, zone, tales, juniors, season, barcelona, tv3, digital, stray, non, dialogue, comedy, full, 26, peekaboo, doll',category='ON DEMAND>KIDS>ANIMATION',categoryid='219',
+        updated_at='2018-06-19 17:52:39',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_b3aj8sch'
+19/06/2018 17:52:02 | SUCCESS | Save Content Partner(0_j6bg30ut,) | By-Adosphere_ott488 | 
+19/06/2018 17:53:54 | SUCCESS | Updtate MetaData(0_0pyylw5w) | By-Adosphere_ott488 | update entry set name='Pied Piper',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_0pyylw5w/version/100002',longdescription='Watch the Pied Piper bedtime story in Telugu language. A rat catcher who play music through the piper and catch rats. To know more watch the animated bedtime story.',
+        duration='419',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, class, album, tales, telugu, life, piper, pied, rats, bedtime, sleeping, reciters, catcher, hamelin, musical, pipe, mouse',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:56:49',shortdescription='Watch the Pied Piper bedtime story in Telugu language. A rat catcher who play music through the piper and catch rats.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Telugu',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_0pyylw5w'
+19/06/2018 17:56:26 | SUCCESS | Updtate MetaData(0_0pyylw5w) | By-Adosphere_ott488 | update entry set name='Pied Piper',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_0pyylw5w/version/100012',longdescription='Watch the Pied Piper bedtime story in Telugu language. A rat catcher who play music through the piper and catch rats. To know more watch the animated bedtime story.',
+        duration='419',type='1',tag='kids, channel, cartoon, children, story, moral, series, little, kid, learning, animation, junior, class, album, tales, telugu, life, piper, pied, rats, bedtime, sleeping, reciters, catcher, hamelin, musical, pipe, mouse',category='ON DEMAND>KIDS>BEDTIME STORIES',categoryid='220',
+        updated_at='2018-06-19 17:59:21',shortdescription='Watch the Pied Piper bedtime story in Telugu language. A rat catcher who play music through the piper and catch rats.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='Telugu',pgrating='G',video_status='inactive',puser_id='97',custom_data=''
+        where entryid='0_0pyylw5w'
+19/06/2018 17:57:23 | SUCCESS | Delete Video entry(0_klvnhybl) | By-Adosphere_ott488 | 
+19/06/2018 18:00:53 | SUCCESS | Save New video(0_bq1gxy93) | By-Adosphere_ott488 | 

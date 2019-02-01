@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>AutoMotoTV MRSS Feed</title>
+    <link>http://auto-moto-tv.com</link>
+    <pubDate>Fri, 10 Jan 2014 16:33:51 +0100</pubDate>
+    <description>All the videos from the automotive world.</description>
+    <item>
+      <pubDate>Wed, 08 Aug 2018 11:44:50 +0100</pubDate>
+      <media:content url="http://auto-moto-tv.com/content2014/Content/The_new_BMW_M5_Competition_Highlights_en.mp4" type="video/mp4" />
+      <media:ID>180808016</media:ID>
+      <media:title>The new BMW M5 Competition - Highlights</media:title>
+      <media:thumbnail url="http://auto-moto-tv.com/content2014/Content/The_new_BMW_M5_Competition_Highlights_en.jpg" type="pic/jpg" />
+      <media:description>BMW M GmbH unveiled the most powerful and sportiest version yet of its high-performance BMW M5 sedan. The new BMW M5 Competition raises the bar for dynamism, agility and precision in its class. With engine output upped to 460 kW/625 hp (an increase of 19 kW/25 hp on the new BMW M5), even sharper response and bespoke chassis tuning, a driving experience with motor racing undertones is guaranteed at all times. The new BMW M5 Competition succeeds in blending supreme performance and a superbly exclusive aura with the unruffled ease in everyday use for which BMW M models are renowned.</media:description>
+      <media:keywords>BMW, BMW M5, BMW M5 Competition, M5 Competition, BMW M, new BMW M5 Competition, Highlights, automototv</media:keywords>
+      <media:category>Sedan – Limousine</media:category>
+      <media:language>english</media:language>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Aug 2018 07:12:12 +0100</pubDate>
+      <media:content url="http://auto-moto-tv.com/content2014/Content/Porsche_Classic_Project_Gold_The_coating_Protect_and_preserve_en.mp4" type="video/mp4" />
+      <media:ID>180813005</media:ID>
+      <media:title>Porsche Classic "Project Gold" - The coating. Protect and preserve.</media:title>
+      <media:thumbnail url="http://auto-moto-tv.com/content2014/Content/Porsche_Classic_Project_Gold_The_coating_Protect_and_preserve_en.jpg" type="pic/jpg" />
+      <media:description>A classic body is the starting point for a vehicle that will ultimately become a truly unique piece – assembled in the Porsche Classic workshop and individualized by the sports car manufacturer's designers. Porsche Newsroom accompanies the "Project Gold" right from the start throughout the individual production steps. The series starts with "the Vision".
+
+Back then, hollow-spoke aluminium wheels were an innovation in the automotive industry. Today, high-tech meets craftsmanship. When adding the finishing touches to the black rims as part of “Classic Project Gold”, the top coat of black paint is precisely removed using a laser, thereby mapping out the golden lines of the design. The Newsroom offers a glimpse behind the scenes of this extraordinary work step.
+
+Created by the designers at Style Porsche – implemented by the experts from the Porsche Classic workshop. The seats and interior fittings are painstakingly covered with leather by hand in the dedicated saddlery, where the precise finish is rounded off in black leather with gold appliqué detail.
+
+The bodyshell is treated by cathodic dip painting at the Porsche plant, which gives it the same high-end body coating as current series models. This process takes just a few hours but construction of this unique vehicle takes around one and a half years in total.</media:description>
+      <media:keywords>Porsche, Porsche Classic, Porsche Classic Project Gold, Project Gold, coating, Protect, preserve, Porsche Classic workshop, the vision, Classic Project Gold, automototv</media:keywords>
+      <media:category>Luxury &amp; Sport Cars</media:category>
+      <media:language>atmo</media:language>
+    </item>
+    <item>
+      <pubDate>Mon, 13 Aug 2018 07:12:14 +0100</pubDate>
+      <media:content url="http://auto-moto-tv.com/content2014/Content/Porsche_Classic_Project_Gold_en.mp4" type="video/mp4" />
+      <media:ID>180813006</media:ID>
+      <media:title>Porsche Classic "Project Gold"</media:title>
+      <media:thumbnail url="http://auto-moto-tv.com/content2014/Content/Porsche_Classic_Project_Gold_en.jpg" type="pic/jpg" />
+      <media:description>A classic body is the starting point for a vehicle that will ultimately become a truly unique piece – assembled in the Porsche Classic workshop and individualized by the sports car manufacturer's designers. Porsche Newsroom accompanies the "Project Gold" right from the start throughout the individual production steps. The series starts with "the Vision".
+
+Back then, hollow-spoke aluminium wheels were an innovation in the automotive industry. Today, high-tech meets craftsmanship. When adding the finishing touches to the black rims as part of “Classic Project Gold”, the top coat of black paint is precisely removed using a laser, thereby mapping out the golden lines of the design. The Newsroom offers a glimpse behind the scenes of this extraordinary work step.
+
+Created by the designers at Style Porsche – implemented by the experts from the Porsche Classic workshop. The seats and interior fittings are painstakingly covered with leather by hand in the dedicated saddlery, where the precise finish is rounded off in black leather with gold appliqué detail.
+
+The bodyshell is treated by cathodic dip painting at the Porsche plant, which gives it the same high-end body coating as current series models. This process takes just a few hours but construction of this unique vehicle takes around one and a half years in total.</media:description>
+      <media:keywords>Porsche, Porsche Classic, Porsche Classic Project Gold, Project Gold, coating, Protect, preserve, Porsche Classic workshop, the vision, Classic Project Gold, automototv</media:keywords>
+      <media:category>Luxury &amp; Sport Cars</media:category>
+      <media:language>english</media:language>
+    </item>
+    
+   
+   
+  </channel>
+</rss>

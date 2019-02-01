@@ -1,0 +1,48 @@
+01/12/2018 06:25:10 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+01/12/2018 07:20:41 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+01/12/2018 13:10:06 | SUCCESS | Updtate MetaData(0_lgeoua7k) | By-jeeyaho_ott333 | update entry set name='Pawan SIngh Dhamal In jeeyaho 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_lgeoua7k/version/100022',longdescription='Pawan SIngh Dhamal In jeeyaho Banaras  2018',
+        duration='298',type='1',tag='pawan singh, ritesh pandey, live, banaras 2018, dj, amarpali dubey, shubhi sharma',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-12-01 13:15:20',shortdescription='Pawan SIngh Dhamal In jeeyaho 2018',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_lgeoua7k'
+01/12/2018 13:19:07 | SUCCESS | Save New video(0_fsxm8ahd) | By-jeeyaho_ott333 | 
+01/12/2018 07:51:26 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+01/12/2018 08:09:06 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+01/12/2018 14:22:44 | SUCCESS | Updtate MetaData(0_rtt920kb) | By-jeeyaho_ott333 | update entry set name='RItesh Pandey live in jeeyaho 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_rtt920kb/version/100022',longdescription='RItesh Pandey live in jeeyaho banaras 2018',
+        duration='216',type='1',tag='ritesh pandey, bhojpuri, dj, pawan singh, jeeyaho, banaras 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-12-01 14:27:58',shortdescription='RItesh Pandey live in jeeyaho 2018',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rtt920kb'
+01/12/2018 14:23:22 | SUCCESS | Updtate MetaData(0_rnj38ww3) | By-jeeyaho_ott333 | update entry set name='Ritesh Pandey live jeeyaho part 2',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_rnj38ww3/version/100022',longdescription='Ritesh Pandey live in jeeyaho banaras 2018',
+        duration='539',type='1',tag='ritesh pandey, pawan singh, jeeyaho, amarpali dubey, banaras 2018',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-12-01 14:28:36',shortdescription='Ritesh Pandey live jeeyaho part 2',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rnj38ww3'
+01/12/2018 14:23:55 | SUCCESS | Updtate MetaData(0_s6chav8t) | By-jeeyaho_ott333 | update entry set name='RItesh Pandey With SUbhi Sharma ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_s6chav8t/version/100022',longdescription='RItesh Pandey With SUbhi Sharma in jeeyaho banaras 2018 ',
+        duration='426',type='1',tag='ritesh pandey, pawan singh, banaras 2018, jeeyaho, live',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-12-01 14:29:09',shortdescription='RItesh Pandey With SUbhi Sharma ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_s6chav8t'
+01/12/2018 14:24:29 | SUCCESS | Updtate MetaData(0_cw8671kk) | By-jeeyaho_ott333 | update entry set name='Pawan Singh in jeeyaho live part 1',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_cw8671kk/version/100022',longdescription='Pawan Singh in jeeyaho Banaras 2018 live part 1',
+        duration='212',type='1',tag='pawan singh, ritesh pandey, jeeyaho, banaras 2018, live, dj',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-12-01 14:29:43',shortdescription='Pawan Singh in jeeyaho live part 1',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_cw8671kk'
+01/12/2018 14:25:30 | SUCCESS | Updtate MetaData(0_fsxm8ahd) | By-jeeyaho_ott333 | update entry set name='A RE ANJALI RANI ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_fsxm8ahd/version/100022',longdescription='A RE ANJALI RANI NAAGPURI SUPER HIT SONG 2018',
+        duration='338',type='1',tag='naagpuri songs | dj naagpuri | 2018 naagpuri song |',category='MUSIC>REGIONAL>BENGALI',categoryid='489',
+        updated_at='2018-12-01 14:30:44',shortdescription='A RE ANJALI RANI ',
+        director='',producer='rajdhani',cast='',crew='',sub_genre='',
+        language='bangali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fsxm8ahd'
+01/12/2018 14:26:23 | SUCCESS | Updtate MetaData(0_byxauztb) | By-jeeyaho_ott333 | update entry set name='Ritesh Pandey in jeeyaho 2018',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_byxauztb/version/100022',longdescription='Ritesh Pandey in jeeyaho 2018 live bhajan ',
+        duration='378',type='1',tag='ritesh pandey, jeeyaho, bhojpuri, banaras 2018, pawan singh, amarpali dubey',category='MUSIC>REGIONAL>BHOJPURI',categoryid='488',
+        updated_at='2018-12-01 14:31:37',shortdescription='Ritesh Pandey in jeeyaho 2018',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='bhojpuri',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_byxauztb'
+01/12/2018 14:03:01 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

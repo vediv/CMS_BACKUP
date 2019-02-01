@@ -1,0 +1,190 @@
+22/01/2018 13:01:10 | SUCCESS | Save New video(0_tz620zd8) | By-Adosphere_ott488 | 
+22/01/2018 13:03:02 | SUCCESS | Save New video(0_3yhnzqb3) | By-Adosphere_ott488 | 
+22/01/2018 13:04:01 | SUCCESS | Save New video(0_pp5n03jh) | By-Adosphere_ott488 | 
+22/01/2018 13:04:37 | SUCCESS | Save Thumbnail(0_3yhnzqb3) | By-Adosphere_ott488 | 
+22/01/2018 13:05:27 | SUCCESS | Save New video(0_k19cf11z) | By-Adosphere_ott488 | 
+22/01/2018 13:05:47 | SUCCESS | Save New video(0_jds5ubix) | By-Adosphere_ott488 | 
+22/01/2018 13:09:59 | SUCCESS | Save New video(0_8r5o8nxh) | By-Adosphere_ott488 | 
+22/01/2018 13:10:16 | SUCCESS | Save New video(0_f9x5wfxd) | By-Adosphere_ott488 | 
+22/01/2018 13:10:43 | SUCCESS | Save New video(0_jy6jhq8s) | By-Adosphere_ott488 | 
+22/01/2018 13:11:50 | SUCCESS | Save New video(0_slupirc3) | By-Adosphere_ott488 | 
+22/01/2018 14:05:58 | SUCCESS | Save New video(0_z9n75q22) | By-Adosphere_ott488 | 
+22/01/2018 14:12:26 | SUCCESS | Create New Category(Kids) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '190','183','1','108','Kids','ON DEMAND>Kids','183>190','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+22/01/2018 14:12:32 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='Scuba Diving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100002',longdescription='Watch Scuba Diving which is about to see ',duration='7',type='1',tag='scuba, diving',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 14:12:49 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='Scuba Diving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100002',longdescription='Watch Scuba Diving which is about to see ',duration='7',type='1',tag='scuba, diving',category='ON DEMAND>Kids',categoryid='190',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 14:12:56 | SUCCESS | Create New Category(Animation) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '191','190','2','108','Animation','ON DEMAND>Kids>Animation','183>190>191','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+22/01/2018 14:14:34 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='Scuba Diving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100002',longdescription='Watch Scuba Diving which is about to see ',duration='7',type='1',tag='scuba, diving',category='ON DEMAND>Kids',categoryid='190',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 14:14:51 | SUCCESS | Updtate MetaData(0_z9n75q22) | By-Adosphere_ott488 | update entry set name='Big Buck Bunny.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_z9n75q22/version/100002',longdescription='sample video',duration='596',type='1',tag='big, buck, bunny, test',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Sample Video',
+        director='',producer='',cast='',crew='',sub_genre='Animation',language='English',pgrating='U',video_status='inactive' where entryid='0_z9n75q22'
+22/01/2018 14:15:03 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='Scuba Diving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100002',longdescription='Watch Scuba Diving which is about to see ',duration='7',type='1',tag='scuba, diving',category='ON DEMAND>Kids',categoryid='190',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 14:15:32 | SUCCESS | Save Thumbnail(0_z9n75q22) | By-Adosphere_ott488 | 
+22/01/2018 14:16:14 | SUCCESS | Save Thumbnail(0_z9n75q22) | By-Adosphere_ott488 | 
+22/01/2018 14:16:25 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='Scuba Diving',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100002',longdescription='Watch Scuba Diving which is about to see ',duration='7',type='1',tag='scuba, diving',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 14:18:08 | SUCCESS | Updtate MetaData(0_jy6jhq8s) | By-Adosphere_ott488 | update entry set name='Rock Climbing',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jy6jhq8s/version/100002',longdescription='Watch this video to know more...',duration='43',type='1',tag='rock, climbing, watch, full video',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='inactive' where entryid='0_jy6jhq8s'
+22/01/2018 14:18:37 | SUCCESS | Save New video(0_vwgdm5q8) | By-Adosphere_ott488 | 
+22/01/2018 14:19:15 | SUCCESS | Save New video(0_puvzypt3) | By-Adosphere_ott488 | 
+22/01/2018 14:20:03 | SUCCESS | Save New video(0_4e5x5kis) | By-Adosphere_ott488 | 
+22/01/2018 14:21:45 | SUCCESS | Updtate MetaData(0_f9x5wfxd) | By-Adosphere_ott488 | update entry set name='Robin',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_f9x5wfxd/version/100002',longdescription='Watch this video Robin which is related to robin birds in jungle. ',duration='8',type='1',tag='robin, birds, video, jungle, world',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_f9x5wfxd'
+22/01/2018 14:21:59 | SUCCESS | Save New video(0_gu3ntr8n) | By-Adosphere_ott488 | 
+22/01/2018 14:23:03 | SUCCESS | Save New video(0_ak3i3b3j) | By-Adosphere_ott488 | 
+22/01/2018 14:23:55 | SUCCESS | Save New video(0_lwuzxved) | By-Adosphere_ott488 | 
+22/01/2018 14:23:56 | SUCCESS | Updtate MetaData(0_8r5o8nxh) | By-Adosphere_ott488 | update entry set name='Puppy ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8r5o8nxh/version/100002',longdescription='watch this Puppy Video which is related to activity of Puppy dog.',duration='15',type='1',tag='puppy, dog, animated, video, most, famous',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_8r5o8nxh'
+22/01/2018 14:25:06 | SUCCESS | Save New video(0_tvblmjzr) | By-Adosphere_ott488 | 
+22/01/2018 14:26:24 | SUCCESS | Save New video(0_huhejxa7) | By-Adosphere_ott488 | 
+22/01/2018 14:27:08 | SUCCESS | Save New video(0_eh4vdloi) | By-Adosphere_ott488 | 
+22/01/2018 14:27:21 | SUCCESS | Updtate MetaData(0_jds5ubix) | By-Adosphere_ott488 | update entry set name='Petrovaradin',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jds5ubix/version/100002',longdescription='Watch this Petrovaradin video which is related to famous places ...',duration='28',type='1',tag='petrovaradin, famous, places, world, wide',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_jds5ubix'
+22/01/2018 14:27:55 | SUCCESS | Updtate MetaData(0_f9x5wfxd) | By-Adosphere_ott488 | update entry set name='Robin',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_f9x5wfxd/version/100002',longdescription='Watch this video Robin which is related to robin birds in jungle. ',duration='8',type='1',tag='robin, birds, video, jungle, world',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_f9x5wfxd'
+22/01/2018 14:28:12 | SUCCESS | Updtate MetaData(0_8r5o8nxh) | By-Adosphere_ott488 | update entry set name='Puppy ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_8r5o8nxh/version/100002',longdescription='watch this Puppy Video which is related to activity of Puppy dog.',duration='15',type='1',tag='puppy, dog, animated, video, most, famous',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_8r5o8nxh'
+22/01/2018 14:28:53 | SUCCESS | Updtate MetaData(0_vwgdm5q8) | By-Adosphere_ott488 | update entry set name='Black Bear - 3343.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vwgdm5q8/version/100002',longdescription='test video',duration='28',type='1',tag='black, bear, test',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Black bear sample video',
+        director='',producer='',cast='',crew='',sub_genre='animal',language='',pgrating='u',video_status='inactive' where entryid='0_vwgdm5q8'
+22/01/2018 14:29:24 | SUCCESS | Save Thumbnail(0_vwgdm5q8) | By-Adosphere_ott488 | 
+22/01/2018 14:30:14 | SUCCESS | Updtate MetaData(0_tz620zd8) | By-Adosphere_ott488 | update entry set name='Heavy Machinery ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tz620zd8/version/100002',longdescription='Watch this video to know more...',duration='276',type='1',tag='heavy, machinery, world, famous, technology',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_tz620zd8'
+22/01/2018 14:31:19 | SUCCESS | Save Thumbnail(0_eh4vdloi) | By-Adosphere_ott488 | 
+22/01/2018 14:31:59 | SUCCESS | Updtate MetaData(0_huhejxa7) | By-Adosphere_ott488 | update entry set name='Chicken - 4534.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_huhejxa7/version/100002',longdescription='Chicken sample video',duration='7',type='1',tag='chicken, test, video',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Chicken sample video',
+        director='',producer='',cast='',crew='',sub_genre='animal',language='',pgrating='u',video_status='inactive' where entryid='0_huhejxa7'
+22/01/2018 14:32:37 | SUCCESS | Updtate MetaData(0_tvblmjzr) | By-Adosphere_ott488 | update entry set name='Cat - 2879.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tvblmjzr/version/100002',longdescription='Cat sample video',duration='11',type='1',tag='cat, test, video',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Cat sample video',
+        director='',producer='',cast='',crew='',sub_genre='u',language='',pgrating='',video_status='inactive' where entryid='0_tvblmjzr'
+22/01/2018 14:33:44 | SUCCESS | Updtate MetaData(0_lwuzxved) | By-Adosphere_ott488 | update entry set name='Cars - 1900.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lwuzxved/version/100002',longdescription='Cars sample video',duration='60',type='1',tag='cars, test, video',category='ON DEMAND',categoryid='183',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Cars sample video',
+        director='',producer='',cast='',crew='',sub_genre='Automation',language='',pgrating='u',video_status='inactive' where entryid='0_lwuzxved'
+22/01/2018 14:34:38 | SUCCESS | Updtate MetaData(0_ak3i3b3j) | By-Adosphere_ott488 | update entry set name='Car Racing - 74.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ak3i3b3j/version/100002',longdescription='Car racing sample video',duration='38',type='1',tag='car, racing, test, video',category='ON DEMAND',categoryid='183',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Car racing sample video',
+        director='',producer='',cast='',crew='',sub_genre='Automation',language='',pgrating='u',video_status='inactive' where entryid='0_ak3i3b3j'
+22/01/2018 14:35:07 | SUCCESS | Updtate MetaData(0_3yhnzqb3) | By-Adosphere_ott488 | update entry set name='Helicopter ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3yhnzqb3/version/100002',longdescription='Watch this video to know more...',duration='18',type='1',tag='helicopter, fly, take off, use, flying machine, power',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_3yhnzqb3'
+22/01/2018 14:35:11 | SUCCESS | Updtate MetaData(0_puvzypt3) | By-Adosphere_ott488 | update entry set name='Butterfly - 377.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_puvzypt3/version/100002',longdescription='butterfly sample video',duration='9',type='1',tag='butterfly, test',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='butterfly sample video',
+        director='',producer='',cast='',crew='',sub_genre='u',language='',pgrating='',video_status='inactive' where entryid='0_puvzypt3'
+22/01/2018 14:36:00 | SUCCESS | Updtate MetaData(0_4e5x5kis) | By-Adosphere_ott488 | update entry set name='Butterfly - 7577.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_4e5x5kis/version/100002',longdescription='butterfly sample video',duration='41',type='1',tag='butterfly, sample, video',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='butterfly sample video',
+        director='',producer='',cast='',crew='',sub_genre='Insects',language='',pgrating='',video_status='inactive' where entryid='0_4e5x5kis'
+22/01/2018 14:36:18 | SUCCESS | Updtate MetaData(0_puvzypt3) | By-Adosphere_ott488 | update entry set name='Butterfly - 377.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_puvzypt3/version/100002',longdescription='butterfly sample video',duration='9',type='1',tag='butterfly, test',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='butterfly sample video',
+        director='',producer='',cast='',crew='',sub_genre='Insects',language='',pgrating='U',video_status='inactive' where entryid='0_puvzypt3'
+22/01/2018 14:36:51 | SUCCESS | Updtate MetaData(0_gu3ntr8n) | By-Adosphere_ott488 | update entry set name='Capoeira - 2089.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gu3ntr8n/version/100002',longdescription='Capoeria sample video',duration='179',type='1',tag='capoeira, test, video',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Capoeria sample video',
+        director='',producer='',cast='',crew='',sub_genre='Culture',language='',pgrating='U',video_status='inactive' where entryid='0_gu3ntr8n'
+22/01/2018 14:38:24 | SUCCESS | Updtate MetaData(0_eh4vdloi) | By-Adosphere_ott488 | update entry set name='Church - 551 (1).mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_eh4vdloi/version/100002',longdescription='Church sample video',duration='8',type='1',tag='church, test, video',category='ON DEMAND',categoryid='183',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_eh4vdloi'
+22/01/2018 14:38:42 | SUCCESS | Updtate MetaData(0_gu3ntr8n) | By-Adosphere_ott488 | update entry set name='Capoeira - 2089.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_gu3ntr8n/version/100002',longdescription='Capoeria sample video',duration='179',type='1',tag='capoeira, test, video',category='ON DEMAND',categoryid='183',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Capoeria sample video',
+        director='',producer='',cast='',crew='',sub_genre='Culture',language='',pgrating='U',video_status='active' where entryid='0_gu3ntr8n'
+22/01/2018 14:38:55 | SUCCESS | Updtate MetaData(0_k19cf11z) | By-Adosphere_ott488 | update entry set name='Motorcycle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_k19cf11z/version/100002',longdescription='Watch this video to know more...',duration='13',type='1',tag='motercycle',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_k19cf11z'
+22/01/2018 14:39:07 | SUCCESS | Create New Category(Automation) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '192','183','1','108','Automation','ON DEMAND>Automation','183>192','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+22/01/2018 14:39:31 | SUCCESS | Updtate MetaData(0_lwuzxved) | By-Adosphere_ott488 | update entry set name='Cars - 1900.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_lwuzxved/version/100002',longdescription='Cars sample video',duration='60',type='1',tag='cars, test, video',category='ON DEMAND,ON DEMAND>Automation',categoryid='183,192',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Cars sample video',
+        director='',producer='',cast='',crew='',sub_genre='Automation',language='',pgrating='u',video_status='active' where entryid='0_lwuzxved'
+22/01/2018 14:39:44 | SUCCESS | Updtate MetaData(0_ak3i3b3j) | By-Adosphere_ott488 | update entry set name='Car Racing - 74.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ak3i3b3j/version/100002',longdescription='Car racing sample video',duration='38',type='1',tag='car, racing, test, video',category='ON DEMAND,ON DEMAND>Automation',categoryid='183,192',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Car racing sample video',
+        director='',producer='',cast='',crew='',sub_genre='Automation',language='',pgrating='u',video_status='active' where entryid='0_ak3i3b3j'
+22/01/2018 14:39:52 | SUCCESS | Updtate MetaData(0_jds5ubix) | By-Adosphere_ott488 | update entry set name='Petrovaradin',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jds5ubix/version/100002',longdescription='Watch this Petrovaradin video which is related to famous places ...',duration='28',type='1',tag='petrovaradin, famous, places, world, wide, urban, lifestyle',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_jds5ubix'
+22/01/2018 14:40:07 | SUCCESS | Updtate MetaData(0_z9n75q22) | By-Adosphere_ott488 | update entry set name='Big Buck Bunny.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_z9n75q22/version/100002',longdescription='sample video',duration='596',type='1',tag='big, buck, bunny, test',category='ON DEMAND>Kids>Animation',categoryid='191',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Sample Video',
+        director='',producer='',cast='',crew='',sub_genre='Animation',language='English',pgrating='U',video_status='active' where entryid='0_z9n75q22'
+22/01/2018 14:41:47 | SUCCESS | Updtate MetaData(0_k19cf11z) | By-Adosphere_ott488 | update entry set name='Motorcycle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_k19cf11z/version/100002',longdescription='Watch this video to know more...',duration='13',type='1',tag='motercycle, moterbike, bike, motor vehicle',category='',categoryid='',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_k19cf11z'
+22/01/2018 14:42:37 | SUCCESS | Save Thumbnail(0_k19cf11z) | By-Adosphere_ott488 | 
+22/01/2018 14:44:45 | SUCCESS | Updtate MetaData(0_k19cf11z) | By-Adosphere_ott488 | update entry set name='Motorcycle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_k19cf11z/version/100002',longdescription='Watch this video to know more...',duration='13',type='1',tag='motercycle, moterbike, bike, motor vehicle',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_k19cf11z'
+22/01/2018 14:46:34 | SUCCESS | Updtate MetaData(0_pp5n03jh) | By-Adosphere_ott488 | update entry set name='Kitten',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_pp5n03jh/version/100002',longdescription='Watch this cute Kitten video ...',duration='13',type='1',tag='kitten, cute, test, cat',category='ON DEMAND>ANIMALS',categoryid='187',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_pp5n03jh'
+22/01/2018 14:47:01 | SUCCESS | Save Thumbnail(0_3yhnzqb3) | By-Adosphere_ott488 | 
+22/01/2018 14:47:26 | SUCCESS | Updtate MetaData(0_3yhnzqb3) | By-Adosphere_ott488 | update entry set name='Helicopter ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3yhnzqb3/version/100012',longdescription='Watch this video to know more...',duration='18',type='1',tag='helicopter, fly, take off, use, flying machine, power',category='ON DEMAND>Automation',categoryid='192',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_3yhnzqb3'
+22/01/2018 14:47:48 | SUCCESS | Updtate MetaData(0_tz620zd8) | By-Adosphere_ott488 | update entry set name='Heavy Machinery ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tz620zd8/version/100002',longdescription='Watch this video to know more...',duration='276',type='1',tag='heavy, machinery, world, famous, technology',category='ON DEMAND>Automation',categoryid='192',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_tz620zd8'
+22/01/2018 14:48:23 | SUCCESS | Save Thumbnail(0_tz620zd8) | By-Adosphere_ott488 | 
+22/01/2018 14:56:43 | SUCCESS | Create New Category(NON-DIALOGUE) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '193','186','2','108','NON-DIALOGUE','MOVIES>SHORT FILMS>NON-DIALOGUE','184>186>193','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+22/01/2018 14:57:18 | SUCCESS | Updtate MetaData(0_tvblmjzr) | By-Adosphere_ott488 | update entry set name='Cat - 2879.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tvblmjzr/version/100002',longdescription='Cat sample video',duration='11',type='1',tag='cat, test, video',category='ON DEMAND>ANIMALS,MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='187,193',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Cat sample video',
+        director='',producer='',cast='',crew='',sub_genre='u',language='',pgrating='',video_status='active' where entryid='0_tvblmjzr'
+22/01/2018 15:00:49 | SUCCESS | Create New Category(LEARNING) | By-Adosphere_ott488 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '194','186','2','108','LEARNING','MOVIES>SHORT FILMS>LEARNING','184>186>194','0','0','','',NOW(),Now(),'97',ifnull(max(priority),0)+1,'0' from categories
+22/01/2018 15:01:43 | SUCCESS | Updtate MetaData(0_pp5n03jh) | By-Adosphere_ott488 | update entry set name='Kitten',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_pp5n03jh/version/100002',longdescription='Watch this cute Kitten video ...',duration='13',type='1',tag='kitten, cute, test, cat',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_pp5n03jh'
+22/01/2018 15:02:35 | SUCCESS | Updtate MetaData(0_k19cf11z) | By-Adosphere_ott488 | update entry set name='Motorcycle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_k19cf11z/version/100002',longdescription='Watch this video to know more...',duration='13',type='1',tag='motercycle, moterbike, bike, motor vehicle',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_k19cf11z'
+22/01/2018 15:03:42 | SUCCESS | Save Thumbnail(0_pp5n03jh) | By-Adosphere_ott488 | 
+22/01/2018 15:04:06 | SUCCESS | Save Thumbnail(0_k19cf11z) | By-Adosphere_ott488 | 
+22/01/2018 15:04:37 | SUCCESS | Save Thumbnail(0_jds5ubix) | By-Adosphere_ott488 | 
+22/01/2018 15:05:08 | SUCCESS | Save Thumbnail(0_8r5o8nxh) | By-Adosphere_ott488 | 
+22/01/2018 15:05:33 | SUCCESS | Save Thumbnail(0_f9x5wfxd) | By-Adosphere_ott488 | 
+22/01/2018 15:05:55 | SUCCESS | Save Thumbnail(0_jy6jhq8s) | By-Adosphere_ott488 | 
+22/01/2018 15:06:24 | SUCCESS | Save Thumbnail(0_slupirc3) | By-Adosphere_ott488 | 
+22/01/2018 15:09:09 | SUCCESS | Add New Content Partner(Royalty Free) | By-Adosphere_ott488 | 
+22/01/2018 15:15:09 | SUCCESS | Updtate MetaData(0_tz620zd8) | By-Adosphere_ott488 | update entry set name='Heavy Machinery ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tz620zd8/version/100012',longdescription='Watch the heavy equipment video which is specially designed for construction work.',duration='276',type='1',tag='heavy, machinery, world, famous, technology',category='ON DEMAND>Automation',categoryid='192',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_tz620zd8'
+22/01/2018 15:15:35 | SUCCESS | Updtate MetaData(0_ak3i3b3j) | By-Adosphere_ott488 | update entry set name='Car Racing - 74.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ak3i3b3j/version/100002',longdescription='Car racing sample video',duration='38',type='1',tag='car, racing, test, video',category='ON DEMAND>Automation',categoryid='192',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Car racing sample video',
+        director='',producer='',cast='',crew='',sub_genre='Automation',language='',pgrating='u',video_status='active' where entryid='0_ak3i3b3j'
+22/01/2018 15:18:10 | SUCCESS | Updtate MetaData(0_jds5ubix) | By-Adosphere_ott488 | update entry set name='Petrovaradin- A TOWN IN SERBIA',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jds5ubix/version/100012',longdescription='Watch the beautiful view and municipality which is the part of Urban city Novi sad.',duration='28',type='1',tag='petrovaradin, famous, places, world, wide, urban, lifestyle',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_jds5ubix'
+22/01/2018 15:22:00 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='SCUBA DIVING-ADVENTUROUS UNDERWATER',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100012',longdescription='Watch amazing adventurous underwater extreme sport scuba diving.',duration='7',type='1',tag='scuba, diving, adventurous, underwater',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 15:23:06 | SUCCESS | Updtate MetaData(0_jds5ubix) | By-Adosphere_ott488 | update entry set name='PETROVARADIN- A TOWN IN SERBIA',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jds5ubix/version/100012',longdescription='Watch the beautiful view and municipality which is the part of Urban city Novi sad.',duration='28',type='1',tag='petrovaradin, famous, places, world, wide, urban, lifestyle',category='MOVIES>SHORT FILMS>ENGLISH',categoryid='188',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_jds5ubix'
+22/01/2018 15:27:46 | SUCCESS | Updtate MetaData(0_vwgdm5q8) | By-Adosphere_ott488 | update entry set name='Black Bear - 3343.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_vwgdm5q8/version/100002',longdescription='test video',duration='28',type='1',tag='black, bear, test',category='ON DEMAND>ANIMALS>CUTE ANIMALS',categoryid='189',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Black bear sample video',
+        director='',producer='',cast='',crew='',sub_genre='animal',language='',pgrating='u',video_status='active' where entryid='0_vwgdm5q8'
+22/01/2018 15:28:11 | SUCCESS | Updtate MetaData(0_tvblmjzr) | By-Adosphere_ott488 | update entry set name='Cat - 2879.mp4',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_tvblmjzr/version/100002',longdescription='Cat sample video',duration='11',type='1',tag='cat, test, video',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='Cat sample video',
+        director='',producer='',cast='',crew='',sub_genre='u',language='',pgrating='',video_status='active' where entryid='0_tvblmjzr'
+22/01/2018 15:28:52 | SUCCESS | Updtate MetaData(0_roac2t71) | By-Adosphere_ott488 | update entry set name='Butterfly | Cute Animal',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_roac2t71/version/100002',longdescription='',duration='9',type='1',tag='animal, butterfly, cute',category='ON DEMAND>ANIMALS>CUTE ANIMALS,MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='189,193',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_roac2t71'
+22/01/2018 15:38:29 | SUCCESS | Updtate MetaData(0_jy6jhq8s) | By-Adosphere_ott488 | update entry set name='Rock Climbing',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_jy6jhq8s/version/100012',longdescription='Watch this video to know more...',duration='43',type='1',tag='rock, climbing, watch, full video',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        contentpartnerid='',countrycode='null',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_jy6jhq8s'
+22/01/2018 15:39:31 | SUCCESS | Updtate MetaData(0_slupirc3) | By-Adosphere_ott488 | update entry set name='SCUBA DIVING-ADVENTUROUS UNDERWATER',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_slupirc3/version/100012',longdescription='Watch amazing adventurous underwater extreme sport scuba diving.',duration='7',type='1',tag='scuba, diving, adventurous, underwater',category='MOVIES>SHORT FILMS>NON-DIALOGUE',categoryid='193',
+        contentpartnerid='',countrycode='IN',startdate='',enddate='',updated_at='2018-01-22',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',language='',pgrating='',video_status='active' where entryid='0_slupirc3'
+22/01/2018 15:46:50 | SUCCESS | Save Thumbnail(0_eh4vdloi) | By-Adosphere_ott488 | 

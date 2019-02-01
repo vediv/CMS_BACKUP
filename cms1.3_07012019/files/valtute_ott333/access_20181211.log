@@ -1,0 +1,274 @@
+11/12/2018 01:37:02 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 06:00:05 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 06:08:56 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 06:39:29 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 12:12:45 | SUCCESS | Save Thumbnail(0_ni05nqo8) | By-jeeyaho_ott333 | 
+11/12/2018 12:13:26 | SUCCESS | Updtate MetaData(0_fcuaafnu) | By-jeeyaho_ott333 | update entry set name='Supta Matsyendrasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_fcuaafnu/version/100022',longdescription='Supta Matsyendrasana Yoga',
+        duration='143',type='1',tag='yoga, jeeyaho, health tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:18:48',shortdescription='Supta Matsyendrasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fcuaafnu'
+11/12/2018 12:14:07 | SUCCESS | Save Thumbnail(0_fcuaafnu) | By-jeeyaho_ott333 | 
+11/12/2018 12:15:59 | SUCCESS | Save Thumbnail(0_ni05nqo8) | By-jeeyaho_ott333 | 
+11/12/2018 12:17:01 | SUCCESS | Updtate MetaData(0_hswp1ybr) | By-jeeyaho_ott333 | update entry set name='Adho Mukha Svanasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hswp1ybr/version/100022',longdescription='Adho Mukha Svanasana',
+        duration='144',type='1',tag='jeeyaho, yoga, health tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:22:22',shortdescription='Adho Mukha Svanasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hswp1ybr'
+11/12/2018 12:18:46 | SUCCESS | Save Thumbnail(0_hswp1ybr) | By-jeeyaho_ott333 | 
+11/12/2018 12:19:33 | SUCCESS | Updtate MetaData(0_ni05nqo8) | By-jeeyaho_ott333 | update entry set name='Janu Shirshasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ni05nqo8/version/100042',longdescription='Adho Mukha Savanasana Most Effective Yoga',
+        duration='143',type='1',tag='yoga, fitness, health, aasana',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:24:54',shortdescription='Janu Shirshasana',
+        director='JeeyaHo',producer='JeeyaHo',cast='',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='inactive',custom_data=''
+        where entryid='0_ni05nqo8'
+11/12/2018 12:22:41 | SUCCESS | Updtate MetaData(0_wzq0xvmj) | By-jeeyaho_ott333 | update entry set name='Ardha Navasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wzq0xvmj/version/100022',longdescription='Ardha Navasana',
+        duration='143',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:28:02',shortdescription='Ardha Navasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wzq0xvmj'
+11/12/2018 12:23:47 | SUCCESS | Save Thumbnail(0_wzq0xvmj) | By-jeeyaho_ott333 | 
+11/12/2018 12:24:31 | SUCCESS | Updtate MetaData(0_9725lvqb) | By-jeeyaho_ott333 | update entry set name='Ardha Matyendrasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9725lvqb/version/100022',longdescription='Ardha Matyendrasana',
+        duration='144',type='1',tag='jeeyaho, yoga, health tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:29:52',shortdescription='Ardha Matyendrasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_9725lvqb'
+11/12/2018 12:29:18 | SUCCESS | Updtate MetaData(0_jvwahw0i) | By-jeeyaho_ott333 | update entry set name='Ustrasana Yoga',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jvwahw0i/version/100022',longdescription='Ustrasana Yoga',
+        duration='144',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:34:39',shortdescription='Ustrasana Yoga',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jvwahw0i'
+11/12/2018 12:30:04 | SUCCESS | Save Thumbnail(0_jvwahw0i) | By-jeeyaho_ott333 | 
+11/12/2018 12:31:21 | SUCCESS | Updtate MetaData(0_0maxuwr2) | By-jeeyaho_ott333 | update entry set name='Gomukhasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_0maxuwr2/version/100022',longdescription='Gomukhasana most effective yoga',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:36:42',shortdescription='Gomukhasana most effective yoga',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_0maxuwr2'
+11/12/2018 12:32:14 | SUCCESS | Save Thumbnail(0_0maxuwr2) | By-jeeyaho_ott333 | 
+11/12/2018 12:33:05 | SUCCESS | Updtate MetaData(0_8ed8rh7l) | By-jeeyaho_ott333 | update entry set name='Mandukasana Yoga',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_8ed8rh7l/version/100022',longdescription='Mandukasana Yoga',
+        duration='133',type='1',tag='jeeyaho, yoga, health tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:38:27',shortdescription='Mandukasana Yoga',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_8ed8rh7l'
+11/12/2018 12:33:49 | SUCCESS | Save Thumbnail(0_8ed8rh7l) | By-jeeyaho_ott333 | 
+11/12/2018 12:35:47 | SUCCESS | Updtate MetaData(0_hl3xstla) | By-jeeyaho_ott333 | update entry set name='Ardha Purvottanasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_hl3xstla/version/100022',longdescription='Ardha Purvottanasana',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:41:09',shortdescription='Ardha Purvottanasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hl3xstla'
+11/12/2018 12:37:38 | SUCCESS | Save Thumbnail(0_hl3xstla) | By-jeeyaho_ott333 | 
+11/12/2018 12:38:30 | SUCCESS | Updtate MetaData(0_f8y35w0h) | By-jeeyaho_ott333 | update entry set name='Trikonasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_f8y35w0h/version/100022',longdescription='Trikonasana',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:43:51',shortdescription='Trikonasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_f8y35w0h'
+11/12/2018 12:39:15 | SUCCESS | Save Thumbnail(0_f8y35w0h) | By-jeeyaho_ott333 | 
+11/12/2018 12:40:23 | SUCCESS | Updtate MetaData(0_jo8e7ew9) | By-jeeyaho_ott333 | update entry set name='Virabharasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jo8e7ew9/version/100022',longdescription='Virabharasana ',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:45:45',shortdescription='Virabharasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_jo8e7ew9'
+11/12/2018 12:40:57 | SUCCESS | Save Thumbnail(0_jo8e7ew9) | By-jeeyaho_ott333 | 
+11/12/2018 12:41:41 | SUCCESS | Updtate MetaData(0_zr02307d) | By-jeeyaho_ott333 | update entry set name='Bhujangasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zr02307d/version/100022',longdescription='Bhujangasana',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:47:02',shortdescription='Bhujangasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zr02307d'
+11/12/2018 12:42:19 | SUCCESS | Save Thumbnail(0_zr02307d) | By-jeeyaho_ott333 | 
+11/12/2018 12:44:57 | SUCCESS | Updtate MetaData(0_yhuulv3u) | By-jeeyaho_ott333 | update entry set name='Paschimottanasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_yhuulv3u/version/100022',longdescription='Paschimottanasana',
+        duration='133',type='1',tag='jeeyaho. health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:50:19',shortdescription='Paschimottanasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_yhuulv3u'
+11/12/2018 12:45:26 | SUCCESS | Save Thumbnail(0_yhuulv3u) | By-jeeyaho_ott333 | 
+11/12/2018 12:46:12 | SUCCESS | Updtate MetaData(0_glfagiee) | By-jeeyaho_ott333 | update entry set name='Janusirsasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_glfagiee/version/100022',longdescription='Janusirsasana',
+        duration='133',type='1',tag='jeeyaho. health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:51:33',shortdescription='Janusirsasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_glfagiee'
+11/12/2018 12:46:35 | SUCCESS | Save Thumbnail(0_glfagiee) | By-jeeyaho_ott333 | 
+11/12/2018 12:47:25 | SUCCESS | Updtate MetaData(0_93apj6f2) | By-jeeyaho_ott333 | update entry set name='Uttanshishusana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_93apj6f2/version/100022',longdescription='Uttanshishusana',
+        duration='137',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:52:47',shortdescription='Uttanshishusana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_93apj6f2'
+11/12/2018 12:47:50 | SUCCESS | Save Thumbnail(0_93apj6f2) | By-jeeyaho_ott333 | 
+11/12/2018 12:48:20 | SUCCESS | Updtate MetaData(0_oemth16d) | By-jeeyaho_ott333 | update entry set name='Virabhadrasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_oemth16d/version/100022',longdescription='Virabhadrasana A Complete Body Yoga',
+        duration='131',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:53:41',shortdescription='Virabhadrasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_oemth16d'
+11/12/2018 12:49:01 | SUCCESS | Save Thumbnail(0_oemth16d) | By-jeeyaho_ott333 | 
+11/12/2018 12:49:37 | SUCCESS | Updtate MetaData(0_91goyyut) | By-jeeyaho_ott333 | update entry set name='Parivrtta Parsvakonasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_91goyyut/version/100022',longdescription='Parivrtta Parsvakonasana',
+        duration='132',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:54:58',shortdescription='Parivrtta Parsvakonasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_91goyyut'
+11/12/2018 12:50:08 | SUCCESS | Save Thumbnail(0_91goyyut) | By-jeeyaho_ott333 | 
+11/12/2018 12:50:56 | SUCCESS | Updtate MetaData(0_4bm9nllz) | By-jeeyaho_ott333 | update entry set name='Rajakapotasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4bm9nllz/version/100022',longdescription='Rajakapotasana',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:56:18',shortdescription='Rajakapotasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4bm9nllz'
+11/12/2018 12:51:58 | SUCCESS | Save Thumbnail(0_4bm9nllz) | By-jeeyaho_ott333 | 
+11/12/2018 12:52:44 | SUCCESS | Updtate MetaData(0_fx8utker) | By-jeeyaho_ott333 | update entry set name='Utthita Parsvakonsana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_fx8utker/version/100022',longdescription='Utthita Parsvakonsana ',
+        duration='132',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 12:58:05',shortdescription='Utthita Parsvakonsana ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fx8utker'
+11/12/2018 13:08:13 | SUCCESS | Save Thumbnail(0_fx8utker) | By-jeeyaho_ott333 | 
+11/12/2018 13:10:57 | SUCCESS | Updtate MetaData(0_xarwbi2y) | By-jeeyaho_ott333 | update entry set name='Parivrtta Utkatasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_xarwbi2y/version/100022',longdescription='Parivrtta Utkatasana ',
+        duration='132',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:16:19',shortdescription='Parivrtta Utkatasana ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xarwbi2y'
+11/12/2018 13:22:00 | SUCCESS | Save Thumbnail(0_xarwbi2y) | By-jeeyaho_ott333 | 
+11/12/2018 13:22:51 | SUCCESS | Updtate MetaData(0_72qiybc3) | By-jeeyaho_ott333 | update entry set name='Janu Shirshasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_72qiybc3/version/100022',longdescription='Janu Shirshasana',
+        duration='132',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:28:13',shortdescription='Janu Shirshasana',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_72qiybc3'
+11/12/2018 13:24:14 | SUCCESS | Save Thumbnail(0_72qiybc3) | By-jeeyaho_ott333 | 
+11/12/2018 13:25:03 | SUCCESS | Updtate MetaData(0_mstlk9ku) | By-jeeyaho_ott333 | update entry set name='Purvottanasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_mstlk9ku/version/100022',longdescription='Purvottanasana ',
+        duration='133',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:30:25',shortdescription='Purvottanasana ',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_mstlk9ku'
+11/12/2018 13:25:43 | SUCCESS | Save Thumbnail(0_mstlk9ku) | By-jeeyaho_ott333 | 
+11/12/2018 13:34:26 | SUCCESS | Save Thumbnail(0_3fipdot4) | By-jeeyaho_ott333 | 
+11/12/2018 13:35:05 | SUCCESS | Updtate MetaData(0_3fipdot4) | By-jeeyaho_ott333 | update entry set name='Padangusthasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_3fipdot4/version/100032',longdescription='Padangusthasana ',
+        duration='132',type='1',tag='jeeyaho. health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:40:26',shortdescription='Padangusthasana ',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_3fipdot4'
+11/12/2018 13:37:22 | SUCCESS | Save Thumbnail(0_zbjlpqls) | By-jeeyaho_ott333 | 
+11/12/2018 13:37:55 | SUCCESS | Updtate MetaData(0_zbjlpqls) | By-jeeyaho_ott333 | update entry set name='Marjariasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_zbjlpqls/version/100032',longdescription='Marjariasana',
+        duration='132',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:43:17',shortdescription='Marjariasana',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_zbjlpqls'
+11/12/2018 13:38:51 | SUCCESS | Updtate MetaData(0_pqi93qod) | By-jeeyaho_ott333 | update entry set name='Chakrasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_pqi93qod/version/100022',longdescription='Chakrasana',
+        duration='132',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:44:12',shortdescription='Chakrasana',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_pqi93qod'
+11/12/2018 13:39:31 | SUCCESS | Save Thumbnail(0_pqi93qod) | By-jeeyaho_ott333 | 
+11/12/2018 13:40:08 | SUCCESS | Updtate MetaData(0_n3n19jd2) | By-jeeyaho_ott333 | update entry set name='kativakrasam',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_n3n19jd2/version/100022',longdescription='kativakrasam',
+        duration='132',type='1',tag='jeeyaho. health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:45:30',shortdescription='kativakrasam',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_n3n19jd2'
+11/12/2018 13:40:53 | SUCCESS | Save Thumbnail(0_n3n19jd2) | By-jeeyaho_ott333 | 
+11/12/2018 13:41:14 | SUCCESS | Updtate MetaData(0_n3n19jd2) | By-jeeyaho_ott333 | update entry set name='kativakrasam',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_n3n19jd2/version/100032',longdescription='kativakrasam',
+        duration='132',type='1',tag='jeeyaho. health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:46:35',shortdescription='kativakrasam',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_n3n19jd2'
+11/12/2018 13:41:51 | SUCCESS | Updtate MetaData(0_6gg34c24) | By-jeeyaho_ott333 | update entry set name='Mudrasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6gg34c24/version/100022',longdescription='Mudrasana',
+        duration='141',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:47:13',shortdescription='Mudrasana',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_6gg34c24'
+11/12/2018 13:48:35 | SUCCESS | Save Thumbnail(0_6gg34c24) | By-jeeyaho_ott333 | 
+11/12/2018 13:50:25 | SUCCESS | Updtate MetaData(0_7ffd65q9) | By-jeeyaho_ott333 | update entry set name='Maha Halasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7ffd65q9/version/100022',longdescription='Maha Halasana',
+        duration='141',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:55:46',shortdescription='Maha Halasana',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7ffd65q9'
+11/12/2018 13:51:30 | SUCCESS | Save Thumbnail(0_7ffd65q9) | By-jeeyaho_ott333 | 
+11/12/2018 13:53:16 | SUCCESS | Updtate MetaData(0_4ecioge9) | By-jeeyaho_ott333 | update entry set name='Dwichakrikasan',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4ecioge9/version/100022',longdescription='Dwichakrikasan',
+        duration='141',type='1',tag='jeeyaho, health tips, yoga',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 13:58:38',shortdescription='Dwichakrikasan',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4ecioge9'
+11/12/2018 13:54:01 | SUCCESS | Save Thumbnail(0_4ecioge9) | By-jeeyaho_ott333 | 
+11/12/2018 13:54:38 | SUCCESS | Updtate MetaData(0_ufnwb32v) | By-jeeyaho_ott333 | update entry set name='Gatyatmakmeru Vakrasana',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ufnwb32v/version/100022',longdescription='Gatyatmakmeru Vakrasana',
+        duration='130',type='1',tag='jeeyaho, health, tips',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 14:00:00',shortdescription='Gatyatmakmeru Vakrasana',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ufnwb32v'
+11/12/2018 13:55:19 | SUCCESS | Save Thumbnail(0_ufnwb32v) | By-jeeyaho_ott333 | 
+11/12/2018 14:02:08 | SUCCESS | Updtate MetaData(0_oqm3mnbo) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 30 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_oqm3mnbo/version/100022',longdescription='Dadri Mela Part 30 Clip',
+        duration='47',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:07:30',shortdescription='Dadri Mela Part 30 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_oqm3mnbo'
+11/12/2018 14:02:49 | SUCCESS | Updtate MetaData(0_eu2hc1z2) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 31 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_eu2hc1z2/version/100022',longdescription='Dadri Mela Part 31 Clip',
+        duration='43',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:08:11',shortdescription='Dadri Mela Part 31 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_eu2hc1z2'
+11/12/2018 14:03:32 | SUCCESS | Updtate MetaData(0_kcju8g5z) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 32 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_kcju8g5z/version/100022',longdescription='Dadri Mela Part 32 Clip',
+        duration='43',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:08:53',shortdescription='Dadri Mela Part 32 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_kcju8g5z'
+11/12/2018 14:04:22 | SUCCESS | Updtate MetaData(0_v76szcxo) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 33 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_v76szcxo/version/100022',longdescription='Dadri Mela Part 33 Clip',
+        duration='123',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:09:43',shortdescription='Dadri Mela Part 33 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_v76szcxo'
+11/12/2018 14:04:56 | SUCCESS | Updtate MetaData(0_iti8ng1j) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 34 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_iti8ng1j/version/100022',longdescription='Dadri Mela Part 34 Clip',
+        duration='54',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:10:18',shortdescription='Dadri Mela Part 34 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_iti8ng1j'
+11/12/2018 14:07:41 | SUCCESS | Updtate MetaData(0_08uiu5e2) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 35 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_08uiu5e2/version/100022',longdescription='Dadri Mela Part 35 Clip',
+        duration='150',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:13:02',shortdescription='Dadri Mela Part 35 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_08uiu5e2'
+11/12/2018 14:08:57 | SUCCESS | Updtate MetaData(0_aoa02huh) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 36 Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_aoa02huh/version/100022',longdescription='Dadri Mela Part 36 Clip',
+        duration='206',type='1',tag='jeeyaho, dadri mela, kumar visvas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-11 14:14:18',shortdescription='Dadri Mela Part 36 Clip',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_aoa02huh'
+11/12/2018 14:12:45 | SUCCESS | Updtate MetaData(0_7ffd65q9) | By-jeeyaho_ott333 | update entry set name='Maha Halasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7ffd65q9/version/100032',longdescription='Maha Halasana',
+        duration='141',type='1',tag='jeeyaho, health tips, yoga, lifestyle',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-11 14:18:07',shortdescription='Maha Halasana',
+        director='Valtute Media Pvt',producer='Valtute Media Pvt',cast='Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_7ffd65q9'
+11/12/2018 14:16:54 | SUCCESS | Save Thumbnail(0_9725lvqb) | By-jeeyaho_ott333 | 
+11/12/2018 09:30:38 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 09:48:45 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 11:30:16 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/12/2018 17:06:31 | SUCCESS | Save New video(0_wu61g7f0) | By-jeeyaho_ott333 | 
+11/12/2018 19:35:56 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

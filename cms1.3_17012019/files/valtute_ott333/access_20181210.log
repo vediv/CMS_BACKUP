@@ -1,0 +1,254 @@
+10/12/2018 00:00:10 | SUCCESS | Updtate MetaData(0_wlivaprb) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 25 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wlivaprb/version/100022',longdescription='Dadri Mela Part 25 Live',
+        duration='62',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:05:30',shortdescription='Dadri Mela Part 25 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_wlivaprb'
+10/12/2018 00:06:51 | SUCCESS | Save New video(0_uzjblwqx) | By-jeeyaho_ott333 | 
+10/12/2018 00:07:31 | SUCCESS | Updtate MetaData(0_vjsn6eyo) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 26 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_vjsn6eyo/version/100022',longdescription='Dadri Mela Part 26 Live',
+        duration='97',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:12:51',shortdescription='Dadri Mela Part 26 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vjsn6eyo'
+10/12/2018 00:12:46 | SUCCESS | Save New video(0_b6o34y9w) | By-jeeyaho_ott333 | 
+10/12/2018 00:15:21 | SUCCESS | Save New video(0_vber3amn) | By-jeeyaho_ott333 | 
+10/12/2018 00:16:04 | SUCCESS | Updtate MetaData(0_uzjblwqx) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 27 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_uzjblwqx/version/100022',longdescription='Dadri Mela Part 27 Live',
+        duration='63',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:21:24',shortdescription='Dadri Mela Part 27 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_uzjblwqx'
+10/12/2018 00:16:43 | SUCCESS | Updtate MetaData(0_b6o34y9w) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 28 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_b6o34y9w/version/100022',longdescription='Dadri Mela Part 28 Live',
+        duration='50',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:22:03',shortdescription='Dadri Mela Part 28 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_b6o34y9w'
+10/12/2018 00:40:39 | SUCCESS | Updtate MetaData(0_vber3amn) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 29 Live',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_vber3amn/version/100022',longdescription='Dadri Mela Part 29 Live',
+        duration='85',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 00:46:00',shortdescription='Dadri Mela Part 29 Live',
+        director='',producer='jeeyaho',cast='',crew='',sub_genre='',
+        language='hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_vber3amn'
+10/12/2018 06:11:28 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+10/12/2018 06:38:36 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+10/12/2018 12:39:02 | SUCCESS | Updtate MetaData(0_vber3amn) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 29 Video Clip ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_vber3amn/version/100022',longdescription='Dadri Mela Part 29 ( Balia) video clip of the live show.',
+        duration='85',type='1',tag='dadri mela, jeeyaho',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 12:44:23',shortdescription='Dadri Mela Part 29 Clip',
+        director='',producer='JeeyaHo',cast='',crew='',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vber3amn'
+10/12/2018 12:43:18 | SUCCESS | Updtate MetaData(0_b6o34y9w) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 28 Video Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_b6o34y9w/version/100022',longdescription='Dadri Mela Part 28 Video Clip held at Balia on 9-Dec 2018',
+        duration='50',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 12:48:39',shortdescription='Dadri Mela Part 28 Video Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Various Artist, Kumar Vishwas',crew='',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_b6o34y9w'
+10/12/2018 12:45:38 | SUCCESS | Updtate MetaData(0_uzjblwqx) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 27 Video Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_uzjblwqx/version/100022',longdescription='Dadri Mela Part 27 Video Clip, held at Balia on 9-Dec 2018.',
+        duration='63',type='1',tag='jeeyaho, dadri mela',category='MUSIC>SPECIAL,MUSIC>REGIONAL',categoryid='500,487',
+        updated_at='2018-12-10 12:50:58',shortdescription='Dadri Mela Part 27 Video Clip',
+        director='',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uzjblwqx'
+10/12/2018 13:08:48 | SUCCESS | Updtate MetaData(0_vjsn6eyo) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 26 Video Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_vjsn6eyo/version/100022',longdescription='Dadri Mela held at Balia on 9-Dec 2018.',
+        duration='97',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 13:14:08',shortdescription='Dadri Mela Part 26 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vjsn6eyo'
+10/12/2018 13:11:41 | SUCCESS | Updtate MetaData(0_wlivaprb) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 25 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wlivaprb/version/100022',longdescription='Dadri Mela Part 28 of the Show held at Balia on 9-Dec 2018',
+        duration='62',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 13:17:02',shortdescription='Dadri Mela Part 25 Video Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wlivaprb'
+10/12/2018 13:12:36 | SUCCESS | Updtate MetaData(0_uzjblwqx) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 27 Video Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_uzjblwqx/version/100022',longdescription='Dadri Mela Part 27 Video Clip, held at Balia on 9-Dec 2018.',
+        duration='63',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 13:17:57',shortdescription='Dadri Mela Part 27 Video Clip',
+        director='',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_uzjblwqx'
+10/12/2018 07:47:20 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+10/12/2018 13:53:18 | SUCCESS | Updtate MetaData(0_bm08m4zh) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 24 Show clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_bm08m4zh/version/100022',longdescription='Dadri Mela Part 24 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='71',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 13:58:38',shortdescription='Dadri Mela Part 24 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_bm08m4zh'
+10/12/2018 14:01:41 | SUCCESS | Save New video(0_ni05nqo8) | By-jeeyaho_ott333 | 
+10/12/2018 14:03:12 | SUCCESS | Save New video(0_fcuaafnu) | By-jeeyaho_ott333 | 
+10/12/2018 14:05:23 | SUCCESS | Save New video(0_hswp1ybr) | By-jeeyaho_ott333 | 
+10/12/2018 14:07:52 | SUCCESS | Save New video(0_wzq0xvmj) | By-jeeyaho_ott333 | 
+10/12/2018 14:09:06 | SUCCESS | Save New video(0_9725lvqb) | By-jeeyaho_ott333 | 
+10/12/2018 14:10:58 | SUCCESS | Save New video(0_jvwahw0i) | By-jeeyaho_ott333 | 
+10/12/2018 14:13:16 | SUCCESS | Save New video(0_0maxuwr2) | By-jeeyaho_ott333 | 
+10/12/2018 14:16:38 | SUCCESS | Save New video(0_8ed8rh7l) | By-jeeyaho_ott333 | 
+10/12/2018 14:42:33 | SUCCESS | Save New video(0_hl3xstla) | By-jeeyaho_ott333 | 
+10/12/2018 14:44:52 | SUCCESS | Save New video(0_f8y35w0h) | By-jeeyaho_ott333 | 
+10/12/2018 15:10:10 | SUCCESS | Updtate MetaData(0_7zctstsg) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 23 Show Clips',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_7zctstsg/version/100022',longdescription='Dadri Mela Part 23 Clip of the Show, held at Balia on 9-Dec 2018',
+        duration='91',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 15:15:31',shortdescription='Dadri Mela Part 23 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_7zctstsg'
+10/12/2018 15:12:39 | SUCCESS | Save New video(0_jo8e7ew9) | By-jeeyaho_ott333 | 
+10/12/2018 15:13:30 | SUCCESS | Updtate MetaData(0_ug777rgo) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 22 Show clip@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ug777rgo/version/100022',longdescription='Dadri Mela Part 22 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='67',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 15:18:51',shortdescription='Dadri Mela Part 22 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_ug777rgo'
+10/12/2018 15:14:02 | SUCCESS | Save New video(0_zr02307d) | By-jeeyaho_ott333 | 
+10/12/2018 15:15:40 | SUCCESS | Save New video(0_yhuulv3u) | By-jeeyaho_ott333 | 
+10/12/2018 15:17:28 | SUCCESS | Updtate MetaData(0_ni05nqo8) | By-jeeyaho_ott333 | update entry set name='Adho Mukha Savanasana ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ni05nqo8/version/100022',longdescription='Adho Mukha Savanasana Most Effective Yoga',
+        duration='143',type='1',tag='yoga, fitness, health, aasana',category='LIFESTYLE>YOGA',categoryid='436',
+        updated_at='2018-12-10 15:22:49',shortdescription='',
+        director='JeeyaHo',producer='JeeyaHo',cast='',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='inactive',custom_data=''
+        where entryid='0_ni05nqo8'
+10/12/2018 15:19:08 | SUCCESS | Updtate MetaData(0_vber3amn) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 29 Video Clip ',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_vber3amn/version/100022',longdescription='Dadri Mela Part 29 ( Balia) video clip of the live show.',
+        duration='85',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 15:24:28',shortdescription='Dadri Mela Part 29 Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_vber3amn'
+10/12/2018 15:22:11 | SUCCESS | Save New video(0_glfagiee) | By-jeeyaho_ott333 | 
+10/12/2018 15:26:33 | SUCCESS | Save New video(0_93apj6f2) | By-jeeyaho_ott333 | 
+10/12/2018 15:29:20 | SUCCESS | Updtate MetaData(0_ssoxbsjc) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 21 Show Clips@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ssoxbsjc/version/100022',longdescription='Dadri Mela Part 21 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='75',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 15:34:41',shortdescription='Dadri Mela Part 21 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_ssoxbsjc'
+10/12/2018 15:37:41 | SUCCESS | Save New video(0_oemth16d) | By-jeeyaho_ott333 | 
+10/12/2018 15:40:18 | SUCCESS | Save New video(0_91goyyut) | By-jeeyaho_ott333 | 
+10/12/2018 15:42:44 | SUCCESS | Save New video(0_4bm9nllz) | By-jeeyaho_ott333 | 
+10/12/2018 15:45:32 | SUCCESS | Save New video(0_fx8utker) | By-jeeyaho_ott333 | 
+10/12/2018 15:48:17 | SUCCESS | Save New video(0_xarwbi2y) | By-jeeyaho_ott333 | 
+10/12/2018 15:51:05 | SUCCESS | Save New video(0_72qiybc3) | By-jeeyaho_ott333 | 
+10/12/2018 15:52:56 | SUCCESS | Updtate MetaData(0_k0hzob5f) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 20 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_k0hzob5f/version/100022',longdescription='Dadri Mela Part 20 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='58',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 15:58:17',shortdescription='Dadri Mela Part 20 Show Clips',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_k0hzob5f'
+10/12/2018 15:53:45 | SUCCESS | Save New video(0_mstlk9ku) | By-jeeyaho_ott333 | 
+10/12/2018 16:04:14 | SUCCESS | Save New video(0_3fipdot4) | By-jeeyaho_ott333 | 
+10/12/2018 16:11:30 | SUCCESS | Save New video(0_zbjlpqls) | By-jeeyaho_ott333 | 
+10/12/2018 16:17:07 | SUCCESS | Save New video(0_pqi93qod) | By-jeeyaho_ott333 | 
+10/12/2018 16:19:50 | SUCCESS | Save New video(0_n3n19jd2) | By-jeeyaho_ott333 | 
+10/12/2018 16:21:08 | SUCCESS | Save New video(0_6gg34c24) | By-jeeyaho_ott333 | 
+10/12/2018 16:23:00 | SUCCESS | Save New video(0_7ffd65q9) | By-jeeyaho_ott333 | 
+10/12/2018 16:24:34 | SUCCESS | Save New video(0_4ecioge9) | By-jeeyaho_ott333 | 
+10/12/2018 16:26:44 | SUCCESS | Save New video(0_ufnwb32v) | By-jeeyaho_ott333 | 
+10/12/2018 17:02:51 | SUCCESS | Updtate MetaData(0_1gciady5) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 19 Show Clips@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_1gciady5/version/100022',longdescription='Dadri Mela Part 19 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='81',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:08:12',shortdescription='Dadri Mela Part 19 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_1gciady5'
+10/12/2018 17:05:09 | SUCCESS | Updtate MetaData(0_thhuwy4m) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 18 Show Clips@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_thhuwy4m/version/100022',longdescription='Dadri Mela Part 18 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='61',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas., show',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:10:30',shortdescription='Dadri Mela Part 18 Show Clip@Balia',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_thhuwy4m'
+10/12/2018 17:06:49 | SUCCESS | Updtate MetaData(0_9ub5w20s) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 17 Show Clip@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_9ub5w20s/version/100022',longdescription='Dadri Mela Part 17 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='38',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas, show balia',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:12:10',shortdescription='Dadri Mela Part 17 Show Clip@Balia',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_9ub5w20s'
+10/12/2018 17:08:16 | SUCCESS | Save New video(0_oqm3mnbo) | By-jeeyaho_ott333 | 
+10/12/2018 17:08:38 | SUCCESS | Updtate MetaData(0_4nvda2ua) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 16 Show clips@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_4nvda2ua/version/100022',longdescription='Dadri Mela Part 16 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='84',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas, show balia',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:13:58',shortdescription='Dadri Mela Part 16 Show Clip@Balia',
+        director='JeeyaHo',producer='JeeyaHo',cast='JeeyaHo',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_4nvda2ua'
+10/12/2018 11:38:56 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+10/12/2018 17:09:03 | SUCCESS | Save New video(0_eu2hc1z2) | By-jeeyaho_ott333 | 
+10/12/2018 17:09:44 | SUCCESS | Save New video(0_kcju8g5z) | By-jeeyaho_ott333 | 
+10/12/2018 17:10:43 | SUCCESS | Updtate MetaData(0_6bqi951z) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 15 Show Clip@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6bqi951z/version/100022',longdescription='Dadri Mela Part 15 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='18',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas, show',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:16:04',shortdescription='Dadri Mela Part 15 Show Clip@Balia',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_6bqi951z'
+10/12/2018 17:14:47 | SUCCESS | Updtate MetaData(0_y0b0fpmg) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 14 Show Clip@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_y0b0fpmg/version/100022',longdescription='Dadri Mela Part 14 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='34',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas, various artist, show balia',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:20:08',shortdescription='Dadri Mela Part 14 Show Clip@Balia',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_y0b0fpmg'
+10/12/2018 17:18:10 | SUCCESS | Updtate MetaData(0_dabslpc0) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 13 Show Clips@Balia',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_dabslpc0/version/100022',longdescription='Dadri Mela Part 13 Clip of Show@Balia 9-Dec 2018',
+        duration='59',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas, show',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:23:30',shortdescription='Dadri Mela Part 13 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_dabslpc0'
+10/12/2018 17:19:39 | SUCCESS | Updtate MetaData(0_5u92a3vq) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 12 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_5u92a3vq/version/100022',longdescription='Dadri Mela Part 12 Clip of Show@Balia 9-Dec 2018',
+        duration='59',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:25:00',shortdescription='Dadri Mela Part 12 Show Clip',
+        director='JeeyaHo',producer='JeeyaHo',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_5u92a3vq'
+10/12/2018 17:21:34 | SUCCESS | Updtate MetaData(0_chmv6bde) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 11 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_chmv6bde/version/100022',longdescription='Dadri Mela Part 11 Clip of Show@Balia 9-Dec 2018',
+        duration='82',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:26:54',shortdescription='Dadri Mela Part 11 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_chmv6bde'
+10/12/2018 17:23:22 | SUCCESS | Updtate MetaData(0_fnut2bnb) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 10 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_fnut2bnb/version/100022',longdescription='Dadri Mela Part 10 Clip of Show@Balia 9-Dec 2018',
+        duration='34',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:28:43',shortdescription='Dadri Mela Part 10 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_fnut2bnb'
+10/12/2018 17:25:49 | SUCCESS | Updtate MetaData(0_jqd23h1v) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 9 Show clips',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_jqd23h1v/version/100022',longdescription='Dadri Mela Part 9 Clip of Show@Balia 9-Dec18',
+        duration='47',type='1',tag='jeeyaho, dadri mela, kumar visvas, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:31:09',shortdescription='Dadri Mela Part 9 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_jqd23h1v'
+10/12/2018 17:36:32 | SUCCESS | Save New video(0_v76szcxo) | By-jeeyaho_ott333 | 
+10/12/2018 17:37:31 | SUCCESS | Updtate MetaData(0_1bnbvkv6) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 8 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_1bnbvkv6/version/100022',longdescription='Dadri Mela Part 8 Clip of the Show@Balia on 9-Dec 2018',
+        duration='52',type='1',tag='jeeyaho, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:42:52',shortdescription='Dadri Mela Part 8 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_1bnbvkv6'
+10/12/2018 17:39:23 | SUCCESS | Updtate MetaData(0_389k6q0r) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 7 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_389k6q0r/version/100022',longdescription='Dadri Mela Part 7 Clip of the Show held at Balia on 9-Dec 2018',
+        duration='52',type='1',tag='jeeyaho, dadri mela, kumar visvas, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:44:44',shortdescription='Dadri Mela Part 7 Show Clip',
+        director='Valttute Media Pvt Ltd',producer='JeeyaHo',cast='Valttute Media Pvt Ltd',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_389k6q0r'
+10/12/2018 17:43:06 | SUCCESS | Updtate MetaData(0_bp5caq0k) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 6 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_bp5caq0k/version/100022',longdescription='Dadri Mela Part 6 Clip of Show@Balia 9-Dec 2018',
+        duration='49',type='1',tag='dadri mela, kumar visvas, jeeyaho, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:48:26',shortdescription='Dadri Mela Part 6 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_bp5caq0k'
+10/12/2018 17:49:24 | SUCCESS | Save New video(0_iti8ng1j) | By-jeeyaho_ott333 | 
+10/12/2018 17:52:17 | SUCCESS | Updtate MetaData(0_6nd1dqeb) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 5 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_6nd1dqeb/version/100022',longdescription='Dadri Mela Part 5 Clip of Show@Balia 9-Dec 2018',
+        duration='65',type='1',tag='jeeyaho, kumar visvas, dadri mela, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 17:57:38',shortdescription='Dadri Mela Part 5 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_6nd1dqeb'
+10/12/2018 17:52:47 | SUCCESS | Save New video(0_08uiu5e2) | By-jeeyaho_ott333 | 
+10/12/2018 18:00:17 | SUCCESS | Save New video(0_aoa02huh) | By-jeeyaho_ott333 | 
+10/12/2018 18:27:08 | SUCCESS | Updtate MetaData(0_wuu3bloz) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 4 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_wuu3bloz/version/100022',longdescription='Dadri Mela Part 4 Clip of Show@Balia 9-Dec 2018',
+        duration='97',type='1',tag='dadri mela, jeeyaho, kumar visvas, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 18:32:29',shortdescription='Dadri Mela Part 4 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artists',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_wuu3bloz'
+10/12/2018 18:29:35 | SUCCESS | Updtate MetaData(0_f41qu7kq) | By-jeeyaho_ott333 | update entry set name='Dadri Mela Part 3 Show Clip',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_f41qu7kq/version/100022',longdescription='Dadri Mela Part 3 Clip of Show@Balia 9-Dec 2018',
+        duration='24',type='1',tag='dadri mela, jeeyaho, kumar visvas, balia 2018, mela, event, kavita, poem, kumar vishwas',category='MUSIC>SPECIAL',categoryid='500',
+        updated_at='2018-12-10 18:34:56',shortdescription='Dadri Mela Part 3 Show Clip',
+        director='Valtute Media Pvt Ltd',producer='Valtute Media Pvt Ltd',cast='Kumar Vishwas and Various Artist',crew='',sub_genre='',
+        language='Hindi',pgrating='UG',video_status='active',custom_data=''
+        where entryid='0_f41qu7kq'

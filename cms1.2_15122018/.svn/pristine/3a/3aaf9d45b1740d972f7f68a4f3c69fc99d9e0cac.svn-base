@@ -1,0 +1,141 @@
+03/08/2018 04:29:55 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 04:39:57 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 10:10:23 | SUCCESS | Save Thumbnail(0_g9779t97) | By-Adosphere_ott488 | 
+03/08/2018 04:42:08 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+03/08/2018 10:14:38 | SUCCESS | Save Thumbnail(0_xwxajp8c) | By-Adosphere_ott488 | 
+03/08/2018 10:16:09 | SUCCESS | Save Thumbnail(0_uofzvhfg) | By-Adosphere_ott488 | 
+03/08/2018 06:29:52 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 12:01:32 | SUCCESS | Save Thumbnail(0_496m2we2) | By-Adosphere_ott488 | 
+03/08/2018 12:05:30 | SUCCESS | Updtate MetaData(0_19gb6x5y) | By-Adosphere_ott488 | update entry set name='Little Miss Muffet  Nursery Rhyme',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_19gb6x5y/version/100012',longdescription='Little Miss Muffet Lyrics -Little Miss Muffet,Sat on a tuffet,Eating of curds and whey,There came a spider,And sat down beside her,And frightened Miss Muffet away',
+        duration='71',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, muffin, poems, miss, muffet, nursery, rhyme, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:09:03',shortdescription='Little Miss Muffet Lyrics -Little Miss Muffet,Sat on a tuffet,Eating of curds and whey,There came a spider,And sat down beside her,And frightened Miss Muffet away',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_19gb6x5y'
+03/08/2018 12:05:53 | SUCCESS | Updtate MetaData(0_azoape6w) | By-Adosphere_ott488 | update entry set name='Row Row Row Your Boat  Nursery Rhyme',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_azoape6w/version/100012',longdescription='Watch Row Row Row Your Boat a nursery rhyme and enjoy with your kid.',
+        duration='122',type='1',tag='kids, cartoon, children, rhyming, series, little, learning, video, animation, animated, telling, listen, class, classes, album, zone, kid, junior, diary, tales, tale, juniors, row, sea, water, poems, boat, nursery, rhyme, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:09:26',shortdescription='Watch Row Row Row Your Boat a nursery rhyme and enjoy with your kid.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_azoape6w'
+03/08/2018 12:08:46 | SUCCESS | Updtate MetaData(0_nyqefqa6) | By-Adosphere_ott488 | update entry set name='Rig a Jig Jig  Popular Rhyme Subtitle',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nyqefqa6/version/100012',longdescription='Watch the video Rig a jig Jig a popular nursery rhyme , kids will enjoy dance and sing along with the video.',
+        duration='68',type='1',tag='kids, kahaniya, cartoon, children, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, rig, jig, popular, english, rhyme, subtitle, rhyming, poems, purple, turtle, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:12:19',shortdescription='Watch the video Rig a jig Jig a popular nursery rhyme , kids will enjoy dance and sing along with the video.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_nyqefqa6'
+03/08/2018 12:09:16 | SUCCESS | Updtate MetaData(0_s9xqbcee) | By-Adosphere_ott488 | update entry set name='Incy Wincy Spider',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_s9xqbcee/version/100012',longdescription='Incy Wincy Spider\r\nLyrics -\r\nIncy wincy spider,\r\nwent up the waterspout,\r\nDown came the rain,\r\nand washed the spider out,\r\nOut came the sun,\r\nand dried up all the rain,\r\nSo incy wincy spider,\r\nwent up the spout again.',
+        duration='77',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, incy, wincy, spider, nursery, rhyme, poems, purple, turtle, english',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:12:49',shortdescription='Watch nursery rhyme Incy Wincy Spider and sing along with the video.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_s9xqbcee'
+03/08/2018 06:56:55 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 12:27:15 | SUCCESS | Save Thumbnail(0_kjpcsq2t) | By-Adosphere_ott488 | 
+03/08/2018 12:27:30 | SUCCESS | Save Thumbnail(0_v4o4yike) | By-Adosphere_ott488 | 
+03/08/2018 12:32:45 | SUCCESS | Save Thumbnail(0_qeex7dlv) | By-Adosphere_ott488 | 
+03/08/2018 12:33:24 | SUCCESS | Updtate MetaData(0_qeex7dlv) | By-Adosphere_ott488 | update entry set name='High quality Street view',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_qeex7dlv/version/100022',longdescription='Watch the traditional third season Autumn where deciduous trees lose their leaves.\r\n',
+        duration='17',type='1',tag='ep2017, tree, leaf, leaves, autumn, street, car, road, bike, third season, trees leaf, lose leaf, street view, street life, places, amazed, visit places, info places, site view, test, ap2018',category='ON DEMAND>AUTOMOBILE>DRIFT,ON DEMAND>AUTOMOBILE>WRENCH',categoryid='195,197',
+        updated_at='2018-08-03 12:36:57',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_qeex7dlv'
+03/08/2018 12:35:18 | SUCCESS | Updtate MetaData(0_5e0hufhk) | By-Adosphere_ott488 | update entry set name='Beautiful Butterfly',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_5e0hufhk/version/100012',longdescription='Watch the beautiful sensitive insect with brightly colorful wings of butterfly.',
+        duration='9',type='1',tag='butterfly, beautiful, colors, colorful, insects, butter, fly, amazing, amazing world, nature, natural, nature view, color, senstive, senstive insects, wings, colorfull wings, arthopoda, catterpiller, polymorpic, lay eggs, moth, moth butterflies, flying, flies, test, aw2018',category='ON DEMAND>ANIMALS>TINY FLY',categoryid='199',
+        updated_at='2018-08-03 12:38:51',shortdescription='Watch the beautiful sensitive insect with brightly colorful wings of butterfly.',
+        director='',producer='',cast='',crew='',sub_genre='Insects',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_5e0hufhk'
+03/08/2018 12:39:01 | SUCCESS | Updtate MetaData(0_nkjtzljz) | By-Adosphere_ott488 | update entry set name='Turai Chana Dal ki sabzi',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nkjtzljz/version/100002',longdescription='Turai (Gilki) Chana Dal Ki Sabzi Hindi recipe video by chef Shaheen.The video will make you learn the easy way to prepare Turai Dal Ki Sabzi.',
+        duration='296',type='1',tag='shaheen khan, shaheen recipes, chef shaheen khan, chef shaheen, cooking episodes by shaheen khan, cooking recipes, indian cooking recipes, home made recipes, shaheen kitchen, chef shaheen khan kitchen, indian turai ki sabzi, recipe for turai ki sabzi, torai, torai ki sabzi, torai ki sabzi in hindi, tori ki sabzi, tori ki sabzi recipe in hindi, tori recipe, tori sabzi, tori sabzi recipe, turai, turai gilki chana dal sabzi, turai ki sabzi, turai ki sabzi in hindi, turai ki sabzi pakistani recipes, turai ki sabzi recipe, turai ki sabzi recipe in hindi, turai recipe, turai recipe in hindi, turai sabzi, turai sabzi recipe, turai (gilki) chana dal ki sabzi hindi recipe video by chef shaheen, ridge gourd, gourd, green vegetable, dal, pulses, yellow dal, cb2018',category='ON DEMAND>COOKING>KITCHEN STORIES',categoryid='289',
+        updated_at='2018-08-03 12:42:34',shortdescription='Turai (Gilki) Chana Dal Ki Sabzi Hindi recipe video by chef Shaheen.The video will make you learn the easy way to prepare Turai Dal Ki Sabzi.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Main Course',
+        language='Hindi',pgrating='PG13',video_status='active',custom_data=''
+        where entryid='0_nkjtzljz'
+03/08/2018 12:40:21 | SUCCESS | Updtate MetaData(0_yjytm284) | By-Adosphere_ott488 | update entry set name='Hickory Dickory Dock',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_yjytm284/version/100012',longdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        duration='68',type='1',tag='kids, kahaniya, cartoon, children, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, hickory, dickory, dock, nursery, rhymes, for, poems, purple, turtle',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:43:54',shortdescription='Watch Hickory Dickory Dock kids nursery rhyme with lyrics :-Hickory Dickory dock,The clock struck one,The mouse ran down,Hickory dickory dock.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_yjytm284'
+03/08/2018 12:41:22 | SUCCESS | Updtate MetaData(0_cix4xnv3) | By-Adosphere_ott488 | update entry set name='Here we go around the Mulberry Bush',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cix4xnv3/version/100012',longdescription='Watch and sing along with the lovable morning rhyme, Here we go around the mulberry bush.',
+        duration='64',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, mulberry, bush, nursery, rhyme, poems, purple, turtle, english',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:44:54',shortdescription='Watch and sing along with the lovable morning rhyme,Here We Go Around the Mulberry Bush.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_cix4xnv3'
+03/08/2018 12:41:50 | SUCCESS | Updtate MetaData(0_ymuh13so) | By-Adosphere_ott488 | update entry set name='BINGO | Learning Alphabets',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ymuh13so/version/100012',longdescription='Bingo is a spelling song for kids. In this rhyme, Bingo is the name of a dog and the same verse goes around the spelling B-I-N-G-O.',
+        duration='123',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, bingo, alphabets, poems, rhyme, purple, turtle, english',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-08-03 12:45:23',shortdescription='Bingo is a spelling song for kids. In this rhyme, Bingo is the name of a dog and the same verse goes around the spelling B-I-N-G-O.',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_ymuh13so'
+03/08/2018 12:42:15 | SUCCESS | Updtate MetaData(0_3data994) | By-Adosphere_ott488 | update entry set name='Old Mac Donald Had a Farm ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_3data994/version/100012',longdescription='Old MacDonald Had A Farm Nursery Rhyme \r\nLyrics-\r\nOld MacDonald had a farm,E I E I O,\r\nAnd on his farm he had some chicks,E I E I O.\r\nWith a chick chick here and a chick chick there,\r\nHere a chick, there a chick, everywhere a chick chick.\r\nOld MacDonald had a farm,E I E I O.',
+        duration='129',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, old, mac, donald, farm, english, nursery, rhyme, poems, garden, purple, turtle',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:45:48',shortdescription='Watch the video of Old MacDonald had a farm nursery rhyme ',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_3data994'
+03/08/2018 12:42:50 | SUCCESS | Updtate MetaData(0_64rlvhaw) | By-Adosphere_ott488 | update entry set name='Jingle Bell Jingle Bell',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_64rlvhaw/version/100012',longdescription='Christmas Carol Lyrics - Dashing through the snow,\r\nIn a one-horse open sleigh,\r\nOver the fields we go,\r\nLaughing all the way,\r\nBells on bobtail ring,\r\nMaking spirits bright,\r\nWhat fun it is to ride and sing,\r\nA sleighing song tonight',
+        duration='120',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, jingle, bells, bell, most, popular, christmas, carol, rhyme, poems, purple, turtle, english',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:46:22',shortdescription='Watch nursery rhyme - Christmas Carol',
+        director='',producer='',cast='',crew='',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_64rlvhaw'
+03/08/2018 12:43:28 | SUCCESS | Updtate MetaData(0_fbptpm4v) | By-Adosphere_ott488 | update entry set name='5 Little Turtle Jumping on the bed with lyrics',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_fbptpm4v/version/100012',longdescription='Watch the learning video of six Little kids Turtle Jumping on the bed , one fall down bump his head .The most popular nursery rhyme let kids dance and sing along with the video.',
+        duration='69',type='1',tag='kids, cartoon, children, moral, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, zone, junior, diary, tales, tale, juniors, turtle, jumping, jump, bed, english, lyrics, poems, purple, aadarsh, tr2018',category='ON DEMAND>KIDS>LEARNING',categoryid='222',
+        updated_at='2018-08-03 12:47:00',shortdescription='Watch the learning video for kids 6 Little Turtle Jumping on the bed , one fall down bump his head .The most popular nursery rhyme let kids dance and sing along with the video.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_fbptpm4v'
+03/08/2018 12:46:36 | SUCCESS | Updtate MetaData(0_uangqrxs) | By-Adosphere_ott488 | update entry set name='Hot Cross Buns ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_uangqrxs/version/100012',longdescription='Watch \' Hot Cross Buns \' is a fun rhyme and you can sing with your kids.',
+        duration='69',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, hot, cross, buns, traditional, nursery, rhyme, poems, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:50:09',shortdescription='Watch Hot Cross Buns is a fun rhyme to sing with your kids.This yummy traditional nursery rhyme which will make your little ones smile.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_uangqrxs'
+03/08/2018 12:47:10 | SUCCESS | Updtate MetaData(0_cix4xnv3) | By-Adosphere_ott488 | update entry set name='Here we go around the Mulberry Bush',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cix4xnv3/version/100012',longdescription='Watch and sing along with the lovable morning rhyme, Here we go around the mulberry bush.',
+        duration='64',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, mulberry, bush, nursery, rhyme, poems, purple, turtle, english, tr2018',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:50:43',shortdescription='Watch and sing along with the lovable morning rhyme,Here We Go Around the Mulberry Bush.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_cix4xnv3'
+03/08/2018 12:47:30 | SUCCESS | Updtate MetaData(0_cix4xnv3) | By-Adosphere_ott488 | update entry set name='Here we go around the Mulberry Bush',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_cix4xnv3/version/100012',longdescription='Watch and sing along with the lovable morning rhyme, Here we go around the mulberry bush.',
+        duration='64',type='1',tag='kids, cartoon, children, rhyming, series, little, kid, learning, video, animation, animated, telling, listen, class, classes, album, junior, diary, tales, tale, juniors, mulberry, bush, nursery, rhyme, poems, purple, turtle, english',category='ON DEMAND>KIDS>NURSERY RHYMES',categoryid='221',
+        updated_at='2018-08-03 12:51:02',shortdescription='Watch and sing along with the lovable morning rhyme,Here We Go Around the Mulberry Bush.',
+        director='NULL',producer='NULL',cast='NULL',crew='NULL',sub_genre='Juniors',
+        language='English',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_cix4xnv3'
+03/08/2018 12:57:12 | SUCCESS | Updtate MetaData(0_ccedku3u) | By-Adosphere_ott488 | update entry set name='Underwater adventurous sport - Scub',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ccedku3u/version/100022',longdescription='Watch amazing adventurous underwater extreme sport scuba diving.',
+        duration='7',type='1',tag='under sea, marine undersea, marine park, natural reefs, undersea life, water living, silent evolition, aquatic life, human undersea, atlantic ocean, near atlantic ocean museum, marine biomass, amazingnews, amazing stort, ocean, test, aw2018',category='ON DEMAND>INFOTAINMENT>AMAZING WORLD',categoryid='204',
+        updated_at='2018-08-03 13:00:44',shortdescription='Watch amazing adventurous underwater extreme sport scuba diving.',
+        director='',producer='',cast='',crew='',sub_genre='Underwater Diving',
+        language='',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_ccedku3u'
+03/08/2018 13:12:24 | SUCCESS | Add New Slider Image(C:\fakepath\carousel movies.jpg) | By-Adosphere_ott488 | 
+03/08/2018 13:12:36 | SUCCESS | Slider image active(SliderID:122,Status:active) | By-Adosphere_ott488 | 
+03/08/2018 13:22:43 | SUCCESS | Slider image inactive(SliderID:122,Status:inactive) | By-Adosphere_ott488 | 
+03/08/2018 14:00:46 | SUCCESS | Slider image active(SliderID:122,Status:active) | By-Adosphere_ott488 | 
+03/08/2018 14:01:07 | SUCCESS | Slider image inactive(SliderID:122,Status:inactive) | By-Adosphere_ott488 | 
+03/08/2018 14:01:10 | SUCCESS | Delete slider Image (122) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='122'
+03/08/2018 08:52:44 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 09:52:57 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 15:23:06 | SUCCESS | Slider image inactive(SliderID:116,Status:inactive) | By-Adosphere_ott488 | 
+03/08/2018 15:31:45 | SUCCESS | Add New Slider Image(C:\fakepath\food carousel.jpg) | By-Adosphere_ott488 | 
+03/08/2018 15:33:34 | SUCCESS | Slider image active(SliderID:123,Status:active) | By-Adosphere_ott488 | 
+03/08/2018 15:37:12 | SUCCESS | update Slider Detail(0_fkpdul0u,'') | By-Adosphere_ott488 | 
+03/08/2018 15:39:43 | SUCCESS | Add New Slider Image(C:\fakepath\ make up.jpg) | By-Adosphere_ott488 | 
+03/08/2018 15:40:38 | SUCCESS | update Slider Detail(0_fu13so2i,'') | By-Adosphere_ott488 | 
+03/08/2018 15:40:50 | SUCCESS | Slider priority Set | By-Adosphere_ott488 | 
+03/08/2018 15:40:56 | SUCCESS | Slider image active(SliderID:124,Status:active) | By-Adosphere_ott488 | 
+03/08/2018 10:46:45 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/08/2018 16:17:43 | SUCCESS | Add New Slider Image(C:\fakepath\kids.jpg) | By-Adosphere_ott488 | 
+03/08/2018 16:17:51 | SUCCESS | Slider image active(SliderID:125,Status:active) | By-Adosphere_ott488 | 
+03/08/2018 16:18:35 | SUCCESS | Slider image inactive(SliderID:125,Status:inactive) | By-Adosphere_ott488 | 
+03/08/2018 16:18:38 | SUCCESS | Delete slider Image (125) | By-Adosphere_ott488 | delete from slider_image_detail where img_id='125'
+03/08/2018 16:19:02 | SUCCESS | Add New Slider Image(C:\fakepath\kids 3.jpg) | By-Adosphere_ott488 | 
+03/08/2018 16:19:09 | SUCCESS | Slider image active(SliderID:126,Status:active) | By-Adosphere_ott488 | 
+03/08/2018 16:50:21 | SUCCESS | Save Thumbnail(0_kfwqxesv) | By-Adosphere_ott488 | 
+03/08/2018 11:57:15 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+03/08/2018 17:27:56 | SUCCESS | update Slider Detail(0_5wk79thi,'') | By-Geetanjali_ott488 | 
+03/08/2018 12:45:19 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

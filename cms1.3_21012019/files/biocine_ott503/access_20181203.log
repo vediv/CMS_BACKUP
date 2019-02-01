@@ -1,0 +1,12 @@
+03/12/2018 04:45:47 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 10:42:33 | SUCCESS | Add New Slider Image(C:\fakepath\baneer6.jpg) | By-Biocine_ott503 | 
+03/12/2018 05:20:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 10:58:16 | SUCCESS | Save New video using UCG(0_8nza3t60) | By-Biocine_ott503 | 
+03/12/2018 11:17:31 | SUCCESS | delete Category(533) | By-Biocine_ott503 | DELETE FROM categories where category_id='534' and parent_id='533'
+03/12/2018 11:17:35 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+03/12/2018 05:48:36 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 06:03:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 10:07:26 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 10:07:27 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 10:16:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/12/2018 10:28:07 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

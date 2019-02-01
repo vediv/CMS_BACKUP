@@ -1,0 +1,138 @@
+-- MySQL dump 10.13  Distrib 5.6.37, for Linux (x86_64)
+--
+-- Host: 192.168.100.118    Database: ott_publisher
+-- ------------------------------------------------------
+-- Server version	5.6.37
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `cdn_details`
+--
+
+DROP TABLE IF EXISTS `cdn_details`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `cdn_details` (
+  `host` varchar(40) DEFAULT NULL,
+  `username` varchar(20) DEFAULT NULL,
+  `password` varchar(50) DEFAULT NULL,
+  `cpcode` varchar(10) DEFAULT NULL,
+  `publisherID` varchar(10) DEFAULT NULL,
+  `cdnDIR` varchar(20) DEFAULT NULL,
+  `cdnURL` varchar(100) DEFAULT NULL,
+  `cdn_alias` varchar(20) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `cdn_details`
+--
+
+LOCK TABLES `cdn_details` WRITE;
+/*!40000 ALTER TABLE `cdn_details` DISABLE KEYS */;
+INSERT INTO `cdn_details` VALUES ('planetcast.upload.akamai.com','planetcast','cloud10.0','450496','ott025','pitaara/content/','http://cdnpitaara.planetcast.in',NULL),('planetcast.upload.akamai.com','planetcast','cloud10.0','450496','ott955','pitaara/content/','http://cdnpitaara.planetcast.in','pitaara');
+/*!40000 ALTER TABLE `cdn_details` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `menus`
+--
+
+DROP TABLE IF EXISTS `menus`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `menus` (
+  `mid` int(11) NOT NULL AUTO_INCREMENT,
+  `mname` varchar(45) DEFAULT NULL,
+  `menu_url` varchar(255) DEFAULT NULL,
+  `mparentid` int(11) DEFAULT NULL,
+  `mstatus` enum('0','1') DEFAULT NULL,
+  `created_at` datetime DEFAULT NULL,
+  `updated_at` datetime DEFAULT NULL,
+  `multilevel` enum('0','1') DEFAULT '0',
+  `child_id` varchar(255) DEFAULT NULL,
+  `icon_class` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`mid`)
+) ENGINE=MyISAM AUTO_INCREMENT=33 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `menus`
+--
+
+LOCK TABLES `menus` WRITE;
+/*!40000 ALTER TABLE `menus` DISABLE KEYS */;
+INSERT INTO `menus` VALUES (1,'vod','#',0,'1','2017-06-05 14:49:21',NULL,'1','2,3,29','fa-film'),(2,'video on demand','media_content.php',1,'1','2017-06-05 14:57:32',NULL,'0',NULL,'fa-circle-o'),(3,'bulk upload','bulk_upload.php',1,'1','2017-06-05 15:03:47',NULL,'0',NULL,'fa-circle-o'),(4,'live','live_channel_content.php',0,'1','2017-06-05 15:08:33',NULL,'0',NULL,'fa-video-camera'),(5,'Category','category_content.php',0,'1','2017-06-05 15:09:50',NULL,'0',NULL,'fa-list-alt'),(6,'Content Partner','content_partner.php',0,'1','2017-06-05 15:10:55',NULL,'0',NULL,'fa-pencil-square-o'),(7,'User List','user_list.php',0,'1','2017-06-05 15:11:51',NULL,'0',NULL,'fa-users'),(8,'Plan','planDetail.php',0,'1','2017-06-05 15:12:56',NULL,'0',NULL,'fa-usd'),(9,'Home Setting','home_setting.php',0,'1','2017-06-05 15:13:57',NULL,'0',NULL,'fa-home'),(10,'Slider Images','slider-images.php',0,'1','2017-06-05 15:14:47',NULL,'0',NULL,'fa-picture-o'),(11,'Analytics','#',0,'1','2017-06-05 15:15:39',NULL,'1','12,13,14,15,16,26','fa-line-chart'),(12,'User','user_detail.php',11,'0','2017-06-05 15:16:38',NULL,'0',NULL,'fa-circle-o'),(13,'Session','session_graph.php',11,'0','2017-06-05 15:18:57',NULL,'0',NULL,'fa-circle-o'),(14,'Age','age_graph.php',11,'0','2017-06-05 15:20:00',NULL,'0',NULL,'fa-circle-o'),(15,'Gender','gender_graph.php',11,'0','2017-06-05 15:20:51',NULL,'0',NULL,'fa-circle-o'),(16,'Comparision','comparision.php',11,'1','2017-06-05 15:22:21',NULL,'0',NULL,'fa-circle-o'),(17,'Create Template','#',0,'1','2017-06-05 15:23:32',NULL,'1','18,19','fa-file-code-o'),(18,'Create New Template','createTemplate.php',17,'1','2017-06-05 15:24:26',NULL,'0',NULL,'fa-circle-o'),(19,'Template List','createTemplatelist.php',17,'1','2017-06-05 15:24:57',NULL,'0',NULL,'fa-circle-o'),(20,'Notification','#',0,'1','2017-06-05 15:25:39',NULL,'1','21,22','fa-bell'),(21,'Send Notification','notification.php',20,'1','2017-06-05 15:26:08',NULL,'0',NULL,'fa-circle-o'),(22,'Notification List','notificationlist.php',20,'1','2017-06-05 15:26:39',NULL,'0',NULL,'fa-circle-o'),(23,'Setting','#',0,'1','2017-06-05 15:29:23',NULL,'1','24,25,30,31,32','fa-cog'),(24,'Footer Content','footer_content.php',23,'1','2017-06-05 15:30:23',NULL,'0',NULL,'fa fa-th'),(25,'Menu Setting','menu_setting.php',23,'1','2017-06-05 15:31:31',NULL,'0',NULL,'fa-circle-o'),(26,'Show analytics','analytics_all.php',11,'1','2017-06-17 13:39:40',NULL,'0',NULL,'fa-circle-o'),(28,'adsense','adsense.php',0,'1','2017-06-17 13:41:34',NULL,'0',NULL,'fa-line-chart'),(29,'Youtube Video','youtube_content.php',1,'1','2017-07-13 13:46:18',NULL,'0',NULL,'fa-circle-o'),(30,'header content','header_content.php',23,'1','2017-07-13 13:47:31',NULL,'0',NULL,'fa-circle-o'),(31,'config setting','config_setting.php',23,'1','2017-07-28 18:00:15',NULL,'0',NULL,'fa-circle-o'),(32,'mail config','mail_config.php',23,'1','2017-07-28 18:00:57',NULL,'0',NULL,'fa-circle-o');
+/*!40000 ALTER TABLE `menus` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `publisher`
+--
+
+DROP TABLE IF EXISTS `publisher`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `publisher` (
+  `par_id` int(11) NOT NULL AUTO_INCREMENT,
+  `partner_id` int(11) DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `duser_id` varchar(255) DEFAULT NULL,
+  `email` varchar(255) DEFAULT NULL,
+  `company` varchar(255) DEFAULT NULL,
+  `admin_secret` varchar(255) DEFAULT NULL,
+  `service_url` varchar(255) DEFAULT NULL,
+  `publisher_pass` varchar(255) DEFAULT NULL,
+  `pstatus` varchar(255) DEFAULT NULL,
+  `created_at` varchar(255) DEFAULT NULL,
+  `updated_at` varchar(255) DEFAULT NULL,
+  `acess_level` varchar(5) DEFAULT NULL,
+  `parentid` int(11) DEFAULT NULL,
+  `addedby` varchar(255) DEFAULT NULL,
+  `dbName` varchar(255) DEFAULT NULL,
+  `dbHostName` varchar(255) DEFAULT NULL,
+  `dbUserName` varchar(255) DEFAULT NULL,
+  `dbpassword` varchar(255) DEFAULT NULL,
+  `publisherID` varchar(45) DEFAULT NULL,
+  `kalturadburl` varchar(50) DEFAULT NULL,
+  `kalturadbuser` varchar(20) DEFAULT NULL,
+  `kalturadbpasswd` varchar(50) DEFAULT NULL,
+  `firebase_serverkey` varchar(256) DEFAULT NULL,
+  `cdnURL` varchar(45) DEFAULT NULL,
+  `publisher_token` varchar(20) DEFAULT NULL,
+  `cdn_backend` varchar(256) DEFAULT NULL,
+  `cms_front` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`par_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=87 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `publisher`
+--
+
+LOCK TABLES `publisher` WRITE;
+/*!40000 ALTER TABLE `publisher` DISABLE KEYS */;
+INSERT INTO `publisher` VALUES (1,1,'Super Admin','superadmin','admin@planetc.net','Adore',NULL,NULL,'Planet@571#','1','2017-05-20 12:20:44',NULL,'s',0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),(85,103,'pitaara',NULL,'pitaaratv@gmail.com','pitaara','486d6245457dc287cf7c0d3c5d6e6b55','http://pitaara-a.planetcast.in','Pitaara@admin','1','2017-08-20 15:13:39','2017-08-20 15:13:39','p',0,'1','pitaara_ott955','dbhost.local','mycloud','MYcloud','ott955','dbhost.local','mycloud','MYcloud','AAAANcRRWzM:APA91bHgNE-CTNXndYwisqVbS60zm8njm9pKYU3uCMHnrwUYfbDwJcUU1jM7IdobpKfdl7Ano92nPwKQt5jlVR16iro1ipdDoTjkbZ_NC0beclrGBKdgqJWmgtEkgAKO2fz5zuL3W0n2','http://cdnpitaara.planetcast.in','9b3ba42b576089c319de','http://pitaara-web.planetcast.in','http://pitaara-a.planetcast.in'),(86,101,'varun',NULL,'varunv.sw@planetc.net','PMSL','d6ce7559b7fe347bcd4ca4e5970fde0d','http://ott.planetcast.in','cloud10.0','1','2017-08-21 11:42:21','2017-08-21 11:42:21','p',0,'1','varun_ott025','dbhost.local','mycloud','MYcloud','ott025','dbhost.local','mycloud','MYcloud',NULL,'cdnpitaara.planetcast.in',NULL,NULL,NULL);
+/*!40000 ALTER TABLE `publisher` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2017-08-23 17:34:15

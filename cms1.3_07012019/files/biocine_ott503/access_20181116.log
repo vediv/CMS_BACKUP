@@ -1,0 +1,88 @@
+16/11/2018 12:05:00 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/11/2018 18:33:03 | SUCCESS | Save New video(0_5us5cziw) | By-Biocine_ott503 | 
+16/11/2018 18:33:56 | SUCCESS | Delete Video entry(0_uqjrn5mv) | By-Biocine_ott503 | 
+16/11/2018 18:33:57 | SUCCESS | Delete Video entry(0_56l1nh8v) | By-Biocine_ott503 | 
+16/11/2018 18:33:57 | SUCCESS | Delete Video entry(0_d4zjkcz7) | By-Biocine_ott503 | 
+16/11/2018 13:42:41 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+16/11/2018 19:16:56 | SUCCESS | Updtate MetaData(0_5us5cziw) | By-Biocine_ott503 | update entry set name='Leave Together | Promo |  Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5us5cziw/version/100002',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='91',type='1',tag='promo, leave, together, anang deshai, mithu, web series, hindi',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 19:21:58',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5us5cziw'
+16/11/2018 19:59:35 | SUCCESS | Save Thumbnail(0_5us5cziw) | By-Biocine_ott503 | 
+16/11/2018 20:00:19 | SUCCESS | Delete Video entry(0_m803knua) | By-Biocine_ott503 | 
+16/11/2018 20:01:26 | SUCCESS | Updtate MetaData(0_5us5cziw) | By-Biocine_ott503 | update entry set name='Leave Together | Promo |  Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5us5cziw/version/100012',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='91',type='1',tag='promo, leave, together, anang deshai, mithu, web series, hindi, comedy, love story, sex, romantic',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 20:06:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5us5cziw'
+16/11/2018 20:01:38 | SUCCESS | Save Access Control(0_5us5cziw) | By-Biocine_ott503 | 
+16/11/2018 20:05:23 | SUCCESS | Updtate MetaData(0_5us5cziw) | By-Biocine_ott503 | update entry set name='Leave Together | Promo |  Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5us5cziw/version/100012',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='91',type='1',tag='promo, leave, together, anang deshai, mithu, web series, hindi, comedy, love story, sex, romantic',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 20:10:25',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5us5cziw'
+16/11/2018 20:07:32 | SUCCESS | Updtate MetaData(0_5us5cziw) | By-Biocine_ott503 | update entry set name='Leave Together|Promo| Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5us5cziw/version/100012',longdescription='Here we are presenting  promo of Hindi Web Series \'LEAVE TOGETHER\'. Starring with Anang Deshai , Mithu Chakraborty, Ankita Roy, Rajdeep Hira, Kavita Banerjee, and others. Directed By Joydip Banerjee.\r\n-------------------------------------------------------------\r\nLEAVE TOGETHER\r\n\r\nWritten by\r\nSoumit Deb\r\n\r\nSeries co created by\r\nSoumit Deb \r\n& Joydip Banerjee\r\n\r\nDirected by\r\nJoydip Banerjee\r\n \r\nDOP\r\nAmlan Saha\r\n\r\nEditor\r\nPabitra Jana\r\n\r\nStarring\r\nAnang Deshai\r\nMithu Chakraborty\r\nAnkita Roy\r\nRajdeep Hira\r\nKavita Banerjee & Others\r\n \r\nCreative Producer\r\nSoumyajit Ganguly \r\n& Rakes Gupata \r\n\r\nProduced by\r\nColumbaas Digiplex  \r\n \r\nProduction Controller\r\nKousick Mondal\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='91',type='1',tag='promo, leave, together, anang deshai, mithu, web series, hindi, comedy, love story, sex, romantic',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 20:12:34',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Hindi',pgrating='',video_status='active',custom_data=''
+        where entryid='0_5us5cziw'
+16/11/2018 20:08:20 | SUCCESS | Updtate MetaData(0_a6uqzo0d) | By-Biocine_ott503 | update entry set name='Mishmi | Promo | Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_a6uqzo0d/version/100012',longdescription='we are presenting promo of Bengali Web Series \'MISHMI\'. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..',
+        duration='125',type='1',tag='mishmi, promo, web series, sumedha dutta, shaan, pulakita, jeeo, guru, app, bengali, latest, hit, new release',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 20:13:22',shortdescription='This story based on a Heroine\'s ups & down life style.',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='Bengali',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_a6uqzo0d'
+16/11/2018 20:10:30 | SUCCESS | Delete Video entry(0_a6uqzo0d) | By-Biocine_ott503 | 
+16/11/2018 21:08:25 | SUCCESS | Save Thumbnail(0_5us5cziw) | By-Biocine_ott503 | 
+16/11/2018 21:31:11 | SUCCESS | Save New video(0_weyz55wh) | By-Biocine_ott503 | 
+16/11/2018 21:53:51 | SUCCESS | Slider image inactive(SliderID:18,Status:inactive) | By-Biocine_ott503 | 
+16/11/2018 21:53:53 | SUCCESS | Delete slider Image (18) | By-Biocine_ott503 | delete from slider_image_detail where img_id='18'
+16/11/2018 21:59:55 | SUCCESS | Add New Slider Image(C:\fakepath\LT PROMO BANNER.jpg) | By-Biocine_ott503 | 
+16/11/2018 22:00:02 | SUCCESS | Slider image active(SliderID:19,Status:active) | By-Biocine_ott503 | 
+16/11/2018 22:00:47 | SUCCESS | update Slider Detail(0_5us5cziw,'WATCH NOW LEAVE TOGETHER PROMO') | By-Biocine_ott503 | 
+16/11/2018 22:01:12 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+16/11/2018 22:01:46 | SUCCESS | Slider image inactive(SliderID:19,Status:inactive) | By-Biocine_ott503 | 
+16/11/2018 22:01:49 | SUCCESS | Delete slider Image (19) | By-Biocine_ott503 | delete from slider_image_detail where img_id='19'
+16/11/2018 22:02:03 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+16/11/2018 22:02:47 | SUCCESS | Save Thumbnail(0_weyz55wh) | By-Biocine_ott503 | 
+16/11/2018 22:03:07 | SUCCESS | Save Access Control(0_weyz55wh) | By-Biocine_ott503 | 
+16/11/2018 22:03:16 | SUCCESS | Updtate MetaData(0_weyz55wh) | By-Biocine_ott503 | update entry set name='Mishmi | Promo | Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_weyz55wh/version/100012',longdescription='we are presenting promo of Bengali Web Series \'MISHMI\'. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..',
+        duration='125',type='1',tag='mismi, celebrity, promo, web series, bengali, short, film, shaan, sumedha, pulakita, jeeo guru, hot bengali, sex',category='',categoryid='',
+        updated_at='2018-11-16 22:08:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_weyz55wh'
+16/11/2018 22:03:37 | SUCCESS | Save Age Restriction(0_weyz55wh,UA) | By-Biocine_ott503 | 
+16/11/2018 22:04:35 | SUCCESS | Updtate MetaData(0_weyz55wh) | By-Biocine_ott503 | update entry set name='Mishmi | Promo | Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_weyz55wh/version/100012',longdescription='we are presenting promo of Bengali Web Series \'MISHMI\'. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..',
+        duration='125',type='1',tag='mismi, celebrity, promo, web series, bengali, short, film, shaan, sumedha, pulakita, jeeo guru, hot bengali, sex',category='',categoryid='',
+        updated_at='2018-11-16 22:09:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_weyz55wh'
+16/11/2018 22:05:44 | SUCCESS | Updtate MetaData(0_weyz55wh) | By-Biocine_ott503 | update entry set name='Mishmi | Promo | Jeeo Guru',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_weyz55wh/version/100012',longdescription='we are presenting promo of Bengali Web Series \'MISHMI\'. Starring with Shaan, Sumedha, Soupayan, Pulakita, and others. Directed By Soumyajit Ganguly.\r\n-------------------------------------------------------------------\r\nMISHMI\r\n\r\nStory , Script & Direction\r\nSoumyajit Ganguly \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nShaan\r\nSumedha\r\nSoupayan\r\nPulakita\r\nSudip & others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduction Controller\r\nKousick Mondal\r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nLocation Courtesy\r\nGovt of Thailand\r\nLocal authority of Phi Phi Island\r\n\r\nStreaming only on Jeeoguru apps..',
+        duration='125',type='1',tag='mismi, celebrity, promo, web series, bengali, short, film, shaan, sumedha, pulakita, jeeo guru, hot bengali, sex',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 22:10:46',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_weyz55wh'
+16/11/2018 22:12:27 | SUCCESS | Delete Video entry(0_izk59xg2) | By-Biocine_ott503 | 
+16/11/2018 22:12:44 | SUCCESS | Delete Video entry(0_k8wo5hue) | By-Biocine_ott503 | 
+16/11/2018 22:30:07 | SUCCESS | Save New video(0_u8cvf68c) | By-Biocine_ott503 | 
+16/11/2018 22:40:28 | SUCCESS | Updtate MetaData(0_u8cvf68c) | By-Biocine_ott503 | update entry set name='Baby & Babu | Promo | JEEO GURU',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_u8cvf68c/version/100002',longdescription='Here we are presenting PROMO of Bengali Web Series \'BABY & BABU\'. Starring with Amitabh , Meghna Haldar , Prosun , Ankita , Subrata Guha Roy , Moumita Gupta , Sarmistha & Others . Directed By Soumyajit Ganguly.\r\n------------------------------------------------------------\r\nBABY & BABU\r\n\r\nStory & Script\r\nSubhamay Biswas \r\n\r\nDirection\r\nSoumyajit Ganguly \r\n\r\nAssociated Director\r\nSabyasachi Mandal \r\n\r\nCreative Director\r\nSudip Chakraborty\r\n& Jit Chakraborty ( Song) \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nAmitabh \r\nMeghna Haldar\r\nProsun\r\nAnkita\r\nSubrata Guha Roy\r\nMoumita Gupta\r\nSarmistha & Others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nProduction Controller\r\nKousick Mondal ( Kolkata )\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='120',type='1',tag='baby, babu',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 22:45:30',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='DRAMA',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_u8cvf68c'
+16/11/2018 22:40:57 | SUCCESS | Save Thumbnail(0_u8cvf68c) | By-Biocine_ott503 | 
+16/11/2018 22:41:14 | SUCCESS | Updtate MetaData(0_u8cvf68c) | By-Biocine_ott503 | update entry set name='Baby & Babu | Promo | JEEO GURU',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_u8cvf68c/version/100012',longdescription='Here we are presenting PROMO of Bengali Web Series \'BABY & BABU\'. Starring with Amitabh , Meghna Haldar , Prosun , Ankita , Subrata Guha Roy , Moumita Gupta , Sarmistha & Others . Directed By Soumyajit Ganguly.\r\n------------------------------------------------------------\r\nBABY & BABU\r\n\r\nStory & Script\r\nSubhamay Biswas \r\n\r\nDirection\r\nSoumyajit Ganguly \r\n\r\nAssociated Director\r\nSabyasachi Mandal \r\n\r\nCreative Director\r\nSudip Chakraborty\r\n& Jit Chakraborty ( Song) \r\n\r\nDOP\r\nChayan Karmakar \r\n\r\nStarring\r\nAmitabh \r\nMeghna Haldar\r\nProsun\r\nAnkita\r\nSubrata Guha Roy\r\nMoumita Gupta\r\nSarmistha & Others \r\n\r\nCreative Producer\r\nRakes Gupta \r\n\r\nExecutive Producer\r\nRupak Majumdar \r\n\r\nProduced by\r\nColumbaas Digiplex \r\n\r\nProduction Controller\r\nKousick Mondal ( Kolkata )\r\n\r\nStreaming only on Jeeoguru apps',
+        duration='120',type='1',tag='baby, babu',category='ORIGINALS>WEB SERIES',categoryid='295',
+        updated_at='2018-11-16 22:46:16',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='DRAMA',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_u8cvf68c'

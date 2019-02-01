@@ -1,0 +1,7 @@
+20/10/2018 09:11:55 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/10/2018 14:42:29 | SUCCESS | Save Bulk Plan(0_kjx1jm5d,0_3ze6ayaw,1) | By-Biocine_ott503 | update entry set ispremium='1',type='1',status='2' where entryid='0_3ze6ayaw'
+20/10/2018 14:42:50 | SUCCESS | Header Menu active(HeaderID:37,Status:active) | By-Biocine_ott503 | 
+20/10/2018 14:42:59 | SUCCESS | Header Menu active(HeaderID:42,Status:active) | By-Biocine_ott503 | 
+20/10/2018 09:37:15 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+20/10/2018 15:08:32 | SUCCESS | Save currency_data(0_3ze6ayaw) | By-Biocine_ott503 | 
+20/10/2018 15:28:13 | SUCCESS | Header Menu inactive(HeaderID:37,Status:inactive) | By-Biocine_ott503 | 

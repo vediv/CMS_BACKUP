@@ -1,0 +1,10 @@
+25/10/2018 05:16:47 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+25/10/2018 05:25:55 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+25/10/2018 06:01:16 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+25/10/2018 11:33:33 | SUCCESS | delete Category(530) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='530'
+25/10/2018 11:33:41 | SUCCESS | delete Category(532) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='532'
+25/10/2018 11:33:46 | SUCCESS | delete Category(531) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='531'
+25/10/2018 11:34:03 | SUCCESS | delete Category(529) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='529'
+25/10/2018 11:34:09 | SUCCESS | delete Category(528) | By-jeeyaho_ott333 | DELETE FROM categories where category_id='528'
+25/10/2018 06:04:22 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+25/10/2018 11:12:49 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 

@@ -1,0 +1,43 @@
+30/03/2018 17:00:08 | SUCCESS | Add New Header Content(HOME) | By-Pitara_ott811 | 
+30/03/2018 17:10:15 | SUCCESS | Add New Header Content(LIVE TV) | By-Pitara_ott811 | 
+30/03/2018 17:10:38 | SUCCESS | Add New Header Content(INACTIVE) | By-Pitara_ott811 | 
+30/03/2018 17:13:40 | SUCCESS | Add New Header Content(HOME) | By-Pitara_ott811 | 
+30/03/2018 17:14:04 | SUCCESS | Add New Header Content(LIVE TV) | By-Pitara_ott811 | 
+30/03/2018 17:14:09 | SUCCESS | Add New Header Content(CONTACT US) | By-Pitara_ott811 | 
+30/03/2018 17:14:16 | SUCCESS | Add New Header Content(POLLYWOOD) | By-Pitara_ott811 | 
+30/03/2018 17:16:46 | SUCCESS | Add New Header Content(003) | By-Pitara_ott811 | 
+30/03/2018 17:29:46 | SUCCESS | Delete Menu Header (5) | By-Pitara_ott811 | DELETE FROM header_menu WHERE hid='5'
+30/03/2018 17:29:54 | SUCCESS | Add New Header Content(SHOWS) | By-Pitara_ott811 | 
+30/03/2018 17:42:51 | SUCCESS | Header Menu 0(HeaderID:6,Status:1) | By-Pitara_ott811 | 
+30/03/2018 17:43:09 | SUCCESS | Header Menu 1(HeaderID:6,Status:0) | By-Pitara_ott811 | 
+30/03/2018 17:43:13 | SUCCESS | Header Menu 0(HeaderID:6,Status:
+
+
+
+1
+) | By-Pitara_ott811 | 
+30/03/2018 17:43:56 | SUCCESS | Header Menu 1(HeaderID:6,Status:0) | By-Pitara_ott811 | 
+30/03/2018 17:44:27 | SUCCESS | Header Menu 0(HeaderID:6,Status:
+
+
+
+1
+) | By-Pitara_ott811 | 
+30/03/2018 17:46:09 | SUCCESS | Header Menu 1(HeaderID:6,Status:0) | By-Pitara_ott811 | 
+30/03/2018 17:46:11 | SUCCESS | Header Menu 0(HeaderID:6,Status:
+
+
+
+1
+) | By-Pitara_ott811 | 
+30/03/2018 17:46:13 | SUCCESS | Header Menu 1(HeaderID:1,Status:0) | By-Pitara_ott811 | 
+30/03/2018 17:46:15 | SUCCESS | Header Menu 0(HeaderID:1,Status:
+
+
+
+1
+) | By-Pitara_ott811 | 
+30/03/2018 17:49:31 | SUCCESS | Header Menu active(HeaderID:6,Status:active) | By-Pitara_ott811 | 
+30/03/2018 17:49:33 | SUCCESS | Header Menu inactive(HeaderID:6,Status:inactive) | By-Pitara_ott811 | 
+30/03/2018 17:49:52 | SUCCESS | Header Menu active(HeaderID:6,Status:active) | By-Pitara_ott811 | 
+30/03/2018 17:49:54 | SUCCESS | Header Menu active(HeaderID:4,Status:active) | By-Pitara_ott811 | 

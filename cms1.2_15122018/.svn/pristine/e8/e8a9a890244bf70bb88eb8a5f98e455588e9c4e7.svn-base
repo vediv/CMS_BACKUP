@@ -1,0 +1,35 @@
+22/12/2017 12:19:51 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 12:23:39 | SUCCESS | Sync Category | By-Test_ott025 | 
+22/12/2017 12:24:14 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 12:44:46 | SUCCESS | Delete Video entry(0_ok8pthj9) | By-Test_ott025 | 
+22/12/2017 12:44:50 | SUCCESS | Delete Video entry(0_biyttkz7) | By-Test_ott025 | 
+22/12/2017 12:44:54 | SUCCESS | Delete Video entry(0_idd4m89n) | By-Test_ott025 | 
+22/12/2017 12:51:10 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 12:51:44 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 12:52:59 | SUCCESS | Delete Video entry(0_2dlz3cd5) | By-varun_ott025 | 
+22/12/2017 13:01:07 | SUCCESS | Delete Video entry(0_rz50zdgf) | By-varun_ott025 | 
+22/12/2017 13:06:36 | SUCCESS | Delete Video entry(0_cmwjvtfl) | By-varun_ott025 | 
+22/12/2017 14:13:09 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 14:26:09 | SUCCESS | Delete Video entry(0_0hfa8v6j) | By-varun_ott025 | 
+22/12/2017 14:26:12 | SUCCESS | Delete Video entry(0_h8d94906) | By-varun_ott025 | 
+22/12/2017 14:26:16 | SUCCESS | Delete Video entry(0_w1ykowtg) | By-varun_ott025 | 
+22/12/2017 14:48:18 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 14:52:07 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 14:53:10 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 14:56:37 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 14:56:43 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 15:02:52 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 15:04:21 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 15:13:20 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 15:13:27 | SUCCESS | delete Category(173) | By-varun_ott025 | DELETE FROM categories where category_id='173'
+22/12/2017 15:13:29 | SUCCESS | delete Category(171) | By-varun_ott025 | DELETE FROM categories where category_id='171'
+22/12/2017 15:13:32 | SUCCESS | delete Category(170) | By-varun_ott025 | DELETE FROM categories where category_id='170'
+22/12/2017 15:13:35 | SUCCESS | delete Category(150) | By-varun_ott025 | DELETE FROM categories where category_id='150'
+22/12/2017 15:13:38 | SUCCESS | delete Category(149) | By-varun_ott025 | DELETE FROM categories where category_id='149'
+22/12/2017 15:21:10 | SUCCESS | Update Category(BEYOND) | By-varun_ott025 | update categories set cat_name='BEYOND',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>BEYOND' where category_id='144'
+22/12/2017 15:21:12 | SUCCESS | Update Category(BEYOND) | By-varun_ott025 | update categories set cat_name='BEYOND',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>BEYOND' where category_id='144'
+22/12/2017 15:21:13 | SUCCESS | Update Category(BEYOND) | By-varun_ott025 | update categories set cat_name='BEYOND',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>BEYOND' where category_id='144'
+22/12/2017 15:21:19 | SUCCESS | Update Category(BEYOND1) | By-varun_ott025 | update categories set cat_name='BEYOND1',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>BEYOND1' where category_id='144'
+22/12/2017 15:21:24 | SUCCESS | Sync Category | By-varun_ott025 | 
+22/12/2017 15:21:34 | SUCCESS | Update Category(BEYOND) | By-varun_ott025 | update categories set cat_name='BEYOND',description='',tags='',fullname='ON DEMAND>AUTOMOBILES>BEYOND' where category_id='144'
+22/12/2017 15:21:39 | SUCCESS | Sync Category | By-varun_ott025 | 

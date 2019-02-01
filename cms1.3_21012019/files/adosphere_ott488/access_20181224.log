@@ -1,0 +1,20 @@
+24/12/2018 06:28:20 | SUCCESS | login-(Ravindra) | By-Ravindra_ott488 | 
+24/12/2018 11:58:47 | SUCCESS | Updtate MetaData(0_nbhe9o9p) | By-Ravindra_ott488 | update entry set name='En Jeevan Paduthu',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_nbhe9o9p/version/100022',longdescription='Watch this popular tamil language indian feature film directed by R.Sundarrajan starring Karthik and Saranya',
+        duration='7694',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, en jeevan paduthu',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-12-24 12:04:18',shortdescription='Watch this popular tamil language indian feature film directed by R.Sundarrajan starring Karthik and Saranya',
+        director='R.Sundarrajan',producer='Panchu Arunachalam',cast='Karthik,Saranya',crew='NULL',sub_genre='Drama',
+        language='Tamil',pgrating='U',video_status='active',custom_data=''
+        where entryid='0_nbhe9o9p'
+24/12/2018 12:01:22 | SUCCESS | Updtate MetaData(0_wewf9l4n) | By-Ravindra_ott488 | update entry set name='Enga Ooru Kavalkaran',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_wewf9l4n/version/100012',longdescription='Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.',
+        duration='7767',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, tollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, ramarajan, gouthami, m.n.nambiar, t.p.gajendran, enga, ooru, gajendran, kavalkaran, enga ooru kavakkaran',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-12-24 12:06:50',shortdescription='Watch this Indian Tamil film which is directed by T.P.Gajendran starring Ramarajan,Gouthami,M.N.Nambiar are in lead roles.',
+        director='T.P.Gajendran',producer='Kalyani Murugan',cast='Ramarajan,Gouthami,M.N.Nambiar',crew='',sub_genre='Drama',
+        language='Tamil',pgrating='',video_status='active',custom_data=''
+        where entryid='0_wewf9l4n'
+24/12/2018 12:04:30 | SUCCESS | Updtate MetaData(0_t75bs2yv) | By-Ravindra_ott488 | update entry set name='Kan Simittum Neram',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_t75bs2yv/version/100012',longdescription='Watch this thriller film which is directed by Kalaivanan Kannadasan starring with Karthik,Ambika,R.Sarathkumar',
+        duration='8184',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, suspense, karthik, ambika, r.sarathkumar, kan, simittum, neram, v.s.narasimman, kartik, kann simittum neram',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-12-24 12:10:01',shortdescription='Watch this thriller film which is directed by Kalaivanan Kannadasan starring with Karthik,Ambika,R.Sarathkumar',
+        director='V.S.Narasimman',producer='R.Sarathkumar,M.Santhanam',cast='Karthik,Ambika,R.Sarathkumar',crew='',sub_genre='Thriller ',
+        language='Tamil',pgrating='',video_status='active',custom_data=''
+        where entryid='0_t75bs2yv'
+24/12/2018 11:58:33 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

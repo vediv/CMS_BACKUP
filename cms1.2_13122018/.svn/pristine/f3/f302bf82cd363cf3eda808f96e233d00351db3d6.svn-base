@@ -1,0 +1,61 @@
+17/07/2018 04:23:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 04:25:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 06:34:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 06:37:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 06:40:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 12:35:03 | SUCCESS | update Pay per View(6) | By-Biocine_ott503 | 
+17/07/2018 12:36:03 | SUCCESS | Save Content Partner(0_l75wl3gn,) | By-Biocine_ott503 | 
+17/07/2018 12:38:16 | SUCCESS | update GST(gst) | By-Biocine_ott503 | 
+17/07/2018 12:38:30 | SUCCESS | update Pay per View(2) | By-Biocine_ott503 | 
+17/07/2018 08:12:53 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 14:08:01 | SUCCESS | Save Thumbnail(0_12adzb8k) | By-Biocine_ott503 | 
+17/07/2018 14:20:09 | SUCCESS | Updtate MetaData(0_12adzb8k) | By-Biocine_ott503 | update entry set name='SampleVideo_1280x720_5mb.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_12adzb8k/version/100032',longdescription='',
+        duration='30',type='1',tag='',category='ORIGINALS,ORIGINALS>WEB SERIES,ORIGINALS>FOOD',categoryid='294,295,296',
+        updated_at='2018-07-17 14:23:28',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_12adzb8k'
+17/07/2018 09:26:22 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 09:26:40 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 15:12:36 | SUCCESS | Sync Category | By-Biocine_ott503 | 
+17/07/2018 15:17:44 | SUCCESS | update Dashboard user(contentid) | By-Biocine_ott503 | 
+17/07/2018 15:18:05 | SUCCESS | Add New HomeSettingTag(test) | By-Biocine_ott503 | 
+17/07/2018 15:18:16 | SUCCESS | Home Setting active(HomeID:13,Status:active) | By-Biocine_ott503 | 
+17/07/2018 09:48:54 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 15:26:51 | SUCCESS | update Slider Detail(0_0d40d66y,'Testing') | By-Biocine_ott503 | 
+17/07/2018 15:31:39 | SUCCESS | Slider image inactive(SliderID:7,Status:inactive) | By-Biocine_ott503 | 
+17/07/2018 15:31:59 | SUCCESS | Slider image active(SliderID:7,Status:active) | By-Biocine_ott503 | 
+17/07/2018 15:32:17 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+17/07/2018 15:34:01 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+17/07/2018 15:34:24 | SUCCESS | Slider image active(SliderID:9,Status:active) | By-Biocine_ott503 | 
+17/07/2018 15:49:00 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+17/07/2018 15:49:13 | SUCCESS | update Dashboard user(five) | By-Biocine_ott503 | 
+17/07/2018 15:50:26 | SUCCESS | Add New Dashboard user (sss) | By-Biocine_ott503 | 
+17/07/2018 10:21:43 | SUCCESS | login-(sss) | By-sss_ott503 | 
+17/07/2018 15:54:30 | SUCCESS | Add New Dashboard user (Madhvi) | By-Biocine_ott503 | 
+17/07/2018 10:24:46 | SUCCESS | login-(Madhvi) | By-Madhvi_ott503 | 
+17/07/2018 10:25:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 10:33:18 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 16:13:15 | SUCCESS | Register User inactive(UserID:425,Status:inactive) | By-Biocine_ott503 | 
+17/07/2018 10:43:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 16:14:37 | SUCCESS | Register User active(UserID:425,Status:active) | By-Biocine_ott503 | 
+17/07/2018 16:30:39 | SUCCESS | update Slider Detail(,'Nice CAR') | By-Biocine_ott503 | 
+17/07/2018 16:30:59 | SUCCESS | update Slider Detail(,'Nice CAR\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n') | By-Biocine_ott503 | 
+17/07/2018 16:31:14 | SUCCESS | update Slider Detail(,'Nice CAR\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\ndd\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nddddddddddddd') | By-Biocine_ott503 | 
+17/07/2018 16:31:33 | SUCCESS | update Slider Detail(,'NICE CAR\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\ndd\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nddddddddddddd') | By-Biocine_ott503 | 
+17/07/2018 16:33:18 | SUCCESS | Updtate MetaData(0_4dvug9iw) | By-Biocine_ott503 | update entry set name='Puppy - 4740.mp4_CP1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dvug9iw/version/100042',longdescription='sdasdgfhgj',
+        duration='15',type='1',tag='puupy, dog',category='BAZAAR',categoryid='313',
+        updated_at='2018-07-17 16:36:37',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_4dvug9iw'
+17/07/2018 16:47:53 | SUCCESS | Plan inactive(planID:p939,Status:inactive) | By-Biocine_ott503 | 
+17/07/2018 16:47:55 | SUCCESS | Plan active(planID:p939,Status:active) | By-Biocine_ott503 | 
+17/07/2018 11:22:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 16:52:55 | SUCCESS | Add New HomeSettingTag(Recomm) | By-Biocine_ott503 | 
+17/07/2018 17:05:31 | SUCCESS | Save currency_data(0_12adzb8k) | By-Biocine_ott503 | 
+17/07/2018 17:09:09 | SUCCESS | Save currency_data(0_12adzb8k) | By-Biocine_ott503 | 
+17/07/2018 17:36:39 | SUCCESS | Save Content Partner(0_12adzb8k,) | By-Biocine_ott503 | 
+17/07/2018 17:46:46 | SUCCESS | Save Age Restriction(0_12adzb8k,A) | By-Biocine_ott503 | 
+17/07/2018 13:17:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/07/2018 18:58:29 | SUCCESS | update Dashboard user(biocinetest) | By-Biocine_ott503 | 

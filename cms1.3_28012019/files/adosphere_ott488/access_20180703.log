@@ -1,0 +1,26 @@
+03/07/2018 04:19:47 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+03/07/2018 04:40:37 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/07/2018 11:05:12 | SUCCESS | Bulk Add Content Viewer(Array,NC16) | By-Geetanjali_ott488 | 
+03/07/2018 11:12:34 | SUCCESS | Delete Video entry(0_vo3q24bp) | By-Geetanjali_ott488 | 
+03/07/2018 12:09:16 | SUCCESS | Save Content Viewer Rating(0_ahaqql7t,NC16) | By-Geetanjali_ott488 | 
+03/07/2018 12:09:36 | SUCCESS | Updtate MetaData(0_ahaqql7t) | By-Geetanjali_ott488 | update entry set name='Veera',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_ahaqql7t/version/100002',longdescription='Rajinikanth falls in love with a girl who teach him about music.On one day, huge cyclone destroyed girl\'s house and Rajinikanth believe that girl is dead.He goes to the city and marry another woman but his first love is still alive.',
+        duration='9707',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, bollywood, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, tamil, classic, veera',category='MOVIES>FULL MOVIES>TAMIL',categoryid='228',
+        updated_at='2018-07-03 12:12:43',shortdescription='Rajinikanth falls in love with a girl who teach him about music.',
+        director='Suresh Krissna',producer='Meena Panchu Arunachalam',cast='Rajinikanth,Meena,Roja,Senthil',crew='',sub_genre='Action',
+        language='Tamil',pgrating='',video_status='active',puser_id='',custom_data=''
+        where entryid='0_ahaqql7t'
+03/07/2018 12:27:26 | SUCCESS | Save Content Viewer Rating(0_wewf9l4n,NC16) | By-Geetanjali_ott488 | 
+03/07/2018 12:41:34 | SUCCESS | Save Content Viewer Rating(0_bgqiw9he,NC16) | By-Geetanjali_ott488 | 
+03/07/2018 12:41:56 | SUCCESS | Updtate MetaData(0_bgqiw9he) | By-Geetanjali_ott488 | update entry set name='The City ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_bgqiw9he/version/100002',longdescription='Watch The City Telugu movie starring Suresh Gopi,Urvashi, Lalu Alex.',
+        duration='8502',type='1',tag='full, length, movie, movies, romantic, latest, action, love, interesting, indian, cinema, superstar, superhits, comedy, actor, actress, most, favorite, film, famous, best, regional, classic, suspense, tollywood, south, telugu, city, suresh, gopi, urvashi, lalu, alex, surish, lallu',category='MOVIES>FULL MOVIES>TELUGU',categoryid='229',
+        updated_at='2018-07-03 12:45:03',shortdescription='Watch The City Telugu movie starring Suresh Gopi,Urvashi, Lalu Alex.',
+        director='I.V.Shashi',producer='Lavanya ',cast='Suresh Gopi,Urvashi, Lalu Alex',crew='',sub_genre='Action,Drama',
+        language='Telugu',pgrating='',video_status='active',puser_id='',custom_data=''
+        where entryid='0_bgqiw9he'
+03/07/2018 14:15:20 | SUCCESS | Delete Video entry(0_hnp728xg) | By-Adosphere_ott488 | 
+03/07/2018 15:17:00 | SUCCESS | Save Content Viewer Rating(0_f0i5vmr8,PG13) | By-Adosphere_ott488 | 
+03/07/2018 15:17:41 | SUCCESS | Bulk Add Content Viewer(Array,PG13) | By-Adosphere_ott488 | 
+03/07/2018 10:15:42 | SUCCESS | login-(Ados) | By-Ados_ott488 | 
+03/07/2018 10:51:06 | SUCCESS | login-(Ados) | By-Ados_ott488 | 
+03/07/2018 12:36:44 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+03/07/2018 13:22:26 | SUCCESS | login-(Ados) | By-Ados_ott488 | 

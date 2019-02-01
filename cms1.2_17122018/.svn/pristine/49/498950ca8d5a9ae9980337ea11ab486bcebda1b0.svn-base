@@ -1,0 +1,62 @@
+13/07/2018 04:14:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 04:43:25 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 10:36:14 | SUCCESS | Add New Plan (test) | By-Biocine_ott503 | 
+13/07/2018 10:47:46 | SUCCESS | Add New Plan (plan name) | By-Biocine_ott503 | 
+13/07/2018 05:55:23 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 05:55:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 11:28:48 | SUCCESS | Delete Plan (p402) | By-Biocine_ott503 | delete from plandetail where planID='p402'
+13/07/2018 11:29:27 | SUCCESS | Add New Plan (Quarter) | By-Biocine_ott503 | 
+13/07/2018 11:30:22 | SUCCESS | Save Age Restriction(0_4dvug9iw,A) | By-Biocine_ott503 | 
+13/07/2018 11:30:44 | SUCCESS | Save Age Restriction(0_l75wl3gn,UA) | By-Biocine_ott503 | 
+13/07/2018 11:31:04 | SUCCESS | Header Menu inactive(Country Currency:1,Status:0) | By-Biocine_ott503 | 
+13/07/2018 11:31:06 | SUCCESS | Header Menu active(Country Currency:1,Status:1) | By-Biocine_ott503 | 
+13/07/2018 11:31:27 | SUCCESS | Header Menu inactive(Country Currency:1,Status:0) | By-Biocine_ott503 | 
+13/07/2018 11:32:24 | SUCCESS | Header Menu active(Country Currency:1,Status:1) | By-Biocine_ott503 | 
+13/07/2018 11:34:41 | SUCCESS | Header Menu inactive(Country Currency:1,Status:0) | By-Biocine_ott503 | 
+13/07/2018 11:36:58 | SUCCESS | Header Menu inactive(Country Currency:1,Status:0) | By-Biocine_ott503 | 
+13/07/2018 11:37:26 | SUCCESS | Header Menu active(Country Currency:1,Status:1) | By-Biocine_ott503 | 
+13/07/2018 11:56:29 | SUCCESS | Add New HomeSettingTag(test) | By-Biocine_ott503 | 
+13/07/2018 11:56:37 | SUCCESS | Delete HomeSettingTag (3) | By-Biocine_ott503 | delete from home_title_tag where tags_id='3'
+13/07/2018 11:57:33 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+13/07/2018 11:59:39 | SUCCESS | Add New HomeSettingTag(HomeTagName) | By-Biocine_ott503 | 
+13/07/2018 12:09:29 | SUCCESS | Delete HomeSettingTag (5) | By-Biocine_ott503 | delete from home_title_tag where tags_id='5'
+13/07/2018 12:09:53 | SUCCESS | Add New HomeSettingTag(asa) | By-Biocine_ott503 | 
+13/07/2018 12:10:01 | SUCCESS | Delete HomeSettingTag (6) | By-Biocine_ott503 | delete from home_title_tag where tags_id='6'
+13/07/2018 12:10:12 | SUCCESS | Add New HomeSettingTag(asa asas) | By-Biocine_ott503 | 
+13/07/2018 12:10:17 | SUCCESS | Delete HomeSettingTag (7) | By-Biocine_ott503 | delete from home_title_tag where tags_id='7'
+13/07/2018 12:25:18 | SUCCESS | Add New Plan (Quarter) | By-Biocine_ott503 | 
+13/07/2018 07:07:04 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 12:38:57 | SUCCESS | Add New Plan (Quarter) | By-Biocine_ott503 | 
+13/07/2018 12:50:20 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '399','300','1','110','TestName','LIVE>TestName','300>399','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+13/07/2018 08:57:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 14:28:21 | SUCCESS | Save currency_data(0_12adzb8k) | By-Biocine_ott503 | 
+13/07/2018 14:28:49 | SUCCESS | Save currency_data(0_l75wl3gn) | By-Biocine_ott503 | 
+13/07/2018 14:30:48 | SUCCESS | Save currency_data(0_4wc2nq2m) | By-Biocine_ott503 | 
+13/07/2018 14:33:00 | SUCCESS | Save currency_data(0_4wc2nq2m) | By-Biocine_ott503 | 
+13/07/2018 14:34:07 | SUCCESS | Save currency_data(0_ux31yq4c) | By-Biocine_ott503 | 
+13/07/2018 14:34:47 | SUCCESS | Save currency_data(0_ux31yq4c) | By-Biocine_ott503 | 
+13/07/2018 14:36:38 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+13/07/2018 09:07:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 14:37:09 | SUCCESS | Save currency_data(0_55bqo6ga) | By-Biocine_ott503 | 
+13/07/2018 09:12:02 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 09:33:42 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 09:34:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 09:35:09 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 15:15:33 | SUCCESS | delete Category(402) | By-Biocine_ott503 | DELETE FROM categories where category_id='402'
+13/07/2018 15:27:21 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '404','300','1','110','TestName','LIVE>TestName','300>404','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+13/07/2018 15:29:04 | SUCCESS | delete Category(404) | By-Biocine_ott503 | DELETE FROM categories where category_id='404'
+13/07/2018 15:32:46 | SUCCESS | Create New Category(TestName) | By-Biocine_ott503 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '405','300','1','110','TestName','LIVE>TestName','300>405','0','0','TEstDescription','',NOW(),Now(),'104',ifnull(max(priority),0)+1,'0' from categories
+13/07/2018 15:55:13 | SUCCESS | Add New HomeSettingTag(x) | By-Biocine_ott503 | 
+13/07/2018 15:55:36 | SUCCESS | update HomeSettingTag Detail(5) | By-Biocine_ott503 | 
+13/07/2018 15:55:41 | SUCCESS | Home Setting active(HomeID:10,Status:active) | By-Biocine_ott503 | 
+13/07/2018 10:25:50 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+13/07/2018 15:58:04 | SUCCESS | Home Setting priority Set | By-Biocine_ott503 | 
+13/07/2018 15:59:57 | SUCCESS | Add New HomeSettingTag(#test_23) | By-Biocine_ott503 | 
+13/07/2018 16:00:08 | SUCCESS | update HomeSettingTag Detail(#test_23) | By-Biocine_ott503 | 
+13/07/2018 16:00:16 | SUCCESS | Home Setting active(HomeID:11,Status:active) | By-Biocine_ott503 | 
+13/07/2018 16:02:50 | SUCCESS | Home Setting active(HomeID:8,Status:active) | By-Biocine_ott503 | 
+13/07/2018 16:14:40 | SUCCESS | Delete Coupon Delete (15) | By-Biocine_ott503 | delete from coupon where coupon_id='15'
+13/07/2018 10:55:12 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

@@ -1,0 +1,35 @@
+11/10/2018 04:12:34 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/10/2018 05:45:00 | SUCCESS | login-(jeeyaho) | By-jeeyaho_ott333 | 
+11/10/2018 12:39:50 | SUCCESS | Create New Category(HEALTH 1) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '524','522','1','113','HEALTH 1','LIFESTYLE -1>HEALTH 1','522>524','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+11/10/2018 12:40:27 | SUCCESS | Create New Category(DEIT 1) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '525','522','1','113','DEIT 1','LIFESTYLE -1>DEIT 1','522>525','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+11/10/2018 12:43:06 | SUCCESS | Create New Category(BEAUTY 1) | By-jeeyaho_ott333 | insert into categories(category_id,parent_id,dept,partner_id,cat_name,fullname,fullids,entry_count,direct_sub_categories_count,description,tags,created_at,updated_at,duser_id,priority,direct_entries_count) 
+Select '526','522','1','113','BEAUTY 1','LIFESTYLE -1>BEAUTY 1','522>526','0','0','','',NOW(),Now(),'173',ifnull(max(priority),0)+1,'0' from categories
+11/10/2018 14:35:30 | SUCCESS | Save New video(0_ykvr6w41) | By-jeeyaho_ott333 | 
+11/10/2018 14:37:19 | SUCCESS | Updtate MetaData(0_ykvr6w41) | By-jeeyaho_ott333 | update entry set name='MASTI_BLANK_ASTON_1.mov',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ykvr6w41/version/100002',longdescription='',
+        duration='8',type='1',tag='',category='LIFESTYLE -1',categoryid='522',
+        updated_at='2018-10-11 14:41:50',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ykvr6w41'
+11/10/2018 14:38:56 | SUCCESS | Updtate MetaData(0_ykvr6w41) | By-jeeyaho_ott333 | update entry set name='MASTI_BLANK_ASTON_1.mov',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ykvr6w41/version/100012',longdescription='',
+        duration='8',type='1',tag='',category='LIFESTYLE -1',categoryid='522',
+        updated_at='2018-10-11 14:43:27',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ykvr6w41'
+11/10/2018 14:39:16 | SUCCESS | Updtate MetaData(0_ykvr6w41) | By-jeeyaho_ott333 | update entry set name='MASTI_BLANK_ASTON_1.mov',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_ykvr6w41/version/100012',longdescription='',
+        duration='8',type='1',tag='',category='LIFESTYLE -1,LIFESTYLE -1>YOGA 1',categoryid='522,523',
+        updated_at='2018-10-11 14:43:47',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_ykvr6w41'
+11/10/2018 14:40:10 | SUCCESS | Updtate MetaData(0_abx88c7r) | By-jeeyaho_ott333 | update entry set name='ASTONHD.MOV',thumbnail='http://ott.planetcast.in/p/113/sp/11300/thumbnail/entry_id/0_abx88c7r/version/100012',longdescription='song',
+        duration='19',type='1',tag='',category='LIFESTYLE -1,LIFESTYLE -1>YOGA 1',categoryid='522,523',
+        updated_at='2018-10-11 14:44:41',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_abx88c7r'
+11/10/2018 15:46:16 | SUCCESS | update Header Content Detail(LIFESTYLE 1) | By-jeeyaho_ott333 | 
+11/10/2018 15:46:32 | SUCCESS | update Header Content Detail(LIFESTYLE 1) | By-jeeyaho_ott333 | 

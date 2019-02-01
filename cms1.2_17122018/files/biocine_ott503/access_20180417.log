@@ -1,0 +1,18 @@
+17/04/2018 10:15:10 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+17/04/2018 15:49:56 | SUCCESS | Save Plan(0_56l1nh8v,1) | By-Biocine_ott503 | 
+17/04/2018 15:50:28 | SUCCESS | Save Plan(0_56l1nh8v,0) | By-Biocine_ott503 | 
+17/04/2018 15:51:22 | SUCCESS | Save Access Control(0_56l1nh8v) | By-Biocine_ott503 | 
+17/04/2018 15:52:15 | SUCCESS | Save currency_data(0_56l1nh8v) | By-Biocine_ott503 | 
+17/04/2018 15:53:07 | SUCCESS | Updtate MetaData(0_56l1nh8v) | By-Biocine_ott503 | update entry set name='Festival Celebrations | Crackers',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_56l1nh8v/version/100012',longdescription='Watch festival celebrated with crackers.',
+        duration='18',type='1',tag='festival, cracker, celebration, celebrate',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>MUSIC,MOVIES>CLASSIC,MOVIES>THRILLER,MOVIES>ROMANTIC,MOVIES>COMEDY,MUSIC>ORIGINAL,MUSIC>ORIGINAL>POP MUSIC,MUSIC>FILM>CLASSIC,MUSIC>FILM>HIP HOP',categoryid='295,296,299,302,303,304,306,309,314,316,318',
+        updated_at='2018-04-17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data='{"actor":"ajay devgan","music dir":"pritam"}'
+        where entryid='0_56l1nh8v'
+17/04/2018 16:01:46 | SUCCESS | Save Access Control(0_56l1nh8v) | By-Biocine_ott503 | 
+17/04/2018 17:35:19 | SUCCESS | Updtate MetaData(0_vwcyrmth) | By-Biocine_ott503 | update entry set name='Ancient Holy ancient Church',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_vwcyrmth/version/100072',longdescription='Watch ancient holy ancient church.',
+        duration='14',type='1',tag='triumphal, arch, ancient, holy, places',category='KIDS,ORIGINALS>SHORT FILMS,MOVIES>THRILLER,MOVIES>HORROR,MOVIES>ACTION,MUSIC>ORIGINAL>SHOCK STUDIO,ORIGINALS>WEB SERIES,ORIGINALS>MUSIC,MUSIC>ORIGINAL>CONTEMPORY MUSIC,MUSIC>FILM>ROMANTIC,MUSIC>FILM>ROCK',categoryid='312,297,303,305,307,310,295,299,315,317,319',
+        updated_at='2018-04-17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_vwcyrmth'

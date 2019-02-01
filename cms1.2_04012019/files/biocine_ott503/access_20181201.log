@@ -1,0 +1,122 @@
+01/12/2018 09:31:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+01/12/2018 15:51:06 | SUCCESS | Updtate MetaData(0_2iv5vmrz) | By-Biocine_ott503 | update entry set name='The Rebirth (Punorjanmo) ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2iv5vmrz/version/100002',longdescription='',
+        duration='1331',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 15:56:21',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2iv5vmrz'
+01/12/2018 15:57:28 | SUCCESS | Save Thumbnail(0_2iv5vmrz) | By-Biocine_ott503 | 
+01/12/2018 15:58:20 | SUCCESS | Updtate MetaData(0_2xmujst9) | By-Biocine_ott503 | update entry set name=' ARDHANTAR',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_2xmujst9/version/100002',longdescription='',
+        duration='975',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 16:03:35',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='Drama',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_2xmujst9'
+01/12/2018 16:13:05 | SUCCESS | Save Thumbnail(0_2xmujst9) | By-Biocine_ott503 | 
+01/12/2018 16:14:05 | SUCCESS | Updtate MetaData(0_ztw2arx1) | By-Biocine_ott503 | update entry set name='The Chase',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_ztw2arx1/version/100002',longdescription='',
+        duration='355',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 16:19:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_ztw2arx1'
+01/12/2018 16:14:37 | SUCCESS | Save Thumbnail(0_ztw2arx1) | By-Biocine_ott503 | 
+01/12/2018 16:20:35 | SUCCESS | Save Thumbnail(0_ztw2arx1) | By-Biocine_ott503 | 
+01/12/2018 16:38:04 | SUCCESS | Updtate MetaData(0_tvbd7gqw) | By-Biocine_ott503 | update entry set name=' ISHARA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_tvbd7gqw/version/100002',longdescription='',
+        duration='600',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 16:43:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_tvbd7gqw'
+01/12/2018 16:42:28 | SUCCESS | Save Thumbnail(0_tvbd7gqw) | By-Biocine_ott503 | 
+01/12/2018 16:43:04 | SUCCESS | Updtate MetaData(0_z2ftdwfs) | By-Biocine_ott503 | update entry set name=' Work in Progress',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_z2ftdwfs/version/100002',longdescription='',
+        duration='748',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 16:48:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_z2ftdwfs'
+01/12/2018 17:00:09 | SUCCESS | Updtate MetaData(0_7m35n8yv) | By-Biocine_ott503 | update entry set name='THE WAITING',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_7m35n8yv/version/100002',longdescription='',
+        duration='1406',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 17:05:23',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_7m35n8yv'
+01/12/2018 17:01:07 | SUCCESS | Save Thumbnail(0_7m35n8yv) | By-Biocine_ott503 | 
+01/12/2018 17:01:31 | SUCCESS | Updtate MetaData(0_rw1l86ff) | By-Biocine_ott503 | update entry set name='Roadside Scientist',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_rw1l86ff/version/100002',longdescription='',
+        duration='649',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 17:06:45',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_rw1l86ff'
+01/12/2018 17:08:00 | SUCCESS | Save Thumbnail(0_rw1l86ff) | By-Biocine_ott503 | 
+01/12/2018 17:08:42 | SUCCESS | Updtate MetaData(0_fw5plqnm) | By-Biocine_ott503 | update entry set name='Color of blinds',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_fw5plqnm/version/100002',longdescription='',
+        duration='1187',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 17:13:56',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_fw5plqnm'
+01/12/2018 17:09:32 | SUCCESS | Save Thumbnail(0_fw5plqnm) | By-Biocine_ott503 | 
+01/12/2018 17:10:24 | SUCCESS | Updtate MetaData(0_41gxr0l6) | By-Biocine_ott503 | update entry set name='LIGHTER',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_41gxr0l6/version/100002',longdescription='',
+        duration='1404',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 17:15:38',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_41gxr0l6'
+01/12/2018 17:10:49 | SUCCESS | Save Thumbnail(0_41gxr0l6) | By-Biocine_ott503 | 
+01/12/2018 17:11:24 | SUCCESS | Delete Video entry(0_er783z3f) | By-Biocine_ott503 | 
+01/12/2018 17:11:49 | SUCCESS | Updtate MetaData(0_bhkwpgyy) | By-Biocine_ott503 | update entry set name='Kaaval Deivam ',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_bhkwpgyy/version/100002',longdescription='',
+        duration='871',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 17:17:03',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_bhkwpgyy'
+01/12/2018 17:13:32 | SUCCESS | Save Thumbnail(0_bhkwpgyy) | By-Biocine_ott503 | 
+01/12/2018 17:14:19 | SUCCESS | Updtate MetaData(0_iggaynip) | By-Biocine_ott503 | update entry set name='A KA AA KHA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_iggaynip/version/100002',longdescription='',
+        duration='424',type='1',tag='',category='AWARDS',categoryid='536',
+        updated_at='2018-12-01 17:19:33',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_iggaynip'
+01/12/2018 17:14:57 | SUCCESS | Save Thumbnail(0_iggaynip) | By-Biocine_ott503 | 
+01/12/2018 17:16:03 | SUCCESS | Updtate MetaData(0_bz5frrfs) | By-Biocine_ott503 | update entry set name='Ep # 2 BABY & BABU HINDI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_bz5frrfs/version/100002',longdescription='',
+        duration='866',type='1',tag='',category='ORIGINALS',categoryid='294',
+        updated_at='2018-12-01 17:21:17',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_bz5frrfs'
+01/12/2018 17:16:32 | SUCCESS | Save Thumbnail(0_bz5frrfs) | By-Biocine_ott503 | 
+01/12/2018 17:17:05 | SUCCESS | Updtate MetaData(0_3c5xsvuv) | By-Biocine_ott503 | update entry set name='Ep # 1BABY & BABU HINDI',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_3c5xsvuv/version/100002',longdescription='',
+        duration='861',type='1',tag='',category='ORIGINALS',categoryid='294',
+        updated_at='2018-12-01 17:22:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_3c5xsvuv'
+01/12/2018 20:41:44 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1.jpg) | By-Biocine_ott503 | 
+01/12/2018 20:42:01 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+01/12/2018 20:42:08 | SUCCESS | Slider image active(SliderID:17,Status:active) | By-Biocine_ott503 | 
+01/12/2018 20:42:29 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 2.jpg) | By-Biocine_ott503 | 
+01/12/2018 20:42:34 | SUCCESS | Slider image active(SliderID:18,Status:active) | By-Biocine_ott503 | 
+01/12/2018 20:42:41 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+01/12/2018 20:43:01 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+01/12/2018 20:43:18 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+01/12/2018 20:43:28 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+01/12/2018 20:43:43 | SUCCESS | Slider image inactive(SliderID:12,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 20:43:45 | SUCCESS | Slider image inactive(SliderID:13,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 20:43:48 | SUCCESS | Slider image inactive(SliderID:15,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 20:43:51 | SUCCESS | Slider image inactive(SliderID:11,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 20:43:54 | SUCCESS | Slider image inactive(SliderID:16,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 20:44:51 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+01/12/2018 20:45:51 | SUCCESS | update Slider Detail(,'') | By-Biocine_ott503 | 
+01/12/2018 21:00:29 | SUCCESS | Slider image active(SliderID:16,Status:active) | By-Biocine_ott503 | 
+01/12/2018 21:00:32 | SUCCESS | Slider image active(SliderID:12,Status:active) | By-Biocine_ott503 | 
+01/12/2018 21:00:36 | SUCCESS | Slider image active(SliderID:15,Status:active) | By-Biocine_ott503 | 
+01/12/2018 21:00:39 | SUCCESS | Slider image active(SliderID:13,Status:active) | By-Biocine_ott503 | 
+01/12/2018 21:43:27 | SUCCESS | Slider image inactive(SliderID:17,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 21:43:30 | SUCCESS | Delete slider Image (17) | By-Biocine_ott503 | delete from slider_image_detail where img_id='17'
+01/12/2018 21:43:34 | SUCCESS | Slider image inactive(SliderID:18,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 21:43:37 | SUCCESS | Delete slider Image (18) | By-Biocine_ott503 | delete from slider_image_detail where img_id='18'
+01/12/2018 21:44:01 | SUCCESS | Add New Slider Image(C:\fakepath\slider jeeo 1.jpg) | By-Biocine_ott503 | 
+01/12/2018 21:44:08 | SUCCESS | Slider image active(SliderID:19,Status:active) | By-Biocine_ott503 | 
+01/12/2018 21:44:25 | SUCCESS | Slider priority Set | By-Biocine_ott503 | 
+01/12/2018 21:44:35 | SUCCESS | Slider image inactive(SliderID:19,Status:inactive) | By-Biocine_ott503 | 
+01/12/2018 21:44:37 | SUCCESS | Delete slider Image (19) | By-Biocine_ott503 | delete from slider_image_detail where img_id='19'
+01/12/2018 22:34:22 | SUCCESS | Save New video(0_z4nsm68i) | By-Biocine_ott503 | 

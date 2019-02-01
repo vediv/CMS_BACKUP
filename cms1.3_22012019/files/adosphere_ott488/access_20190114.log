@@ -1,0 +1,56 @@
+14/01/2019 04:44:14 | SUCCESS | login-(Geetanjali) | By-Geetanjali_ott488 | 
+14/01/2019 04:59:00 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+14/01/2019 05:17:26 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+14/01/2019 11:20:54 | SUCCESS | Save Thumbnail(0_asiqtbqd) | By-Geetanjali_ott488 | 
+14/01/2019 11:22:10 | SUCCESS | Save Thumbnail(0_z52xufij) | By-Geetanjali_ott488 | 
+14/01/2019 11:23:06 | SUCCESS | Save Thumbnail(0_taaqxna2) | By-Geetanjali_ott488 | 
+14/01/2019 11:23:52 | SUCCESS | Save Thumbnail(0_3u7zog86) | By-Geetanjali_ott488 | 
+14/01/2019 11:24:27 | SUCCESS | Save Thumbnail(0_v32aentu) | By-Geetanjali_ott488 | 
+14/01/2019 11:25:22 | SUCCESS | Save Thumbnail(0_2y6u96dj) | By-Geetanjali_ott488 | 
+14/01/2019 11:25:58 | SUCCESS | Save Thumbnail(0_c626v15l) | By-Geetanjali_ott488 | 
+14/01/2019 11:26:31 | SUCCESS | Save Thumbnail(0_gd4mslkf) | By-Geetanjali_ott488 | 
+14/01/2019 05:56:56 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 
+14/01/2019 11:44:03 | SUCCESS | Save Thumbnail(0_bb1nazhb) | By-Geetanjali_ott488 | 
+14/01/2019 12:50:00 | SUCCESS | Updtate MetaData(0_mq5jncme) | By-Geetanjali_ott488 | update entry set name='Maubeuge Renault Plant',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mq5jncme/version/100022',longdescription='Renault Maubeuge plant is specialised in the production of LCVs in Europe. Have a look at it.',
+        duration='226',type='1',tag='renault, maubeuge renault plant, maubeuge, lcv, automototv',category='ON DEMAND>AUTOMOBILE>MECHANICAL BOOSTER',categoryid='515',
+        updated_at='2019-01-14 12:55:48',shortdescription='Renault Maubeuge plant is specialised in the production of LCVs in Europe, Have a look at it.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile production Plants',
+        language='',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_mq5jncme'
+14/01/2019 12:56:34 | SUCCESS | Updtate MetaData(0_mq5jncme) | By-Geetanjali_ott488 | update entry set name='2017 Maubeuge Renault plant ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mq5jncme/version/100022',longdescription='Renault Maubeuge plant is specialised in the production of LCVs in Europe. Have a look at it.',
+        duration='226',type='1',tag='renault, maubeuge renault plant, maubeuge, lcv, automototv',category='ON DEMAND>AUTOMOBILE>MECHANICAL BOOSTER',categoryid='515',
+        updated_at='2019-01-14 13:02:21',shortdescription='Renault Maubeuge plant is specialised in the production of LCVs in Europe, Have a look at it.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile production Plants',
+        language='',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_mq5jncme'
+14/01/2019 12:56:55 | SUCCESS | Updtate MetaData(0_mq5jncme) | By-Geetanjali_ott488 | update entry set name='2017 Maubeuge Renault plant ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mq5jncme/version/100022',longdescription='Presentation of Maubeuge Renault Plant (MCA), with Renault KANGOO Express and Express Z.E. manufacturing: aerial views, stamping, bodyshop, painting, assembly, zero emission, quality control. ',
+        duration='226',type='1',tag='renault, maubeuge renault plant, maubeuge, lcv, automototv',category='ON DEMAND>AUTOMOBILE>MECHANICAL BOOSTER',categoryid='515',
+        updated_at='2019-01-14 13:02:42',shortdescription='Renault Maubeuge plant is specialised in the production of LCVs in Europe, Have a look at it.',
+        director='',producer='',cast='',crew='',sub_genre='Automobile production Plants',
+        language='',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_mq5jncme'
+14/01/2019 12:58:49 | SUCCESS | Updtate MetaData(0_mq5jncme) | By-Geetanjali_ott488 | update entry set name='2017 Maubeuge Renault plant ',thumbnail='http://ott.planetcast.in/p/108/sp/10800/thumbnail/entry_id/0_mq5jncme/version/100022',longdescription='Presentation of Maubeuge Renault Plant (MCA), with Renault KANGOO Express and Express Z.E. manufacturing: aerial views, stamping, bodyshop, painting, assembly, zero emission, quality control. ',
+        duration='226',type='1',tag='renault, maubeuge renault plant, maubeuge, lcv, automototv, mechanical, workshop, work, shop, pain, tecnology, assemble, manifacture',category='ON DEMAND>AUTOMOBILE>MECHANICAL BOOSTER',categoryid='515',
+        updated_at='2019-01-14 13:04:36',shortdescription='Renault Maubeuge plant is specialised in the production of LCVs in Europe, Have a look at it.',
+        director='',producer='',cast='',crew='',sub_genre='Workshop',
+        language='',pgrating='G',video_status='active',custom_data=''
+        where entryid='0_mq5jncme'
+14/01/2019 13:00:03 | SUCCESS | Delete Video entry(0_v47v8539) | By-Geetanjali_ott488 | 
+14/01/2019 16:32:49 | SUCCESS | Save Thumbnail(0_zwnkct00) | By-Geetanjali_ott488 | 
+14/01/2019 16:34:37 | SUCCESS | Save Thumbnail(0_5bsftyxm) | By-Geetanjali_ott488 | 
+14/01/2019 16:35:17 | SUCCESS | Save Thumbnail(0_jq9dcsvp) | By-Geetanjali_ott488 | 
+14/01/2019 16:36:05 | SUCCESS | Save Thumbnail(0_ibgquuvb) | By-Geetanjali_ott488 | 
+14/01/2019 16:36:29 | SUCCESS | Save Thumbnail(0_udxofm3h) | By-Geetanjali_ott488 | 
+14/01/2019 16:37:04 | SUCCESS | Save Thumbnail(0_09sdln27) | By-Geetanjali_ott488 | 
+14/01/2019 16:37:33 | SUCCESS | Save Thumbnail(0_g7sx3gav) | By-Geetanjali_ott488 | 
+14/01/2019 16:38:37 | SUCCESS | Save Thumbnail(0_jzsi825x) | By-Geetanjali_ott488 | 
+14/01/2019 16:39:22 | SUCCESS | Save Thumbnail(0_jzsi825x) | By-Geetanjali_ott488 | 
+14/01/2019 16:39:56 | SUCCESS | Save Thumbnail(0_8bp5gpvf) | By-Geetanjali_ott488 | 
+14/01/2019 16:40:26 | SUCCESS | Save Thumbnail(0_3tqywrxz) | By-Geetanjali_ott488 | 
+14/01/2019 16:40:58 | SUCCESS | Save Thumbnail(0_73t17bd8) | By-Geetanjali_ott488 | 
+14/01/2019 16:42:16 | SUCCESS | Save Thumbnail(0_zc6h1j7b) | By-Geetanjali_ott488 | 
+14/01/2019 16:42:48 | SUCCESS | Save Thumbnail(0_dsc26ysx) | By-Geetanjali_ott488 | 
+14/01/2019 16:43:13 | SUCCESS | Save Thumbnail(0_v6pstg2y) | By-Geetanjali_ott488 | 
+14/01/2019 16:43:32 | SUCCESS | Save Thumbnail(0_1dvfca3r) | By-Geetanjali_ott488 | 
+14/01/2019 16:57:07 | SUCCESS | Save Thumbnail(0_7jzssv4b) | By-Geetanjali_ott488 | 
+14/01/2019 12:30:14 | SUCCESS | login-(Adosphere) | By-Adosphere_ott488 | 

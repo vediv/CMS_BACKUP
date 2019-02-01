@@ -1,0 +1,99 @@
+06/07/2018 04:54:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 05:21:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 10:54:39 | SUCCESS | Save New video(0_tp6uqcz6) | By-Biocine_ott503 | 
+06/07/2018 06:05:58 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 11:36:35 | SUCCESS | Save New video(0_12adzb8k) | By-Biocine_ott503 | 
+06/07/2018 06:20:49 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+06/07/2018 06:21:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 11:52:04 | SUCCESS | update Content Partner Detail(Biocinneeeeee) | By-Biocine_ott503 | 
+06/07/2018 06:22:18 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+06/07/2018 11:52:44 | SUCCESS | Save New video(0_vj8kpvsp) | By-Biocinneeeeee_ott503 | 
+06/07/2018 12:14:50 | SUCCESS | Bulk Add Category(0_va5swgpw,0_lf01jppz,301) | By-Biocine_ott503 | update entry set category='MOVIES', categoryid='301' where entryid='0_lf01jppz' 
+06/07/2018 07:09:27 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 08:55:28 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 09:00:24 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 09:02:47 | SUCCESS | login-(Biocinneeeeee) | By-Biocinneeeeee_ott503 | 
+06/07/2018 09:05:13 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 14:41:21 | SUCCESS | Save New video(0_95loa79i) | By-Biocine_ott503 | 
+06/07/2018 15:19:44 | SUCCESS | Add New Dashboard user (Test) | By-Biocine_ott503 | 
+06/07/2018 15:21:01 | SUCCESS | Add New Dashboard user (madhavi) | By-Biocine_ott503 | 
+06/07/2018 09:51:39 | SUCCESS | login-(madhavi) | By-madhavi_ott503 | 
+06/07/2018 09:52:56 | SUCCESS | login-(Test) | By-Test_ott503 | 
+06/07/2018 09:53:43 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 15:25:58 | SUCCESS | Add New Content Partner(Madhavi) | By-Biocine_ott503 | 
+06/07/2018 15:26:15 | SUCCESS | update Content Partner Detail(Madhavi) | By-Biocine_ott503 | 
+06/07/2018 15:27:49 | SUCCESS | Add New Content Partner(test) | By-Biocine_ott503 | 
+06/07/2018 09:58:43 | SUCCESS | login-(Madhavi) | By-Madhavi_ott503 | 
+06/07/2018 09:59:23 | SUCCESS | login-(test) | By-test_ott503 | 
+06/07/2018 09:59:58 | SUCCESS | login-(madhavi) | By-madhavi_ott503 | 
+06/07/2018 10:00:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 15:36:06 | SUCCESS | Bulk Add Category(0_c43pre32,310) | By-Biocine_ott503 | update entry set category='MUSIC>ORIGINAL>SHOCK STUDIO', categoryid='310' where entryid='0_c43pre32' 
+06/07/2018 15:37:33 | SUCCESS | update Content Partner Detail(test) | By-Biocine_ott503 | 
+06/07/2018 10:08:05 | SUCCESS | login-(test) | By-test_ott503 | 
+06/07/2018 10:08:34 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 10:09:15 | SUCCESS | login-(test) | By-test_ott503 | 
+06/07/2018 15:40:10 | SUCCESS | Save New video(0_h9rgyg8q) | By-test_ott503 | 
+06/07/2018 15:41:07 | SUCCESS | Save New video(0_1l96s5l8) | By-test_ott503 | 
+06/07/2018 15:42:00 | SUCCESS | Save Thumbnail(0_h9rgyg8q) | By-test_ott503 | 
+06/07/2018 15:42:12 | SUCCESS | Bulk Add Category(0_h9rgyg8q,298) | By-test_ott503 | update entry set category='ORIGINALS>GOSSIPS', categoryid='298' where entryid='0_h9rgyg8q' 
+06/07/2018 15:42:33 | SUCCESS | Updtate MetaData(0_1l96s5l8) | By-test_ott503 | update entry set name='Korea - 7506.mp4_CP',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1l96s5l8/version/100042',longdescription='',
+        duration='13',type='1',tag='jkadgfjad, jsdkfjsd, safk',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-07-06 15:45:43',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1l96s5l8'
+06/07/2018 15:42:49 | SUCCESS | Updtate MetaData(0_1l96s5l8) | By-test_ott503 | update entry set name='Korea - 7506.mp4_CP',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1l96s5l8/version/100042',longdescription='',
+        duration='13',type='1',tag='jkadgfjad, jsdkfjsd, safk',category='MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='310',
+        updated_at='2018-07-06 15:45:58',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1l96s5l8'
+06/07/2018 15:43:01 | SUCCESS | Updtate MetaData(0_1l96s5l8) | By-test_ott503 | update entry set name='Korea - 7506.mp4_CP',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_1l96s5l8/version/100042',longdescription='',
+        duration='13',type='1',tag='jkadgfjad, jsdkfjsd, safk',category='MUSIC>ORIGINAL>CONTEMPORY MUSIC',categoryid='315',
+        updated_at='2018-07-06 15:46:10',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_1l96s5l8'
+06/07/2018 10:13:54 | SUCCESS | login-(Madhavi) | By-Madhavi_ott503 | 
+06/07/2018 10:14:13 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 15:44:35 | SUCCESS | update Content Partner Detail(Madhavi) | By-Biocine_ott503 | 
+06/07/2018 10:14:58 | SUCCESS | login-(Madhavi) | By-Madhavi_ott503 | 
+06/07/2018 15:45:52 | SUCCESS | Save New video(0_4dvug9iw) | By-Madhavi_ott503 | 
+06/07/2018 15:46:20 | SUCCESS | Save New video(0_xosrz1sr) | By-Madhavi_ott503 | 
+06/07/2018 15:47:41 | SUCCESS | Save Thumbnail(0_xosrz1sr) | By-Madhavi_ott503 | 
+06/07/2018 15:47:57 | SUCCESS | Save Thumbnail(0_4dvug9iw) | By-Madhavi_ott503 | 
+06/07/2018 15:48:14 | SUCCESS | Bulk Add Category(0_xosrz1sr,314) | By-Madhavi_ott503 | update entry set category='MUSIC>ORIGINAL>POP MUSIC', categoryid='314' where entryid='0_xosrz1sr' 
+06/07/2018 15:48:26 | SUCCESS | Bulk Add Category(0_4dvug9iw,313) | By-Madhavi_ott503 | update entry set category='BAZAAR', categoryid='313' where entryid='0_4dvug9iw' 
+06/07/2018 15:48:51 | SUCCESS | Updtate MetaData(0_4dvug9iw) | By-Madhavi_ott503 | update entry set name='Puppy - 4740.mp4_CP1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_4dvug9iw/version/100042',longdescription='sdasdgfhgj',
+        duration='15',type='1',tag='puupy, dog',category='BAZAAR',categoryid='313',
+        updated_at='2018-07-06 15:52:01',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_4dvug9iw'
+06/07/2018 15:48:59 | SUCCESS | Updtate MetaData(0_xosrz1sr) | By-Madhavi_ott503 | update entry set name='Wedding - 1309.mp4_CP1',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_xosrz1sr/version/100042',longdescription='afdasfdajsfgk',
+        duration='14',type='1',tag='bells, wedding, test',category='MUSIC>ORIGINAL>POP MUSIC',categoryid='314',
+        updated_at='2018-07-06 15:52:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_xosrz1sr'
+06/07/2018 10:19:05 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 10:19:52 | SUCCESS | login-(madhavi) | By-madhavi_ott503 | 
+06/07/2018 10:20:32 | SUCCESS | login-(Test) | By-Test_ott503 | 
+06/07/2018 10:21:13 | SUCCESS | login-(test) | By-test_ott503 | 
+06/07/2018 10:21:37 | SUCCESS | login-(Test) | By-Test_ott503 | 
+06/07/2018 15:52:09 | SUCCESS | Save New video(0_21110w0h) | By-Test_ott503 | 
+06/07/2018 15:54:01 | SUCCESS | Save New video(0_fpiur0yw) | By-Test_ott503 | 
+06/07/2018 15:55:09 | SUCCESS | Updtate MetaData(0_fpiur0yw) | By-Test_ott503 | update entry set name='Scuba Diving - 699.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_fpiur0yw/version/100032',longdescription='aduasiufisdgsdlg',
+        duration='7',type='1',tag='scuba, diving, test',category='MUSIC>FILM>ROMANTIC',categoryid='317',
+        updated_at='2018-07-06 15:58:18',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_fpiur0yw'
+06/07/2018 15:55:48 | SUCCESS | Bulk Add Category(0_21110w0h,295) | By-Test_ott503 | update entry set category='ORIGINALS>WEB SERIES', categoryid='295' where entryid='0_21110w0h' 
+06/07/2018 10:26:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 10:33:36 | SUCCESS | login-(madhavi) | By-madhavi_ott503 | 
+06/07/2018 10:34:42 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 11:28:03 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+06/07/2018 16:59:21 | SUCCESS | Save Plan(0_p0e3tmud,0) | By-Biocine_ott503 | 
+06/07/2018 17:00:06 | SUCCESS | Save Age Restriction(0_p0e3tmud,UA) | By-Biocine_ott503 | 
+06/07/2018 12:40:29 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 

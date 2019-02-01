@@ -1,0 +1,13 @@
+05/11/2018 12:11:16 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/11/2018 17:41:35 | SUCCESS | Plan inactive(planID:p663,Status:inactive) | By-Biocine_ott503 | 
+05/11/2018 17:41:38 | SUCCESS | Delete Plan (p663) | By-Biocine_ott503 | delete from plandetail where planID='p663'
+05/11/2018 17:41:40 | SUCCESS | Plan inactive(planID:p183,Status:inactive) | By-Biocine_ott503 | 
+05/11/2018 17:41:43 | SUCCESS | Delete Plan (p183) | By-Biocine_ott503 | delete from plandetail where planID='p183'
+05/11/2018 12:17:48 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+05/11/2018 17:48:07 | SUCCESS | Save Thumbnail(0_kjx1jm5d) | By-Biocine_ott503 | 
+05/11/2018 17:51:45 | SUCCESS | Delete slider Image (3) | By-Biocine_ott503 | delete from slider_image_detail where img_id='3'
+05/11/2018 17:51:49 | SUCCESS | Delete slider Image (5) | By-Biocine_ott503 | delete from slider_image_detail where img_id='5'
+05/11/2018 17:51:54 | SUCCESS | Delete slider Image (6) | By-Biocine_ott503 | delete from slider_image_detail where img_id='6'
+05/11/2018 17:51:58 | SUCCESS | Delete slider Image (10) | By-Biocine_ott503 | delete from slider_image_detail where img_id='10'
+05/11/2018 17:52:11 | SUCCESS | Delete slider Image (9) | By-Biocine_ott503 | delete from slider_image_detail where img_id='9'
+05/11/2018 17:57:18 | SUCCESS | Delete slider Image (7) | By-Biocine_ott503 | delete from slider_image_detail where img_id='7'

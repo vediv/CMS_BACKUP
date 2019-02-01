@@ -1,0 +1,6 @@
+04/04/2018 12:34:45 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/04/2018 18:05:41 | SUCCESS | Add New Header Content(FEEDBACK) | By-Biocine_ott503 | 
+04/04/2018 18:05:52 | SUCCESS | Delete Menu Header (31) | By-Biocine_ott503 | DELETE FROM header_menu WHERE hid='31'
+04/04/2018 12:54:32 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+04/04/2018 18:25:03 | SUCCESS | Add New Header Content(FEEDBACK) | By-Biocine_ott503 | 
+04/04/2018 18:25:09 | SUCCESS | Delete Menu Header (32) | By-Biocine_ott503 | DELETE FROM header_menu WHERE hid='32'

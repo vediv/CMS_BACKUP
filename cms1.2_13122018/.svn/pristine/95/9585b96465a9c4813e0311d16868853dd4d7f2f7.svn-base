@@ -1,0 +1,60 @@
+03/08/2018 04:25:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 04:43:21 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 04:56:53 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 11:05:17 | SUCCESS | Update Ticket Status(inprocess tid=114--by=104) | By-Biocine_ott503 | 
+03/08/2018 11:05:36 | SUCCESS | Update Ticket Status(close tid=114--by=104) | By-Biocine_ott503 | 
+03/08/2018 11:54:55 | SUCCESS | Save New video(0_lbook1q0) | By-Biocine_ott503 | 
+03/08/2018 06:53:01 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 07:27:57 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 08:16:56 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 09:27:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 09:32:49 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 15:06:51 | SUCCESS | Delete Video entry(0_37myzxft) | By-Biocine_ott503 | 
+03/08/2018 15:06:52 | SUCCESS | Delete Video entry(0_sgqtfn1c) | By-Biocine_ott503 | 
+03/08/2018 15:06:52 | SUCCESS | Delete Video entry(0_sqyics3g) | By-Biocine_ott503 | 
+03/08/2018 15:06:53 | SUCCESS | Delete Video entry(0_lbook1q0) | By-Biocine_ott503 | 
+03/08/2018 15:06:54 | SUCCESS | Delete Video entry(0_yex8d93e) | By-Biocine_ott503 | 
+03/08/2018 15:06:54 | SUCCESS | Delete Video entry(0_kldkjbj7) | By-Biocine_ott503 | 
+03/08/2018 15:08:12 | SUCCESS | Delete Video entry(0_a6v186b1) | By-Biocine_ott503 | 
+03/08/2018 15:08:48 | SUCCESS | Save New video(0_hrg6oeme) | By-Biocine_ott503 | 
+03/08/2018 15:13:42 | SUCCESS | Updtate MetaData(0_hrg6oeme) | By-Biocine_ott503 | update entry set name='AMRA NA ORA.mp4',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_hrg6oeme/version/100022',longdescription='',
+        duration='33',type='1',tag='',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='296,298,310,311,313',
+        updated_at='2018-08-03 15:17:15',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hrg6oeme'
+03/08/2018 15:15:35 | SUCCESS | Updtate MetaData(0_hrg6oeme) | By-Biocine_ott503 | update entry set name='AMRA NA ORA',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_hrg6oeme/version/100032',longdescription='Watch first look of Amra na ora . ',
+        duration='33',type='1',tag='amra, na ora, promo, film',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='296,298,310,311,313',
+        updated_at='2018-08-03 15:19:08',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_hrg6oeme'
+03/08/2018 15:16:23 | SUCCESS | Save Age Restriction(0_hrg6oeme,UA) | By-Biocine_ott503 | 
+03/08/2018 15:18:12 | SUCCESS | Save New video(0_5h6rhfdo) | By-Biocine_ott503 | 
+03/08/2018 15:18:39 | SUCCESS | Add New Subscription Code (OPPO123) | By-Biocine_ott503 | 
+03/08/2018 15:19:02 | SUCCESS | subscription code active(subscription ID:6,Status:active) | By-Biocine_ott503 | 
+03/08/2018 15:21:01 | SUCCESS | Updtate MetaData(0_5h6rhfdo) | By-Biocine_ott503 | update entry set name='Live Together',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_5h6rhfdo/version/100022',longdescription='Watch first look of Live Together .',
+        duration='27',type='1',tag='live, together, promo, film, first look',category='ORIGINALS>FOOD,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL>SHOCK STUDIO,MUSIC>FILM,BAZAAR',categoryid='296,298,310,311,313',
+        updated_at='2018-08-03 15:24:34',shortdescription='Watch first look of Live Together .',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='inactive',custom_data=''
+        where entryid='0_5h6rhfdo'
+03/08/2018 15:21:37 | SUCCESS | Save Thumbnail(0_5h6rhfdo) | By-Biocine_ott503 | 
+03/08/2018 15:21:55 | SUCCESS | Add New Subscription Code (XUV123) | By-Biocine_ott503 | 
+03/08/2018 15:22:04 | SUCCESS | subscription code active(subscription ID:7,Status:active) | By-Biocine_ott503 | 
+03/08/2018 10:16:30 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 15:46:46 | SUCCESS | Updtate MetaData(0_qg6sivel) | By-Biocine_ott503 | update entry set name='Nature site scenes',thumbnail='http://ott.planetcast.in/p/110/sp/11000/thumbnail/entry_id/0_qg6sivel/version/100012',longdescription='Watch nature site scenes and its beauty.',
+        duration='28',type='1',tag='waterfall, water, nature, site, scene',category='ORIGINALS>WEB SERIES,ORIGINALS>FOOD,ORIGINALS>SHORT FILMS,ORIGINALS>GOSSIPS,MUSIC>ORIGINAL,MUSIC>ORIGINAL>SHOCK STUDIO',categoryid='295,296,297,298,309,310',
+        updated_at='2018-08-03 15:50:19',shortdescription='',
+        director='',producer='',cast='',crew='',sub_genre='',
+        language='',pgrating='',video_status='active',custom_data=''
+        where entryid='0_qg6sivel'
+03/08/2018 15:51:11 | SUCCESS | Save Thumbnail(0_9xhypl5v) | By-Biocine_ott503 | 
+03/08/2018 15:51:36 | SUCCESS | Delete Video entry(0_21czg1dm) | By-Biocine_ott503 | 
+03/08/2018 10:44:14 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 16:35:25 | SUCCESS | Add New Subscription Code (8PVBPAY7S1) | By-Biocine_ott503 | 
+03/08/2018 16:35:33 | SUCCESS | subscription code active(subscription ID:9,Status:active) | By-Biocine_ott503 | 
+03/08/2018 11:20:39 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
+03/08/2018 16:51:12 | SUCCESS | Save Thumbnail(0_ub07agth) | By-Biocine_ott503 | 
+03/08/2018 17:24:18 | SUCCESS | Update Ticket Status(inprocess tid=116--by=104) | By-Biocine_ott503 | 
+03/08/2018 12:28:33 | SUCCESS | login-(Biocine) | By-Biocine_ott503 | 
